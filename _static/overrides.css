@@ -1,0 +1,48 @@
+/* creates a shadow-obrder for images */
+img.image-override,
+.image-override img {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.20);
+  border-radius: 4px;
+  background: white;
+  padding: 6px;
+  max-width: 100%;
+  height: auto;
+  cursor: zoom-in;
+}
+
+@media (prefers-color-scheme: dark) {
+  img.image-override,
+  .image-override img {
+    box-shadow:
+      0 0 0 1px rgba(255, 255, 255, 0.10),
+      0 6px 16px rgba(0, 0, 0, 0.55);
+    background: #1f1f1f;
+    cursor: zoom-in;
+  }
+}
+
+/* style literal text with an attractive border */
+.highlight-text.notranslate {
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.15);
+  margin-top: 0.4em;
+  border: 3px solid #444;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.highlight-text.notranslate pre {
+  margin-bottom: 0;
+}
+
+/* Widen logo area */
+.sidebar-primary-item .navbar-brand.logo {
+  width: 320px;
+  max-width: none;
+}
+
+.sidebar-primary-item .navbar-brand.logo,
+.sidebar-primary-item .navbar-brand.logo img.logo__image {
+  width: 260px;
+  max-width: none;
+  height: auto;
+}
