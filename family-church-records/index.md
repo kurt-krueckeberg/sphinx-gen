@@ -1,4 +1,4 @@
-# Family Church Record
+# Family Church Records
 
 Records for birth/baptism, confirmation, marriage, and death/burail for the following parishes and families 
 are included:
