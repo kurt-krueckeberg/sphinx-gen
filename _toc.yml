@@ -2,7 +2,7 @@
 # Note: JB1 does not support title-only grouping below chapter level;
 # those nested groups have been flattened, with comments preserving their labels.
 format: jb-book
-root: family-church-records/understand
+root: family-church-records/index
 parts:
 - caption: Family Church Records
   chapters:
