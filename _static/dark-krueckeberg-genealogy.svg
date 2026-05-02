@@ -1,23 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="980" height="144" viewBox="0 0 980 144" role="img" aria-labelledby="title desc">
   <title id="title">Krückeberg Genealogy logo</title>
-  <desc id="desc">A transparent SVG wordmark with curly braces around the text Krückeberg Genealogy, styled with brighter MyST-inspired blue and orange colors for dark mode.</desc>
+  <desc id="desc">A transparent SVG wordmark with curly braces around the text Krückeberg Genealogy, styled for dark mode.</desc>
   <style>
     .logo {
       font-family: "Roboto Slab", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       font-weight: 800;
       letter-spacing: -0.03em;
+      text-rendering: optimizeLegibility;
     }
-    .brace-dark {
+    .brace {
       fill: #F37726;
-      font-size: 98px;
+      font-size: 90px;
     }
-    .word-dark {
+    .word {
       fill: #EFEFEF;
-      font-size: 82px;
+      font-size: 70px;
     }
   </style>
   <rect width="100%" height="100%" fill="none"/>
-  <text class="logo" x="24" y="98" xml:space="preserve">
-    <tspan class="brace-dark">{</tspan><tspan class="word-dark" dx="22">Krückeberg Genealogy</tspan><tspan class="brace-dark" dx="22">}</tspan>
-  </text>
+  <g class="logo" dominant-baseline="middle">
+    <text class="brace" x="82" y="72" text-anchor="middle">{</text>
+    <text class="word" x="490" y="72" text-anchor="middle">Krückeberg Genealogy</text>
+    <text class="brace" x="898" y="72" text-anchor="middle">}</text>
+  </g>
 </svg>
