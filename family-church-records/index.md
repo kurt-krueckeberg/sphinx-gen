@@ -11,12 +11,12 @@ are included:
 * - Buchholz
   - * Kleinschmidt
 * - Frille
-  - * Bleeke
+  - * [Bleeke](../frille/frille-bleekes)
     * Krückeberg (one record)
 * - Kleinenbremen
   - * Drinkuth
 * - Petzen
-  - * Blecken
+  - * [Blecken](../petzen/petzen-blecken)
     * Eggerrding
     * Krückeberg
     * Kuhlmann
@@ -31,39 +31,4 @@ are included:
   - * Vahlsing
 * - Windheim
   - * Buuck
-```
-
-```{list-table} Surnames and Parishes
-:header-rows: 1
-
-* - Surname
-  - Parish
-* - Blecke
-  - Petzen
-* - Bleeke
-  - Frille
-* - Buuck
-  - Windheim
-* - Drinkuth
-  - Kleinenbremen
-* - Eggerrding
-  - Petzen
-* - Kleinschmidt
-  - Buchholz
-* - Krückeberg
-  - * Frille (one record)
-    * Petzen (many)
-    * Söst (one record)
-* - Kuhlmann
-  - Petzen
-* - Vahlsing
-  - Petzen; Wiedensahl
-* - Vogt
-  - Petzen
-* - Weiland
-  - Petzen
-* - Werkmeister
-  - Petzen
-* - Wilharm
-  - Petzen
 ```
