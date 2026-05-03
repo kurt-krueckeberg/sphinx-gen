@@ -2,7 +2,7 @@
 
 ## Citation
 
-Christian Fridrich Bleeke’s marriage in 1793 to Anne Margarthe Volckening is on [image 202, page 53](image202)
+Christian Fridrich Bleeke’s marriage in 1793 to Anne Margarthe Volckening is on [image 202, page 53](images/image202)
 
 ## Image
 
