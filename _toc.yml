@@ -106,7 +106,6 @@ chapters:
   - file: buchholz/BUC-B-1804a
 
 - file: petzen/krückeberg
-sections:
   sections:
     - file: petzen/PET-B-1696a
     - file: petzen/PET-M-1727a
@@ -181,7 +180,7 @@ sections:
     - file: petzen/PET-M-1826a
     - file: frille/FRI-M-1833a
 
-- file: wallensen/krueckeberg  
+- file: wallensen/krückeberg  
   title: Krückeberg (Söst/Immanuel)
   sections:
   - file: wallensen/WAL-B-1822a

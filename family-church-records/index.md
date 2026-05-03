@@ -9,22 +9,22 @@ are included:
 * - Parish
   - Families
 * - Buchholz
-  - * Kleinschmidt
+  - * [Kleinschmidt](../buchholz/kleinschmidt.md)
 * - Frille
-  - * [Bleeke](../frille/frille-bleekes)
+  - * [Bleeke](../frille/frille-bleekes.md)
     * Krückeberg (one record)
 * - Kleinenbremen
-  - * Drinkuth
+  - * [Drinkuth](../kleinenbremen/drinkuth.md)
 * - Petzen
-  - * [Blecken](../petzen/petzen-blecken)
-    * Eggerrding
-    * Krückeberg
-    * Kuhlmann
-    * Vahlsing
-    * Vogt
-    * Weiland
-    * Werkmeister
-    * Wilharm
+  - * [Blecken](../petzen/petzen-blecken.md)
+    * [Eggerding](../petzen/eggerding.md)
+    * [Krückeberg](../petzen/krueckeberg.md)
+    * [Kuhlmann](../petzen/kuhlmann.md)
+    * [Vahlsing](../petzen/vahlsing.md)
+    * [Vogt](../petzen/vogt.md)
+    * [Weiland](../petzen/weiland.md)
+    * [Werkmeister](../petzen/werkmeister.md)
+    * [Wilharm](../petzen/wilharm.md)
 * - Söst
   - * Krückeberg (one record)
 * - Wiedensahl
