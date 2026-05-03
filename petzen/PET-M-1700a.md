@@ -3,7 +3,8 @@
 ## Citation
 
 The 23 September 1700 marriage of Heinrich Arendt Vahlsing to
-Anna Elisabeth Becker is on [image 25](image25)
+Anna Elisabeth Becker is on {ref}`image 25 <image25>` of the Petzen
+"Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
 ## Image
 
@@ -31,9 +32,11 @@ Elisabeth B[ecker?] aus [Höckersau?] den 23 Sept copuliert
 
 ## Citations
 
+(image25)=
+
 [image25] "Archion Protestant Kirchenbücher Portal", database with
-images, *Archion* ([https://www.archion.de/p/85526d4e96/: 15 Feb. 2026),
+images, *Archion* ([https:.md](https://www.archion.de/p/85526d4e96/): 15 Feb. 2026),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 25 of 239](https://www.archion.de/p/85526d4e96/)
+Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 25 of 239
 

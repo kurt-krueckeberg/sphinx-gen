@@ -32,7 +32,7 @@ one in Berenbusch.
 
 ## Image of Baptism Record
 
-The baptism entry is found on [image 167, year 1744, fourth entry for January](PET-B-1744a)
+The baptism entry is found on {ref}`image 167, year 1744, fourth entry for January <PET-B-1744a>`.
 
 ```{image} images/petzen-band1a-img167.jpg
 :class: image-override
@@ -79,9 +79,11 @@ son from Nordholz
 
 ## Citations
 
+(PET-B-1744a)=
+
 [PET-B-1744a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/6ebd3448c0/: 23 November
+with images, *Archion* ([https:.md](https://www.archion.de/p/6ebd3448c0/): 23 November
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten, 1641-1784 > Image 167 of 322](https://www.archion.de/p/6ebd3448c0/)
+Verzeichnis der Getauften und Konfirmierten, 1641-1784 > Image 167 of 322
 

@@ -17,7 +17,7 @@
 
 ## Citation
 
-This confirmation entry is on the [320th image on Archion](PET-C-1781a)
+This confirmation entry is on the {ref}`320th image on Archion <PET-C-1781a>` of Petzen Kirchenbuch "database with images".
 
 ## Image of Confirmation
 
@@ -47,10 +47,12 @@ Translation
 
 ## Citations
 
+(PET-C-1781a)=
+
 [PET-C-1781a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([http://www.archion.de/p/24d49d81bd/: 29 October
+with images, *Archion* ([http:.md](http://www.archion.de/p/24d49d81bd/): 29 October
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
-1785-1827 > Image 320 of 322](http://www.archion.de/p/24d49d81bd/)
+1785-1827 > Image 320 of 322
 

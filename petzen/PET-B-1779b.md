@@ -38,13 +38,14 @@ Carl Friedrich Gottlieb Kruckeberg was baptized on April 18, 1779, in Petzen.
 ## Citation
 
 Carl Friderich Gottlieb Kruckeberg’s (this is how the surname was spelled in
-his baptism entry) baptism is on [image 264, right page, entry no.
-15](PET-B-1779b)
+his baptism entry) baptism is on {ref}`image 264, right page, entry no.
+15 <PET-B-1779b>` from the  "database with images (Register of Baptism and Confirmed of the
+Petzen Parish, 1641-1784)".
 
 ## Baptism Record
 
 ```{image} images/petzen-band1a-img264.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 :::{admonition} Meaning of Hofmeister and "au" Suffix in Höckersau
@@ -59,8 +60,8 @@ A *Hofmeister* is defined in Thode’s German-English Genealogical Dictionary as
 
 In the entry, Otto Rösener is the *Hofmeister auf der Hockersaue*. "Hocker
 Aue" also appears in image 274 in the baptism record of
-[Johanna Sophie Charlotte Kruckebergen. Her
-godmother](PET-B-1782a.md)**Johanna Sophie Margedalenna Wilkeningen** is described as: "von
+[Johanna Sophie Charlotte Kruckebergen](PET-B-1782a.md). Her
+godmother **Johanna Sophie Margedalenna Wilkeningen** is described as: "von
 der Hockerers Aue".
 ```
 
@@ -100,7 +101,8 @@ So, “Höckersau” likely meant something like “Höcker’s meadow/floodplai
 referencing a knoll or "hump" (Höcker) in the landscape.
 
 In this entry **"au"** occurs as the suffix in **Höckersau**, while in the
-[1782 Johanna Sophie Charlotte Krückeberg baptism record it appears as](PET-B-1782a.md)**aue**, **Höckersaue**.
+[1782 Johanna Sophie Charlotte Krückeberg](PET-B-1782a.md)
+baptism record it appears as **aue**, **Höckersaue**.
 ```
 
 :::
@@ -136,9 +138,11 @@ Baptisms                                                                1779
 
 ## Citations
 
+(PET-B-1779b)=
+
 [PET-B-1779b] "Archion Protestant Kirchenbücher Portal", database with
-images, *Archion* ([http://www.archion.de/p/68d61bc772/: 31 October 2023),
+images, *Archion* ([http:.md](http://www.archion.de/p/68d61bc772/): 31 October 2023),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis
-der Getauften und Konfirmierten 1641-1784, image 264 of 322](http://www.archion.de/p/68d61bc772/)
+der Getauften und Konfirmierten 1641-1784, image 264 of 322
 

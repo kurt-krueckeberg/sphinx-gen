@@ -2,8 +2,8 @@
 
 ## Citation
 
-The baptism of Annna Maria Elisabeth Bleek[e] is on [image
-132](image136)th entry from the top, of the "Verzeichnis der
+The baptism of Annna Maria Elisabeth Bleek[e] is on {ref}`image
+132 <image136>`, right hand page, 5th entry from the top, of the "Verzeichnis der
 Getauften und Konfirmierten (Register of Baptism and Confirmed of the
 Petzen Parish) 1641-1784".
 
@@ -41,10 +41,12 @@ Winsen and the wife of Johann Br[aun]s from Evesen
 
 ## Citations
 
+(image136)=
+
 [image136] "Archion Protestant Kirchenbücher Portal", database with
-images, *Archion* ,([https://www.archion.de/p/75745b577e/: 19 May 2025)
+images, *Archion* ,([https:.md](https://www.archion.de/p/75745b577e/) : 19 May 2025)
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 136 of 322,
-right page](https://www.archion.de/p/75745b577e/)
+right page
 

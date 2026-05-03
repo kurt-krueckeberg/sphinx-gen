@@ -3,15 +3,17 @@
 ## Citation
 
 The death record of Anne Marie Philippine Wilharm is found on
-[image 235](PET-D-1797a)[Archion digital
-images of the](https://archion.de)*Verzeichnis der Getauften, Konfirmierten, Getrauten und
+{ref}`image 235 <PET-D-1797a>` of the [Archion](https://archion.de) digital
+images of the *Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen*.
 
 ```{note}
 Anne Marie Philippine nee Bleke Wilharm [died on 11
-April 1797, the day after the birth of her first child,](PET-M-1797a.md)[Hans Heinrich Wilharm, who had the same name as his
-father. Later the same year, her widowed husband remarried,](PET-B-1779a.md)[marrying Sophie Ernestine Blecke, who also lived at
-no. 11 Evesen.](PET-M-1797a.md)
+April 1797](PET-M-1797a.md), the day after the birth of her first child,
+[Hans Heinrich Wilharm](PET-B-1779a.md), who had the same name as his
+father. Later the same year, her widowed husband remarried,
+[marrying Sophie Ernestine Blecke](PET-M-1797a.md), who also lived at
+no. 11 Evesen.
 ```
 
 ## Image of Death and Burial Record
@@ -74,10 +76,12 @@ no. 11 Evesen.](PET-M-1797a.md)
 
 ## Citations
 
+(PET-D-1797a)=
+
 [PET-D-1797a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/1d65bd4485/: 13 Jan.
+with images, *Archion* ([https:.md](https://www.archion.de/p/1d65bd4485/) : 13 Jan.
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
-1785-1827 > Image 235 of 357](https://www.archion.de/p/1d65bd4485/)
+1785-1827 > Image 235 of 357
 

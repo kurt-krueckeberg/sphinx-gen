@@ -19,8 +19,9 @@
 
 ## Citation
 
-The death of Heinrich Töns Werkmeister, October 17, 1801, [image
-236](PET-D-1798a)
+The death of Heinrich Töns Werkmeister, October 17, 1801, {ref}`image
+236 <PET-D-1798a>`, of the Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten,
+Getrauten und Gestorbenen 1785-1827".
 
 ## Image
 
@@ -86,6 +87,9 @@ The death of Heinrich Töns Werkmeister, October 17, 1801, [image
 
 ## Citations
 
-[PET-D-1798a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/4dae246c58/: 31 Jan. 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis
-der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 236 of 357](https://www.archion.de/p/4dae246c58/)
+(PET-D-1798a)=
+
+[PET-D-1798a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https:.md](https://www.archion.de/p/4dae246c58/)
+: 31 Jan. 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis
+der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 236 of 357
 

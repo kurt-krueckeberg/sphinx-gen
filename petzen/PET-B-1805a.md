@@ -2,8 +2,9 @@
 
 ## Citation
 
-The birth of Philippine Sophie Weiland is entry 26 on [image
-88](PET-B-1805a)
+The birth of Philippine Sophie Weiland is entry 26 on {ref}`image
+88 <PET-B-1805a>` of the Petzen Kirchenbuch volume "Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827."
 
 ## Image
 
@@ -65,10 +66,12 @@ The birth of Philippine Sophie Weiland is entry 26 on [image
 
 ## Citations
 
+(PET-B-1805a)=
+
 [PET-B-1805a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/76df4032e4/: 4 November
+with images, *Archion* ([https:.md](https://www.archion.de/p/76df4032e4/) : 4 November
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
-1785-1827 > Image 88 of 357](https://www.archion.de/p/76df4032e4/)
+1785-1827 > Image 88 of 357
 
