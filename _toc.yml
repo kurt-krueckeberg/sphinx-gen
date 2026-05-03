@@ -258,7 +258,7 @@ chapters:
     - file: petzen/PET-B-1815a.md
     - file: petzen/PET-B-1815b.md
 
-- file: Wilharm
+- file: petzen/wilharm.md
   sections:
     - file: petzen/PET-B-1760a.md
     - file: petzen/PET-M-1796a.md
