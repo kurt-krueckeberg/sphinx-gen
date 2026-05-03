@@ -2,7 +2,7 @@
 
 ## Citation
 
-The baptism of Jobst Heinrich Weiland is on [image 191, left page, first entry](PET-B-1745b) from the "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784"
+The baptism of Jobst Heinrich Weiland is on {ref}`image 191, left page, first entry <PET-B-1754b>` from the "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784"
 
 ```{important}
 The birth of Heinrich Wilhelm Bleeke from Evesen also appears on this image, on the right hand page (not shown).

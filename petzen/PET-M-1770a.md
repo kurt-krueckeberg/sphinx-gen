@@ -26,7 +26,7 @@
 The February 18, 1770, marriage of Johann Heinrich Bleke from no. Evesen to
 Anna Maria Elisabeth Moeller is on {ref}`image 58 <PET-M-1770a>` of the Petzen
 "Verzeichnis der Getrauten und Gestorbenen, 1641-1784" on
-[Archion.de](htttps://archion.de).
+[Archion.de](https://archion.de).
 
 ## Image of Marriage Record
 

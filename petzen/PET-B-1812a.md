@@ -61,7 +61,7 @@
 :header-rows: 1
 
 * - Baptism
-* - [4 May 1783](petzen-band1a-image287)
+* - [4 May 1783](PET-B-1783a.md)
 ```
 
 ```{list-table} Baptismal Sponsors

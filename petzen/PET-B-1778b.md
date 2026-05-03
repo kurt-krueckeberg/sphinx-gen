@@ -34,9 +34,11 @@ Translation
     godmother: Anna Sophia Maria Rinnen
 ```
 
-- [(PET-B-1778b)=
+## Citations
 
-] "Archion Protestant Kirchenbücher Portal", database
+(PET-B-1778b)=
+
+[PET-B-1778b] "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* ([https:.md](https://www.archion.de/p/8732d42d3a/) : 6 November
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

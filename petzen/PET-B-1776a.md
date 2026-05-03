@@ -34,9 +34,11 @@ Translation
     was Mom[k/d]hoft from Evesen No. 5
 ```
 
-- [(PET-B-1776a)=
+## Citations
 
-] "Archion Protestant Kirchenbücher Portal", database
+(PET-B-1776a)=
+
+[PET-B-1776a] "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* ([https:.md](https://www.archion.de/p/0619fcd07c/) : 15 May
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

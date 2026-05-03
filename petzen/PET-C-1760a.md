@@ -2,12 +2,14 @@
 
 ## Citation
 
-This 1760 confirmation of Johann Heinrich Bleke is found on {ref}`image 311 <PET-C-1760a>` of the Petzen " Verzeichnis der Getauften und Konfirmierten
-1641-1784" on [Archion.de](https://archion.de).
+This 1760 confirmation of Johann Heinrich Bleke is found on {ref}`image 311 <PET-C-1760a>` of the Petzen
+"Verzeichnis der Getauften und Konfirmierten 1641-1784" on [Archion.de](https://archion.de).
 
 ## Image
 
-[petzen band1a img311](self)
+```{image} images/petzen-band1a-img311.jpg
+:class: image-override
+```
 
 ## Transliteration
 
