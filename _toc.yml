@@ -82,3 +82,107 @@ chapters:
     - file: petzen/PET-B-1778b
     - file: petzen/PET-D-1779a
     - file: petzen/PET-D-1814a
+
+- file:  Buuck
+  sections:
+  - file: windheim/WIND-B-1831a
+  - file: windheim/WIND-B-1833a
+  - file: windheim/WIND-B-1836a
+
+- file:  Drinkuth
+  sections:
+  - file: kleinenbremen/KLE-B-1778a
+
+- file:  Eggerding
+  sections:
+  - file: petzen/PET-M-1704a
+
+- file:  Kuhlmann
+  sections:
+  - file: petzen/PET-B-1679a
+
+- file:  Kleinschmidt
+  sections:
+  - file: buchholz/BUC-B-1804a
+
+- file:  Contents
+  sections:
+  - file: petzen/krückeberg
+    sections:
+      - file: petzen/PET-B-1696a
+      - file: petzen/PET-M-1727a
+      - file: petzen/PET-B-1728a
+      - file: petzen/PET-B-1731a
+      - file: petzen/PET-B-1733a
+      - file: petzen/PET-D-1734a
+      - file: petzen/PET-B-1736a
+      - file: petzen/PET-B-1739a
+      - file: petzen/PET-B-1741a
+      - file: petzen/PET-B-1744a
+      - file: petzen/PET-D-1747a
+      - file: petzen/PET-B-1750a
+      - file: petzen/PET-C-1755a
+      - file: petzen/PET-D-1757a
+      - file: petzen/PET-C-1757a
+      - file: petzen/PET-D-1757b
+      - file: petzen/PET-M-1758a
+      - file: petzen/PET-B-1759a
+      - file: petzen/PET-D-1759a
+      - file: petzen/PET-M-1761a
+      - file: petzen/PET-C-1764a
+      - file: petzen/PET-B-1765a
+      - file: petzen/PET-B-1767a
+      - file: petzen/PET-D-1771a
+      - file: petzen/PET-D-1773a
+      - file: petzen/PET-D-1773b
+      - file: petzen/PET-M-1773a
+      - file: petzen/PET-B-1775b
+      - file: petzen/PET-C-1778a
+      - file: petzen/PET-B-1779b
+      - file: petzen/PET-C-1781a
+      - file: petzen/PET-B-1782a
+      - file: petzen/PET-C-1789a
+      - file: petzen/PET-M-1790a
+      - file: petzen/PET-M-1790c
+      - file: petzen/PET-B-1791a
+      - file: petzen/PET-C-1792a
+      - file: petzen/PET-B-1792a
+      - file: petzen/PET-B-1793a
+      - file: petzen/PET-D-1794a
+      - file: petzen/PET-B-1794a
+      - file: petzen/PET-C-1795a
+      - file: petzen/PET-B-1798a
+      - file: petzen/PET-B-1798b
+      - file: petzen/PET-D-1801a
+      - file: petzen/PET-M-1802b
+      - file: petzen/PET-M-1803a
+      - file: petzen/PET-B-1803a
+      - file: petzen/PET-B-1803b
+      - file: petzen/PET-B-1803c
+      - file: petzen/PET-C-1805a
+      - file: petzen/PET-D-1805a
+      - file: petzen/PET-C-1806a
+      - file: petzen/PET-B-1806a
+      - file: petzen/PET-B-1807a
+      - file: petzen/PET-C-1811a
+      - file: petzen/PET-C-1811b
+      - file: petzen/PET-B-1812a
+      - file: petzen/PET-M-1812b
+      - file: petzen/PET-M-1812a
+      - file: petzen/PET-C-1816a
+      - file: petzen/PET-M-1816a
+      - file: petzen/PET-C-1817a
+      - file: petzen/PET-C-1817b
+      - file: petzen/PET-D-1819a
+      - file: petzen/PET-C-1820a
+      - file: petzen/PET-C-1821a
+      - file: petzen/PET-D-1822a
+      - file: petzen/PET-D-1822b
+      - file: petzen/PET-M-1822a
+      - file: petzen/PET-M-1826a
+      - file: frille/FRI-M-1833a
+
+- file:  Krückeberg (Söst/Immanuel)
+  sections:
+  - file: wallensen/WAL-B-1822a
+
