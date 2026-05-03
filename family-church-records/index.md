@@ -18,7 +18,7 @@ are included:
 * - Petzen
   - * [Blecken](../petzen/petzen-blecken.md)
     * [Eggerding](../petzen/eggerding.md)
-    * [Krückeberg](../petzen/krueckeberg.md)
+    * [Krückeberg](../petzen/krüeckeberg.md)
     * [Kuhlmann](../petzen/kuhlmann.md)
     * [Vahlsing](../petzen/vahlsing.md)
     * [Vogt](../petzen/vogt.md)
