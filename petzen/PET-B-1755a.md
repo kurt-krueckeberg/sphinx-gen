@@ -39,7 +39,7 @@ d 2nd March Henrich Wilhelm Bleeke, the son of the
 (PET-B-1755d)=
 
 [PET-B-1755d] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https:.md](https://www.archion.de/p/880bdf5c0a/) : 15 May
+with images, *Archion* (<https://www.archion.de/p/880bdf5c0a/> : 15 May
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 191 of 322,

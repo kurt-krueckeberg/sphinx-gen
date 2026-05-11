@@ -36,7 +36,7 @@ Johann Vahlsing, had his little son Johann Heinrich baptized.
 (FRI-B-1694a)=
 
 [FRI-B-1694a] "Archion Protestant Kirchenbücher Portal", database with images, Archion
-([https:.md](https://www.archion.de/p/d514c5d1e9/) : 22 March 2026), , path: Niedersachsen /
+(<https://www.archion.de/p/d514c5d1e9/> : 22 March 2026), , path: Niedersachsen /
 Niedersächsisches Landesarchiv / Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe / Frille / Verzeichnis der Getauften,
 Getrauten, Gestorbenen 1664-1757 > Image 67 of 389

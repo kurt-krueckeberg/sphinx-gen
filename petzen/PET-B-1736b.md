@@ -36,7 +36,7 @@ Heinrich. Godfater Hardtung from Evesen shepherd. Weiland [M?]ön[ck]hof
 
 (PET-B-1736b)=
 
-[PET-B-1736b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https:.md](https://www.archion.de/p/b55d55f890/) : 12 May 2025),
+[PET-B-1736b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/b55d55f890/> : 12 May 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 153 of 322, left hand page, 3rd entry.
 

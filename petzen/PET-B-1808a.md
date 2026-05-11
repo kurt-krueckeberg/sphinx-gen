@@ -118,7 +118,7 @@ Thode’s define Hausfrau as:
 (PET-B-1808a)=
 
 [PET-B-1808a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https:.md](https://www.archion.de/p/3ff21b9dd1/) : 4 November
+with images, *Archion* (<https://www.archion.de/p/3ff21b9dd1/> : 4 November
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen

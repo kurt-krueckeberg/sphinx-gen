@@ -75,7 +75,7 @@ Carl Krückeberg from Berenbusch
 (PET-C-1764a)=
 
 [PET-C-1764a] "Archion Protestant Kirchenbücher Portal", database
-  with images, *Archion* ([https:.md](https://www.archion.de/p/c2a37818bc/) : 30 October
+  with images, *Archion* (<https://www.archion.de/p/c2a37818bc/> : 30 October
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 313 of 322

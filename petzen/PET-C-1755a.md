@@ -58,7 +58,7 @@ Charlotte Dieckmans, daughter of an Einlieger, Röcke
 (PET-C-1755a)=
 
 [PET-C-1755a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https:.md](https://www.archion.de/p/881666c669/): 30 October
+with images, *Archion* (<https://www.archion.de/p/881666c669/>: 30 October
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 313 of 322

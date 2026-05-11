@@ -23,7 +23,7 @@ Johann Heinrich Bleke Evesen
 (PET-C-1760a)=
 
 [PET-C-1760a] "Archion Protestant Kirchenbücher Portal", database
-  with images, *Archion* ([https:.md](https://www.archion.de/p/03c2590c00/) : 2 February
+  with images, *Archion* (<https://www.archion.de/p/03c2590c00/> : 2 February
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 311 of 322

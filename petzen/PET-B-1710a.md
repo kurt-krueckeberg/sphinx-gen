@@ -31,7 +31,7 @@ Johan Notmeyer
 (PET-B-1710a)=
 
 [PET-B-1710a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https:.md](https://www.archion.de/p/9cf65653e8/) : 4 May
+with images, *Archion* (<https://www.archion.de/p/9cf65653e8/> : 4 May
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 117 of 322,

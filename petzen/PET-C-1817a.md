@@ -68,6 +68,6 @@ Note: Entries 1-4 and those entries after #7 are ommited.
 
 (PET-C-1817a)=
 
-[PET-C-1817a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https:.md](https://www.archion.de/p/f67951c5e7/) : 30 April 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+[PET-C-1817a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/f67951c5e7/> : 30 April 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 211 of 357, page 447, middle
 

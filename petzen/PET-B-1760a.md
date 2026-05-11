@@ -73,7 +73,7 @@ Died: 2 May 1843.
 (PET-M-1760a)=
 
 [PET-M-1760a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https:.md](https://www.archion.de/p/544eb615a5/) : 12 January
+with images, *Archion* (<https://www.archion.de/p/544eb615a5/> : 12 January
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784 1785-1827 > Image 202

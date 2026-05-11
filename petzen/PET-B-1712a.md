@@ -38,7 +38,7 @@ Elisabeth baptized. [???] the father's mother.
 (PET-B-1712a)=
 
 [PET-B-1712a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https:.md](https://www.archion.de/p/6b7431937b/) : 4 May
+with images, *Archion* (<https://www.archion.de/p/6b7431937b/> : 4 May
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 120 of 322,

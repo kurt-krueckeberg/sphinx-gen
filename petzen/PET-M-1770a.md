@@ -57,7 +57,7 @@ Maria Elisabeth Möller from Heeßen.
 (PET-M-1770a)=
 
 [PET-M-1770a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https:.md](https://www.archion.de/p/bbad2b69c3/) : 3 February 2026) , path: Niedersachsen > Niedersächsisches Landesarchiv >
+with images, *Archion* (<https://www.archion.de/p/bbad2b69c3/> : 3 February 2026) , path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
 Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 58 of
 239

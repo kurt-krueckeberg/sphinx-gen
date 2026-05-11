@@ -34,6 +34,6 @@ This entry has Pr. P.
 
 (FRI-D-1795a)=
 
-[FRI-D-1795a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https:.md](https://www.archion.de/p/af0741ee03/) :  12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
+[FRI-D-1795a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/af0741ee03/> :  12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
 Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 313 of 388
 

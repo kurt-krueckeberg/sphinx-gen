@@ -39,7 +39,7 @@ S. Ilse Margarethe Vahlsing, the daughter of the mother’s brother, from Päpin
 (FRI-B-1742a)=
 
 [FRI-B-1742a] "Archion Protestant Kirchenbücher Portal", database with images, Archion
-([https:.md](https://www.archion.de/p/44f2cd966e/) : 21 Mar 2026), path: Niedersachsen /
+(<https://www.archion.de/p/44f2cd966e/> : 21 Mar 2026), path: Niedersachsen /
 Niedersächsisches Landesarchiv / Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe / Frille / Verzeichnis der Getauften,
 Getrauten, Gestorbenen 1664-1757 > Image 131 of 389

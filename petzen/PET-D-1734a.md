@@ -96,7 +96,7 @@ H. Sickmann from Nammen had a little daughter buried.
 (PET-D-1734a)=
 
 [PET-D-1734a] "Archion Protestant Kirchenbücher Portal", database
-with images, ([https:.md](https://www.archion.de/p/3d7f396aa6/) : 13 Nov. 2025), path:
+with images, (<https://www.archion.de/p/3d7f396aa6/> : 13 Nov. 2025), path:
 Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getrauten und Gestorbenen 1641-1784 > Image 150 of 239

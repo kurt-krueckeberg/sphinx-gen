@@ -36,7 +36,7 @@ Päpinghausen [died], age 63 years.
 (FRI-B-1757a)=
 
 [FRI-B-1757a] "Archion Protestant Kirchenbücher Portal", database with images, Archion
-([https:.md](https://www.archion.de/p/e48aade12a/) : 22 MArch 2026), , path: Niedersachsen /
+(<https://www.archion.de/p/e48aade12a/> : 22 MArch 2026), , path: Niedersachsen /
 Niedersächsisches Landesarchiv / Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe / Frille / Verzeichnis der Getauften,
 Getrauten, Gestorbenen 1664-1757 > Image 384 of 389

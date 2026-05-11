@@ -71,7 +71,7 @@ assume they are abbreviations for Berenbusch.
 (PET-B-1736a)=
 
 [PET-B-1736a] "Archion Protestant Kirchenbücher Portal", database
-  with images, *Archion* ([https:.md](https://www.archion.de/p/07af317ee9/) : 09 May
+  with images, *Archion* (<https://www.archion.de/p/07af317ee9/> : 09 May
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten, 1641-1784 > Image 152 of 322,

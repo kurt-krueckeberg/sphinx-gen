@@ -71,7 +71,7 @@ Berenbusch
 (PET-B-1731a)=
 
 [PET-B-1731a] "Archion Protestant Kirchenbücher Portal", database
-  with images, *Archion* ([https:.md](https://www.archion.de/p/faa22597b6/) : 18 Nov.
+  with images, *Archion* (<https://www.archion.de/p/faa22597b6/> : 18 Nov.
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 144 of 322,
