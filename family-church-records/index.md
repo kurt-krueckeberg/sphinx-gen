@@ -12,9 +12,9 @@ are included:
   - * [Kleinschmidt](../buchholz/kleinschmidt.md)
 * - Frille
   - * [Bleeke](../frille/frille-bleekes.md)
-    * Krückeberg (one record)
+    * [Luise Eleonore Krückeberg marriage](../frille/FRI-M-1826a.md)
 * - Kleinenbremen
-  - * [Drinkuth](../kleinenbremen/drinkuth.md)
+  - * [Drinkuth](../kleinenbremen/KLE-B-1778a.md)
 * - Petzen
   - * [Blecken](../petzen/petzen-blecken.md)
     * [Eggerding](../petzen/eggerding.md)
@@ -28,7 +28,7 @@ are included:
 * - Söst
   - * Krückeberg (one record)
 * - Wiedensahl
-  - * Vahlsing
+  - [Heinrich Arends Vahlsing Baptism](../wiedensahl/WIED-B-1670a.md)
 * - Windheim
-  - * Buuck
+  - * [Buuck](../windheim/buuck.md)
 ```
