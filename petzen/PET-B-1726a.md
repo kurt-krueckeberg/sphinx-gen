@@ -26,7 +26,7 @@ Ehefrau
 ```
 
 ```{note}
-The last **Ehefrau**--if that is the correct word—​is smeared and
+The last **Ehefrau**--if that is the correct word is smeared and
 appears intended to come after: "Hans Herman Winsen"?
 ```
 
