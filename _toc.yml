@@ -6,6 +6,7 @@ root: family-church-records/index
 chapters:
 - file: family-church-records/nachträge
   sections:
+    - file: family-church-records/origin-of-nachträge
     - file: family-church-records/significance-of-nachträge
 - file: frille/frille-bleekes
   sections:
@@ -187,89 +188,89 @@ chapters:
 
 - file: petzen/möller
   sections:
-    - file: petzen/PET-B-1741b.md
-    - file: petzen/PET-C-1754a.md
+    - file: petzen/PET-B-1741b
+    - file: petzen/PET-C-1754a
 
 - file: petzen/schäkel
   sections:
-    - file: frille/FRI-B-1694a.md
-    - file: frille/FRI-B-1742a.md
-    - file: frille/FRI-D-1757a.md
+    - file: frille/FRI-B-1694a
+    - file: frille/FRI-B-1742a
+    - file: frille/FRI-D-1757a
 
 - file: petzen/schwier
   sections:
-    - file: frille/FRI-B-1798a.md
+    - file: frille/FRI-B-1798a
 
-- file: wiedensahl/index.md
+- file: wiedensahl/index
   sections:
-    - file: wiedensahl/WIED-B-1670a.md
+    - file: wiedensahl/WIED-B-1670a
 
-- file: petzen/vahlsing.md    
+- file: petzen/vahlsing    
   sections:
-    - file: petzen/PET-M-1700a.md
-    - file: petzen/PET-B-1712b.md
-    - file: petzen/PET-M-1728a.md
-    - file: petzen/PET-D-1731a.md
+    - file: petzen/PET-M-1700a
+    - file: petzen/PET-B-1712b
+    - file: petzen/PET-M-1728a
+    - file: petzen/PET-D-1731a
 
 - file: petzen/vogt
   sections:
-    - file: petzen/PET-M-1812d.md
+    - file: petzen/PET-M-1812d
 
 - file: petzen/werkmeister
   sections:
-    - file: petzen/PET-M-1780a.md
-    - file: petzen/PET-B-1783a.md
-    - file: petzen/PET-D-1798a.md
+    - file: petzen/PET-M-1780a
+    - file: petzen/PET-B-1783a
+    - file: petzen/PET-D-1798a
 
 - file: petzen/weiland
   sections:
-    - file: petzen/PET-B-1736b.md
-    - file: petzen/PET-B-1748a.md
-    - file: petzen/PET-B-1754a.md
-    - file: petzen/PET-B-1754b.md
-    - file: petzen/PET-B-1758a.md
-    - file: petzen/PET-M-1761b.md
-    - file: petzen/PET-B-1777a.md
-    - file: petzen/PET-B-1778a.md
-    - file: petzen/PET-B-1778c.md
-    - file: petzen/PET-B-1779a.md
-    - file: petzen/PET-M-1785a.md
-    - file: petzen/PET-B-1785a.md
-    - file: petzen/PET-B-1785b.md
-    - file: petzen/PET-B-1789a.md
-    - file: petzen/PET-B-1789c.md
-    - file: petzen/PET-B-1789b.md
-    - file: petzen/PET-B-1790b.md
-    - file: petzen/PET-M-1790b.md
-    - file: petzen/PET-M-1790d.md
-    - file: petzen/PET-B-1790a.md
-    - file: petzen/PET-C-1790a.md
-    - file: petzen/PET-M-1790e.md
-    - file: petzen/PET-M-1802a.md
-    - file: petzen/PET-M-1804a.md
-    - file: petzen/PET-M-1804b.md
-    - file: petzen/PET-B-1805a.md
-    - file: petzen/PET-D-1806a.md
-    - file: petzen/PET-D-1806b.md
-    - file: petzen/PET-M-1808a.md
-    - file: petzen/PET-B-1808a.md
-    - file: petzen/PET-B-1809a.md
-    - file: petzen/PET-B-1811a.md
-    - file: petzen/PET-M-1811a.md
-    - file: petzen/PET-B-1812b.md
-    - file: petzen/PET-M-1812c.md
-    - file: petzen/PET-B-1815a.md
-    - file: petzen/PET-B-1815b.md
+    - file: petzen/PET-B-1736b
+    - file: petzen/PET-B-1748a
+    - file: petzen/PET-B-1754a
+    - file: petzen/PET-B-1754b
+    - file: petzen/PET-B-1758a
+    - file: petzen/PET-M-1761b
+    - file: petzen/PET-B-1777a
+    - file: petzen/PET-B-1778a
+    - file: petzen/PET-B-1778c
+    - file: petzen/PET-B-1779a
+    - file: petzen/PET-M-1785a
+    - file: petzen/PET-B-1785a
+    - file: petzen/PET-B-1785b
+    - file: petzen/PET-B-1789a
+    - file: petzen/PET-B-1789c
+    - file: petzen/PET-B-1789b
+    - file: petzen/PET-B-1790b
+    - file: petzen/PET-M-1790b
+    - file: petzen/PET-M-1790d
+    - file: petzen/PET-B-1790a
+    - file: petzen/PET-C-1790a
+    - file: petzen/PET-M-1790e
+    - file: petzen/PET-M-1802a
+    - file: petzen/PET-M-1804a
+    - file: petzen/PET-M-1804b
+    - file: petzen/PET-B-1805a
+    - file: petzen/PET-D-1806a
+    - file: petzen/PET-D-1806b
+    - file: petzen/PET-M-1808a
+    - file: petzen/PET-B-1808a
+    - file: petzen/PET-B-1809a
+    - file: petzen/PET-B-1811a
+    - file: petzen/PET-M-1811a
+    - file: petzen/PET-B-1812b
+    - file: petzen/PET-M-1812c
+    - file: petzen/PET-B-1815a
+    - file: petzen/PET-B-1815b
 
-- file: petzen/wilharm.md
+- file: petzen/wilharm
   sections:
-    - file: petzen/PET-B-1760a.md
-    - file: petzen/PET-M-1796a.md
-    - file: petzen/PET-B-1797a.md
-    - file: petzen/PET-D-1797a.md
-    - file: petzen/PET-M-1797a.md
-    - file: petzen/PET-B-1798c.md
-    - file: petzen/PET-B-1810a.md
+    - file: petzen/PET-B-1760a
+    - file: petzen/PET-M-1796a
+    - file: petzen/PET-B-1797a
+    - file: petzen/PET-D-1797a
+    - file: petzen/PET-M-1797a
+    - file: petzen/PET-B-1798c
+    - file: petzen/PET-B-1810a
 
-- file: ancestry/proof-arg-philippine-eleonore-werkmeister.md
+- file: ancestry/proof-arg-philippine-eleonore-werkmeister
   title: The Identity of Carl Friedrich Gottlieb Krückeberg's Wife
