@@ -80,7 +80,7 @@ Translation
 
 (PET-M-1773a)=
 
-[PET-M-1773a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/9019ad1c2c/> : 15 July
 2025) , path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >

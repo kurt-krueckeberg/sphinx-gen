@@ -74,7 +74,7 @@ Carl Krückeberg from Berenbusch
 
 (PET-C-1764a)=
 
-[PET-C-1764a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
   with images, *Archion* (<https://www.archion.de/p/c2a37818bc/> : 30 October
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

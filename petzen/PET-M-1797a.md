@@ -105,7 +105,7 @@ is found on {ref}`image 10 <PET-M-1797a>` of the
 
 (PET-M-1797a)=
 
-[PET-M-1797a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/dbd615cd07/> : 13
 January 2026), path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >

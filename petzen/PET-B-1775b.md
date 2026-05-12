@@ -65,7 +65,7 @@ Baptisms                                                    1775
 
 (PET-B-1775b)=
 
-[PET-B-1775b] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/3f3c8fb681/> : 31 October
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

@@ -64,7 +64,7 @@ Margaretha Bruns from Evesen.
 
 (PET-M-1728a)=
 
-[PET-M-1728a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, Archion (<https://www.archion.de/p/861407e3ed/>: 15 July 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

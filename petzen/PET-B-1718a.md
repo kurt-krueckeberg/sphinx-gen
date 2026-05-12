@@ -36,7 +36,7 @@ Bleeck from Meißen.
 
 (image126)=
 
-[image126] "Archion Protestant Kirchenbücher Portal", database with images,
+"Archion Protestant Kirchenbücher Portal", database with images,
 Archion (<https://www.archion.de/p/0034963201/> : 18 May 2025), path:
 Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
