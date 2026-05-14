@@ -43,10 +43,9 @@ sphinx:
   config:
     external_toc_exclude_missing: true
     intersphinx_mapping: 
-      genealogy:
+      nla:
         - "https://nla.krueckeberg.org/"
         - "https://nla.krueckeberg.org/objects.inv"
-
 
     myst_enable_extensions:
       - colon_fence
