@@ -26,7 +26,7 @@ are included:
     * [Werkmeister](../petzen/werkmeister.md)
     * [Wilharm](../petzen/wilharm.md)
 * - Söst
-  - * Krückeberg (one record)
+  - * [Krückeberg](../wallensen/WAL-B-1822a.md) (one record)
 * - Wiedensahl
   - [Heinrich Arends Vahlsing Baptism](../wiedensahl/WIED-B-1670a.md)
 * - Windheim
