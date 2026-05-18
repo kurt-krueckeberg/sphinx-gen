@@ -23,8 +23,8 @@ years 1807 to 1848. Below is the image:
   - Heinrich Friedrich August Christian
     Vat[er]: Christoph Krückeberg
     Mut[er]: Christine Meier
-    Zeug[en]: Christian Marhen[??], Wilh.
-    Ohlbotters [??], Heinrich Muh[d/s]
+    Zeug[en]: Christian Marhen[cke] Wilh.
+    Ohlbotters [??], Heinrich Muh[d/s], Friedrich
     Douns [??]
   - Krüeckeberg Thuste
 ```
