@@ -1,6 +1,6 @@
 # todo
 
-## Figure out the `_toc.yml`
+## Finish Correctin Weiland Record
 
-Use the appearance of the `~/jup` menu and put it into JB1 terms, which is
-like Antora.
+Many of them are do not have the correct appearance. Fix the .adoc files
+and them convert them to .md.
