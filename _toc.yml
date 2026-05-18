@@ -191,7 +191,7 @@ chapters:
     - file: petzen/PET-B-1741b
     - file: petzen/PET-C-1754a
 
-- file: petzen/schäkel
+- file: frille/schäkel
   sections:
     - file: frille/FRI-B-1694a
     - file: frille/FRI-B-1742a
