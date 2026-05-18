@@ -28,13 +28,13 @@ Transliteration adn Translation
     geb Stediegen erzeugtes Söhnlein todtgeborhren
 
 18) On 27th July the begotten little son of Johan Christian Weiland
-     free agricultural laborer in Penzen and his wife Christine
-    Ilsabei[n] born Stediege was stillborn
+    lodger in Penzen [likely meaning Petzen] and his wife Christine
+    Ilsabei maiden name Stediege was stillborn
 ```
 
 ## Citations
 
 (PET-B-1778a)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/53cd6fd928/> : 6 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 259 of 322
+[PET-B-1778a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https:.md](https://www.archion.de/p/53cd6fd928/) : 6 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 259 of 322
 
