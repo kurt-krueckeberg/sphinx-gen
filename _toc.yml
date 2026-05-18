@@ -199,10 +199,6 @@ chapters:
   sections:
     - file: frille/FRI-B-1798a
 
-- file: wiedensahl/vahlsing
-  sections:
-    - file: wiedensahl/WIED-B-1670a
-
 - file: frille/vahlsing    
   sections:
     - file: frille/FRI-B-1694a
@@ -214,6 +210,10 @@ chapters:
     - file: petzen/PET-B-1712b
     - file: petzen/PET-M-1728a
     - file: petzen/PET-D-1731a
+
+- file: wiedensahl/vahlsing
+  sections:
+    - file: wiedensahl/WIED-B-1670a
 
 - file: petzen/vogt
   sections:
