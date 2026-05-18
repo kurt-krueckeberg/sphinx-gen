@@ -193,9 +193,7 @@ chapters:
 
 - file: frille/schäkel
   sections:
-    - file: frille/FRI-B-1694a
     - file: frille/FRI-B-1742a
-    - file: frille/FRI-D-1757a
 
 - file: petzen/schwier
   sections:
@@ -204,6 +202,11 @@ chapters:
 - file: wiedensahl/index
   sections:
     - file: wiedensahl/WIED-B-1670a
+
+- file: frille/vahlsing    
+  sections:
+    - file: frille/FRI-B-1694a
+    - file: frille/FRI-D-1757a
 
 - file: petzen/vahlsing    
   sections:
