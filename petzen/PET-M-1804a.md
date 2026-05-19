@@ -62,7 +62,7 @@ Gestorbenen 1785-1827".
 (PET-M-1804a)=
 
 "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([http:.md](http://www.archion.de/p/de7d21d33d/) : 22
+with images, *Archion* ([<http://www.archion.de/p/de7d21d33d/>](http://www.archion.de/p/de7d21d33d/) : 22
 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
 Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und
