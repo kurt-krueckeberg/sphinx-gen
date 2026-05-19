@@ -45,5 +45,5 @@ and Bormans Mrs from Berenbusch
 
 (PET-B-1748a)=
 
-[PET-B-1748a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https:.md](https://www.archion.de/p/5d388eb41a/) : 8 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 176 of 322
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([<https://www.archion.de/p/5d388eb41a/>](https://www.archion.de/p/5d388eb41a/) : 8 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 176 of 322
 
