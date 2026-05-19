@@ -10,14 +10,6 @@ On 28 March 1802 Albrecht Weyland married Sophie Margaretha née Vogt
 Weiland, whose maiden name was Vogt.  The marriage of Albrecht Weyland is
 entry 6 on page 18. The year 1802 is written above entry number 1:
 
-```{image} images/petzen-band2-img12-left-header.jpg
-:class: image-override
-```
-
-```{note}
-The middle of the left page shown below has the year of **1802**; this the year of the Albrecht Weiland marrage.
-```
-
 ```{image} images/petzen-band2-img12-left.jpg
 :class: image-override
 ```
