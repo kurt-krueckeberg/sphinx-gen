@@ -5,9 +5,13 @@
 Sophia Margaretha Weiland’s baptism is on {ref}`image 262, right page, entry no. 5 <PET-B-1779a>` from the
 "Verzeichnis der Getaufte und Confirmirte  (Register of Baptims and Confirmations), 1641-1784"
 
+## Bpatism Image
+
 ```{image} images/petzen-band1a-img262-1779.jpg
 :class: image-override
 ```
+
+## Transliteration and Translation
 
 ```{code-block} text
 
