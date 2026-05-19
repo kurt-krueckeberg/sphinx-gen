@@ -37,5 +37,5 @@ married Philippina Watermann, the widow of Scheisen, from Evesen.
 
 (PET-M-1785a)=
 
-[PET-M-1785a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/ecaedcb229/): 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 3 of 357
-
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion*
+([<http://www.archion.de/p/ecaedcb229/>](http://www.archion.de/p/ecaedcb229/): 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 3 of 357
