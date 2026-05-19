@@ -20,7 +20,6 @@ sponsor was Philippine Maria Beuken of Meinsen.
 ## Transliteration and Translation
 
 ```{code-block} text
-
 62                 Getaufte Aoo 1785
 
 29) d 10ten Jul: ist Philippina Louise Weilands
