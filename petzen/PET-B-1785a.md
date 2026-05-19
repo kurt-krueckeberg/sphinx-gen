@@ -11,13 +11,16 @@ On 10 July 1785 Philippina Louise Weiland was baptized, the daughter of
 Friederich Wilehlm Weilands from Evesen and his wife Philippine. The
 sponsor was Philippine Maria Beuken of Meinsen.
 
-### Image 34, 1785, page 62, entry 29
+### Baptism Image 34
 
-This entry of the birth of Philippine Louise Weiland, in 1785, occurs on the left hand page, page 62.
+This entry of the birth of Philippine Louise Weiland, in 1785, occurs on the left hand
+page, [page 62](#PET-B-1785a).
 
 ```{image} images/petzen-band2-img34.jpg
 :class: image-override
 ```
+
+## Transliteration and Translation
 
 ```{code-block} text
 
