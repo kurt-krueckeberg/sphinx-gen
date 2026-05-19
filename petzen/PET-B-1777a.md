@@ -48,9 +48,6 @@ The baptismal record is shown below:
 Transliteration
 
 ```{code-block} text
-
-           ANNO 1777
-
 2) d 26ten Jan: ist getauft Friderich Wilhelm Weiland
    des Friederich Wilhelm Weiland aus Evesen
    No 20 mit seiner Ehefrau Anna Maria geb[oren]
@@ -62,9 +59,6 @@ Transliteration
 Translation
 
 ```{code-block} text
-
-          Year 1777
-
 2) 26th Jan: Friderich Wilhelm Weiland baptized
    the begotten son of Friederich Wilhelm Weiland of Evesen
    No 20, by his wife Anna Maria born
