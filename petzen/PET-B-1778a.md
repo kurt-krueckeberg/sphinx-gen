@@ -15,16 +15,16 @@ Petzen "Verzeichnis der Getaufte und Confirmirte, 1641-1784"
 :class: image-override
 ```
 
-```{note}
-Isabein is a short form of Elisabeth
-```
-
 Transliteration adn Translation
 
 ```{code-block} text
 18) d 27ten Jul: ist des Johan Christian Weilands Einlieger in
     Penzen mit seiner Ehefrau Christine Ilsabei
     geb Stediegen erzeugtes Söhnlein todtgeborhren
+```
+
+```{note}
+Isabein is a short form of Elisabeth
 ```
 
 ```{code-block} text
