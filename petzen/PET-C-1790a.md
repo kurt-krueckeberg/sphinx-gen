@@ -15,17 +15,14 @@ Image 190 shows the recorded name of Christina Krückebergen of Berenbusch liste
 :class: image-override
 ```
 
-```{list-table} Page 405
-:header-rows: 1
+```{code-block} text
 
-* - ANNO 1790
-* - [entries 1 thru 7 snipped]
-* - 8) Friderich Wilhelm Weiland---------------Evesen 20
+8) Friderich Wilhelm Weiland---------------Evesen 20
 ```
 
 ## Citations
 
 (PET-C-1790a)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/8b43f9e528/> : 22 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 190 of 357
+[PET-C-1790a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https:.md](https://www.archion.de/p/8b43f9e528/) : 22 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 190 of 357
 
