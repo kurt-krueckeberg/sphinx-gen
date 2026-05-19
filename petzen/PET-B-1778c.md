@@ -13,6 +13,8 @@ Petzen "Verzeichnis der Getaufte und Confirmirte, 1641-1784"
 :class: image-override
 ```
 
+## Transliteration and Translation
+
 ```{code-block} text
 
 29) d. 4ten Octobr ist getaufft Sophia Eleonora Weilands
