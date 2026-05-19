@@ -43,4 +43,3 @@ to five.
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/ee8298f89e/](http://www.archion.de/p/ee8298f89e/)
 : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 45 of 357
-
