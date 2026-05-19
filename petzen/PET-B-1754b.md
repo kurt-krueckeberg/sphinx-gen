@@ -22,16 +22,12 @@ image, on the right hand page (not shown).
 1758 Baptism of Jobst Heinrich Weiland
 
 ```{code-block} text
-
-1754                  Getaufte (Baptisms)
-
 d 10ten Nov. Anna Ilse Margaret Weiland
    getauft Parens[Latin for father] Jobst Heinrich Weiland zu Berenbusch
    Gev. Witwe Mönchhofs zu Evesen
 ```
 
 ```{code-block} text
-
 d 10th Nov. Anna Ilse Margaret Weiland was baptized
    Father Jobst Heinrich Weiland at Berenbusch
    Godmother was the widow Mönchhof at Evesen
