@@ -16,11 +16,9 @@ Below is entry 6, from page 85, in the year 1789.
 ## Transliteration and Translation
 
 ```{code-block} text
-
-                ANNO 1789 (in the year 1789)                85
 6) d 20ten Febr. ist getauft Johann Heinrich Weiland des Jobst
  Heinrich Weilands Tagelöhners in Penzen mit seiner Ehefrau
-Sophie vorhin geschwacht hatte [name?] Sophien Dorothee geb.
+So Er vorhin vorhin geschwacht hatte [namlich?] Sophien Dorotheen geb.
 Möllern Ihre gebohrner Sohn. Gevatter war Johann
 Friederich Altmeyer Hofmeister auf der Hofe [Heb?] No. 2
 ```
@@ -29,18 +27,11 @@ Friederich Altmeyer Hofmeister auf der Hofe [Heb?] No. 2
 
 6) On Febr. 20th Johann Heinrich Weiland was baptized, the son of Jobst
  Heinrich Weilands day-laborer in Petzen and his wife
-Sophie, who previously had [verb is uncertain: made pregnant] [name?] Sophie
+Sophie, who previously had [verb is uncertain: made pregnant?] namely Sophie
 Dorothee born Möller their born son. Godfather was Johann
 Friederich Altmeyer manorial administrator at the estate [heb?] No. 2
 ```
 
-```{code-block} text
-
-6) date 20th Febr. Johann Heinrich Weiland was baptized, born the son of Jobst
- Heinrich Weilands laborer in Petzen and his wife Sophie, who previously had been
-[made pregnant, weakened?] [???] Sophien Dorothee[a/n] nee
-Möllern. Godfather was Johann Friederich Atlmeyer estate administrator at the [Heb] No. 2
-```
 
 ## Citations
 
