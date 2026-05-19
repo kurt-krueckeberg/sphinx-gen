@@ -20,12 +20,14 @@ to center margin, which appears to have been reinforced with a material only par
 transparent. "Schulm" most likely is the word: Schulmeister (Schoolmaster).
 ```
 
-```{list-table} 18th March 1739 Birth of Carl Friedrich Bleke
-
-* - 10.) d 18ten Mart. Carl Friedrich Bleke. P. Heinrich Philipp Bleke Schulm[eister. 'eister' is not visible because the it is covered over by tape]
+```text
+10.) d 18ten Mart. Carl Friedrich Bleke. P. Heinrich Philipp Bleke Schulm[eister. 'eister' is not visible because the it is covered over by tape]
           zu Leteln. M. Catharine Margarethe Viehuß S. 1) Cord Henrich Bleke ... to be completed
           hiesiger [possible locality name?] Schulmeister 2.)  Tönnies [...be completed] Rodenberg 3.) Heinrich Volkening beide[both] aus Leteln
-* - 10.) On March 18th Carl Friedrich Bleke. Father Heinrich Philipp Bleke schoolmaster
+```
+
+```code
+10.) On March 18th Carl Friedrich Bleke. Father Heinrich Philipp Bleke schoolmaster
           [is the text is truncated at the center margin, Schulmeister is the likely word]
           at Leteln. Mother Catharine Margarethe Viehuß Sponsors: 1) Cord Henrich Bleke ... to be completed
           local [locality name?] schoolmaster 2.)  Tönnies...[tbe completed] Rodenberg 3.) ..
@@ -36,5 +38,7 @@ transparent. "Schulm" most likely is the word: Schulmeister (Schoolmaster).
 
 (FRI-B-1739a)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/e8aa91b948/>: 12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille > Verzeichnis der Getauften, Getrauten, Gestorbenen 1664-1757, image 128 of 389
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/e8aa91b948/> : 12 November 2023),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
+Frille > Verzeichnis der Getauften, Getrauten, Gestorbenen 1664-1757, image 128 of 389
 
