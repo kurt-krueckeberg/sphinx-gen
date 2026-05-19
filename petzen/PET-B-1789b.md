@@ -11,7 +11,7 @@ Transliteration and Translation
 ```{code-block} text
 
                                Getaufte(Baptized) 1789                      87
-19) d 24zen May: ist getauft Christina Maria Weilands
+19) d 24ten May: ist getauft Christina Maria Weilands
     des Johann Heinrich Weiland aus Evesen No 21
     mit seiner Ehefrau Catherine Elisabeth geb.
     Bornemans erzeugte Tochter. Gavatterin war Maria
