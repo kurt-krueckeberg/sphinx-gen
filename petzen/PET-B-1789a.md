@@ -19,34 +19,28 @@ Below is entry 6, from page 85, in the year 1789.
 :class: image-override
 ```
 
-Transliteration of entry 6
+## Transliteraton and Translation
 
-ANNO 1789 (in the year 1789)                85
+```{code-text}
 6) d 20ten Febr. ist getauft Johann Heinrich Weiland des Jobst
  Heinrich Weilands Tagelöhners in Petzen mit seiner Ehefrau
 Sophie vorhin geschwacht hatte [name?] Sophien Dorothee geb.
 Möllern Ihre gebohrner Sohn. Gevatter war Johann
 Friederich Altmeyer Hofmeister auf der Hofe [Heb?] No. 2
+```
 
-Interlinear for entry 6 word-for-word
-
-6) On Febr. 20th Johann Heinrich Weiland was baptized, the son of Jobst
- Heinrich Weilands day-laborer in Petzen and his wife
-Sophie, who previously [verb is uncertain: made pregnant] had [????] Sophien Dorothee[a/n] born
-Möllern their born son. Godfather was Johann
-Friederich Altmeyer manorial administrator at the estate [heb?] No. 2
-
-Translation of entries 6
-
+```{code-text}
 6) date 20th Febr. Johann Heinrich Weiland was baptized, born the son of Jobst
- Heinrich Weilands laborer in Petzen and his wife Sophie, who previously had been
+Heinrich Weilands laborer in Petzen and his wife Sophie, who previously had been
 [made pregnant, weakened?] [???] Sophien Dorothee[a/n] nee
 Möllern. Godfather was Johann Friederich Atlmeyer estate administrator at the [Heb] No. 2
+```
 
 ## Citations
 
 (PET-B-1789a)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/ee8298f89e/) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([<http://www.archion.de/p/ee8298f89e/>](http://www.archion.de/p/ee8298f89e/)
+: 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 45 of 357
 
