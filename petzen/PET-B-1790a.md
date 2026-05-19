@@ -8,10 +8,6 @@
 
 ## Transliteration and Translation
 
-```{note}
-**meiersche** translates as: (female) overseer of milkmaids
-```
-
 ```{code-block} text
 
 5) d 27ten Jan. sind getauft die Zwillinge [eins?]
@@ -40,7 +36,7 @@
 
 ```{note}
 Sopia Maria appears appears to be identified as **Pichtsmeiersche**,
-which appears to be the adjective form of the surname Pichtsmeier, but the
+apparently the adjective form of the surname Pichtsmeier, but the
 abbreviation **Pichtsmeiersche** is uncertain.
 ```
 
@@ -48,7 +44,7 @@ abbreviation **Pichtsmeiersche** is uncertain.
 
 (PET-B-1790a)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion*
-([<https://www.archion.de/p/1aa825e77b/>](https://www.archion.de/p/1aa825e77b/) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+[PET-B-1790a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion*
+([https:.md](https://www.archion.de/p/1aa825e77b/) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 48 of 357
 
