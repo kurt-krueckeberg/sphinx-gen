@@ -7,7 +7,7 @@ The confirmation of Friderich Wilhelm Weiland, in 1790, on Quasimodogeniti
 8 <PET-C-1790a>` of Petzen Kirchenbuch volume Verzeichnis der Getauften, Konfirmierten,
 Getrauten und Gestorbenden 1785-1827.
 
-## Page 405
+## Confirmation Image
 
 Image 190 shows the recorded name of Christina Krückebergen of Berenbusch listed as entry 10 among those confirmed in 1789:
 
@@ -15,8 +15,9 @@ Image 190 shows the recorded name of Christina Krückebergen of Berenbusch liste
 :class: image-override
 ```
 
-```{code-block} text
+## Transliteration
 
+```{code-block} text
 8) Friderich Wilhelm Weiland---------------Evesen 20
 ```
 
