@@ -132,7 +132,7 @@ The translitration of old German script into contemporary latin-based German is 
 
 (image156)=
 
-[image156] "Archion Protestant Kirchenbücher Portal", database with
+"Archion Protestant Kirchenbücher Portal", database with
 images, *Archion* ([https:.md](https://www.archion.de/p/724fe7aa8f/) : 12 October
 2024), path: Nordrhein-Westfalen > Landeskirchliches Archiv der
 Evangelischen Kirche von Westfalen > Kirchenkreis Minden > Windheim >
