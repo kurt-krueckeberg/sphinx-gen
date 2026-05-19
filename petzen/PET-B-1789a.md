@@ -21,7 +21,7 @@ Below is entry 6, from page 85, in the year 1789.
 
 ## Transliteraton and Translation
 
-```{code-text}
+```text
 6) d 20ten Febr. ist getauft Johann Heinrich Weiland des Jobst
  Heinrich Weilands Tagelöhners in Petzen mit seiner Ehefrau
 Sophie vorhin geschwacht hatte [name?] Sophien Dorothee geb.
@@ -29,7 +29,7 @@ Möllern Ihre gebohrner Sohn. Gevatter war Johann
 Friederich Altmeyer Hofmeister auf der Hofe [Heb?] No. 2
 ```
 
-```{code-text}
+```text
 6) date 20th Febr. Johann Heinrich Weiland was baptized, born the son of Jobst
 Heinrich Weilands laborer in Petzen and his wife Sophie, who previously had been
 [made pregnant, weakened?] [???] Sophien Dorothee[a/n] nee
