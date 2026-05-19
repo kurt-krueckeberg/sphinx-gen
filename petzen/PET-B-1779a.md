@@ -30,5 +30,7 @@ Sophia Margaretha Weiland’s baptism is on {ref}`image 262, right page, entry n
 
 (PET-B-1779a)=
 
-[PET-B-1779a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https:.md](https://www.archion.de/p/986a664f61/) : 31 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 262 of 322
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion*
+([https://www.archion.de/p/986a664f61/](https://www.archion.de/p/986a664f61/) : 31 October 2023), path:
+Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 262 of 322
 
