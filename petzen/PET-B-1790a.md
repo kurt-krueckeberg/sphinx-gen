@@ -37,7 +37,7 @@
 ```{note}
 Sopia Maria appears appears to be identified as **Pichtsmeiersche**,
 apparently the adjective form of the surname Pichtsmeier, but the
-abbreviation **Pichtsmeiersche** is uncertain.
+abbreviation before **Pichtsmeiersche** is uncertain.
 ```
 
 ## Citations
