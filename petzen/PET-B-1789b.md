@@ -6,16 +6,19 @@
 :class: image-override
 ```
 
-Transliteration and Translation
+## Transliteration and Translation
 
 ```{code-block} text
 
                                Getaufte(Baptized) 1789                      87
-19) d 24ten May: ist getauft Christina Maria Weilands
+19) d 24zen May: ist getauft Christina Maria Weilands
     des Johann Heinrich Weiland aus Evesen No 21
     mit seiner Ehefrau Catherine Elisabeth geb.
     Bornemans erzeugte Tochter. Gavatterin war Maria
     Elisabeth Bornemans aus Evesen No. 7
+```
+
+```{code-block} text
 
 19) d 24th May: Christina Maria Weilands was baptized
     the begotten daughter of Johann Heinrich Weiland
@@ -28,7 +31,8 @@ Transliteration and Translation
 
 (PET-B-1789b)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion*
+[PET-B-1789b] "Archion Protestant Kirchenbücher Portal", database with images, **Archion**
 ([<https://www.archion.de/p/ed0ebd924b/>](https://www.archion.de/p/ed0ebd924b/) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
-Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 46 of 357
+Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 46 of 357
 
