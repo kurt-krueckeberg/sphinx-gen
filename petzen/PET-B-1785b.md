@@ -4,8 +4,8 @@ Page 63 has the baptims of Joahnn Heinrich Weiland.
 
 ## Citations
 
-The stillborn son of Johann Heinrich Weiland’s is on {ref}`image
-34 page 63 on Archion <PET-B-1785b>` of Petzen Kirchenbuch volume 2.
+The stillborn son of Johann Heinrich Weiland’s is on image 34 
+{ref}`page 63 on Archion <PET-B-1785b>` of Petzen Kirchenbuch volume 2.
 
 ## Baptism Image
 
