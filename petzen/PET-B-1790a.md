@@ -48,7 +48,7 @@ abbreviation **Pichtsmeiersche** is uncertain.
 
 (PET-B-1790a)=
 
-[PET-B-1790a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion*
-([https:.md](https://www.archion.de/p/1aa825e77b/) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion*
+([<https://www.archion.de/p/1aa825e77b/>](https://www.archion.de/p/1aa825e77b/) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 48 of 357
 
