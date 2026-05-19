@@ -4,7 +4,7 @@
 
 ## Citation
 
-The baptism record is on image 45, [page 85](#PET-B-1789c), entry 7.
+The baptism record is on image 45, [page 85](#cite-PET-B-1789c), entry 7.
 
 ## Baptism Image
 
@@ -29,7 +29,7 @@ to five.
 
 ## Citations
 
-(PET-B-1789c)=
+(cite-PET-B-1789c)=
 
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/ee8298f89e/](http://www.archion.de/p/ee8298f89e/) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 45 of 357
