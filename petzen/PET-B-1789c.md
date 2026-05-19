@@ -4,11 +4,9 @@
 
 ## Citation
 
-Entry is on {ref}`image 45, on entry 7 <PET-B-1789c>`.
+The baptism record is on image 45, [page 85](#PET-B-1789c), entry 7.
 
 ## Baptism Image
-
-The baptism record is on image 45, [page 85](#PET-B-1789c), entry 7.
 
 ```{image} images/petzen-band2-img45-85.jpg
 :class: image-override
