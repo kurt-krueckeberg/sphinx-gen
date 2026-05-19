@@ -5,7 +5,7 @@ Page 63 has the baptims of Joahnn Heinrich Weiland.
 ## Citations
 
 The stillborn son of Johann Heinrich Weiland’s is on image 34 
- [page 63](#PET-B-1785b), entry 38, of Petzen Kirchenbuch volume 2.
+ [page 63](#cite-PET-B-1785b), entry 38, of Petzen Kirchenbuch volume 2.
 
 ## Baptism Image
 
@@ -30,7 +30,7 @@ born Bornemann came into the world dead.
 
 ## Citations
 
-(PET-B-1785b)=
+(cite-PET-B-1785b)=
 
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* ([http://www.archion.de/p/268214a4fd/](http://www.archion.de/p/268214a4fd/) : 10 October
