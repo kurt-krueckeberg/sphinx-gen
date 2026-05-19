@@ -5,15 +5,7 @@
 The baptism of Johann Heinrich Weiland, on 20 September 1789, is on
 {ref}`image 45 <PET-B-1789a>`, the right page, entry #67.
 
-## Image 45, page 85, entries 6
-
-Below is an overview of both pages 84 and 85, showing page 84 covers 1788
-and page 85 covers the year 1789, starting with the month of January for
-the first entry of page 85.
-
-```{image} images/petzen-band2-img45-overview.jpg
-:class: image-override
-```
+## Image 45, page 85, entry 6
 
 Below is entry 6, from page 85, in the year 1789.
 
