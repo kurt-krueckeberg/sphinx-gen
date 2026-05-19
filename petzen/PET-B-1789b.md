@@ -31,7 +31,7 @@
 
 (PET-B-1789b)=
 
-[PET-B-1789b] "Archion Protestant Kirchenbücher Portal", database with images, **Archion**
+"Archion Protestant Kirchenbücher Portal", database with images, **Archion**
 ([<https://www.archion.de/p/ed0ebd924b/>](https://www.archion.de/p/ed0ebd924b/) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 46 of 357
