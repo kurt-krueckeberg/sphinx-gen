@@ -38,7 +38,6 @@ Petzen " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 Transliteration
 
 ```{code-block} text
-
 d. 28ten Juni Friedrich Wilhelm Weiland aus Ephesen [Evesen]
    bei der Sandkuhle mit Anna Ilsabei Deierbergs
      aus Ephesen [Evesen]
@@ -47,7 +46,6 @@ d. 28ten Juni Friedrich Wilhelm Weiland aus Ephesen [Evesen]
 Translation
 
 ```{code-block} text
-
 the 28th June Friedrich Wilhelm Weiland from Ephesen
    by the sand hallow[pit] with Anna Ilsabei Deierbergs
      from Ephesen
@@ -57,9 +55,11 @@ the 28th June Friedrich Wilhelm Weiland from Ephesen
 
 (PET-M-1761b)=
 
-[PET-M-1761b] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https:.md](https://www.archion.de/p/19a89943e7/) : 24  Jan.
-2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
-der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 52 of 239
+"Archion Protestant Kirchenbücher Portal", database
+with images, *Archion*
+([<https://www.archion.de/p/19a89943e7/>](https://www.archion.de/p/19a89943e7/)
+: 24  Jan.  2026), path: Niedersachsen > Niedersächsisches Landesarchiv >
+Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
+Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 52 of
+239
 

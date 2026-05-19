@@ -23,19 +23,11 @@ page and ran out of space.
 
 ```{code-block} text
 
-                   Getrauete im Jahr 1785                            1
-
-[Note: Lines one and two not shown]
-
 3) d[en] 27th ist copulirt Friderich Weiland Canonier
   aus Evesen mit Philippina Watermann Scheisen aus Evesen
 ```
 
 ```{code-block} text
-
-                   Marriages in the year 1785                        1
-
-[Note: Lines one and two not shown]
 
 3) On the 27th, Friedrich Weilandt, a cannoneer from Evesen,
 married Philippina Watermann, the widow of Scheisen, from Evesen.
