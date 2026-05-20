@@ -17,17 +17,18 @@ The birth and baptism of Carl Fridrich Bleeke is recorded on entry number
 ### Transliteration and Translation
 
 ```text
-38) d. 2ten Nov. Carl Frid Bleecke in Leteln
-Pr.   P. Christian Frid. Bleeke. M. Anne
-      Margarethe Volckenings. Sp. Carl Frid.
-      Bleeke u. Jobst Heinr Adolph Volckening.
+38) [Pr.] d. 2ten Nov. Carl Frid. Bleecke in Leteln
+P. Christian Frid. Bleecke. M. Anne
+Margarethe Volckenings. Sp. Carl Frid.
+Bleecke u. Jobst Heinr. Adolph Volckening.
 ```
 
 ```text
-38) On.2nd Nov. Carl Frid Bleecke in Leteln
-    Pr. Father: Christian Fridrich. Bleeke. Mother: Anne
-        Margarrethe Volckening. Godfathers: Carl Fridrich
-        Bleeke and Jobst Heinrich Adolph Volckening.
+38) [Pr.] On 2 November, Carl Friedrich Bleecke in Leteln.
+
+Father: Christian Friedrich Bleecke.
+Mother: Anne Margarethe Volckening.
+Sponsors: Carl Friedrich Bleecke and Jobst Heinrich Adolph Volckening.
 ```
 
 ## Citations
