@@ -28,33 +28,28 @@ pages).
 
 :::{admonition} Remarks on Entry 33
 
-After the baby’s name, followed by her place of birth, three names occur preceded, respecitvely, by the following single-letter abbreviations:
+After the infant’s name, followed by her place of birth, three names occur
+preceded, respecitvely, by the following single-letter abbreviations:
 
 - P — Pater = father
-- M — for  mother
-- S — apparently the godparents
-
-The godmother’s name is challenging because "Kröger", while a surname, also
-means "innkeeper". Her married surname appears to be Meier. The maiden name
-is more challenging.
-
-The *u* in Louse is resembles the laten character *y* — but one assumes this is
-an diiosyncratically drawn u. 
+- M — Mater =  mother
+- S — Sponsor/Gevatterin 
+- KriegesRätin - the wife or widow of a **Kriegsrat**, a war councillor.
 
 ```text
-33 den 18ten Jul: Charlotte Loyse Henriette Bleeken
-        aus Frille P. der Prueß[ische] Schulmesiter Daniel
-        Heinrich Philip Bleke M. Amalia Wilhelmina
-        Dunckern, S. die Frau KriegsRaetin[Kriegsraetin] Charlotte Loyse
-        Henrieette [?Meier...? / Meier?]. gebohren Delius
+33) On 18 July: Charlotte Loyse Henriette Bleke,
+from Frille. Father: the Prussian schoolmaster Daniel
+Heinrich Philip Bleke. Mother: Amalia Wilhelmina
+Dünker. Sponsor: Mrs. War Councillor Charlotte Loyse
+Henriette Meirre, née Delius.
 ```
 
 ```text
-33 On July 18th: Charlotte Loyse Heinriette Bleeken
-        from Frille. Father: the Prussian schoolmaster Daniel
-        Heinrich Philip Bleeke Mother: Amalia Wilhelmina
-        Dunckern. Sponsor: Godmother the wife Krögerraetin Charlotte Loyse
-        Henriette [?Meier...?] born Delius
+33) On 18 July: Charlotte Louise Henriette Bleke,
+    from Frille. Father: the Prussian schoolmaster Daniel
+    Heinrich Philip Bleke. Mother: Amalia Wilhelmina
+    Dünker. Sponsor: the War Councillor’s wife Charlotte Louise
+    Henriette Meirre, née Delius.
 ```
 
 ## Citations
