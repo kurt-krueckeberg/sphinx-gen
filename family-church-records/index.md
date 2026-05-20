@@ -28,7 +28,7 @@ are included:
 * - Söst
   - * [Krückeberg](../wallensen/WAL-B-1822a.md) (one record)
 * - Wiedensahl
-  - [Heinrich Arends Vahlsing Baptism](../wiedensahl/WIED-B-1670a.md)
+  - * [Heinrich Arends Vahlsing Baptism](../wiedensahl/WIED-B-1670a.md)
 * - Windheim
   - * [Buuck](../windheim/buuck.md)
 ```
