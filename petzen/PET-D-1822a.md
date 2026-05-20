@@ -73,12 +73,6 @@ volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
 
 ### Pages 652 and 653
 
-Header and Column Headings:
-
-```{image} images/petzen-band2-img313-header.jpg
-:class: image-override
-```
-
 Page 652:
 
 ```{image} images/petzen-band2-img313-652.jpg
@@ -165,6 +159,6 @@ source)
 
 (PET-D-1822a)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/f57385caa9/) : 25 October 2023), path: Niedersachsen > Niedersächsisches
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([<http://www.archion.de/p/f57385caa9/>](http://www.archion.de/p/f57385caa9/) : 25 October 2023), path: Niedersachsen > Niedersächsisches
 Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 5 of 357
 
