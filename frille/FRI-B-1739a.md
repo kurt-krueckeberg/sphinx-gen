@@ -17,8 +17,8 @@ Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, 
 - The occupation given for the father Henrich Philipp Bleke is truncated. "Schulm" is most likely
   "Schulmeister", but the last portion of it appears to have been taped over.
 - **Brandenb.** (or brandenb.) is likely the abbreviation for *brandenburgischer*. Frille was divided
-  into a Brandenburg and a Prussian side. Cord Heinrich Bleke was a schoolmaster on the Brandenburg-
-  side of Frille.
+  into a Brandenburg/Prussian side and a Schaumburg-Lippe side. Cord Heinrich Bleke was a
+  schoolmaster on the Brandenburg / Prussian side of Frille.
 - **vulgo** means "commonly called" or "known as".
 
 ```
