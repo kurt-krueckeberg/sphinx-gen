@@ -30,7 +30,7 @@ hiesiger Brandenb. Schulmeister. 2.) Tönnies Bakenieger vulgo Rodenberg. 3.)
 Henrich Volkening beÿde aus Leteln.
 ```
 
-```code
+```text
 10.) On the 18th of March, Carl Friedrich Bleke was baptized. Father:
 Henrich Philipp Bleke, schoolmaster at Leteln. Mother: Catharina Margaretha
 Viehuß. Sponsors: 1.) Cord Henrich Bleke, local Brandenburg-side
