@@ -1,6 +1,6 @@
 # 1806 Friedrich Wilhelm Weiland Death
 
-## Citation
+## Record
 
 The death and burial of Friedrich Wilhelm Weiland appears on {ref}`image 247 <PET-D-1806a>` of the [Archion.de](https://archion.de) digital images of
 the Petzen church register *Verzeichnis der Getauften, Konfirmierten,

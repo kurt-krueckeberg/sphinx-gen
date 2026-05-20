@@ -1,6 +1,6 @@
 # 1804 Fridrich Wilhelm Weyland of Petzen no. 2 Marriage
 
-## Citation
+## Record
 
 The 22 April 1804 marriage of Fridrich Wilhem Weyland to Caroline Luise
 Lauen is found on {ref}`image 13, page 20, entry 3, <PET-M-1804a>` of the Petzen

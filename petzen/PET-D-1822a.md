@@ -62,7 +62,7 @@ farm and now lived under the terms of the Leibgeding.
 
 :::
 
-## Citation
+## Record
 
 The death of Johann Heinrich Krückeberg Death in 1822 is found on
 {ref}`image 313, on pages 652 and 652 <PET-D-1822a>` of Petzen Kirchenbuch

@@ -1,6 +1,6 @@
 # 1778 Catharine Elisabet Drinkuth Birth
 
-## Citation
+## Record
 
 The birth of Catharine Elisabeth Drinkuht is on {ref}`image 62,
 pages 192-193 <KLE-B-1778a>` of the Kleinenbremen parish volume "Trauungen 1763-1807,

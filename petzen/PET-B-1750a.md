@@ -27,7 +27,7 @@ Is this [Arend Heinrich Vahlsing’s](PET-M-1728a.md) (1670-1730) son Jobst Hein
 Vahlsing?
 ```
 
-## Citation
+## Record
 
 The baptism of Carl Philip Krückeberg is on {ref}`image 180 <PET-B-1750a>`,
 right page, 3rd entry from the bottom, of the "Register of Baptism and

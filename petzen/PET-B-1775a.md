@@ -1,6 +1,6 @@
 # 1775 Anna Philippine Maria Blecken Baptism
 
-## Citation
+## Record
 
 The baptism record for Anna Philippine Maria Blecken appears on
 {ref}`image 243 <PET-B-1775a>`, on the right-hand page, the first complete

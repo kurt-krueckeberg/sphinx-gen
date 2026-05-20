@@ -1,6 +1,6 @@
 # 1802 Albrecht Weyland Marriage
 
-## Citation
+## Record
 
 The entry for the marriage Abrecht Weyland is on {ref}`image 12, page 18, on Archion <PET-M-1802a>` of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 

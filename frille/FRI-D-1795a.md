@@ -1,6 +1,6 @@
 # 1795 Johann Fridrich Bleecke Burial
 
-## Citation
+## Record
 
 The death of Johann Fridirch Bleecke occurred on 22 April 1795. It is {ref}`image 313, page 185 of the listing of deaths <FRI-D-1795a>`.
 

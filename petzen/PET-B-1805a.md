@@ -1,6 +1,6 @@
 # 1805 Philippine Caroline Weiland Baptism
 
-## Citation
+## Record
 
 The birth of Philippine Sophie Weiland is entry 26 on {ref}`image
 88 <PET-B-1805a>` of the Petzen Kirchenbuch volume "Verzeichnis der Getauften,

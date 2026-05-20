@@ -1,6 +1,6 @@
 # 1767 Maria Eleonore Bleeke Baptism
 
-## Citation
+## Record
 
 The baptism Maria Eleonore Bleecke occurred on 24 ovembery 1767. It appears
 on {ref}`image 33, page 61 of the baptims entries1 <FRI-B-1767a>`, of

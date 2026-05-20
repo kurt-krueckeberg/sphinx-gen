@@ -9,7 +9,7 @@ Dörmann, there was Carl Friedrich Buuck, who married Marie Christine
 Kleinschmidt.
 ```
 
-## Citation
+## Record
 
 The baptism record is on {ref}`image 156, pages 152 and 153 <image156>`, of the
 Windheim Kirchenbuch Volume 4: *Taufen 1816-1836, Beerdigungen 1816-1827,

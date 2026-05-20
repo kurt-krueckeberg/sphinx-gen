@@ -21,7 +21,7 @@
 * - wife of soldier Weiland
 ```
 
-## Citation
+## Record
 
 The baptism of a Dorothea Elisabeth Krückeberg occurred January 29th 1736.
 

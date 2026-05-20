@@ -1,6 +1,6 @@
 # 1814 Ilse (Elisabeth) Marie nee Möller, married 1st Blecke, married 2nd Werkmeister, Death
 
-## Citation
+## Record
 
 ```{note}
 - **Ilsabey** is a **regional, phonetic compound form of Elisabeth**

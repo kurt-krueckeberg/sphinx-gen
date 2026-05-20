@@ -48,7 +48,7 @@ Johann Heinrich Krücekberg to question #1 at
 {external+nla:doc}`Records of the questioning of the individual rural property holders in Evesen, Berenbusch, Nordholz, and Rusbend in the context of the General Land Survey (land measurement). (1743-1744) <2741/index>`.
 ```
 
-## Citation
+## Record
 
 The baptism entry is found on {ref}`image 140 <PET-B-1728a>`. It is labled **18**, and it is the
 18th birth and baptims in 1728. **Anno 1728** appears at the top of the prior

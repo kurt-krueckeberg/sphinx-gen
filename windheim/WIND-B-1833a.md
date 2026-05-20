@@ -7,7 +7,7 @@ In addition to Ernst Diedrich Buuck, who married Christine Wilhelmine Dörmann, 
 Marie Christine Kleinschmidt.
 ```
 
-## Citation
+## Record
 
 The baptism record is on {ref}`image 182, pages 178 and 179, <image182>` of the Windheim Kirchenbuch Volume 4: *Taufen
 1816-1836, Beerdigungen 1816-1827, Beerdigungen 1827-1838, Trauungen 1816-1837, Konfirmationen 1816-1837, Trauungen

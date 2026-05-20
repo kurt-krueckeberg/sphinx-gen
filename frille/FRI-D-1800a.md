@@ -1,6 +1,6 @@
 # 1800 Carl Fridrich Bleecke Death
 
-## Citation
+## Record
 
 The death of Carl Fridirch Bleecke occurred on 1 January 1800. It is {ref}`image 331, page 219 of the listing of deaths <FRI-D-1800a>`.
 

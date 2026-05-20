@@ -1,6 +1,6 @@
 # 1779 Johann Heinrich Blecke Burial
 
-## Citation
+## Record
 
 The burial record for Johann Heinrich Blecke[n] is found on {ref}`image 2323 <PET-D-1779a>`
 of the *Verzeichnis der Getrauten und Gestorbenen, 1641-1784* found on

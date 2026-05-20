@@ -1,6 +1,6 @@
 # 1758 Jobst Heinrich Weiland Baptism
 
-## Citation
+## Record
 
 The baptism of Jobst Heinrich Weiland is on {ref}`image 199, left page, first entry <cite-PET-B-1758a>` from the
 "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784"

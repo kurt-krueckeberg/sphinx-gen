@@ -1,6 +1,6 @@
 # 1726 Annna Maria Elisabeth Bleek[e] Baptism
 
-## Citation
+## Record
 
 The baptism of Annna Maria Elisabeth Bleek[e] is on {ref}`image
 132 <image136>`, right hand page, 5th entry from the top, of the "Verzeichnis der

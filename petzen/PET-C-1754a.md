@@ -1,6 +1,6 @@
 # 1754 Anna Ilsabey (Elisabeth) Möller Confirmation
 
-## Citation
+## Record
 
 The confirmation of Anna Ilsabey (Elisabeth) Möller is on
 {ref}`image 309 <PET-C-1754a>` of the Petzen "Verzeichnis der Getauften und

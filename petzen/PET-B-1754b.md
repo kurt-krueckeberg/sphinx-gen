@@ -1,6 +1,6 @@
 # 1754 Anna Ilse Margaret Weiland Baptism
 
-## Citation
+## Record
 
 The baptism of Jobst Heinrich Weiland is on {ref}`image 191, left
 page, first entry <PET-B-1754b>` from the "Register of Baptism and Confirmed of the

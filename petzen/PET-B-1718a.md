@@ -1,6 +1,6 @@
 # 1718 Anna Ilhabe Bleeck Baptism
 
-## Citation
+## Record
 
 The baptism of Anna Ilhabe Bleeck is on {ref}`image 126 <image126>`, right-hand
 page, last entry, of the Petzen "Verzeichnis der Getauften und
