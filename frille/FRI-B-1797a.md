@@ -22,17 +22,17 @@ Johann Heinrich Philip Bleeke’s baptism is entry 46 on page 254 (of the baptis
 ## Transliteration and Translation
 
 ```text
-Pr.46) d. 3./5ten Nov. Joh. Henrich Philip Bleeke
-     aus Leteln. [P for Vater(father)]. Christian Frid. Bleeke n. 13
-     M[for Mutter]. Anne Margarethe Volckenings.
-     Sp[for godmother]. Joh. Frid. Volckening
+Pr.46) d. 5ten Nov. Joh. Henrich Philip Bleeke
+     aus Leteln. P. Christian Frid. Bleeke n. 13
+     M. Anne Margarethe Volckenings.
+     Sp. Joh. Frid. Volckening
 ```
 
 ```text
-Pr.46) d. [perhaps born on 3rd and baptized on 5th] 5th Nov. Joh. Henrich Philip Bleeke
-    from Leteln. father Christian Frid. Bleeke n. 13
-    mother Anne Margarethe Volckenings.
-    godfather Joh. Frid. Volckening
+Pr.46) Baptized on 5th Nov. [was] Johoann Henrich Philip Bleeke
+    from Leteln. Father: Christian Frid. Bleeke n. 13
+    Mother: Anne Margarethe Volckenings.
+    Sponsor: Johann Frid. Volckening
 ```
 
 ## Citations
