@@ -25,17 +25,18 @@ The baptism entry for Marie Louise Bleeke is entry 44, on page 317 (of the bapti
 Pr is presumably Protestant
 ```
 
-```{list-table} Baptism of Christian Friderich Bleeke
+```text
+43)  d 29ten Sept. Marie Louise Bleecken aus
+Pr.  Leteln. P. Christian Fridrich Bleccke. M.
+     Anne Margarethe Volckenings. Sp. Catherine
+     Louise Volckenings.
+```
 
-* -                                                 317
-* - 43) d 29ten Sept. Marie Louise Bleecken aus
-    Pr.  Leteln. P[for Vater]. Christian Fridrich Bleccke. M[for Mutter].
-         Anne Margarethe Volckenings. Sp[for godparent]. Catherine
-         Louise Volckenings.
-* - 43) On 29th Sept. Marie Louise Bleecken from
-    Pr.  Leteln. Father Christian Fridrich Bleecke. Mother
-         Anne Margarethe Volckenings. Godmother Catherine
-         Louise Volckenings.
+```text
+43)  On 29th Sept. Marie Louise Bleecken from
+Pr.  Leteln. Father: Christian Fridrich Bleecke. Mother:
+     Anne Margarethe Volckenings. Sponsor: Catherine
+     Louise Volckenings.
 ```
 
 ```{note}
