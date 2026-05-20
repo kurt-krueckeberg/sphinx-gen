@@ -21,15 +21,16 @@ The baptism entry fo Christian Friderich Bleeke is on page 283 (of the baptism p
 
 ### Transliteration and Translation
 
-```{list-table} Baptism of Christian Friderich Bleeke
+```text
+70) d. 25tn/28ten Dec. Christian Friderich Bleeke aus
+Pr.    Leteln. P. Christian Friderich Bleeke. M. Anne
+       Margarthe Volckenings. Sp[for godparent]. Carl Friderich Hartman
+```
 
-* -                                                 283
-* - 70) d. 25tn/28ten Dec. Christian Friderich Bleeke aus
-         Leteln. P[for Vater]. Christian Friderich Bleeke. M[for Mutter] Anne
-         Margarthe Volckenings. Sp[for godparent]. Carl Friderich Hartman
-* - 70) On 25th/28th Dec. Christian Friderich Bleeke from
-         Leteln. [P. for father] Christian Friderich Bleeke. M[for Mutter] Anne
-         Margarthe Volckening. Sp[godfather] Carl Friderich Hartman
+```text
+70) On 25th/28th Dec. Christian Friderich Bleeke from
+Pr.    Leteln. Father: Christian Friderich Bleeke. 
+       Mother: Anne Margarthe Volckening. Sponsor: Carl Friderich Hartman
 ```
 
 ## Citations
