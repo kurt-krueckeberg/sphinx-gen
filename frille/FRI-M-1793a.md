@@ -33,7 +33,7 @@ If the first latin word is abbreviated juv., then the possible meaning
 imply a youth, or youthful or unmarried youth. 
 ```
 
-```{list-table} Marriage of Christian Fridrich Bleeke to Anne Margarethe Volckening
+```text
 2) d. 22 Febr. Christian Frid. Bleeke mit
       Anne Margarethe Volckenings beide
       aus Leteln, juv. cum virg.
