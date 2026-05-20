@@ -19,23 +19,17 @@ Johann Heinrich Philip Bleeke’s baptism is entry 46 on page 254 (of the baptis
 :class: image-override
 ```
 
-### Transliteration and Translation
+## Transliteration and Translation
 
-```{note}
-The Pr-- which precedes 46 — likely stands for Protestant.
-
-There are also two numbers in the image:.3. appears slight above and to the left of the 5, separated by and diagonal line.
-Perhaps these are the birth and baptism dates, respectively.
-```
-
-```{list-table} Baptism of Johann Heinrich Philip Bleeke
-
-* - 254
-* - Pr.46) d. 3./5ten Nov. Joh. Henrich Philip Bleeke
+```text
+Pr.46) d. 3./5ten Nov. Joh. Henrich Philip Bleeke
      aus Leteln. [P for Vater(father)]. Christian Frid. Bleeke n. 13
      M[for Mutter]. Anne Margarethe Volckenings.
      Sp[for godmother]. Joh. Frid. Volckening
-* - Pr.46) d. [perhaps born on 3rd and baptized on 5th] 5th Nov. Joh. Henrich Philip Bleeke
+```
+
+```text
+Pr.46) d. [perhaps born on 3rd and baptized on 5th] 5th Nov. Joh. Henrich Philip Bleeke
     from Leteln. father Christian Frid. Bleeke n. 13
     mother Anne Margarethe Volckenings.
     godfather Joh. Frid. Volckening
