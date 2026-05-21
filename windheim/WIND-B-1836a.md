@@ -11,20 +11,11 @@ Band 4*.
 
 ## Record
 
-This is the transliteration of the top-most header that spans pages 178 and 179
-
-1836 Geborene und Getaufte (1833 Births and Baptisms)            im Jahre 1836 achtzehnhundert sechs und dreißig
-
 ```{image} images/windheim-band5-img9-left.jpg
 :class: image-override
 ```
 
 The translitration of old German script into contemporary latin-based German is below.
-
-```{note}
-I believe—​though I’m not certain, since the header does not denote this—​that the "fourth" written above the
-date and time of birth may indicate the birth order of the child.
-```
 
 The translation follows below:
 
