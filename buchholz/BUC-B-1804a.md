@@ -40,7 +40,7 @@ Right page:
   - [marriage]
     auf der
     Copulations
-     [Register]
+    Register
   - vor und Zu Name ,Stand und Gewerbe
     und Wohnung der TaufZeugen
   - Name des Kindes
@@ -86,7 +86,7 @@ Right page:
   - [????]
     of the
     Marriage
-     [Register?]
+    Register
   - Given and Surname, Job and Trabe
     and reisidence of the Sponsors
   - Name of the Child
