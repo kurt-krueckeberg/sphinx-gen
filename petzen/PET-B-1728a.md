@@ -60,8 +60,6 @@ page where the list of the baptisms for 1728 begin.
 :class: image-override
 ```
 
-:::{admonition} Explanations
-
 ```{note}
 The father’s name appears to come first with the surname ending in "s". In contemporary German, an "s"
 after someone’s name, usually the first name, signifies the genitive case (possessive case); for example,
@@ -71,20 +69,14 @@ yields:
 7 July is Johann Heinrich Krückeberg’s
 little son Johann Friedrich baptized. Godfathers
 have been Johann Tönnies Eggerding und H Herman Wiese
-```
 
-```{note}
 Anno 1728 (Year 1728) appears at the top of on the prior page. Thus these baptism
 records continue on with those in 1728, and the Krückeberg son is the 18th baptism of
 1728.
-```
 
-```{note}
 Unlike the other baptism entries where the date appears first, the date of **7 Julÿ** is
 written above the father’s name, apparently the pastor forgot to start the entry with the date and had to insert it.
 ```
-
-:::
 
 ## Transliteration and Translation
 
