@@ -1,10 +1,10 @@
 # 1804 Johann Heinrich Kleinschmidt Baptism
 
-In 1804 Johann Heinrich Kleinschmidt, son…​
-
 ## Record
 
-The birth record is on {ref}`image 198 <BUC-B-1804a>` (the pages are unnumbered) of the Buchholz Kirchenbuch *Taufen 1760-1820, Abendmahl 1839-1878 Band 2*.
+The birth record is on {ref}`image 198 <BUC-B-1804a>` (the pages are
+unnumbered) of the Buchholz Kirchenbuch *Taufen 1760-1820, Abendmahl
+1839-1878 Band 2*.
 
 Left page:
 
