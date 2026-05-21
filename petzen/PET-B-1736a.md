@@ -37,7 +37,7 @@ entry of the prior page.
 
 :::{admonition} Explanations
 
-- **Berenbusch** is not mentioned explicitly. It is assumed img152 abbrev is
+- **Berenbusch** is not mentioned explicitly. It is assumed ![Image](images/img152-abbrev.jpg) is
 an abbreviation for it.
 
 :::
