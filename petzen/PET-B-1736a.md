@@ -37,8 +37,10 @@ entry of the prior page.
 
 :::{admonition} Explanations
 
-**Berenbusch** is not mentioned explicitly. It is assumed this is an abbreviation for it:
-![Image](images/img152-abbrev.jpg)
+**Berenbusch** does not appear in the record. It is assumed this is an abbreviation for it:
+```{image} images/img152-abbrev.jpg
+:width: 60%
+```
 
 :::
 
