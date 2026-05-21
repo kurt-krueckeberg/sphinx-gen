@@ -98,8 +98,7 @@ The translitration of old German script into contemporary latin-based German is 
 ```
 
 ```{note}
-I believe—​though I’m not certain, since the header does not denote this—​that the "fourth" written above the date and time of birth
-may indicate the birth order of the child.
+**fourth** written above the date and time of birth may indicate the birth order of the child.
 ```
 
 The translation follows below:
