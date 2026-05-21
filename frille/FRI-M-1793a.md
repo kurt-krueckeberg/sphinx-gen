@@ -21,7 +21,8 @@ View of marriage of Christian Fridrich Bleeke, page 53 (of the pages of marriage
 ### Transliteration and Translation
 
 ```{important}
-All brides names are followed by a Latin phrase in which abbreviations are sometimes used. Example Latin phrases are:
+All brides names are followed by a Latin phrase in which abbreviations are often used.
+Example Latin phrases are:
 
 - viduus cum stuprata — widower (viduus) with (cum) pregnant out of wedlock (stuprata)
 - viduus cum virg — widower (viduus) with virgo (young woman; virgin; maiden)
