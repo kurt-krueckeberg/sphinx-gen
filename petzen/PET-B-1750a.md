@@ -23,8 +23,8 @@
 ```
 
 ```{note}
-Is this [Arend Heinrich Vahlsing’s](PET-M-1728a.md) (1670-1730) son Jobst Heinrich
-Vahlsing?
+Is **Fahlsing's son from Evesen** Jobst Heinrich Vahlsing, who was the son of
+[Arend Heinrich Vahlsing’s](PET-M-1728a.md) (1670-1730)?
 ```
 
 ## Record
