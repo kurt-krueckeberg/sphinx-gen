@@ -30,7 +30,7 @@ Example Latin phrases are:
 - juv. cum virg — young man with maiden, virgin
 
 If the first latin word is abbreviated juv., then the possible meaning
-imply a youth, or youthful or unmarried youth. 
+implies a youth, or youthful or unmarried youth. 
 ```
 
 ```text
