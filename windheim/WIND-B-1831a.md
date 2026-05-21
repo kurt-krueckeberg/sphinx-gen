@@ -16,13 +16,7 @@ Windheim Kirchenbuch Volume 4: *Taufen 1816-1836, Beerdigungen 1816-1827,
 Beerdigungen 1827-1838, Trauungen 1816-1837, Konfirmationen 1816-1837,
 Trauungen 1837-1838 Band 4*, image 156 of 480.
 
-## Record
-
-Top of the page header:
-
-This is the transliteration of the top-most header that spans pages 178 and 179
-
-1833 Geborene und Getaufte im (1831 Births and Baptisms in the)            Kirchspiel Windheim - 1831 (in the parish Windheim 1831) 153
+## Baptism Image
 
 ```{image} images/windheim-band4-img156.jpg
 :class: image-override
