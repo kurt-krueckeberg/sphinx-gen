@@ -3,12 +3,6 @@
 In 1831 Christine Sophie Charlotte Buuck, daughter of Ernst Diedrich Buuck and Christine Wilhelmine Dörmann, was
 born at Windheim 78.
 
-```{important}
-In addition to Ernst Diedrich Buuck, who married Christine Wilhelmine
-Dörmann, there was Carl Friedrich Buuck, who married Marie Christine
-Kleinschmidt.
-```
-
 ## Record
 
 The baptism record is on {ref}`image 156, pages 152 and 153 <image156>`, of the

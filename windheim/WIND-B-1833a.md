@@ -2,11 +2,6 @@
 
 In 1833 Ernst Friedrich Conrad Buuck, son of Ernst Diedrich Buuck and Christine Wilhelmine Dörmann, was born at Windheim 78.
 
-```{important}
-In addition to Ernst Diedrich Buuck, who married Christine Wilhelmine Dörmann, there was Carl Friedrich Buuck, who married
-Marie Christine Kleinschmidt.
-```
-
 ## Record
 
 The baptism record is on {ref}`image 182, pages 178 and 179, <image182>` of the Windheim Kirchenbuch Volume 4: *Taufen

@@ -3,11 +3,6 @@
 In 1836 Sophie Wilhelmine Louise Buuck, daughter of Ernst Diedrich Buuck and Christine Wilhelmine Döhrmann, was
 born at Windheim 78.
 
-```{important}
-In addition to Ernst Diedrich Buuck, who married Christine Wilhelmine Dörmann, there was Carl Friedrich Buuck, who married
-Marie Christine Kleinschmidt.
-```
-
 ## Record
 
 The baptism record is on {ref}`image 9, pages ?? <image9>`, of the Windheim Kirchenbuch Volume 5G: *Taufen 1816-1836,
