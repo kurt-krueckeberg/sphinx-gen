@@ -39,7 +39,7 @@ entry of the prior page.
 
 **Berenbusch** does not appear in the record. It is assumed this is an abbreviation for it:
 ```{image} images/img152-abbrev.jpg
-:width: 60%
+:width: 200px
 ```
 
 :::
