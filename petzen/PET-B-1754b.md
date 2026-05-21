@@ -11,8 +11,7 @@ The birth of Heinrich Wilhelm Bleeke from Evesen also appears on this
 image, on the right hand page (not shown).
 ```
 
-## Image
-
+## Baptism Image
 ```{image} images/petzen-band1a-img191-left-1754.jpg
 :class: image-override
 ```

@@ -18,8 +18,7 @@ their child is born.
 
 :::
 
-## Image
-
+## Baptism Image
 ```{image} images/petzen-band1a-img243-blecken-right-page.jpg
 :class: image-override
 ```

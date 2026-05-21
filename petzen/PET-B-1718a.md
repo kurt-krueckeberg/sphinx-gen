@@ -6,8 +6,7 @@ The baptism of Anna Ilhabe Bleeck is on {ref}`image 126 <image126>`, right-hand
 page, last entry, of the Petzen "Verzeichnis der Getauften und
 Konfirmierten 1641-1784".
 
-## Image
-
+## Baptism Image
 ```{image} images/petzen-band1a-img126-bleeck.jpg
 :class: image-override
 ```

@@ -30,8 +30,7 @@
   - widow of Bleke
 ```
 
-## Image
-
+## Marriage Image
 ```{image} images/petzen-band1b-img65.jpg
 :class: image-override
 ```

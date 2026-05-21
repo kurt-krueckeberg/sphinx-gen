@@ -6,8 +6,7 @@ The burial record for Johann Heinrich Blecke[n] is found on {ref}`image 2323 <PE
 of the *Verzeichnis der Getrauten und Gestorbenen, 1641-1784* found on
 [Archion.de](https://archion.de).
 
-## Image
-
+## Burial Image
 ```{image} images/petzen-band1b-img223.jpg
 :class: image-override
 ```

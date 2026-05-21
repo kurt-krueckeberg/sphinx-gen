@@ -22,8 +22,7 @@ The October 7, 1770, baptism of Johann Heinrich Blecken is on
 Konfirmierten 1641-1784" available on the Protestant Kirchenbücher portal
 [Archion.de](https://archion.de).
 
-## Image
-
+## Baptism Image
 ```{image} images/petzen-band1a-img231-blecken.jpg
 :class: image-override
 ```

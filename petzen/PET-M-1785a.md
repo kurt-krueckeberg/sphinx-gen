@@ -9,7 +9,7 @@ Fridrich Weiland in 1785
 
 This marriage entry is on the {ref}`3rd image on Archion <PET-M-1785a>` of Petzen Kirchenbuch volume Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
-### Image
+### Marriage Image
 
 ```{image} images/petzen-band2-img3-weiland.jpg
 :class: image-override

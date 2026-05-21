@@ -5,8 +5,7 @@
 The baptism of Catherina Margarethe Bleeck  is found on image
 {ref}`121 <PET-B-1713a>`, right side of the page, entry #3 for 1714:
 
-## Image
-
+## Baptism Image
 ```{image} images/petzen-band1a-img121.jpg
 :class: image-override
 ```

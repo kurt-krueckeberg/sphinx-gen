@@ -1,7 +1,6 @@
 # 1670 Heinrich Arends Vahlsing Baptism
 
-## Image
-
+## Baptism Image
 The 1670 baptism entry is found on {ref}`image 47 <WIED-B-1670a>`, the first entry of the Wiedensahl parish *Kirchenbuch
 1666-1703*.
 

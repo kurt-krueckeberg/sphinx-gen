@@ -6,8 +6,7 @@ The death and burial of Friedrich Wilhelm Weiland appears on {ref}`image 247 <PE
 the Petzen church register *Verzeichnis der Getauften, Konfirmierten,
 Getrauten und Gestorbenen 1785-1827*.
 
-## Image
-
+## Burial Image
 ```{image} images/petzen-band2-img247-1.jpg
 :class: image-override
 ```

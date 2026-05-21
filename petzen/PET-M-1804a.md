@@ -7,8 +7,7 @@ Lauen is found on {ref}`image 13, page 20, entry 3, <PET-M-1804a>` of the Petzen
 Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen 1785-1827".
 
-## Image
-
+## Marriage Image
 ```{image} images/petzen-band2-img13-heading.jpg
 :class: image-override
 ```

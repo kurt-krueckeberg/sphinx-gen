@@ -6,8 +6,7 @@ The 23 September 1700 marriage of Heinrich Arendt Vahlsing to
 Anna Elisabeth Becker is on {ref}`image 25 <image25>` of the Petzen
 "Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
-## Image
-
+## Marriage Image
 ```{image} images/petzen-band1b-img25.png
 :class: image-override
 ```

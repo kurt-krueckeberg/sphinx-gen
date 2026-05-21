@@ -5,8 +5,7 @@
 The June 26, 1712, baptism of Maria Elisabeth Bleeke is on {ref}`image 120 <PET-B-1712a>`, the right-hand page, the 2nd entry from the top, of the
 Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
-## Image
-
+## Baptism Image
 ```{image} images/petzen-band1a-img120-original-right-page-bleek.png
 :class: image-override
 ```
