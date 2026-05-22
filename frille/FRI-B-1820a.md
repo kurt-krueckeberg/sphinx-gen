@@ -91,11 +91,13 @@ Translation of page header: **Births and Baptims in 1820**.
   - Anne Margrethe Volkening from Leeteln
 ```
 
-## Record
+## Citation
 
 Evangelische Gemeinde Frille, Kreis Minden, “Gebohrne im Jahre 1820” [sic.],
 entry #12 for Christine Luise Bleeke, 31 March 1820,
 Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,
 Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
-Digital images: Landesarchiv NRW, [www.archive.nrw](https://www.archive.nrw.de) (accessed 6 December 2025).
+Digital images: Landesarchiv NRW,
+[www.archive.nrw](https://dfg-viewer.de/show/?tx_dlf[id]=https%3A%2F%2Fwww.landesarchiv-nrw.de%2Fdigitalisate%2FAbt_Ostwestfalen-Lippe%2FP1%2FB%2F%7E001%2FB00168_01_1815-1830%2Fmets.xml)
+, image 64 (accessed 6 December 2025).
 
