@@ -3,9 +3,9 @@
 ## Record
 
 The baptism Charlotte Loyse[Louise] Heiniette Bleecke occurred on 18 July
-1760. It appears on {ref}`page 16, on image 11 <FRI-B-1760a>`, of Frille
-"Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism,
-Marriages, Deaths) 1758-1804 ", on image 11 of 388.
+1760. It appears on {ref}`page 16, on image 11 <FRI-B-1760a>`, of the
+Frille parish "Verzeichnis der Getauften, Getrauten, Gestorbenen
+(Register of Baptism, Marriages, Deaths) 1758-1804 ", on image 11 of 388.
 
 ## Images
 

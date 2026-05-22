@@ -2,8 +2,10 @@
 
 ## Record
 
-The baptism/birth of Carl Friedrich Bleke[Bleeke] occurred on 18 March 1739. It appears on {ref}`image 128, on the left page, entry #10 <FRI-B-1739a>` in
-Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1664-1757.
+The baptism/birth of Carl Friedrich Bleke[Bleeke] occurred on 18 March
+1739. It appears on {ref}`image 128, on the left page, entry #10
+<FRI-B-1739a>` in the Frille parish "Verzeichnis der Getauften, Getrauten, Gestorbenen
+(Register of Baptism, Marriages, Deaths) 1664-1757.
 
 ## Images
 

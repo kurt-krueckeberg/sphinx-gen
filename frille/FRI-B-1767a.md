@@ -3,9 +3,9 @@
 ## Record
 
 The baptism Maria Eleonore Bleecke occurred on 24 ovembery 1767. It appears
-on {ref}`image 33, page 61 of the baptims entries1 <FRI-B-1767a>`, of
-Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of
-Baptism, Marriages, Deaths) 1758-1804 ".
+on {ref}`image 33, page 61 of the baptims entries1 <FRI-B-1767a>`, of the
+Frille parish "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register
+of Baptism, Marriages, Deaths) 1758-1804 ".
 
 ## Images
 
