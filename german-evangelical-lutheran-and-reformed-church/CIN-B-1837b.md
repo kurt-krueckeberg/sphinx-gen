@@ -49,7 +49,7 @@ Deutsche Evangelisch-Lutherische und Reformierte Kirche (North German Lutheran C
 
 (CIN-B-1837b)=
 
-German Evangelical Lutheran and Reformed Church(Nord deutschlische lutheranische Kirche), 1814-1848. Kirchenbuch 1814-1848, Volume 1.
+Nord deutschlische lutheranische Kirche (German Evangelical Lutheran and Reformed Church), 1814-1848. Kirchenbuch 1814-1848, Volume 1.
 (<http://hdl.handle.net/2374.UC/753629> : 25 February 2025), path: The Archives and Rare Books Library, University of Cincinnati >
 Third Germabn Protestant Church Records > German Evangelical Lutheran and Reformed Church, 1814-1848 >  page 42 of PDF
 
