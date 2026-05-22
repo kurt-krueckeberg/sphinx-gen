@@ -2,7 +2,7 @@
 
 ## Record
 
-The baptism record is on {ref}`page 42, of volume 1 <CIN-B-1837b>`, of the PDF of the Kirchenbuch of the
+The baptism record is on {ref}`page 42, of volume 1 <CIN-B-1837b>` of the PDF of the Kirchenbuch of the
 Deutsche Evangelisch-Lutherische und Reformierte Kirche (North German Lutheran Church) of Cincinnati.
 
 ```{image} images/vol1-page42.jpg
