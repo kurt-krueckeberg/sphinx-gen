@@ -103,6 +103,4 @@ entry #15, Christian Friederich Bleeke, 7 May 1821, Kirchenbuchduplikat, B 168 (
 Personenstandsarchiv Westfalen-Lippe, Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
 Digital images: Landesarchiv NRW,
 [image viewer](https://dfg-viewer.de/show/?tx_dlf[id]=https%3a%2f%2fwww.landesarchiv-nrw.de%2fdigitalisate%2fabt_ostwestfalen-lippe%2fp1%2fb%2f%7e001%2fb00168_01_1815-1830%2fmets.xml)
-,  image 80 (accessed 6 December 2025).
-(accessed 6 December 2025).
-
+, image 80 (accessed 6 December 2025).
