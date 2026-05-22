@@ -44,8 +44,8 @@ Translation of page header: **Births and Baptims in 1820**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 4
-  - Marie Christine
+* - 12
+  - Christine Louise
     Bleeke
   - den acht und zwanzigsten
     März Abends neuen Uhr
