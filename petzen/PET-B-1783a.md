@@ -52,7 +52,7 @@ The genitive "s" ending on the father’s and godmother’s surnames were remove
 the "n" ending indicative of a female’s surname.117
 ```
 
-## Citations
+## Citation
 
 (PET-B-1783a)=
 

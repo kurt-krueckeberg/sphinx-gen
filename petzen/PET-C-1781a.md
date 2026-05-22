@@ -45,7 +45,7 @@ Translation
 4. Johann Heinrich Krückeberg **********_ from Berenbusch
 ```
 
-## Citations
+## Citation
 
 (PET-C-1781a)=
 

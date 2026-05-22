@@ -60,7 +60,7 @@ Getrauten und Gestorbenen 1785-1827*.
   - 1 widow. 1 son. 2 daughters
 ```
 
-## Citations
+## Citation
 
 (PET-D-1806b)=
 

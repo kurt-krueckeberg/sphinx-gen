@@ -68,7 +68,7 @@ Godfather: Johann Harm Hoff of Petzen.
 Died: 2 May 1843.
 ```
 
-## Citations
+## Citation
 
 (PET-M-1760a)=
 

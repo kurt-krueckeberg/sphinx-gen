@@ -109,7 +109,7 @@ Gestorbenen 1785-1827" found on [Archion.de](https://archion.de).
   - the bride already had a grown, illegitimate daughter
 ```
 
-## Citations
+## Citation
 
 (PET-M-1812d)=
 

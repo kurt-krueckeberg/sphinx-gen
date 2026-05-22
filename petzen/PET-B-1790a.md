@@ -40,7 +40,7 @@ apparently the adjective form of the surname Pichtsmeier, but the
 abbreviation before **Pichtsmeiersche** is uncertain.
 ```
 
-## Citations
+## Citation
 
 (PET-B-1790a)=
 

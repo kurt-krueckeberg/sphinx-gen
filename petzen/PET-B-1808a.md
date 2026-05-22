@@ -113,7 +113,7 @@ Thode’s define Hausfrau as:
     Evesen
 ```
 
-## Citations
+## Citation
 
 (PET-B-1808a)=
 

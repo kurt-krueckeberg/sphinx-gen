@@ -93,7 +93,7 @@ Female sponsors are [together?]
 3) Catharina Margaretha Rinne aus Evesen
 ```
 
-## Citations
+## Citation
 
 (PET-B-1793a-1)=
 

@@ -45,7 +45,7 @@ Translation
 2) Carl Friedrich Gottlieb Kruckeberg aus Berenbusch
 ```
 
-## Citations
+## Citation
 
 (PET-C-1792a)=
 

@@ -105,7 +105,7 @@ The birth record of Hans Heinrich Wilharm occurs on {ref}`image
   - Johann Heinrich Brands from No. 10 in Evesen
 ```
 
-## Citations
+## Citation
 
 (PET-B-1797a)=
 

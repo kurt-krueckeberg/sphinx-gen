@@ -77,7 +77,7 @@ On January 3rd, Henrich Vahlsing — a shepherd of 32 years’ standing from
 the High-Comital estate farm at Höckersau — was buried, aged 63 years.
 ```
 
-## Citations
+## Citation
 
 (PET-D-1730a)=
 

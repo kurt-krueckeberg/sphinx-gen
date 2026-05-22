@@ -48,7 +48,7 @@ the 26th Decemb. Johan Henrich Krückeberg
       from Berenbusch [was] buried age 55
 ```
 
-## Citations
+## Citation
 
 (PET-D-1759a)=
 

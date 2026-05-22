@@ -33,7 +33,7 @@ pregnant]. The sponsor was Johann Friedrich Altmeyer, steward on the Hofe
 Heb[?] No. 2.
 ```
 
-## Citations
+## Citation
 
 (PET-B-1789a)=
 

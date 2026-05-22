@@ -63,7 +63,7 @@ The godmothers were Anna Engel Möller of Heßen and Sophia Christine
 Hartmann, of Evesen no. 9.
 ```
 
-## Citations
+## Citation
 
 (PET-B-1773a)=
 

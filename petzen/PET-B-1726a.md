@@ -38,7 +38,7 @@ Anna Maria Elisabeth, was baptized. Godmothers: The wife of Hans Herman
 Winsen and the wife of Johann Br[aun]s from Evesen
 ```
 
-## Citations
+## Citation
 
 (image136)=
 

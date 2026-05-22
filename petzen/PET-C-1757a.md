@@ -65,7 +65,7 @@ Herman Heinrich Hermening from Röcke
 Johan Heinrich Krückeberg from Bernbusch
 ```
 
-## Citations
+## Citation
 
 (PET-C-1757a)=
 

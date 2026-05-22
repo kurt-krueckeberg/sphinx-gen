@@ -104,7 +104,7 @@ Translation
     Tegtmeyern aus Meissen[faded, ambiguous] N:41
 ```
 
-## Citations
+## Citation
 
 (PET-M-1790c)=
 

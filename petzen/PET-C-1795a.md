@@ -83,7 +83,7 @@ II. Girls
      2, [unclear: Prussia?]
 ```
 
-## Citations
+## Citation
 
 (PET-C-1795a)=
 

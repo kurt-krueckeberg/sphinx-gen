@@ -29,7 +29,7 @@ Translation
     Evesen was buried. His illnes was the malignant fever. His age was 34¼ years.
 ```
 
-## Citations
+## Citation
 
 (PET-D-1779a)=
 

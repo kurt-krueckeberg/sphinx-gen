@@ -1,6 +1,6 @@
 # 1812 Philippine Louise Weiland Marriage
 
-## Citations
+## Citation
 
 In 1812 Philippine Louise Weiland, illegitimate daughter of Jobst Heinrich Weiland, married Friedrich Wilkening.
 
@@ -120,7 +120,7 @@ Translation of page header
       by the groom
 ```
 
-## Citations
+## Citation
 
 (PET-M-1812c)=
 

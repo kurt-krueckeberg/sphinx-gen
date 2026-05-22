@@ -1,6 +1,6 @@
 # 1811 Philippine Louise Weiland Marriage
 
-## Citations
+## Citation
 
 The marriage is on {ref}`image 26 from Archion <PET-M-1811a>`.
 
@@ -121,7 +121,7 @@ Translation of header for pages 46 and 47
     'made pregnant' by the groom
 ```
 
-## Citations
+## Citation
 
 (PET-M-1811a)=
 

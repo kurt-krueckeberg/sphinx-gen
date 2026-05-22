@@ -70,7 +70,7 @@ Carl Pape from Röcke
 Carl Krückeberg from Berenbusch
 ```
 
-## Citations
+## Citation
 
 (PET-C-1764a)=
 

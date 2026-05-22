@@ -101,7 +101,7 @@ is found on {ref}`image 10 <PET-M-1797a>` of the
   - 11
 ```
 
-## Citations
+## Citation
 
 (PET-M-1797a)=
 

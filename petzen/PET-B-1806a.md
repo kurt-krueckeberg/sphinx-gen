@@ -198,7 +198,7 @@ Pages 176-177 Header
   - Carl Friedrich Gottlieb Krückeberg farm laborer in Bärenbush C Friedrich Tegtmeier from Meinsen
 ```
 
-## Citations
+## Citation
 
 (PET-B-1806a)=
 

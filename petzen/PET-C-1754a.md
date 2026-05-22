@@ -38,7 +38,7 @@ Philippina Maria Hofs aus Röcke
 Ilsabey.**
 ```
 
-## Citations
+## Citation
 
 (PET-C-1754a)=
 

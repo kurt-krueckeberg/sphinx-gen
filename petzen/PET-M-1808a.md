@@ -170,7 +170,7 @@ Translation of header for pages 28 and 29
     27 in Röcke
 ```
 
-## Citations
+## Citation
 
 (PET-M-1808a)=
 

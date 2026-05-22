@@ -153,7 +153,7 @@ Page 655:
   - his widow died 8 [May?] 1849
 ```
 
-## Citations
+## Citation
 
 (PET-D-1822b)=
 

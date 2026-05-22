@@ -231,7 +231,7 @@ See this more detailed explantion: [What is a Lieftucht/Leibzucht?](https://chri
   - [empty of text]
 ```
 
-## Citations
+## Citation
 
 (PET-M-1812a)=
 

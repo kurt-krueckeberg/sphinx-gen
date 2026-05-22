@@ -65,7 +65,7 @@ war 3 und 1/4 Jahr.
      was 3 and 1/4 years.
 ```
 
-## Citations
+## Citation
 
 (PET-D-1794a)=
 

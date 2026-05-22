@@ -72,7 +72,7 @@ Boys
 2. Carl Heinrich Alldag. from Evesen
 ```
 
-## Citations
+## Citation
 
 (PET-C-1820a)=
 

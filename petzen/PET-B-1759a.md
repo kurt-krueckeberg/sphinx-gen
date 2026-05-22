@@ -63,7 +63,7 @@ Johann Heinrich Krückebergs at Berenbusch
 was baptized. Sponsors 3 Mädgens, Wiesen, Engelking [un/um]
 ```
 
-## Citations
+## Citation
 
 (PET-B-1759a)=
 

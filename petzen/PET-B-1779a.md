@@ -30,7 +30,7 @@ Sophia Margaretha Weiland’s baptism is on {ref}`image 262, right page, entry n
     The godmother was Catheine Korfen from Nammen.
 ```
 
-## Citations
+## Citation
 
 (PET-B-1779a)=
 

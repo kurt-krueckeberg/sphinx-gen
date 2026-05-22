@@ -94,7 +94,7 @@ Page header trasnlations: **Births in the Petzen parish in 1815**.
   - [empty of text]
 ```
 
-## Citations
+## Citation
 
 (PET-B-1815a)=
 

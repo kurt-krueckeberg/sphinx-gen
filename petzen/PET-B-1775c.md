@@ -39,7 +39,7 @@ Elisabeth Bruns from Evesen by the bridge.
 + May 4, 1846
 ```
 
-## Citations
+## Citation
 
 (PET-B-1775c)=
 

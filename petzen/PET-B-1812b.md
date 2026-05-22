@@ -173,7 +173,7 @@ This seems to be the date of his death, and it is likely prefixed with **ges** f
     in Röcke
 ```
 
-## Citations
+## Citation
 
 (PET-B-1812b)=
 

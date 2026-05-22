@@ -95,7 +95,7 @@ Hockers Aue and Sophie Charlotte Rösener
 from Petzen
 ```
 
-## Citations
+## Citation
 
 (PET-B-1782a)=
 

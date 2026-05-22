@@ -80,7 +80,7 @@ The godmother was Anna Maria Elisabeth Bleken, the wife of Johann Heinrich
 Bleken of Evesen.
 ```
 
-## Citations
+## Citation
 
 (PET-B-1775a)=
 

@@ -32,7 +32,7 @@ Baptism Sponsors, Tonnis Jäger, Hi[nrig] Vogt at Namnen, [?] the miller
 at Nammen.
 ```
 
-## Citations
+## Citation
 
 (PET-B-1679a)=
 

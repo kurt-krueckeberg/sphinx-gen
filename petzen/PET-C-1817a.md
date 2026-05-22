@@ -64,7 +64,7 @@ Note: Entries 1-4 and those entries after #7 are ommited.
 7. Sophie Margarethe Wilharm. Barenbusch n. 9
 ```
 
-## Citations
+## Citation
 
 (PET-C-1817a)=
 

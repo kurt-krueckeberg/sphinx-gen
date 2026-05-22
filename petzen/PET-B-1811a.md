@@ -58,7 +58,7 @@ The birth and baptism of Louise Dorothee Weiland is on {ref}`image 115, pages 22
   - Dorothee Deerberg n. 6,  Dorothee Lenore Kuhlmann n. 3, all from Evesen
 ```
 
-## Citations
+## Citation
 
 (PET-B-1811a)=
 

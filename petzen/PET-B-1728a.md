@@ -97,7 +97,7 @@ Translation
 was baptized. Godfathers were Johann Tönnies Eggerding and H Herman Wiese
 ```
 
-## Citations
+## Citation
 
 (PET-B-1728a)=
 

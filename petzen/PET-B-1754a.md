@@ -27,7 +27,7 @@ the younger daughter of Herman Heinrich Weiland at Evesen +
 Godmother was Joh. Stedings wife.
 ```
 
-## Citations
+## Citation
 
 (PET-B-1754a)=
 

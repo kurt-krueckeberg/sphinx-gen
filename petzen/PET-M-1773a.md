@@ -76,7 +76,7 @@ Translation
           Elisabeth née Schakel from Päpinghausen
 ```
 
-## Citations
+## Citation
 
 (PET-M-1773a)=
 

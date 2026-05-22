@@ -53,7 +53,7 @@ d 23  Jun. The stillborn little boy of Johann Heinrich Kruckeberg
       from Berenbusch was interred
 ```
 
-## Citations
+## Citation
 
 (PET-D-1771a)=
 

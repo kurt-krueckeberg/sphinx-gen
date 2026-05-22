@@ -60,7 +60,7 @@ the 21st October the shepard Henirch Vahlsing from Evesen married Anna
 Margaretha Bruns from Evesen.
 ```
 
-## Citations
+## Citation
 
 (PET-M-1728a)=
 

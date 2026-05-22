@@ -62,7 +62,7 @@ Getrauten und Gestorbenen 1785-1827*.
   - a widow and 3 children
 ```
 
-## Citations
+## Citation
 
 (PET-D-1806a)=
 

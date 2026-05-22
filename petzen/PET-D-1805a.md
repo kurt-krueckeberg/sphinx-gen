@@ -130,7 +130,7 @@ farmer.
   - He was a quiet true diligent [man] a very useful member of the parish
 ```
 
-## Citations
+## Citation
 
 (PET-D-1805a)=
 

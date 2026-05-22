@@ -32,7 +32,7 @@ Sickmeiers Ehefrau aus Evesen No 2.
     of Evesen No. 2.
 ```
 
-## Citations
+## Citation
 
 (PET-B-1778c)=
 

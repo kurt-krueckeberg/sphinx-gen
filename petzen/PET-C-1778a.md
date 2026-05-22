@@ -47,7 +47,7 @@ Page Header and Confimation Entry no. 2 for Jobst Heinrich Krückeberg
 2. Jobst Heinrich Krückeberg from Berenbusch
 ```
 
-## Citations
+## Citation
 
 (PET-C-1778a)=
 

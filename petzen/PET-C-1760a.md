@@ -17,7 +17,7 @@ This 1760 confirmation of Johann Heinrich Bleke is found on {ref}`image 311 <PET
 Johann Heinrich Bleke Evesen
 ```
 
-## Citations
+## Citation
 
 (PET-C-1760a)=
 

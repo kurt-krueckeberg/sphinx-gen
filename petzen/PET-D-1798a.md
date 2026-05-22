@@ -84,7 +84,7 @@ Getrauten und Gestorbenen 1785-1827".
     9
 ```
 
-## Citations
+## Citation
 
 (PET-D-1798a)=
 

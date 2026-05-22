@@ -136,7 +136,7 @@ Translation of Nachtrag dates written below her name
  died      9/11/1878
 ```
 
-## Citations
+## Citation
 
 (PET-B-1798b)=
 

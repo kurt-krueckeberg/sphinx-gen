@@ -1,6 +1,6 @@
 # 1785 Philippiine Louise Weiland Baptism
 
-## Citations
+## Citation
 
 Philippine Louis Weiland’s baptism is found on {ref}`image 34,
 page 62 <PET-B-1785a>` of Petzen Kirchenbuch volume 2.
@@ -42,7 +42,7 @@ Godmother was Philippine +
 Maria Beuke Meinsen native-born
 ```
 
-## Citations
+## Citation
 
 (PET-B-1785a)=
 

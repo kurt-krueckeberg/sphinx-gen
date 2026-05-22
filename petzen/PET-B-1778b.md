@@ -34,7 +34,7 @@ Translation
     godmother: Anna Sophia Maria Rinnen
 ```
 
-## Citations
+## Citation
 
 (PET-B-1778b)=
 

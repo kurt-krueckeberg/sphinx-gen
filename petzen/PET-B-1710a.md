@@ -26,7 +26,7 @@ Nahmens Johann Henrich der Gevatter war
 Johan Notmeyer
 ```
 
-## Citations
+## Citation
 
 (PET-B-1710a)=
 

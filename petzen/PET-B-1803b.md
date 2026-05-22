@@ -164,7 +164,7 @@ administrative term.
   - Sophie Ernestine Wilharm from Evesen
 ```
 
-## Citations
+## Citation
 
 (PET-B-1803b)=
 

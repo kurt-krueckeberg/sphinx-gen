@@ -46,7 +46,7 @@ the 8th May Anna Maria Krückeberg
       from Berenbusch [was] buried age 56 years
 ```
 
-## Citations
+## Citation
 
 (PET-D-1757b)=
 

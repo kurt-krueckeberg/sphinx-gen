@@ -99,7 +99,7 @@ images.
   - 
 ```
 
-## Citations
+## Citation
 
 (PET-C-1806a)=
 

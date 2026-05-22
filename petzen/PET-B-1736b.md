@@ -32,7 +32,7 @@ October 7th Soldier Weiland from Evesen a son: Hans
 Heinrich. Godfater Hardtung from Evesen shepherd. Weiland [M?]ön[ck]hof
 ```
 
-## Citations
+## Citation
 
 (PET-B-1736b)=
 

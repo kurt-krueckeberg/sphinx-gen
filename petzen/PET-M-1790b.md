@@ -58,7 +58,7 @@ Translation
     Meinsen[faded, ambiguous] N:4
 ```
 
-## Citations
+## Citation
 
 (PET-M-1790b)=
 

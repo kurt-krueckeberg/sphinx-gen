@@ -36,7 +36,7 @@ Translation of entry 7
 Godmother was Mrs. Christine Eleonore widow Rinne ["of the"] cobbler in Penyen/Peten, head of household
 to five.
 
-## Citations
+## Citation
 
 (image45)=
 

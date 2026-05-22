@@ -34,7 +34,7 @@ Translation
     was Mom[k/d]hoft from Evesen No. 5
 ```
 
-## Citations
+## Citation
 
 (PET-B-1776a)=
 

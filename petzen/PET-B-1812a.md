@@ -246,7 +246,7 @@ new Stätte no. 18 Berenbusch. See {external+nla:doc}`Document 1: Petition submi
     in Röcke
 ```
 
-## Citations
+## Citation
 
 (PET-B-1812a)=
 

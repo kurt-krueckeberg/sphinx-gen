@@ -161,7 +161,7 @@ labor, or they might have been "living in" as hired hands or with family.
   - 
 ```
 
-## Citations
+## Citation
 
 (PET-D-1819a)=
 

@@ -50,7 +50,7 @@ Maria Elisabeth Möller. He was named Johann Heinrich by the youngest
 Bleken, the brother of the child's father.
 ```
 
-## Citations
+## Citation
 
 (PET-B-1770a)=
 

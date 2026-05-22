@@ -64,7 +64,7 @@ On  Aug 29th is here buried Anna Christina
         and was 36 years old.
 ```
 
-## Citations
+## Citation
 
 (PET-D-1773b)=
 

@@ -61,7 +61,7 @@ Baptisms                                                    1775
     The godmother was the young Mostin from Berenbusch
 ```
 
-## Citations
+## Citation
 
 (PET-B-1775b)=
 

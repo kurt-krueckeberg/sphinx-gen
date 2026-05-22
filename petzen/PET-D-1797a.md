@@ -74,7 +74,7 @@ no. 11 Evesen.
   - Apr. 14
 ```
 
-## Citations
+## Citation
 
 (PET-D-1797a)=
 

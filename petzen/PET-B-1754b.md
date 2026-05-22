@@ -32,7 +32,7 @@ d 10th Nov. Anna Ilse Margaret Weiland was baptized
    Godmother was the widow Mönchhof at Evesen
 ```
 
-## Citations
+## Citation
 
 (PET-B-1754b)=
 

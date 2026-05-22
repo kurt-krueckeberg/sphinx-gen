@@ -27,7 +27,7 @@
     Elisabeth Bornemans from Evesen No. 7
 ```
 
-## Citations
+## Citation
 
 (PET-B-1789b)=
 

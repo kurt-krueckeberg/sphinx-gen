@@ -55,7 +55,7 @@ son of Johann Heinrich Krückeberg from Berenbusch,
 was buried, aged 8¾ years
 ```
 
-## Citations
+## Citation
 
 (PET-D-1747a)=
 

@@ -107,7 +107,7 @@ See discussion of **Einlieger/Einlinger** at [Image 82](PET-B-1803b.md).
     farm laborer in Bärenbusch
 ```
 
-## Citations
+## Citation
 
 (PET-B-1815b)=
 

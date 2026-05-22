@@ -63,7 +63,7 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827."
   - Philippine Kuhlmann from No. 3. in Evesen
 ```
 
-## Citations
+## Citation
 
 (PET-B-1805a)=
 

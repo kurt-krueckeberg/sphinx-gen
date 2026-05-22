@@ -33,7 +33,7 @@ Isabein is a short form of Elisabeth
     Ilsabei maiden name Stediege was stillborn
 ```
 
-## Citations
+## Citation
 
 (PET-B-1778a)=
 

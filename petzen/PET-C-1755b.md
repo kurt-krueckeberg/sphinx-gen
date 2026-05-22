@@ -56,7 +56,7 @@ No page number is written on this page.
 * - **Johan Heinrich Krückeberg aus(from) Berenbush**
 ```
 
-## Citations
+## Citation
 
 (PET-C-1755b)=
 

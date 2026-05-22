@@ -34,7 +34,7 @@ Sponsors: Hans Heinrich [Meyer] from Nordholz, Johan Friedrich Hartman from
 Evesen and Jobst Heinrich Fahlsing from Evesen.
 ```
 
-## Citations
+## Citation
 
 (PET-B-1746a)=
 

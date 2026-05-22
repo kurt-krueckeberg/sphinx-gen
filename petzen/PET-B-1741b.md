@@ -28,7 +28,7 @@ little daugher was baptized [named] Anna Catharina Baptismal sponsor the
 mother [recently?] from Meissen
 ```
 
-## Citations
+## Citation
 
 (PET-B-1741b)=
 

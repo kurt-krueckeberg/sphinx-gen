@@ -41,7 +41,7 @@ Brüggeman Mrs at Nordholtz, Nergen Mrs at P[?]etzen
 and Bormans Mrs from Berenbusch
 ```
 
-## Citations
+## Citation
 
 (PET-B-1748a)=
 

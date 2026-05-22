@@ -52,7 +52,7 @@ The 29th January was Johan Henr[ich] Krückeberg
      Rösener from Evesen
 ```
 
-## Citations
+## Citation
 
 (PET-M-1758a)=
 

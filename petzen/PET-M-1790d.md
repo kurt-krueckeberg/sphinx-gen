@@ -25,7 +25,7 @@ The marriage of Johann Heinrich Weiland shown occurred on 17 October 1790:
      No. 24 was married to maiden Anna Margarthea [H?]arren aus Meissen No. 1
 ```
 
-## Citations
+## Citation
 
 (PET-M-1790d)=
 

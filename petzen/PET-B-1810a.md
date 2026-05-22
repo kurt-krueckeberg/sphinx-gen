@@ -101,7 +101,7 @@ Gestorbenen 1785-1827.
     in Evesen
 ```
 
-## Citations
+## Citation
 
 (PET-B-1810a)=
 

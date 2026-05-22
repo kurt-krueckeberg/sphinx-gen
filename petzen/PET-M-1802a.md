@@ -57,7 +57,7 @@ entry 6 on page 18. The year 1802 is written above entry number 1:
   - 21
 ```
 
-## Citations
+## Citation
 
 (PET-M-1802a)=
 

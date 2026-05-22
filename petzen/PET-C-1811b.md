@@ -77,7 +77,7 @@ der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
   - 
 ```
 
-## Citations
+## Citation
 
 (PET-C-1811b)=
 

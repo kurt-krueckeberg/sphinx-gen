@@ -19,7 +19,7 @@ so Catharina Margaretha genandt und [sein/sind] die Gevatterinnen [gew???]
 Vaters Schwester auß Meißen und der Mutters Schwester aus Evesen
 ```
 
-## Citations
+## Citation
 
 (PET-B-1713a)=
 

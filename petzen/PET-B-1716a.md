@@ -38,7 +38,7 @@ Translation
 was baptized. Godmother the wife of the shepherd of the Höchersau.
 ```
 
-## Citations
+## Citation
 
 (PET-B-1716a)=
 

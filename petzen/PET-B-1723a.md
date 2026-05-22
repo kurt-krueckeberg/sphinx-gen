@@ -30,7 +30,7 @@ Translationn
      baptized. godfather [his?] Father in Mei[ßen]
 ```
 
-## Citations
+## Citation
 
 (image132)=
 

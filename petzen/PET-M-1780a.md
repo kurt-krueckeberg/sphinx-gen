@@ -60,7 +60,7 @@ Translation
 was married to Ilse Marie nee Möller, widow of Bleke, from Evesen
 ```
 
-## Citations
+## Citation
 
 (PET-M-1780a)=
 

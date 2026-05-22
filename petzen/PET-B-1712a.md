@@ -32,7 +32,7 @@ Translation
 Elisabeth baptized. [???] the father's mother.
 ```
 
-## Citations
+## Citation
 
 (PET-B-1712a)=
 

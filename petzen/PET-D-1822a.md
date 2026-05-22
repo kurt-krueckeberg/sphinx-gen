@@ -153,7 +153,7 @@ source)
   - 
 ```
 
-## Citations
+## Citation
 
 (PET-D-1822a)=
 

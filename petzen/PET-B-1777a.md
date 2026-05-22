@@ -65,7 +65,7 @@ Translation
    Nordholz and Hans Heinrich Möller from Evesen
 ```
 
-## Citations
+## Citation
 
 (PET-B-1777a)=
 

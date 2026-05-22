@@ -146,7 +146,7 @@ applies to her or the person in the entry following.
   - Ms. Carol[ine] Aldag n. 4 Evesen
 ```
 
-## Citations
+## Citation
 
 (PET-B-1803a)=
 

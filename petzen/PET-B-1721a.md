@@ -29,7 +29,7 @@ Translation
    was baptized. Godmother wife of Bleeck from Meißsen.
 ```
 
-## Citations
+## Citation
 
 (PET-B-1721a)=
 

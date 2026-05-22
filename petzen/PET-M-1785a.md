@@ -33,7 +33,7 @@ page and ran out of space.
 married Philippina Watermann, the widow of Scheisen, from Evesen.
 ```
 
-## Citations
+## Citation
 
 (PET-M-1785a)=
 

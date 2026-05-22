@@ -95,7 +95,7 @@ the 4th marriage of 1796:
   - 11
 ```
 
-## Citations
+## Citation
 
 (PET-M-1796a)=
 

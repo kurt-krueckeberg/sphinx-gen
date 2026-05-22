@@ -47,7 +47,7 @@ little son Jobst Hinrich baptized, and the godfather was the shepherd
 Vahlsing from Eversen
 ```
 
-## Citations
+## Citation
 
 (PET-B-1733a)=
 

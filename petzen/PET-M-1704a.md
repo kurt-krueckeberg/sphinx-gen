@@ -45,7 +45,7 @@ Johann Tönnies Eggerding from D[e]k[h][?][ſ/f] and M. Anna Catharina
 Eberdings from Petzen married the 15ten October.
 ```
 
-## Citations
+## Citation
 
 (image27)=
 

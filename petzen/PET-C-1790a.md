@@ -21,7 +21,7 @@ Image 190 shows the recorded name of Christina Krückebergen of Berenbusch liste
 8) Friderich Wilhelm Weiland---------------Evesen 20
 ```
 
-## Citations
+## Citation
 
 (PET-C-1790a)=
 

@@ -56,7 +56,7 @@ The 14th June Johann Heinrich Krückeberg
      Seeger from Evesen
 ```
 
-## Citations
+## Citation
 
 (PET-M-1761a)=
 

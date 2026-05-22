@@ -136,7 +136,7 @@ Baptisms                                                                1779
                 on the Höckersau[Höcker's estate].
 ```
 
-## Citations
+## Citation
 
 (PET-B-1779b)=
 

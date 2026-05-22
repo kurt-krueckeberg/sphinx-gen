@@ -102,7 +102,7 @@ The birth and baptism of Wilhelmine Leonore Weiland is on {ref}`image 108, pages
     Röcke
 ```
 
-## Citations
+## Citation
 
 (PET-B-1809a)=
 

@@ -59,7 +59,7 @@ son of the linen weaver Krückeberg of Bernbusch,
 was baptized; godfather: Fahlsing’s son from Evesen.
 ```
 
-## Citations
+## Citation
 
 (PET-B-1750a)=
 

@@ -63,7 +63,7 @@ and his wife Ehefrau Catherine Margaretha born
 Crömer. Godfather was Johann Heinrich Krückeberg from Berenbusch
 ```
 
-## Citations
+## Citation
 
 (PET-B-1791a)=
 

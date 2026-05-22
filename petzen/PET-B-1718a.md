@@ -31,7 +31,7 @@ Godmothers. wives of Daniel Bruns, [uncertain] Hartmans aus Evesen, [uncertain]
 Bleeck from Meißen.
 ```
 
-## Citations
+## Citation
 
 (image126)=
 

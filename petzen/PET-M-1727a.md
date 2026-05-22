@@ -50,7 +50,7 @@ the 28th Sept. Johann Henrich Krückeberg from
      Berenbsuch was married to Anna Maria Vahlsings from Evesen
 ```
 
-## Citations
+## Citation
 
 (PET-M-1727a)=
 

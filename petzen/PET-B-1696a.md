@@ -38,7 +38,7 @@ baptized on February 2nd.
 Godparent: Notmaÿer in Berenbusch.
 ```
 
-## Citations
+## Citation
 
 (PET-B-1696a)=
 

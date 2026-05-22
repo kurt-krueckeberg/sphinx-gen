@@ -114,7 +114,7 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827".
   - March 19
 ```
 
-## Citations
+## Citation
 
 (PET-D-1801a)=
 

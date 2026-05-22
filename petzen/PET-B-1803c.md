@@ -138,7 +138,7 @@ Translation of page header
   - Mrs. Kruckeberg and Weyland from Berenbusch.
 ```
 
-## Citations
+## Citation
 
 (PET-B-1803c)=
 

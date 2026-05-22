@@ -248,7 +248,7 @@ As mentioned above, the maiden name **Bleeken** is in error in the church regist
     and 3 Jobst Heinrich Kruckeberg from Bärenbusch
 ```
 
-## Citations
+## Citation
 
 (PET-B-1807a)=
 

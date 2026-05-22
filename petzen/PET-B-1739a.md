@@ -60,7 +60,7 @@ baptized [named] Johann Wilhelm [uncertain]
 His godfather Valsing
 ```
 
-## Citations
+## Citation
 
 (PET-B-1739a)=
 

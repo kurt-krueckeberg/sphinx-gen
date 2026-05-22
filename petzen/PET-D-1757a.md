@@ -51,7 +51,7 @@ d 28th Jan. Louisa Eleonore Krückeberg
   the born-blind daughter of the Krückebergs at Berenbusch [was] buried 10 [years old?]
 ```
 
-## Citations
+## Citation
 
 (PET-D-1757a)=
 

@@ -107,7 +107,7 @@ sense is idomatic. It refers to premartial sexual relations.
   - lodger
 ```
 
-## Citations
+## Citation
 
 (PET-M-1802b)=
 

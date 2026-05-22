@@ -65,7 +65,7 @@ Father _ _ _ Krückeberg aus Berenbusch Godmother Rödenbeck's
 daughter from Scheye
 ```
 
-## Citations
+## Citation
 
 (PET-B-1746a)=
 

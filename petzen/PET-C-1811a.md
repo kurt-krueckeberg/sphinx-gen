@@ -116,7 +116,7 @@ Translation of page header
   - 
 ```
 
-## Citations
+## Citation
 
 (PET-C-1811a)=
 

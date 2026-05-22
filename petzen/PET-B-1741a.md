@@ -59,7 +59,7 @@ Baptized by Mrs. Gaden, the steward’s wife at Hökersau
 [alternately: by Mrs. Administrator (Verwalterin) Gaden of Hökersau]
 ```
 
-## Citations
+## Citation
 
 (PET-B-1741a)=
 

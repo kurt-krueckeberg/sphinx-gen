@@ -31,7 +31,7 @@ On 17 Decembr Sophia Margarethe, the little daugher of Heinrich Bleeck from Eves
       was baptized. Godmother was the [young] Sandersche from Berenbusch
 ```
 
-## Citations
+## Citation
 
 (PET-B-1730b)=
 

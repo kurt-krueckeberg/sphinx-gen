@@ -58,7 +58,7 @@ Heinrich Krückeberg (whose mother, Anna Christine Elisabeth Seeger,
 (step-)grandmother of his daughter baptized in 1792.
 ```
 
-## Citations
+## Citation
 
 This entry appears on {ref}`image 55, page 105 <PET-B-1792a>` of Petzen Kirchenbuch volume 2.
 
@@ -118,7 +118,7 @@ died 10/26/1870
                            2. the wife of Fahlsing, the sheperd from Evensen
 ```
 
-## Citations
+## Citation
 
 (PET-B-1792a)=
 

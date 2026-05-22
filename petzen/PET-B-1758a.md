@@ -25,7 +25,7 @@ d 10 Dec. Jobst Heinrich Weiland
    for Berenbusch?]
 ```
 
-## Citations
+## Citation
 
 (cite-PET-B-1758a)=
 

@@ -51,7 +51,7 @@ the 28th June Friedrich Wilhelm Weiland from Ephesen
      from Ephesen
 ```
 
-## Citations
+## Citation
 
 (PET-M-1761b)=
 

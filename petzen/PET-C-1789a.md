@@ -55,7 +55,7 @@ Translation
 10) Christine Kruckenbergen                              Berenbusch
 ```
 
-## Citations
+## Citation
 
 (PET-C-1789a)=
 

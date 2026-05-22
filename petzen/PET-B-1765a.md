@@ -82,7 +82,7 @@ Translation
    Godfather was Rösener from Evesen in the "kurzen Bruche" [short marshland or thicket]
 ```
 
-## Citations
+## Citation
 
 (PET-B-1765a)=
 

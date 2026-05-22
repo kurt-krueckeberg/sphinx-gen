@@ -76,7 +76,7 @@ Boys
 3. Carl Friedrich Krückeberg. n. 14. Bärenbusch
 ```
 
-## Citations
+## Citation
 
 (PET-C-1821a)=
 

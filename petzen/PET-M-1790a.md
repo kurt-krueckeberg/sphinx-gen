@@ -76,7 +76,7 @@ Translation
     Krömer from Evesen No 19.
 ```
 
-## Citations
+## Citation
 
 (PET-M-1790a)=
 

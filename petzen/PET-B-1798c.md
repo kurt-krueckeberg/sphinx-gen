@@ -78,7 +78,7 @@ Gestorbenen 1785-1827.
     2, Ilse Marie Elisabeth Blecke, Evesen
 ```
 
-## Citations
+## Citation
 
 (PET-B-1798c)=
 

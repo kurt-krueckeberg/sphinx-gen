@@ -91,7 +91,7 @@ H. Krückeberg from Berenbusch had a little daughter buried.
 H. Sickmann from Nammen had a little daughter buried.
 ```
 
-## Citations
+## Citation
 
 (PET-D-1734a)=
 

@@ -77,7 +77,7 @@ Frerking Ahldag, Weiland in Berenbusch, and Watermann’s
 son from Nordholz
 ```
 
-## Citations
+## Citation
 
 (PET-B-1744a)=
 

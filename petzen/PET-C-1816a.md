@@ -71,7 +71,7 @@ Transliteration of Entries 8, 9 and 10
 10. Caroline Christine Jägers. Nordholz n. 5
 ```
 
-## Citations
+## Citation
 
 (PET-C-1816a)=
 

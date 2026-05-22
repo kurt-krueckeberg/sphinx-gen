@@ -24,7 +24,7 @@ Translation
 little son, Anton Henrich, baptized. Sponsor Henrich Weitzenkorn.
 ```
 
-## Citations
+## Citation
 
 (PET-B-1712b)=
 

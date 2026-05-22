@@ -60,7 +60,7 @@ On  Aug[ust] 27 the stillborn son of Johann Heinrich Krückeberg from Berenbush
     no. 10 was buried
 ```
 
-## Citations
+## Citation
 
 (PET-D-1773a)=
 

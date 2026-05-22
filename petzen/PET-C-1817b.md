@@ -64,7 +64,7 @@ Mädchen
 13. Christine Louise Wöbkings. Evesen n. 2
 ```
 
-## Citations
+## Citation
 
 (PET-C-1817b)=
 

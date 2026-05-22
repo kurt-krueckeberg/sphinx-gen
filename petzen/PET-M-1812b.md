@@ -146,7 +146,7 @@ Transliteration of page header
   - [empty]
 ```
 
-## Citations
+## Citation
 
 (PET-M-1812b)=
 

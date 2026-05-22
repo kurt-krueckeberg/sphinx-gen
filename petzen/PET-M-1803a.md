@@ -98,7 +98,7 @@ This marriage occurred on March 13, 1803. It is on {ref}`image 12, page 19, entr
   - 11
 ```
 
-## Citations
+## Citation
 
 (PET-M-1803a)=
 

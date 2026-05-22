@@ -68,7 +68,7 @@ assume they are abbreviations for Berenbusch.
 - **Weilands** appears more likely than **weiland**, which means "late; deceased".
 ```
 
-## Citations
+## Citation
 
 (PET-B-1736a)=
 

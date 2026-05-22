@@ -36,7 +36,7 @@ d 2nd March Henrich Wilhelm Bleeke, the son of the
      Wilhelm Sch[ere] from evesen and an unknown.
 ```
 
-## Citations
+## Citation
 
 (PET-B-1755d)=
 

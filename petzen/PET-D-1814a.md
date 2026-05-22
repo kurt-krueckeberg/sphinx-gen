@@ -75,7 +75,7 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827".
   - 
 ```
 
-## Citations
+## Citation
 
 (PET-D-1814a)=
 

@@ -168,7 +168,7 @@ Transliteration Header for pages 736 and 737
   - [empty]
 ```
 
-## Citations
+## Citation
 
 (PET-M-1826a)=
 

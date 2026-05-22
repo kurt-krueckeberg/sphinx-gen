@@ -30,7 +30,7 @@ The marriage entry for  Anna Maria Weiland is on the [image 6, page 6, entry 8](
        No. 20.
 ```
 
-## Citations
+## Citation
 
 (Image6-page7)=
 

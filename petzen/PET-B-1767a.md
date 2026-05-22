@@ -85,7 +85,7 @@ On the same day the son of Johann Heinrich Kruckeberg
  Heinrich Weiland from Berenbusch.
 ```
 
-## Citations
+## Citation
 
 (PET-B-1767a)=
 

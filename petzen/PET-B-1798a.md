@@ -123,7 +123,7 @@ written incorrectly.
     3. Kathar. Marg. Kuhlmann No 3 [Evesen]
 ```
 
-## Citations
+## Citation
 
 (PET-B-1798a)=
 

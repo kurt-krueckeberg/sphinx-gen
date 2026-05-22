@@ -66,7 +66,7 @@ beth Weÿland, und Anna Margareth Stedings aus
 Berenbusch
 ```
 
-## Citations
+## Citation
 
 (PET-B-1731a)=
 

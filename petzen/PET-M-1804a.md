@@ -56,7 +56,7 @@ Gestorbenen 1785-1827".
   - 18
 ```
 
-## Citations
+## Citation
 
 (PET-M-1804a)=
 

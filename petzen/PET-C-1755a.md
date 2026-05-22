@@ -53,7 +53,7 @@ Sophie Maria Krückeberg from Berenbusch
 Charlotte Dieckmans, daughter of an Einlieger, Röcke
 ```
 
-## Citations
+## Citation
 
 (PET-C-1755a)=
 

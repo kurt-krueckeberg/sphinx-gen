@@ -32,7 +32,7 @@ Translation
      Eleonore Louise Johann Gaden aus Petzen No. 1
 ```
 
-## Citations
+## Citation
 
 (PET-B-1790a)=
 

@@ -27,7 +27,7 @@ Godmother was Mrs. Christine Eleonore widow Rinne ["of the"] cobbler in Penyen/P
 to five.
 ```
 
-## Citations
+## Citation
 
 (cite-PET-B-1789c)=
 

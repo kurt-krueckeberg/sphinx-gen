@@ -223,7 +223,7 @@ Transliteration of pages 704 and 705 header
   - [empty]
 ```
 
-## Citations
+## Citation
 
 (PET-M-1816a)=
 

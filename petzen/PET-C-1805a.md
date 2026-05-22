@@ -94,7 +94,7 @@ page 420, entry 13, of the Petzen "Verzeichnis der Getauften, Konfirmierten, Get
   - 
 ```
 
-## Citations
+## Citation
 
 (PET-C-1805a)=
 

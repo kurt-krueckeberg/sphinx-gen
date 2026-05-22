@@ -152,7 +152,7 @@ people and too little land to go around.
   - [empty]
 ```
 
-## Citations
+## Citation
 
 (PET-M-1822a)=
 

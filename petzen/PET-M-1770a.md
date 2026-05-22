@@ -52,7 +52,7 @@ On Feb. 18th Johann Heinrich Bleke from Evesen no. 11 married Anna
 Maria Elisabeth Möller from Heeßen.
 ```
 
-## Citations
+## Citation
 
 (PET-M-1770a)=
 

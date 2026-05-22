@@ -29,7 +29,7 @@ Heinrich Arndt Vahlsing [Sheper] [aus] Höckersau und [Anna]
 Elisabeth B[ecker?] aus [Höckersau?] den 23 Sept copuliert
 ```
 
-## Citations
+## Citation
 
 (image25)=
 
