@@ -1,17 +1,12 @@
 # 1837 Friedrich Joseph Bleke Baptism
 
+## Record
+
 The baptism record is on {ref}`page 42, of volume 1 <CIN-B-1837b>`, of the PDF of the Kirchenbuch of the
 Deutsche Evangelisch-Lutherische und Reformierte Kirche (North German Lutheran Church) of Cincinnati.
 
 ```{image} images/vol1-page42.jpg
 :class: image-override
-```
-
-```{note}
-Key Points:
-
-- Abbreviations have been used for the first names of the parents to save space
-since they had so many.
 ```
 
 ```{list-table} Nord deutschlische lutheranische Kirche
