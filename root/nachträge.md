@@ -1,6 +1,6 @@
 # What is Nachträge?
 
-In German paleography and archival practice, there is a general term for
+In German archival practice, there is a general term for
 later-added notes to an ortiginal record of a ceremony: they are called
 "Nachträge" (singular: Nachtrag), which translates to "addenda" or "later
 additions."
@@ -14,23 +14,19 @@ In the context of Kirchenbücher (church books), a Nachtrag might include:
 - a baptism date and, when the individual dies, a death date
 - An emigration note, especially in 19th-century records
 
-*TODO:* include examples.
+*TODO:* include examples above.
 
 Notes about illegitimacy, legitimization, name changes, etc.
 
 These entries were often added by the same or a later pastor, typically in
 smaller or different handwriting, as you noted.
 
-Related terms:
+So, if you’re describing the inserted death date in genealogical notes or
+research, you could write:
 
-- Randvermerk – marginal note (if the note appears in the margin, which is common)
-- Vermerk – annotation or remark
-- Hinweis – indication or note (more generic)
-
-So, if you’re describing the inserted death date in genealogical notes or research, you could write:
-
-"Der Todestag wurde später als Nachtrag in kleinerer Schrift hinzugefügt, mit dem Vermerk 'gest.'."
-("The death date was later added as an addendum in smaller handwriting, with the note 'gest.'.")
+"Der Todestag wurde später als Nachtrag in kleinerer Schrift hinzugefügt,
+mit dem Vermerk 'gest.'." ("The death date was later added as an addendum
+in smaller handwriting, with the note 'gest.'.")
 
 ## Their Significance
 
