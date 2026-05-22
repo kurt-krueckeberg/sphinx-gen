@@ -48,7 +48,7 @@ Taufen 1763-1807, Beerdigungen 1763-1807, Konfirmationen 1763-1803 Band 2".
     Diekmann[sche?] zu Ha[nna]
 ```
 
-## Citations
+## Citation
 
 (KLE-B-1778a)=
 

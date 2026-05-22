@@ -116,7 +116,7 @@ The translitration of old German script into contemporary latin-based German is 
     Year
 ```
 
-## Citations
+## Citation
 
 (image156)=
 

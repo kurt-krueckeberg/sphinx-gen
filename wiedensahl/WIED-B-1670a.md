@@ -35,7 +35,7 @@ the godfather was
 Heinrich P[a.?] Harm.
 ```
 
-## Citations
+## Citation
 
 (WIED-B-1670a)=
 

@@ -79,7 +79,7 @@ The translation follows below:
   - [uncertain].
 ```
 
-## Citations
+## Citation
 
 (image9)=
 

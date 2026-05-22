@@ -112,7 +112,7 @@ Right page:
   - 
 ```
 
-## Citations
+## Citation
 
 (BUC-B-1804a)=
 

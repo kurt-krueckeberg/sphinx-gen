@@ -163,7 +163,7 @@ The translation follows below:
   - [uncertain].
 ```
 
-## Citations
+## Citation
 
 (image182)=
 
