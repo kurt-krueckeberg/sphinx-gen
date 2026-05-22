@@ -27,33 +27,3 @@ research, you could write:
 "Der Todestag wurde später als Nachtrag in kleinerer Schrift hinzugefügt,
 mit dem Vermerk 'gest.'." ("The death date was later added as an addendum
 in smaller handwriting, with the note 'gest.'.")
-
-## Their Significance
-
-These later addenda or Nachträge inserted in smaller handwriting into an
-original record of a church ceremony provide extra confirmation of
-precisely who an individual is. They reference other church ceremonies,
-thus cross reference other recorded church ceremonies—​birthn and
-baptized, confirmation, marraige or funeral. One doesn’t have to infer the
-indentity of the same individual in other church by carefully looking for
-other occurances of their name in the vast corpus of recorded ceremonies.
-One is also freed from the effort of closely comparing other identifying
-attributes of the individual: their residence, their parent’s name, etc.
-Instead the pastor (or perhaps Küster, sexton), who personally knew them,
-supplies and confos this information free of charge.
-
-This is especially helpful when a name is common or repeats often
-throughout the church book.  The Nachträge-supplied dates, then, provide a
-short cut that allows us to immediately confirm other church events of an
-individual and harvest the information in them.
-
-But what if the church event is not found on the date given in a Nachtrag?
-What if, for example, a death date is later inserted into a marriage
-record, but there is no corresponding death record in the church register?
-Does that mean a mistake was made?
-
-Not neccesarily. It might mean the individual died elsewhere. They may even
-have emigrated to the U.S, and their death might hasve been communicated to
-their original parish in Schaumburg-Lippe (althouhg this fact likely would
-be noted, too).
-
