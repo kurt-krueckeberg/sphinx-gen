@@ -14,8 +14,6 @@ Key Points:
 since they had so many.
 ```
 
-The page heading is: 32.) Taufen. (Baptisms)          1837
-
 ```{list-table} Nord deutschlische lutheranische Kirche
 :header-rows: 1
 
