@@ -96,12 +96,10 @@ Translation of page header: **Births and Baptims in 1835**.
     Leonore v. Behrend
 ```
 
-## Record
+## Citation
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed “Geborne und Getaufte im Jahr
 1835 Gemeinde Frille” [sic.], Nr. 8, Christine Friederike Marie Leonore Bleeke, born 20 Feb. 1835, baptized 1 March 1835,
 son of Carl Friedrich Bleeke and Marie Lui se geb. Niemann; Landesarchiv Nordrhein-Westfalen,
 Abteilung Ostwestfalen-Lippe (Detmold), Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1815–1835);
-digital images, Archivsuche – Archive in NRW (DFG-Viewer), Image 63 of 210 (accessed 18 September 2025);
-duplicate register; provenance: Land- und Stadt- bzw. Kreisgericht Minden.
-
+digital images, [image viewer](https://dfg-viewer.de/show/?tx_dlf[id]=https%3a%2f%2fwww.landesarchiv-nrw.de%2fdigitalisate%2fabt_ostwestfalen-lippe%2fp1%2fb%2f%7e001%2fb00168_01_1815-1830%2fmets.xml), Image 36 of 210 (accessed 18 September 2025).
