@@ -1,4 +1,4 @@
-# 1818  Carl Heinrich Bleeke Birth
+# 1818 Carl Heinrich Bleeke Birth
 
 This record is from the
 [Landesarchiv
@@ -116,6 +116,8 @@ Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section heade
 Kirchspiel Frille königlich Preussischen Anhteils" [sic], Nr. 16, Carl Heinrich Bleeke, born 27 Apr 1818, baptized
 30 Apr 1818, son of Johann Heinrich Bleeke and Christine Marie Schwier; Landesarchiv Nordrhein-Westfalen,
 Abteilung Ostwestfalen-Lippe (Detmold), Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1815–1830);
-digital images, Archivsuche – Archive in NRW (DFG-Viewer), Image 40 of 180 (accessed 18 September 2025); duplicate
+Digital images: Landesarchiv NRW,
+[image viewer](https://dfg-viewer.de/show/?tx_dlf[id]=https%3a%2f%2fwww.landesarchiv-nrw.de%2fdigitalisate%2fabt_ostwestfalen-lippe%2fp1%2fb%2f%7e001%2fb00168_01_1815-1830%2fmets.xml)
+, Image 40 of 180 (accessed 18 September 2025).
 register; provenance: Land- und Stadt- bzw. Kreisgericht Minden.
 
