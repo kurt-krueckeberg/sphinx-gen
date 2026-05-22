@@ -1,4 +1,5 @@
 # Review Transliterations/Translations
 
-I have reviewed all the non-Duplikat "Bleeke in Frille" records, and
-I have reviewed all the "Weiland in Petzen" pages.
+Review all the Duplikat "Bleeke in Frille" records:
+- Change "## Recrod" to ## Citation"
+- Add link to image viewer and suppluy image number
