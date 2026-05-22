@@ -79,8 +79,8 @@ Translation of page header: **Births and Baptims in 1820**.
   - Baptism Day
   - Name of the Pastor who baptized child.
   - Baptismal Sponsors
-* - 4
-  - Marie Christine Bleeke
+* - 12
+  - Christine Louise Bleeke
   - twenty eighth March 9 p.m.(28th March 9 p.m.) in Leeteln
   - legitimate
   - Carl Friederich Bleeke Anerbe of N. 13 in Leeteln
