@@ -2,8 +2,10 @@
 
 ## Record
 
-Carl Fridrich Bleeke’s birth and baptism is recorded on {ref}`page 229 <FRI-B-1794a>` of Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ",
-on image 123 of 388.
+Carl Fridrich Bleeke’s birth and baptism is recorded on {ref}`page 229
+<FRI-B-1794a>` of the Frille parish "Verzeichnis der Getauften, Getrauten,
+Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ", on image
+123 of 388.
 
 ## Images
 
