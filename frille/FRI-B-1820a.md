@@ -98,6 +98,6 @@ entry #12 for Christine Luise Bleeke, 31 March 1820,
 Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,
 Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
 Digital images: Landesarchiv NRW,
-[image viewer](https://dfg-viewer.de/show/?tx_dlf[id]=https%3A%2F%2Fwww.landesarchiv-nrw.de%2Fdigitalisate%2FAbt_Ostwestfalen-Lippe%2FP1%2FB%2F%7E001%2FB00168_01_1815-1830%2Fmets.xml)
+[image viewer](https://dfg-viewer.de/show/?tx_dlf[id]=https%3a%2f%2fwww.landesarchiv-nrw.de%2fdigitalisate%2fabt_ostwestfalen-lippe%2fp1%2fb%2f%7e001%2fb00168_01_1815-1830%2fmets.xml)
 , image 64 (accessed 6 December 2025).
 
