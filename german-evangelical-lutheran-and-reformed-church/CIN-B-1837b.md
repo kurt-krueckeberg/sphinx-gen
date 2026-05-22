@@ -8,6 +8,7 @@ Deutsche Evangelisch-Lutherische und Reformierte Kirche (North German Lutheran C
 ```{image} images/vol1-page42.jpg
 :class: image-override
 ```
+## Transliteration and Translation
 
 ```{list-table} Nord deutschlische lutheranische Kirche
 :header-rows: 1
