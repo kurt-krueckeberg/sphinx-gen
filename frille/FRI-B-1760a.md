@@ -52,7 +52,7 @@ Henriette Meirre, née Delius.
     Henriette Meirre, née Delius.
 ```
 
-## Citations
+## Citation
 
 (FRI-B-1760a)=
 

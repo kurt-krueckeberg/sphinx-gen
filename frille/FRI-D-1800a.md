@@ -28,7 +28,7 @@ Pr.   Schulmeister in Leteln, starb von der
 Pr.  schoolmaster in Letelen, died from consumption, at age 60 married
 ```
 
-## Citations
+## Citation
 
 (FRI-D-1800a)=
 

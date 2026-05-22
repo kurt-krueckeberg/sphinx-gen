@@ -34,7 +34,7 @@ M. Anna Catherina Vahlsing, both from Päpinghausen.
 S. Ilse Margarethe Vahlsing, the daughter of the mother’s brother, from Päpinghausen.
 ```
 
-## Citations
+## Citation
 
 (FRI-B-1742a)=
 

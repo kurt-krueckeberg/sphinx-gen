@@ -47,7 +47,7 @@ Riechmann from Leteln, a maiden, with the woman having been deflowered
  / made pregnant.
 ```
 
-## Citations
+## Citation
 
 (FRI-M-1792a)=
 

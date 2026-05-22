@@ -45,7 +45,7 @@ implies a youth, or youthful or unmarried youth.
    maiden (virgin)
 ```
 
-## Citations
+## Citation
 
 (FRI-M-1793a)=
 

@@ -32,7 +32,7 @@ Pr.    Leteln. Father: Christian Friderich Bleeke.
        Mother: Anne Margarthe Volckening. Sponsor: Carl Friderich Hartman
 ```
 
-## Citations
+## Citation
 
 (FRI-B-1800a)=
 

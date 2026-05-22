@@ -31,7 +31,7 @@ Mother: Anne Margarethe Volckening.
 Sponsors: Carl Friedrich Bleecke and Jobst Heinrich Adolph Volckening.
 ```
 
-## Citations
+## Citation
 
 (FRI-B-1794a)=
 

@@ -34,7 +34,7 @@ Pr.46) Baptized on 5th Nov. [was] Johoann Henrich Philip Bleeke
     Sponsor: Johann Frid. Volckening
 ```
 
-## Citations
+## Citation
 
 (FRI-B-1797a)=
 

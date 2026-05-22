@@ -38,7 +38,7 @@ preceded, respecitvely, by the following single-letter abbreviations:
     [?äsiuff?]
 ```
 
-## Citations
+## Citation
 
 (FRI-B-1767a)=
 

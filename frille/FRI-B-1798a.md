@@ -35,7 +35,7 @@ Thus, the baptism date is **13 May 1798**.
     Sophie Christine Klöppers.
 ```
 
-## Citations
+## Citation
 
 (FRI-B-1798a)=
 

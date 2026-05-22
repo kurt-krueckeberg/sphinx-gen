@@ -32,7 +32,7 @@ an alderman/local judge in Frille, died of a stroke,
 aged 70 years; male, married.
 ```
 
-## Citations
+## Citation
 
 (FRI-D-1795a)=
 

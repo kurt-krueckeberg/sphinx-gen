@@ -30,7 +30,7 @@ Translation
 Päpinghausen [died], age 63 years.
 ```
 
-## Citations
+## Citation
 
 (FRI-B-1757a)=
 

@@ -38,7 +38,7 @@ schoolmaster. 2.) Tönnies Bakenieger, commonly called Rodenberg. 3.)
 Henrich Volkening, both from Leteln.
 ```
 
-## Citations
+## Citation
 
 (FRI-B-1739a)=
 

@@ -30,7 +30,7 @@ Translation
 Johann Vahlsing, had his little son Johann Heinrich baptized.
 ```
 
-## Citations
+## Citation
 
 (FRI-B-1694a)=
 

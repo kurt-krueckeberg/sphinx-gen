@@ -43,7 +43,7 @@ The **n** at the end of Bleecken above apparently was
 added to the surname (Bleeke) when referring to a female daughter.
 ```
 
-## Citations
+## Citation
 
 (FRI-B-1804a)=
 
