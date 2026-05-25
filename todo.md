@@ -8,14 +8,5 @@ It left off with the Duplikaten "Bleeke in Frille" records:
 
 ## Add New Research TODO
 
-The `research` subfolder has version of the two `.adoc` files found in
-`~/gen/m/research/p`.
-
-- Reread them, summary them.
-- Compile new sources based on those already listed and those propsecitve
-  sources at `~/gens/nonarchive/prospective-docs`.;
-- Create a new subdomain, say, res.krueckeberg.org.
-
- 
-
-
+See the "rewrite of m/research/p/completed-research.adoc" in
+`~/gen/todo.adoc`.
