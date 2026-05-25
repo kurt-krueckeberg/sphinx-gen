@@ -23,9 +23,9 @@
 :header-rows: 1
 
 * - Name
-* - 3 Mädgens
 * - Wiesen
-* - Engelking [um/un]
+* - Engelking
+* - 3rd omitted
 ```
 
 ## Record
@@ -44,23 +44,22 @@ The baptism of Ilse Margaretha Krückeberg is on {ref}`image 200, right page, fi
 Transliteration
 
 ```{code-block} text
-
 1759                  Getaufte
 
-d 16 Sept. Ilse Margaretha Krückebergs
-des Johann Heinrich Krückebergs zu Berenbusch
-Tochter getauft. Gev[atterinnen] [3] Mädgens,  Wiesen, Engelkings [um/un]
+On 16 September, Ilse Margaretha Krückeberg,
+daughter of Johan Henrich Krückeberg of Berenbusch,
+was baptized. Sponsors: three young unmarried women:
+Wiese, Engelking, and [third name omitted in the original].
 ```
 
 Translation
 
 ```{code-block} text
-
 1759                  Baptized
 
-16th Sept. Ilse Margaretha Krückeberg the daughter of
-Johann Heinrich Krückebergs at Berenbusch
-was baptized. Sponsors 3 Mädgens, Wiesen, Engelking [un/um]
+16 Sept. Ilse Margaretha Krückeberg,
+daughter of Johan Henrich Krückeberg at Berenbusch,
+baptized. Sponsors: 3 maidens: Wiese, Engelking, and ...
 ```
 
 ## Citation
