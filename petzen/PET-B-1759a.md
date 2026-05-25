@@ -23,7 +23,7 @@
 :header-rows: 1
 
 * - Name
-* - [I/3] Mädgens
+* - 3 Mädgens
 * - Wiesen
 * - Engelking [um/un]
 ```
