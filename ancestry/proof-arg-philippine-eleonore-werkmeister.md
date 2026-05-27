@@ -244,7 +244,9 @@ This summarizes the key findings.
 
 ## Negative Evidence and Absence of Conflicting Facts
 
-**TODO:** Explain what negative evidence is.
+Negative evidence is a "type of evidence arising from an absence of a
+situation or information in extant records where the information might be
+expected."[^note1]. We have this negative evidence:
 
 - No burial record exists for a first wife (Werkmeister) prior to 1807.
 - No second marriage record exists for Carl Friedrich Gottlieb Krückeberg.
@@ -344,3 +346,4 @@ mother of all three children was **Philippine Eleonore Werkmeister**. The
 use of the surname **Blecken** in the 1807 and 1812 baptism entries must be
 regarded as a clerical error.
 
+[^note1]: Board for Certification of Genealogists, *Genealogy Standards*, 2nd ed. (Nashville, TN: Ancestry, 2019), 81.
