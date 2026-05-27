@@ -14,9 +14,7 @@ In the context of Kirchenbücher (church books), a Nachtrag might include:
 - a baptism date and, when the individual dies, a death date
 - An emigration note, especially in 19th-century records
 
-## Examples of Nachträge
-
-### Marriage Record with Nachträge
+## Example Marriage Record with Nachträge
 
 Below is excerpt from a Petzen 1812 marriage record. It shows the column for
 the name of the bride, Marie Philippine Krückeberg. At the bottom, written
@@ -29,7 +27,7 @@ in a smaller hand, is still the Nachträge (addendum):
 :width: 50%
 :class: image-override
 ```
-### Baptism Record with Nachträge
+## Example Baptism Record with Nachträge
 
 This is excerpt from a Petzen 1792 baptism record for Philippine Caroline Christine Kruckeberg.
 Written in a smaller hand in the left margin is Nachträge that shows
@@ -42,13 +40,3 @@ then-future marriages and the date of her death:
 ```{figure} images/nachtraege-ex2.jpg
 :class: image-override
 ```
-
-These entries were often added by the same or a later pastor, typically in
-smaller or different handwriting, as you noted.
-
-So, if you’re describing the inserted death date in genealogical notes or
-research, you could write:
-
-"Der Todestag wurde später als Nachtrag in kleinerer Schrift hinzugefügt,
-mit dem Vermerk 'gest.'." ("The death date was later added as an addendum
-in smaller handwriting, with the note 'gest.'.")
