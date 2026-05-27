@@ -244,6 +244,8 @@ This summarizes the key findings.
 
 ## Negative Evidence and Absence of Conflicting Facts
 
+**TODO:** Explain what negative evidence is.
+
 - No burial record exists for a first wife (Werkmeister) prior to 1807.
 - No second marriage record exists for Carl Friedrich Gottlieb Krückeberg.
 - House number **Evesen 11** is identical in all records — unlikely if a different woman had entered the household.
