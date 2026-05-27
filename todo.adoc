@@ -1,5 +1,10 @@
 = Review Transliterations/Translations
 
+== Rewrite Nachtraege Pages
+
+The 2nd page of the nachtraege has too man "cute" icons and doesn't say a
+lot. Compress what is said and remove the icons in favor of examples.
+
 == Complete Review
 
 It left off with the Duplikaten "Bleeke in Frille" records:
