@@ -21,7 +21,7 @@ the name of the bride, Marie Philippine Krückeberg. At the bottom, written
 in a smaller hand, is still the Nachträge (addendum):
 
 - **geb[oren]. 1794 in Steinbergen** ("born in 1794 in Steinbergen")
-- **gest[orben] 14.2.66** (died on February 14, 1866). 
+- **gest[orben] 14.2.66** ("died on February 14, 1866"). 
 
 ```{figure} images/nachtraege-ex1.jpg
 :width: 50%
