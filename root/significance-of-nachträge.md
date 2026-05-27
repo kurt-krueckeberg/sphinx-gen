@@ -52,9 +52,5 @@ Without this *Nachtrag*, the death might be undocumented.
 ### Summary
 
 *Nachträge* in *Kirchenbücher* are invaluable historical breadcrumbs.
-
 They tie together events, confirm identities, trace movements, and
 sometimes contain the **only surviving clue** to a life event.
-
-When doing serious genealogical work, these annotations are often where the
-story **really** comes into focus.
