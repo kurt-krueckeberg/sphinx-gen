@@ -40,3 +40,17 @@ then-future marriages and the date of her death:
 ```{figure} images/nachtraege-ex2.jpg
 :class: image-override
 ```
+
+##  When Did the Practice of *Nachträge* Begin?
+
+The practice of adding *Nachträge* (addenda or annotations) began in earnest in the **late 18th to early 19th century**, although occasional marginal notes appear earlier, particularly in meticulous parishes.
+
+### Growth from the 1800s Onward
+
+In the early to mid-19th century, especially in Protestant (Lutheran)
+areas, systematic annotation became more common. Pastors began revisiting
+earlier entries to cross-reference life events. The introduction of
+standardized church record formats (1820s–1860s) led to greater detail —
+and more *Nachträge*.
+
+
