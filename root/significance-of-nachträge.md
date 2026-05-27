@@ -18,9 +18,9 @@ village where several pople might shared the same name.
 
 ### 2. They Help Establish Identity and Clarify Relationships
 
-Nachträge provide links to others records for the same
-individual. This saves research time, and it provide independent
-corraboration of the person's identity in these other records.
+Nachträge provide links to others records for the same individual. This
+saves research llok-up time, and it also provides independent corraboration
+of the same person's identity in the referenced records.
 
 ### 3. They Might Offer Migration or Location Clues
 
