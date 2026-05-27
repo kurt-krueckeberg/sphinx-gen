@@ -16,7 +16,17 @@ In the context of Kirchenbücher (church books), a Nachtrag might include:
 
 ## Examples of Nachträge
 
+```{figure} images/nachtraege-ex1.jpg
 
+```
+
+```{figure} images/nachtraege-ex2.jpg
+
+```
+
+```{figure} images/nachtraege-ex3.jpg
+
+```
 
 These entries were often added by the same or a later pastor, typically in
 smaller or different handwriting, as you noted.
