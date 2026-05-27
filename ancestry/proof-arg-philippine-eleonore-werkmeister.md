@@ -9,17 +9,18 @@ Werkmeister**, wife of Carl Friedrich Gottlieb Krückeberg?
 
 ## Summary Conclusion
 
-The typewritten Familienschein des Auswanderers (family certificate of the emigrants),
-which comes down to us from Harry Frederick Krueckeberg, who believed it was typed
-by his father, lists **Philippine Lenore, geb, Bleeke** as the wife of Carl
-Friedrich Gottlieb Krückeberg. This document, even if it were the original, is
-derived from the original church records. It beings: **Laut Angabe des hiesigen Kirchenbuchs…​**
-("According to the local church register…​"). What do they reveal?
+The typewritten Familienschein des Auswanderers (family certificate of the
+emigrants), which comes down to us from Harry Frederick Krueckeberg, who
+believed it was typed by his father, lists **Philippine Lenore, geb,
+Bleeke** as the wife of Carl Friedrich Gottlieb Krückeberg. This document,
+even if it were the original, is derived from the original church records.
+It beings: **Laut Angabe des hiesigen Kirchenbuchs…​** ("According to
+the local church register…​"). What do they reveal?
 
 All available evidence confirms that Philippine Eleonore **Werkmeister**,
-baptized on 4 May 1783 in Evesen No. 11, was the *only* wife of Carl Friedrich
-Gottlieb Krückeberg. The appearance of the surname **Blecken** in two child
-baptismal records is inaccurate. There is no evidence of a second
+baptized on 4 May 1783 in Evesen No. 11, was the *only* wife of Carl
+Friedrich Gottlieb Krückeberg. The appearance of the surname **Blecken** in
+two child baptismal records is inaccurate. There is no evidence of a second
 marriage, and multiple primary sources directly contradict the “Blecken”
 surname attribution.
 
@@ -46,7 +47,7 @@ This summarizes the key findings.
      - \# 11 Evesen
    ```
 
-   ```{list-table} Nachträge for Bride and Groom: Carl Friedrich Gottlieb Krückeberg
+   ```{list-table} Nachträge (addendum) for Bride and Groom: Carl Friedrich Gottlieb Krückeberg
    :header-rows: 1
 
    * - 
