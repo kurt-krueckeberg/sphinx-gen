@@ -12,15 +12,12 @@ Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/archivsuche?link=VER
   - [Landesarchiv
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
 Minden, Nr. B 168 Jg. 1831-1845](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763).
-3. The [online PDF](http://hdl.handle.net/2374.UC/753629) of the 1814-1848 church register of the **Nord deutschlische
-lutheranische Kirche** (**German Evangelical Lutheran and Reformed Church**) found in the Archives and Rare Books
-Library, University of Cincinnati.
-4. TIF images of the church register of Immanuel Lutheran Church, Decatur, Indiana, received from the church.
 
 ## Frille KirchenbuchDuplikanten
 
-The Frille duplicate church registers in the Landesarchiv NRW Abteilung Ostwestfalen-Lippe have been examined for
-the marriage records for Carl Friedrich Bleeke (1794-1853), Johann Heinrich Philip Bleeke (1797-1883) and
+The Frille duplicate church registers in the Landesarchiv NRW Abteilung
+Ostwestfalen-Lippe have been examined for the marriage records for Carl
+Friedrich Bleeke (1794-1853), Johann Heinrich Philip Bleeke (1797-1883) and
 Christian Friedrich Bleeke (1880-1889). The birth records of their children
 have also been examined.
 
