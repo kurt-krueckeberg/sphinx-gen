@@ -18,30 +18,30 @@ In the context of Kirchenbücher (church books), a Nachtrag might include:
 
 ### Marriage Record with Nachträge
 
-```{figure} images/nachtraege-ex1.jpg
-:width: 50%
-:class: image-override
-```
-
-This is excerpt from a Petzen 1812 marriage record. It shows the column for
+Below is excerpt from a Petzen 1812 marriage record. It shows the column for
 the name of the bride, Marie Philippine Krückeberg. At the bottom, written
 in a smaller hand, is still the Nachträge (addendum):
 
 - **geb[oren]. 1794 in Steinbergen** ("born in 1794 in Steinbergen")
 - **gest[orben] 14.2.66** (died on February 14, 1866). 
 
+```{figure} images/nachtraege-ex1.jpg
+:width: 50%
+:class: image-override
+```
 ### Baptism Record with Nachträge
+
+This is excerpt from a Petzen 1792 baptism record for Philippine Caroline Christine Kruckeberg.
+Written in a smaller hand in the left margin is Nachträge that shows
+then-future marriages and the date of her death:
+
+- 1 cop[uliert] 23.2.1812 -- First marriage February 2, 1812 
+- 2 cop[uliert] 11.5.34 -- Second marriage May 11, 1834
+- gest[orben] 26.10.70 -- Died on October 26, 1870
 
 ```{figure} images/nachtraege-ex2.jpg
 :class: image-override
 ```
-
-This is excerpt from a Petzen 1792 baptism record. ... written in a smaller hand, is the
-Nachträge:
-
-- **geb[oren]. 1794 in Steinbergen** ("born in 1794 in Steinbergen")
-- **gest[orben] 14.2.66** (died on February 14, 1866). 
-
 
 These entries were often added by the same or a later pastor, typically in
 smaller or different handwriting, as you noted.
