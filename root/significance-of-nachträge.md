@@ -18,15 +18,15 @@ village where several pople might shared the same name.
 
 ### 2. They Help Establish Identity and Clarify Relationships
 
-Nachträge provide virtual hyperlinks to others records of the same
+Nachträge provide links to others records for the same
 individual. This saves research time, and it provide independent
-corraboration of the person's identity in the referenced records.
+corraboration of the person's identity in these other records.
 
-### 3. They Offer Migration or Location Clues
+### 3. They Might Offer Migration or Location Clues
 
 Pastors might add annotations like:
-- ausgewandert nach Amerika 1882 (emigrated to America 1882)
-- jetzt wohnhaft in Bielefeld (now residing in Bielefeld)
+- `ausgewandert nach Amerika 1882` (emigrated to America 1882)
+- `jetzt wohnhaft in Bielefeld` (now residing in Bielefeld)
 
 These can trace migrations, especially when people disappear from local records.
 
