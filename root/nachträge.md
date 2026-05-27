@@ -16,16 +16,26 @@ In the context of Kirchenbücher (church books), a Nachtrag might include:
 
 ## Examples of Nachträge
 
+### Marriage Record with Nachträge
+
 ```{figure} images/nachtraege-ex1.jpg
-
+:width: 50%
+:class: image-override
 ```
 
-```{figure} images/nachtraege-ex2.jpg
+This is excerpt from a Petzen 1812 marriage record. It shows the column for
+the name of the bride. At the bottom, written in a smaller hand, is the
+Nachträge:
 
-```
+- **geb[oren]. 1794 in Steinbergen** ("born in 1794 in Steinbergen")
+- **gest[orben] 14.2.66** (died on February 14, 1866). 
+
+bride, Marie Philippine Krückeberg,
+
+### Baptism Record with Nachträge
 
 ```{figure} images/nachtraege-ex3.jpg
-
+:class: image-override
 ```
 
 These entries were often added by the same or a later pastor, typically in
