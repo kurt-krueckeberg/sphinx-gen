@@ -14,9 +14,9 @@ In the context of Kirchenbücher (church books), a Nachtrag might include:
 - a baptism date and, when the individual dies, a death date
 - An emigration note, especially in 19th-century records
 
-*TODO:* include examples above.
+## Examples of Nachträge
 
-Notes about illegitimacy, legitimization, name changes, etc.
+
 
 These entries were often added by the same or a later pastor, typically in
 smaller or different handwriting, as you noted.
