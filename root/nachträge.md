@@ -34,9 +34,16 @@ bride, Marie Philippine Krückeberg,
 
 ### Baptism Record with Nachträge
 
-```{figure} images/nachtraege-ex3.jpg
+```{figure} images/nachtraege-ex2.jpg
 :class: image-override
 ```
+
+This is excerpt from a Petzen 1792 baptism record. ... written in a smaller hand, is the
+Nachträge:
+
+- **geb[oren]. 1794 in Steinbergen** ("born in 1794 in Steinbergen")
+- **gest[orben] 14.2.66** (died on February 14, 1866). 
+
 
 These entries were often added by the same or a later pastor, typically in
 smaller or different handwriting, as you noted.
