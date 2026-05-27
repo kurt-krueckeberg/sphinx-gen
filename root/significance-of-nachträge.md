@@ -25,8 +25,8 @@ of the same person's identity in the referenced records.
 ### 3. They Might Offer Migration or Location Clues
 
 Pastors might add annotations like:
-- `ausgewandert nach Amerika 1882` (emigrated to America 1882)
-- `jetzt wohnhaft in Bielefeld` (now residing in Bielefeld)
+- `ausgewandert nach Amerika 1882` ("emigrated to America 1882")
+- `jetzt wohnhaft in Bielefeld` ("now residing in Bielefeld")
 
 These can trace migrations, especially when people disappear from local records.
 
