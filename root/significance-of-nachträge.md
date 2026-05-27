@@ -2,11 +2,15 @@
 
 ## The Significance of *Nachträge* in German Church Records (Kirchenbücher)
 
-From a research perspective, the *Nachträge* (later additions or marginal notes) found in German *Kirchenbuch* entries are highly significant for several key reasons:
+From a research perspective, the *Nachträge* (later additions or marginal
+notes) found in German *Kirchenbuch* entries are highly significant for
+several key reasons:
 
 ### 🔍 1. They Provide Life-Span Continuity
 
-*Nachträge* often connect distinct life events (e.g., baptism → marriage → death) that may otherwise be scattered across different volumes or parishes.
+*Nachträge* often connect distinct life events (e.g., baptism → marriage →
+death) that may otherwise be scattered across different volumes or
+parishes.
 
 Example
 : A death date added decades later to a baptism or marriage record gives you confirmation of identity across time.
@@ -42,7 +46,8 @@ These *Nachträge* often include dates and registry numbers from civil offices.
 
 ### 🕯 5. They Show That a Record Was Still in Use Decades Later
 
-If a *Nachtrag* was added 40 years after the original entry, it shows that the record book was still being consulted.
+If a *Nachtrag* was added 40 years after the original entry, it shows that
+the record book was still being consulted.
 
 Implication
 : 
@@ -71,8 +76,8 @@ Without this *Nachtrag*, the death might be undocumented.
 
 *Nachträge* in *Kirchenbücher* are invaluable historical breadcrumbs.
 
-They tie together events, confirm identities, trace movements, and sometimes contain the
-**only surviving clue** to a life event.
+They tie together events, confirm identities, trace movements, and
+sometimes contain the **only surviving clue** to a life event.
 
-When doing serious genealogical work, these annotations are often where the story **really**
-comes into focus.
+When doing serious genealogical work, these annotations are often where the
+story **really** comes into focus.
