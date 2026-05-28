@@ -2,7 +2,7 @@
 
 ## Research Question
 
-Was the mother of Carl Friedrich Krückeberg (b. 1807) and Caroline Dorothee
+Was the mother of Carl Friedrich Krückeberg (born 1807) and Caroline Dorothee
 Krückeberg (b. 1812) a woman named **Philippine Eleonore Blecken**, or was this
 an error in the church records, and she was in fact **Philippine Eleonore
 Werkmeister**, wife of Carl Friedrich Gottlieb Krückeberg?
