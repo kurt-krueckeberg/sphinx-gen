@@ -365,4 +365,4 @@ mother of all three children was **Philippine Eleonore Werkmeister**. The
 use of the surname **Blecken** in the 1807 and 1812 baptism entries must be
 regarded as a clerical error.
 
-[^note1]: Board for Certification of Genealogists, *Genealogy Standards*, 2nd ed. (Nashville, TN: Ancestry, 2019), 81.
+[^note1]: Board for Certification of Genealogists, *Genealogy Standards*, 2nd ed. (Nashville, TN: Ancestry, 2019), page 81.
