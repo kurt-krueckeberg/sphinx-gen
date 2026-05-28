@@ -1,5 +1,4 @@
 # Case Study: The Identity of Philippine Eleonore, Wife of Carl Friedrich Gottlieb Krückeberg
-
 **OLD VERSION**
 ## Research Question
 
@@ -29,8 +28,25 @@ surname attribution.
 
 **NEW PRELIMINARY VERSION**
 
-A typewritten copy of a German document with the heading **Familienschein
+A typewritten copy of a document with the heading **Familienschein
 des Auswanderers Carl Friederich Krueckeberg von N. 18 in Beerenbusch,
+Deutschland** ("Family record of the emigrant Carl Friedrich Krueckeberg of
+no. 18 Beerenbusch, Germany") describes the family of Carl Friderich
+Krueckeberg of no. 10 Berenbusch, who emigrated in 1850 from Schaumburg-Lippe,
+and settled in Adams county, Indiana.
+
+The document lists Carl Friedrich Krueckeberg's wife as lists **Philippine Lenore, geb, Bleeken**[^note1]
+("Philippine Lenore, née Bleeken"). They had 6? children when they emigrated 
+in 1850.
+
+However, aAll available evidence confirms that Philippine Eleonore
+Werkmeister, baptized on 4 May 1783 in Evesen No. 11, was the only wife of
+Carl Friedrich Gottlieb Krückeberg. The appearance of the surname Blecken
+in two child baptismal records is inaccurate. There is no evidence of a
+second marriage, and multiple original sources directly contradict the
+“Blecken” surname attribution.
+
+The  **Familienschein des Auswanderers Carl Friederich Krueckeberg von N. 18 in Beerenbusch,
 Deutschland** ("Family record of the emigrant Carl Friedrich Krueckeberg of
 no. 18 Beerenbusch, Germany") comes down to us from Harry Frederick
 Krueckeberg, who believed his father type it. His father, Harry Fredrick
@@ -38,22 +54,14 @@ Louis Krueckeberg (1904-1972), was the 2{nd} generation of Krueckebergs to
 be born in (Union township??) Adams county, Indiana. 
 
 
-**TODO:** Footnote futher details about
-Harry Fredrick Louis Krueckeberg (1904-1972) listing him in the census and
+**TODO Footnotes:** 
+- Footnote futher details about Harry Fredrick Louis Krueckeberg (1904-1972) listing him in the census and
 in the Immanule Lutheran Church Record?
+- quote and footnote Mel's learning of the "Familienschein" document.
 
-**TODO:** quote and footnote Mel's learning of the "Familienschein" document.
 
 This document describes the family of Carl Friederich Krueckeberg and his
 wife Philippine Leonore nee Bleeken.
-
-
-All available evidence confirms that Philippine Eleonore Werkmeister,
-baptized on 4 May 1783 in Evesen No. 11, was the only wife of Carl
-Friedrich Gottlieb Krückeberg. The appearance of the surname Blecken in two
-child baptismal records is inaccurate. There is no evidence of a second
-marriage, and multiple original sources directly contradict the “Blecken”
-surname attribution.
 
 **NEW VERSION
 
@@ -398,4 +406,5 @@ mother of all three children was **Philippine Eleonore Werkmeister**. The
 use of the surname **Blecken** in the 1807 and 1812 baptism entries must be
 regarded as a clerical error.
 
-[^note1]: Board for Certification of Genealogists, *Genealogy Standards*, 2nd ed. (Nashville, TN: Ancestry, 2019), page 81.
+[^note1]: THe "n" ending on a woman's maiden name is often seen in the church registers. 
+[^note2]: Board for Certification of Genealogists, *Genealogy Standards*, 2nd ed. (Nashville, TN: Ancestry, 2019), page 81.
