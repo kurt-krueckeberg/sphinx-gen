@@ -1,4 +1,4 @@
-# Proof Argument: The Identity of Philippine Eleonore, Wife of Carl Friedrich Gottlieb Krückeberg
+# Case Study: The Identity of Philippine Eleonore, Wife of Carl Friedrich Gottlieb Krückeberg
 
 **OLD VERSION**
 ## Research Question
