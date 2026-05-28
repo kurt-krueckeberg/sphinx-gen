@@ -251,16 +251,26 @@ This summarizes the key findings.
 6. The **Familienschein (Family Certificate)** lists the mother as **Philippine Leonore, geb. Bleeken, von N. 11 in Evesen**. This is a
    derivative summary reflecting the inconsistent original records.
 
-## Negative Evidence and Absence of Conflicting Facts
+## Negative Evidence 
 
 Negative evidence is a "type of evidence arising from an absence of a
 situation or information in extant records where the information might be
-expected."[^note1]. We have this negative evidence:
+expected."[^note1]. If Carl Freidrich Gottlieb Krückeberg had married
+someone named Blecken, who had the same given names as his first wife,
+Philippine Eleonore Werkmeister, we should expected to find a death record
+for his first wife, a marriage record for his 2nd marriage.
+
+Instead we have this negative evidence:
 
 - No burial record exists for a first wife (Werkmeister) prior to 1807.
 - No second marriage record exists for Carl Friedrich Gottlieb Krückeberg.
-- House number **Evesen 11** is identical in all records — unlikely if a different woman had entered the household.
-- First and middle names, baptism date, and residence are all consistent across all entries — only the surname varies.
+
+## Absence of Conflicting Facts
+
+- House number **Evesen 11** is identical in all records — unlikely if a
+  different woman had entered the household.
+- First and middle names, baptism date, and residence are all consistent
+  across all entries — only the surname varies.
 
 ## Analysis
 

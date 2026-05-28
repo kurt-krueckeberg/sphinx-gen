@@ -1,5 +1,13 @@
 = Review Transliterations/Translations
 
+== Improve `ancestry/proof-arg-philippine-eleonore-werkmeister.md`
+
+In the discussion of Negative Evidence explain that if Carl Freidrich
+Gottlieb Krückeberg had married someone named Blecken, who had the same
+given names as his first wife, Philippine Eleonore Werkmeister, we should
+expected to find a death record for his first wife, a marriage record for
+his 2nd marriage.
+
 == Complete Review
 
 It left off with the Duplikaten "Bleeke in Frille" records:
