@@ -64,12 +64,13 @@ This summarizes the key findings.
      - 16 Dec. 1840
    ```
 
-   <u>Key finding</u>: The **Nachtrag (addendum)** to this record for **Philippine Eleonore Werkmeister** records her baptism and death dates as:
+   <u>Key finding</u>: The **Nachtrag (addendum)** to the marriage record for **Philippine Eleonore Werkmeister** lists
+   her baptism and death dates as:
 
    * Baptism date: **4 May 1783**
    * Death date: **16 December 1840**
 
-2. The [*Baptism of First Child (7 December 1803, Petzen Parish)*](../petzen/PET-B-1803c.md) Christine Philippine Krückeberg tells us:
+2. The [*Baptism of the couples first child (7 December 1803, Petzen Parish)*](../petzen/PET-B-1803c.md) Christine Philippine Krückeberg tells us:
 
    ```{list-table} Family Group
    :header-rows: 1
@@ -97,7 +98,8 @@ This summarizes the key findings.
    * - F[meaning Frauen?] Kruckeberg and Weiland from Berenbusch
    ```
 
-   <u>Key finding</u>: The 1{sup}`st` daughter of Carl Friedrich, Christine Philippine, is by his wife **Philippine née Werkmeister**. She is the mother of their first child.
+   <u>Key finding</u>: The 1{sup}`st` daughter of Carl Friedrich Krückeberg, Christine Philippine, is by his wife
+   **Philippine née Werkmeister**. She is the mother of their first child.
 
 3. [*Baptism of Second Child (24 May 1807)*](../petzen/PET-B-1807a.md) tells us:
 
@@ -155,7 +157,9 @@ This summarizes the key findings.
      - Lutheran
    ```
 
-   <u>Key finding</u>: Carl Friedrich Krückeberg’s baptism lists the mother as **Philippine Lenore geb. Blecken aus N. 11 in Evesen**. While the mother's maiden is now **Blecken**, her given name and residence prior to marriage remain the same.
+   <u>Key finding</u>: Carl Friedrich Krückeberg’s baptism lists the mother as **Philippine Lenore geb. Blecken aus N. 11 in Evesen**. While
+   the mother's maiden is now **Blecken**, her given name, Philippine Lenore, and her residence of no. 11 Evesen prior to marriage
+   match the March 13, 1803, marriage record.
 
 4. [*Baptism of Third Child (2 December 1812)*](../petzen/PET-B-1812a.md)
 
@@ -221,15 +225,18 @@ This summarizes the key findings.
    * - [4 May 1783](../petzen/PET-B-1783a.md)
    ```
 
-   <u>Key finding</u>: Caroline Dorothee Krückeberg’s baptism also lists the mother as **Philippine Leonore geb. Blecken aus N. 11 in Evesen**. An addendum below this entry states: **“get. 4.5.83”** (baptized 4 May 1783). Thus, while the maiden name is recorded for a 2{sup}`nd` time as **Blecken**, the mother's
+   <u>Key finding</u>: Caroline Dorothee Krückeberg’s baptism also lists the mother as **Philippine Leonore geb. Blecken aus N. 11 in Evesen**.
+   An addendum below this entry states: **“get. 4.5.83”** (baptized 4 May 1783). Thus, while the maiden name is recorded for a 2{sup}`nd` time
+   as **Blecken**, the mother's
 
    * given name,
    * her residence prior to marriage, and
    * her baptism date
 
-   remain unchanged.
+   remain unchanged. 
 
-5. [*Baptism Record (4 May 1783, Evesen Parish)*](../petzen/PET-B-1783a.md) of **Philippina Eleonore Werkmeister**, daughter of **Tönnies Werkmeister** of **Evesen No. 11** tells us:
+5. [*Baptism Record (4 May 1783, Evesen Parish)*](../petzen/PET-B-1783a.md) of **Philippina Eleonore Werkmeister**, daughter
+   of **Tönnies Werkmeister** of **Evesen No. 11** tells us:
 
    ```text
    On 4th May Philippina Eleonore Werkmeister, the begotten daugther of
@@ -238,9 +245,11 @@ This summarizes the key findings.
    from Evesen
    ```
 
-   <u>Key finding</u>: The only baptism recorded in the Petzen parish on May 4, 1783, was of **Philipina Eleonore Werkmeister**, whose family resided at **No. 11 Evesen**.
+   <u>Key finding</u>: The only baptism recorded in the Petzen parish on May 4, 1783, was of **Philipina Eleonore Werkmeister**, whose family
+   resided at **No. 11 Evesen**.
 
-6. The **Familienschein (Family Certificate)** lists the mother as **Philippine Leonore, geb. Bleeken, von N. 11 in Evesen**. This is a derivative summary reflecting the inconsistent primary records.
+6. The **Familienschein (Family Certificate)** lists the mother as **Philippine Leonore, geb. Bleeken, von N. 11 in Evesen**. This is a
+   derivative summary reflecting the inconsistent original records.
 
 ## Negative Evidence and Absence of Conflicting Facts
 
