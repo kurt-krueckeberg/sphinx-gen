@@ -1,5 +1,6 @@
 # Proof Argument: The Identity of Philippine Eleonore, Wife of Carl Friedrich Gottlieb Krückeberg
 
+**OLD VERSION**
 ## Research Question
 
 Was the mother of Carl Friedrich Krückeberg (born 1807) and Caroline Dorothee
@@ -23,6 +24,41 @@ Friedrich Gottlieb Krückeberg. The appearance of the surname **Blecken** in
 two child baptismal records is inaccurate. There is no evidence of a second
 marriage, and multiple primary sources directly contradict the “Blecken”
 surname attribution.
+
+**END OLD VERSION**
+
+**NEW PRELIMINARY VERSION**
+
+A typewritten copy of a German document with the heading **Familienschein des
+Auswanderers Carl Friederich Krueckeberg von N. 18 in Beerenbusch,
+Deutschland** ("Family record of the emigrant Carl Friedrich Krueckeberg of
+no. 18 Beerenbusch, Germany") comes down to us from Harry Frederick
+Krueckeberg, who believed his father, Harry Fredrick Louis Krueckeberg (1904-1972), 
+typed it.
+
+
+TODO: Footnote this?:
+Harry Fredrick Louis Krueckeberg (1904-1972) was the son 
+Friedrich Christian Wilhelm Krueckeberg (1860-1940), the son of Carl
+Heinrich Wilhelm Krückeberg, who arrived at age 15 in the United States
+with his parents and siblings. The family settled not lnog after in Adams
+county, Indiana.
+
+TODO: quote and footnote Mel's learning of the "Familienschein" document.
+
+
+This document describes the family of Carl Friederich Krueckeberg and his
+wife Philippine Leonore nee Bleeken.
+
+
+All available evidence confirms that Philippine Eleonore Werkmeister,
+baptized on 4 May 1783 in Evesen No. 11, was the only wife of Carl
+Friedrich Gottlieb Krückeberg. The appearance of the surname Blecken in two
+child baptismal records is inaccurate. There is no evidence of a second
+marriage, and multiple original sources directly contradict the “Blecken”
+surname attribution.
+
+**NEW VERSION
 
 ## Evidence
 
