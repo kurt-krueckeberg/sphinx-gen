@@ -374,6 +374,7 @@ mother of all three children was **Philippine Eleonore Werkmeister**. The
 use of the surname **Blecken** in the 1807 and 1812 baptism entries must be
 regarded as a clerical error.
 
+**Footnotes:**
 
 [^note1]: An "n" appended on a woman's maiden name is often seen in the church registers. 
 [^note2]: Email Harry again about this.
