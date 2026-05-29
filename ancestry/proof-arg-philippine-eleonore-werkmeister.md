@@ -266,7 +266,7 @@ This summarizes the key findings.
 
 Negative evidence is a "type of evidence arising from an absence of a
 situation or information in extant records where the information might be
-expected."[^note3]. If Carl Freidrich Gottlieb Krückeberg had married
+expected."[^note4]. If Carl Freidrich Gottlieb Krückeberg had married
 someone named Blecken, who had the same given names as his first wife,
 Philippine Eleonore Werkmeister, we should expected to find a death record
 for his first wife, a marriage record for his 2nd marriage.
@@ -378,10 +378,10 @@ regarded as a clerical error.
 
 [^note1]: An "n" appended on a woman's maiden name is often seen in the church registers. 
 [^note2]: Email Harry again about this.
-[^note3]: Board for Certification of Genealogists, *Genealogy Standards*, 2nd ed. (Nashville, TN: Ancestry, 2019), page 81.
 [^note3]: Supply citations for birth of Harry Frederick's father and
           grandfather.
-[^note4]: According to [Quellen zur Auswanderung im Niedersächsischen Landesarchiv](https://nla.niedersachsen.de/startseite/benutzung/nutzliche_hilfsmittel/quellen-zur-auswanderung-im-niedersaechsischen-landesarchiv-85731.html):
+[^note4]: Board for Certification of Genealogists, *Genealogy Standards*, 2nd ed. (Nashville, TN: Ancestry, 2019), page 81.
+[^note5]: According to [Quellen zur Auswanderung im Niedersächsischen Landesarchiv](https://nla.niedersachsen.de/startseite/benutzung/nutzliche_hilfsmittel/quellen-zur-auswanderung-im-niedersaechsischen-landesarchiv-85731.html):
 Grundsätzlich war es erlaubt, das Land zu verlassen, sofern ein Konsens der
 zuständigen Behörde vorlag. Es sollte jedoch verhindert werden, dass
 Gläubiger durch den Wegzug eines Schuldners geprellt oder
