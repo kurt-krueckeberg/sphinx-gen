@@ -2,13 +2,13 @@
 
 ## Introduction and Summary Conclusion
 
-A typewritten document with the heading **Familienschein des Auswanderers
-Carl Friederich Krueckeberg von N. 18 in Beerenbusch, Deutschland**
-("Family record of the emigrant Carl Friedrich Krueckeberg of no. 18
-Beerenbusch, Germany") describes the family of the Carl Friderich
-Krueckeberg. It lists **Philippine Lenore, geb,
-Bleeken**[^note1]("Philippine Lenore, née Bleeken") as Carl Friedrich
-Krueckeberg's wife.
+A surviving typewritten document headed **Familienschein des Auswanderers
+Carl Friederich Krückeberg von N. 18 in Beerenbusch, Deutschland** (“Family
+certificate of the emigrant Carl Friederich Krückeberg of no. 18 in
+Beerenbusch, Germany”) gives family information for the emigrant Carl
+Friederich Krückeberg. In identifying his parents, the document names his
+mother as Philippine Leonore, geb. Bleeken (“Philippine Leonore, née
+Bleeken”).[^note1]
 
 The Familienschein was a pastoral certificate issued for Carl
 Friederich Krückeberg and his family as emigrants. It certified that the
