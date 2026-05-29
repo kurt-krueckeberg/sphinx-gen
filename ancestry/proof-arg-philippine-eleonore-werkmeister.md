@@ -1,43 +1,39 @@
 # Case Study: The Identity of Philippine Eleonore, Wife of Carl Friedrich Gottlieb Krückeberg
 
-## Introduction
+## Introduction and Summary Conclusion
 
-A typewritten document with the heading **Familienschein
-des Auswanderers Carl Friederich Krueckeberg von N. 18 in Beerenbusch,
-Deutschland** ("Family record of the emigrant Carl Friedrich Krueckeberg of
-no. 18 Beerenbusch, Germany") describes the family members of the Carl Friderich
-Krueckeberg family of no. 10 Berenbusch, who emigrated in 1850 from Schaumburg-Lippe,
-and settled in Adams county, Indiana.
+A typewritten document with the heading **Familienschein des Auswanderers
+Carl Friederich Krueckeberg von N. 18 in Beerenbusch, Deutschland**
+("Family record of the emigrant Carl Friedrich Krueckeberg of no. 18
+Beerenbusch, Germany") describes the family of the Carl Friderich
+Krueckeberg. It lists **Philippine Lenore, geb,
+Bleeken**[^note1]("Philippine Lenore, née Bleeken") as Carl Friedrich
+Krueckeberg's wife.
 
-It names Carl Friedrich Krueckeberg's wife as **Philippine Lenore, geb, Bleeken**[^note1]
-("Philippine Lenore, née Bleeken").
-
-## Summary Conclusion
+The Familienschein was a pastoral certificate issued for Carl
+Friederich Krückeberg and his family as emigrants. It certified that the
+family information given in the document agreed with the Petzen church
+registers. The circumstances under which it was created are unknown: the
+document does not show whether it was requested by the family, routinely
+issued by the parish, or prepared for use in connection with emigration.
 
 However, the appearance of the surname Blecken in the document is
-inaccurate. All available evidence confirms that Philippine Eleonore's maiden
-was Werkmeister, and that she was the only wife of Carl Friedrich Gottlieb
-Krückeberg. There is no evidence of a second marriage, and multiple
-original sources directly contradict the “Blecken” surname attribution.
+inaccurate. All available evidence confirms that Philippine Eleonore's
+maiden was Werkmeister, and that she was the only wife of Carl Friedrich
+Gottlieb Krückeberg. There is no evidence of a second marriage, and
+multiple original sources directly contradict the “Blecken” surname
+attribution.
 
 ## Background
 
-The  **Familienschein des Auswanderers Carl Friederich Krueckeberg von N. 18 in Beerenbusch,
-Deutschland** ("Family record of the emigrant Carl Friedrich Krueckeberg of
-no. 18 Beerenbusch, Germany") comes down to us from Harry Frederick
-Krueckeberg, who believed his father type it[^note]. His father, Harry Fredrick
-Louis Krueckeberg (1904-1972), was the 2{nd} generation of Krueckebergs to
-be born in (Union township??) Adams county, Indiana[^note]. 
-
-**TODO Footnotes:** 
-- Footnote futher details about Harry Fredrick Louis Krueckeberg (1904-1972) listing him in the census and
-in the Immanule Lutheran Church Record?
-- quote and footnote Mel's learning of the "Familienschein" document.
-
-
-This document describes the family of Carl Friederich Krueckeberg and his
-wife Philippine Leonore nee Bleeken.
-
+The **Familienschein des Auswanderers Carl Friederich Krueckeberg von N. 18
+in Beerenbusch, Deutschland** ("Family record of the emigrant Carl
+Friedrich Krueckeberg of no. 18 Beerenbusch, Germany") comes down to us
+from Harry Frederick Krueckeberg, who believed his father type it[^note].
+The source or sources used to create the typewritten version have not been
+located.  His father, Harry Fredrick Louis Krueckeberg (1904-1972), was the
+2{nd} generation of Krueckebergs to be born in (Union township??) Adams
+county, Indiana[^note]. 
 
 ## Evidence
 
@@ -380,5 +376,29 @@ mother of all three children was **Philippine Eleonore Werkmeister**. The
 use of the surname **Blecken** in the 1807 and 1812 baptism entries must be
 regarded as a clerical error.
 
-[^note1]: THe "n" ending on a woman's maiden name is often seen in the church registers. 
+[^note1]: An "n" appended on a woman's maiden name is often seen in the church registers. 
 [^note2]: Board for Certification of Genealogists, *Genealogy Standards*, 2nd ed. (Nashville, TN: Ancestry, 2019), page 81.
+[^note3]: Supply citations for birth of Harry Frederick's father and
+grandfather.
+
+[^note4]: According to [Quellen zur Auswanderung im Niedersächsischen Landesarchiv](https://nla.niedersachsen.de/startseite/benutzung/nutzliche_hilfsmittel/quellen-zur-auswanderung-im-niedersaechsischen-landesarchiv-85731.html):
+Grundsätzlich war es erlaubt, das Land zu verlassen, sofern ein Konsens der
+zuständigen Behörde vorlag. Es sollte jedoch verhindert werden, dass
+Gläubiger durch den Wegzug eines Schuldners geprellt oder
+Familienmitglieder von einem Unterstützungspflichtigen unversorgt
+zurückgelassen werden konnten. Militärpflichtige mussten sich zusätzlich
+vor ihrer Auswanderung von ihrer Dienstpflicht entbinden lassen. Auf diese
+Weise entstanden auf den verschiedenen Ebenen staatlicher Verwaltung – vor
+allem bei den Ämtern und Drosteien, ebenso aber auch auf der Ebene der
+zentralen Verwaltung des Königsreichs bzw. der preußischen Provinz Hannover
+– zahlreiche "Auswandererakten", die später ins Archiv gelangt sind. 
+("Leaving the country was generally permitted, provided the relevant
+authorities had given their consent. However, measures were taken to
+prevent creditors from being defrauded by a debtor's departure or family
+members from being left without support by someone obligated to provide for
+them. Those liable for military service also had to obtain a release from
+their obligation before emigrating. This resulted in numerous "emigration
+files" being created at various levels of government –
+​​primarily at local offices and bailiwicks, but also at the
+level of the central administration of the Kingdom of Hanover and later the
+Prussian Province of Hanover – which were subsequently archived.").
