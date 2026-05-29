@@ -235,14 +235,14 @@ This summarizes the key findings.
    * - Baptism
    * - [4 May 1783](../petzen/PET-B-1783a.md)
    ```
-
+   
    <u>Key finding</u>: Caroline Dorothee Krückeberg’s baptism also lists the mother as **Philippine Leonore geb. Blecken aus N. 11 in Evesen**.
    An addendum below this entry states: **“get. 4.5.83”** (baptized 4 May 1783). Thus, while the maiden name is recorded for a 2{sup}`nd` time
    as **Blecken**, the mother's
 
-   * given name,
-   * her residence prior to marriage, and
-   * her baptism date
+   - given name,
+   - her residence prior to marriage, and
+   - her baptism date
 
    remain unchanged. 
 
@@ -274,7 +274,7 @@ for his first wife, a marriage record for his 2nd marriage.
 Instead we have this negative evidence:
 
 - No burial record exists for a first wife (Werkmeister) prior to 1807.
-- No second marriage record exists for Carl Friedrich Gottlieb Krückeberg.
+- No second marriage record exists for Carl Friedrich Gottlieb Krückeberg
 
 ## Absence of Conflicting Facts
 
@@ -374,7 +374,6 @@ mother of all three children was **Philippine Eleonore Werkmeister**. The
 use of the surname **Blecken** in the 1807 and 1812 baptism entries must be
 regarded as a clerical error.
 
-### Footnotes
 
 [^note1]: An "n" appended on a woman's maiden name is often seen in the church registers. 
 [^note2]: Email Harry again about this.
@@ -402,3 +401,4 @@ files" being created at various levels of government –
 ​​primarily at local offices and bailiwicks, but also at the
 level of the central administration of the Kingdom of Hanover and later the
 Prussian Province of Hanover – which were subsequently archived.").
+
