@@ -379,8 +379,7 @@ regarded as a clerical error.
 [^note1]: An "n" appended on a woman's maiden name is often seen in the church registers. 
 [^note2]: Board for Certification of Genealogists, *Genealogy Standards*, 2nd ed. (Nashville, TN: Ancestry, 2019), page 81.
 [^note3]: Supply citations for birth of Harry Frederick's father and
-grandfather.
-
+          grandfather.
 [^note4]: According to [Quellen zur Auswanderung im Niedersächsischen Landesarchiv](https://nla.niedersachsen.de/startseite/benutzung/nutzliche_hilfsmittel/quellen-zur-auswanderung-im-niedersaechsischen-landesarchiv-85731.html):
 Grundsätzlich war es erlaubt, das Land zu verlassen, sofern ein Konsens der
 zuständigen Behörde vorlag. Es sollte jedoch verhindert werden, dass
