@@ -29,11 +29,11 @@ attribution.
 The **Familienschein des Auswanderers Carl Friederich Krueckeberg von N. 18
 in Beerenbusch, Deutschland** ("Family record of the emigrant Carl
 Friedrich Krueckeberg of no. 18 Beerenbusch, Germany") comes down to us
-from Harry Frederick Krueckeberg, who believed his father type it[^note].
+from Harry Frederick Krueckeberg, who believed his father typed it[^note2].
 The source or sources used to create the typewritten version have not been
 located.  His father, Harry Fredrick Louis Krueckeberg (1904-1972), was the
 2{nd} generation of Krueckebergs to be born in (Union township??) Adams
-county, Indiana[^note]. 
+county, Indiana[^note3]. 
 
 ## Evidence
 
@@ -266,7 +266,7 @@ This summarizes the key findings.
 
 Negative evidence is a "type of evidence arising from an absence of a
 situation or information in extant records where the information might be
-expected."[^note1]. If Carl Freidrich Gottlieb Krückeberg had married
+expected."[^note3]. If Carl Freidrich Gottlieb Krückeberg had married
 someone named Blecken, who had the same given names as his first wife,
 Philippine Eleonore Werkmeister, we should expected to find a death record
 for his first wife, a marriage record for his 2nd marriage.
@@ -377,7 +377,8 @@ use of the surname **Blecken** in the 1807 and 1812 baptism entries must be
 regarded as a clerical error.
 
 [^note1]: An "n" appended on a woman's maiden name is often seen in the church registers. 
-[^note2]: Board for Certification of Genealogists, *Genealogy Standards*, 2nd ed. (Nashville, TN: Ancestry, 2019), page 81.
+[^note2]: Email Harry again about this.
+[^note3]: Board for Certification of Genealogists, *Genealogy Standards*, 2nd ed. (Nashville, TN: Ancestry, 2019), page 81.
 [^note3]: Supply citations for birth of Harry Frederick's father and
           grandfather.
 [^note4]: According to [Quellen zur Auswanderung im Niedersächsischen Landesarchiv](https://nla.niedersachsen.de/startseite/benutzung/nutzliche_hilfsmittel/quellen-zur-auswanderung-im-niedersaechsischen-landesarchiv-85731.html):
