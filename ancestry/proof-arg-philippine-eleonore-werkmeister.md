@@ -32,7 +32,7 @@ Friedrich Krueckeberg of no. 18 Beerenbusch, Germany") comes down to us
 from Harry Frederick Krueckeberg, who believed his father typed it[^note2].
 The source or sources used to create the typewritten version have not been
 located.  His father, Harry Fredrick Louis Krueckeberg (1904-1972), was the
-2{nd} generation of Krueckebergs to be born in (Union township??) Adams
+2{sup}`nd` generation of Krueckebergs to be born in (Union township??) Adams
 county, Indiana[^note3]. 
 
 ## Evidence
