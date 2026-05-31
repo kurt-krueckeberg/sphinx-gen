@@ -19,7 +19,7 @@ issued by the parish, or prepared for use in connection with emigration.
 
 However, the appearance of the surname Blecken in the document is
 inaccurate. All available evidence confirms that Philippine Eleonore's
-maiden was Werkmeister, and that she was the only wife of Carl Friedrich
+maiden name was Werkmeister, and that she was the only wife of Carl Friedrich
 Gottlieb Krückeberg. There is no evidence of a second marriage, and
 multiple original sources directly contradict the “Blecken” surname
 attribution.
