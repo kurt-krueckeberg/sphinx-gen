@@ -276,6 +276,11 @@ Instead we have this negative evidence:
 - No burial record exists for a first wife (Werkmeister) prior to 1807.
 - No second marriage record exists for Carl Friedrich Gottlieb Krückeberg
 
+The Kirchenbücher for Petzen are not indexed. There is no table of
+contenst. So this assertion rests enirtely on the thoroughness and
+care taken in contientiousnessly examing hundreds of marriage and death
+records and ensuring done were overlooked.
+
 ## Absence of Conflicting Facts
 
 - House number **Evesen 11** is identical in all records — unlikely if a
