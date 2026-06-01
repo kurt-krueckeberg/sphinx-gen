@@ -4,7 +4,7 @@
 
 A surviving typewritten document headed **Familienschein des Auswanderers
 Carl Friederich Krückeberg von N. 18 in Beerenbusch, Deutschland** (“Family
-certificate of the emigrant Carl Friederich Krückeberg of no. 18 in
+record of the emigrant Carl Friederich Krückeberg of no. 18 in
 Beerenbusch, Germany”) gives family information for the emigrant Carl
 Friederich Krückeberg. In identifying his parents, the document names his
 mother as Philippine Leonore, geb. Bleeken (“Philippine Leonore, née
