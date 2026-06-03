@@ -279,7 +279,7 @@ chapters:
 
 - file: research/index
   sections:
-    - file: new-research-ideas
-    - file: researching-1728-to-1750
-    - file: researching-other-ideas
+    - file: research/new-research-ideas
+    - file: research/researching-1728-to-1750
+    - file: research/researching-other-ideas
 
