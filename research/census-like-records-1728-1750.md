@@ -2,7 +2,7 @@
 
 There *are* series that can, in principle, list every household in Berenbusch in this time-frame.
 
-[![Hafen Bückeburg-Berenbusch nach über zehn Jahren fertiggestellt](https://tse2.mm.bing.net/th/id/OIP.BL5ItQ9W_H6pePUBN-U9tgHaD4?cb=ucfimgc2\&pid=Api)](https://www.sn-online.de/lokales/schaumburg/bueckeburg/hafen-bueckeburg-berenbusch-nach-ueber-zehn-jahren-fertiggestellt-RSUKO3VITR54TMYIR2MHRJT63A.html?utm_source=chatgpt.com)
+[![Bückeburg Regional Abteilung des niedersächischen Landesarchiv](https://nla.niedersachsen.de/assets/image/736/145010)
 
 Below is pratical guidance.
 
