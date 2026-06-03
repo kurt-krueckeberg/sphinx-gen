@@ -1,11 +1,14 @@
-Short answer: yes, but they’re not neat “censuses,” and you’ll have to dig in the Rentkammer/Amt Bückeburg material. The good news is that there *are* series that can, in principle, list every household in Berenbusch in your time-frame.
+# Densus-like Records
+
+The good news is that there *are* series that can, in principle, list every
+household in Berenbusch in your time-frame.
 
 [![Hafen Bückeburg-Berenbusch nach über zehn Jahren fertiggestellt](https://tse2.mm.bing.net/th/id/OIP.BL5ItQ9W_H6pePUBN-U9tgHaD4?cb=ucfimgc2\&pid=Api)](https://www.sn-online.de/lokales/schaumburg/bueckeburg/hafen-bueckeburg-berenbusch-nach-ueber-zehn-jahren-fertiggestellt-RSUKO3VITR54TMYIR2MHRJT63A.html?utm_source=chatgpt.com)
 
 I’ll keep this practical and focused on 1728–1750.
 
 
-### 1. What *kinds* of records you’re looking for
+## 1. What *kinds* of records you’re looking for
 
 For Schaumburg-Lippe / Amt Bückeburg in the 18th century, the key non-church record types are:
 
@@ -43,7 +46,7 @@ For Schaumburg-Lippe / Amt Bückeburg in the 18th century, the key non-church re
    * Earlier **Untertanen-, Dienste-, Forst-, and boundary cases** for Berenbusch may survive in the same **K 1 Rentkammer** and **A 12 Amt Bückeburg** series; a “Krückeberg in Berenbusch” in a 1740s boundary dispute is just as genealogically juicy as a baptism.
 
 
-### 2. How realistic is 1728–1750 coverage?
+## 2. How realistic is 1728–1750 coverage?
 
 * **True censuses** (every person listed with age, etc.) generally don’t exist for tiny principalities like Schaumburg-Lippe that early. Most systematic Einwohnerlisten start closer to 1800.
 * What *does* exist, and *can* get you to named Krückebergs in 1728–1750, are:
@@ -59,7 +62,7 @@ So you’re mainly looking for **heads of households called Krückeberg in Beren
   to argue which anonymous “Krückeberg in Berenbusch” parents belong to which man.
 
 
-### 3. Concrete search strategy in Arcinsys / NLA BU
+## 3. Concrete search strategy in Arcinsys / NLA BU
 
 You’ve basically already described this to yourself on your docs site, but here it is distilled for the 1728–1750 Krückeberg problem: ([Krueckeberg Docs][2])
 
@@ -96,7 +99,7 @@ You’ve basically already described this to yourself on your docs site, but her
    * Because Berenbusch was in Petzen’s parish, some **church-administrative** and **school** records for the 18th century may be in other archives (Minden / Westfalen) but still mention Berenbusch heads of household. The 17th-c. Kirchenvisitationen of the Fürstentum Minden show the type of material I mean; later rounds may exist closer to 1700. ([LWL.org][6])
 
 
-### 4. How this helps with your specific puzzle
+## 4. How this helps with your specific puzzle
 
 You currently have:
 
@@ -119,7 +122,7 @@ Then, Hofbrief/Altenteil/Inventar/Vormundschaft files can (with luck) explicitly
 and so on.
 
 
-### 5. Bottom line
+## 5. Bottom line
 
 * **No tidy censuses** for 1728–1750, but **yes**, there *may* be:
 
