@@ -6,7 +6,7 @@ There *are* series that can, in principle, list every household in Berenbusch in
 :alt: Bückeburg Regional Abteilung des niedersächischen Landesarchiv
 :width: 90%
 
-Bückeburg Regional Abteilung des niedersächischen Landesarchiv
+Niedersächsisches Landesarchiv, Abteilung Bückeburg
 ```
 
 Below is pratical guidance.
