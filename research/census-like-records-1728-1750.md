@@ -2,7 +2,7 @@
 
 There *are* series that can, in principle, list every household in Berenbusch in this time-frame.
 
-[![Bückeburg Regional Abteilung des niedersächischen Landesarchiv](https://nla.niedersachsen.de/assets/image/736/145010)
+![Bückeburg Regional Abteilung des niedersächischen Landesarchiv](https://nla.niedersachsen.de/assets/image/736/145010)
 
 Below is pratical guidance.
 
