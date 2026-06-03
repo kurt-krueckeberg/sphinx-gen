@@ -24,7 +24,11 @@ For rural artisans, Einlieger, and other non-farmholding residents, look for rec
 * **Heimatrecht**
 * **Armensache / Armenwesen**
 
-Do **not** search these as one-off guesses. Search them inside the likely Bückeburg governmental fonds and note which fonds actually contain occupational, residence-status, settlement, tax, poor-relief, court, or administrative-permission records.
+The real goal of searching the terms above is to identify **fonds or
+series**, not isolated keyword hits. A zero-result search for a term such
+as `Einlieger`, `Schneider`, or `Kopfsteuer` does not prove that such
+records do not exist; it may only mean that the term does not appear in the
+Arcinsys title or description.
 
 The real question becomes:
 
