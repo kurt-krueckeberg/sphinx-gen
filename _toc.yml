@@ -276,3 +276,10 @@ chapters:
 
 - file: ancestry/proof-arg-philippine-eleonore-werkmeister
   title: The Identity of Carl Friedrich Gottlieb Krückeberg's Wife
+
+- file: research/index
+  sections:
+    - file: new-research-ideas
+    - file: researching-1728-to-1750
+    - file: researching-other-ideas
+
