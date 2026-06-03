@@ -1,5 +1,6 @@
 # Researching Other Thoughts
 
+- Ernest Thode's lecture: [10 Ways German Research Is Different from U.S. Research](https://familytreewebinars.com/webinar/10-ways-german-research-is-different-from-u-s-research)
 - Articles bookmarked in Zotero on "Schaumburg-Lippe Background".
 - Anerbenrecht
 - Schaumburg-Lippe history
@@ -8,7 +9,7 @@
 - Create family groups
 
 
-## Records/Backgroun to Research
+## Records/Background to Research
 
 - Germanic Genealogy Society Videos
 - ACSI videos
