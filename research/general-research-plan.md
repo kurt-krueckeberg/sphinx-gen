@@ -1,4 +1,4 @@
-# New Research Ideas
+# General Research Plan 
 
 ## Best target: records created because artisans, Einlieger, and other non-farmholding residents needed permission, regulation, taxation, settlement recognition, or legal action
 
