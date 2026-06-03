@@ -19,7 +19,7 @@ For Schaumburg-Lippe / Amt Bückeburg in the 18th century, the key non-church re
 
    * **Schatzregister / Kontributionsregister** – registers for land and head taxes, often organized by *village*, then by *householder*. Names will be in the format “Col. Krückeberg in Berenbusch” etc.
    * In NLA Bückeburg these fall mainly under **F 2 “Kontributionen und Steuern”** and the older **L 1 / K-Bestände** (Samtarchiv / Rentkammer), which include *Schatzregister* for Schaumburg and Schaumburg-Lippe. ([Arcinsys][1])
-   * Your own notes already point to this: you’ve got the reminder to search NLA for **Kontribution** and **Schatzung** with Berenbusch/Petzen. ([Krueckeberg Docs][2])
+   * My own notes already point to this: you’ve got the reminder to search NLA for **Kontribution** and **Schatzung** with Berenbusch/Petzen. ([Krueckeberg Docs][2])
 
 2. **Land and farm registers**
 
@@ -29,7 +29,7 @@ For Schaumburg-Lippe / Amt Bückeburg in the 18th century, the key non-church re
 3. **Farm charters and estate files**
 
    * **Meierbriefe / Hofbriefe**, **Hofakten**, **Altenteilsverträge**, **Inventare** – all the stuff around granting or transferring a farm, setting up retirement for the old colon, division among heirs, etc.
-   * Your own “other Schaumburg-Lippe records” page basically gives the shopping list: **Meier, Hofbrief, Altenteil, Inventar, Vormundschaft** (guardianship) as search terms for Berenbusch/Petzen in **K 1** and **A 12 (Amt Bückeburg)**. ([Krueckeberg Docs][2])
+   * My own “other Schaumburg-Lippe records” page basically gives the shopping list: **Meier, Hofbrief, Altenteil, Inventar, Vormundschaft** (guardianship) as search terms for Berenbusch/Petzen in **K 1** and **A 12 (Amt Bückeburg)**. ([Krueckeberg Docs][2])
    * These files often name *all* children and in-laws and can bridge exactly the gap you have between early Kirchenbücher and the 1798–1800 case files you’re already working with.
 
 4. **Militia and service lists**
@@ -40,7 +40,7 @@ For Schaumburg-Lippe / Amt Bückeburg in the 18th century, the key non-church re
 5. **Fire-insurance (Brandkasse) registers**
 
    * Early rural **Brandkasse** records usually list every insurable building and its owner for each village – effectively a house-by-house population list.
-   * Your own cheat-sheet already notes **Brandkasse – fire insurance registers – householders** as a category to search for Berenbusch in the Rentkammer/Amt Bückeburg material. ([Krueckeberg Docs][2])
+   * My own cheat-sheet already notes **Brandkasse – fire insurance registers – householders** as a category to search for Berenbusch in the Rentkammer/Amt Bückeburg material. ([Krueckeberg Docs][2])
    * These tend to be late 18th/early 19th century; they might be just a bit too late for 1728–1750, but could still help infer continuity of a Krückeberg farm backward from the 1790s to the 1720s.
 
 6. **Local administrative case files**
