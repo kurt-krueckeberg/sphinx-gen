@@ -4,6 +4,13 @@ There *are* series that can, in principle, list every household in Berenbusch in
 
 ![Bückeburg Regional Abteilung des niedersächischen Landesarchiv](https://nla.niedersachsen.de/assets/image/736/145010)
 
+```{figure} https://nla.niedersachsen.de/assets/image/736/145010
+:alt: Bückeburg Regional Abteilung des niedersächischen Landesarchiv
+:width: 80%
+
+Bückeburg Regional Abteilung des niedersächischen Landesarchiv
+```
+
 Below is pratical guidance.
 
 ## 1. What *kinds* of records you’re looking for
