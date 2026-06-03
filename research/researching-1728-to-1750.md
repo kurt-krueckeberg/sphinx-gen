@@ -1,12 +1,10 @@
-# Densus-like Records
+# Census-like Records
 
-The good news is that there *are* series that can, in principle, list every
-household in Berenbusch in your time-frame.
+There *are* series that can, in principle, list every household in Berenbusch in this time-frame.
 
 [![Hafen Bückeburg-Berenbusch nach über zehn Jahren fertiggestellt](https://tse2.mm.bing.net/th/id/OIP.BL5ItQ9W_H6pePUBN-U9tgHaD4?cb=ucfimgc2\&pid=Api)](https://www.sn-online.de/lokales/schaumburg/bueckeburg/hafen-bueckeburg-berenbusch-nach-ueber-zehn-jahren-fertiggestellt-RSUKO3VITR54TMYIR2MHRJT63A.html?utm_source=chatgpt.com)
 
-I’ll keep this practical and focused on 1728–1750.
-
+Below is pratical guidance.
 
 ## 1. What *kinds* of records you’re looking for
 
