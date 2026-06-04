@@ -14,20 +14,6 @@ der Getauften und Konfirmierten 1641-1784".
 
 ## Transliteration and Translation
 
-Transliteration of Page Header
-
-```{code-block} text
-
-1783    Getaufte
-```
-
-Translation of Page Header
-
-```{code-block} text
-
-1783    Baptisms
-```
-
 Transliteration of Baptism Record
 
 ```{code-block} text
