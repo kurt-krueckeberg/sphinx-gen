@@ -1,5 +1,13 @@
 # General Research Plan 
 
+**NEW UPDATEED APPROACH:**
+
+Find out which record-generating entities existed within the old-government record group. These will be
+the "fonds". See the Arcinsys description of the [three authorities of the old government](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=b659).
+
+Translate it and create a table the maps these record-generating entities
+to their function.
+
 ## Best target: records created because artisans, Einlieger, and other non-farmholding residents needed permission, regulation, taxation, settlement recognition, or legal action
 
 For rural artisans, Einlieger, and other non-farmholding residents, look for records involving:
