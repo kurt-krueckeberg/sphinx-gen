@@ -1,11 +1,11 @@
-# Bückeburg Regional Archiveäs archival Organization
+# Bückeburg Regional Archive's Archival Organization
 
 The organization of the Bückeburg Abteilung des Niedersächischen Landarchiv
 is along these lines.
 
-For a particular archival fileäs identifier in the Bückeburg Abteilung des
-Niedersächisches Landesarchiv, say, **NLA BU, L 2, L Nr. 27/28**, the
-breakdown of each segment of the identifier is as follows:
+For a particular archival file's identifier in the Bückeburg Abteilung
+(Branch) des Niedersächisches Landesarchiv, say, **NLA BU, L 2, L Nr.
+27/28**, the breakdown of each segment of the identifier is as follows:
 
 **NLA BU**
 This means **Niedersächisches Landesarchiv, Abteilung Bückeburg** — the

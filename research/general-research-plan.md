@@ -3,7 +3,7 @@
 **NEW UPDATEED APPROACH:**
 
 Find out which record-generating entities existed within the old-government record group. These will be
-the "fonds". See the Arcinsys description of the [three authorities of the old government](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=b659).
+the Bestände ("fonds"). See the Arcinsys description of the [three authorities of the old government](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=b659).
 
 Translate it and create a table the maps these record-generating entities
 to their function.
