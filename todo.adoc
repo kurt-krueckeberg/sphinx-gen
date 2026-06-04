@@ -1,18 +1,5 @@
 = Review Transliterations/Translations
 
-== Improve `ancestry/proof-arg-philippine-eleonore-werkmeister.md`
-
-In the discussion of Negative Evidence explain that if Carl Freidrich
-Gottlieb Krückeberg had married someone named Blecken, who had the same
-given names as his first wife, Philippine Eleonore Werkmeister, we should
-expected to find a death record for his first wife, a marriage record for
-his 2nd marriage.
-
-== Complete Review
-
-It left off with the Duplikaten "Bleeke in Frille" records:
-* Add link to image viewer for NRW archive and suppluy image numbers.
-
 == Add New Research TODO
 
 See the "rewrite of m/research/p/completed-research.adoc" in
@@ -27,10 +14,28 @@ Read up on:
 * Schaumburg-Lippe's government and the Rentkammer
 * Laws like Anerbenrecht, etc.
 
+== Watch Ernest Thode's Video
+
+[10 Ways German Research Is Different from U.S. Research](https://familytreewebinars.com/webinar/10-ways-german-research-is-different-from-u-s-research)
+
 == Complete Translation of Einlieger Article
 
 It is in the link:https://github.com/kurt-krueckeberg/funke[Funke] github
 repo.
+
+
+== Improve `ancestry/proof-arg-philippine-eleonore-werkmeister.md`
+
+In the discussion of Negative Evidence explain that if Carl Freidrich
+Gottlieb Krückeberg had married someone named Blecken, who had the same
+given names as his first wife, Philippine Eleonore Werkmeister, we should
+expected to find a death record for his first wife, a marriage record for
+his 2nd marriage.
+
+== Complete Review
+
+It left off with the Duplikaten "Bleeke in Frille" records:
+* Add link to image viewer for NRW archive and suppluy image numbers.
 
 == Prepare List of Documents to for Dr. Möhle to examine in Bückeburg
 
