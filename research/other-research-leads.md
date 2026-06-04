@@ -1,6 +1,8 @@
 # Other Research Lead Generators
 
 - Ernest Thode's lecture: [10 Ways German Research Is Different from U.S. Research](https://familytreewebinars.com/webinar/10-ways-german-research-is-different-from-u-s-research)
+- NGS article on logic and book on logic/genealogy
+- John Beatty case study
 - Combine the information in `~/gen/m/research/p` -- like genealogies
 - Articles bookmarked in Zotero on "Schaumburg-Lippe Background".
 - Anerbenrecht
