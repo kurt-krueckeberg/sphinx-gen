@@ -279,6 +279,7 @@ chapters:
 
 - file: research/index
   sections:
+    - file: research/bueckeburg-archive-organization
     - file: research/general-research-plan
     - file: research/census-like-records-1728-1750
     - file: research/other-research-leads
