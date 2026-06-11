@@ -1,13 +1,13 @@
-# 1744 Johann Heinrich Krückeberg Baptized
+# 1744 Johann Henrich Krückeberg Baptized
 
 ## Family Relationships and Other Facts
 
-```{list-table} Johann Heinrich Baptism
+```{list-table} Johann Henrich Baptism
 :header-rows: 1
 
 * - Name
   - Baptism Date
-* - Johann Heinrich Krückeberg
+* - Johann Henrich Krückeberg
   - 19 Jan. 1744
 ```
 
@@ -23,7 +23,7 @@
 
 :::{admonition} Significance of Father’s Given Name Missing
 
-The baptism of a Johann Heinrich Krückeberg does not list the father’s given names
+The baptism of a Johann Henrich Krückeberg does not list the father’s given names
 nor does it list the locality where he was born. Berenbusch is not
 mentioned. This MIGHT be because there was only one Krückeberg family, the
 one in Berenbusch.
@@ -39,7 +39,7 @@ The baptism entry is found on {ref}`image 167, year 1744, fourth entry for Janua
 ```
 
 ```{note}
-Due to the poor quality of the text, it is unclear word precedes "Johann Heinrich". Is it the first of three given
+Due to the poor quality of the text, it is unclear word precedes "Johann Henrich". Is it the first of three given
 names? It is might be **benahmsen**, with **benahmsen** likely just another form of **benamsen**, colloquial
 for *benennen*, "to name somebody or something after, or for".
 ```
@@ -55,8 +55,8 @@ Anno 1744
 [First three entries from 1744 ommitted...]
 
 d. 19 dito Krückeberg ein Söhnlein taufen laßen
-benamset Johann Heinrich. Gevatter sind G[eorg]
-Frerkingsᵛ Ahldags. Weiland in Behrenbusch. Watermanns
+benamset Johann Henrich. Gevatter sind G[eorg]
+Frerkings Ahldags. Weiland in Behrenbusch. Watermanns
 Sohn von Nordholtz.
 ```
 
@@ -72,7 +72,7 @@ Translation
 ```{code-block} text
 
 On the 19th of the same month [January], Krückeberg had a little son baptized,
-named Johann Heinrich. The sponsors were Georg
+named Johann Henrich. The sponsors were Georg
 Frerking Ahldag, Weiland in Berenbusch, and Watermann’s
 son from Nordholz
 ```
