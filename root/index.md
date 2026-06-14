@@ -11,7 +11,7 @@ are included:
 * - Buchholz
   - * [Kleinschmidt](../buchholz/kleinschmidt.md)
 * - Frille
-  - * [Bleeke](../frille/frille-bleekes.md)
+  - * [Bleeke](../bleeke/bleeke-church-records.md)
     * [Luise Eleonore Krückeberg marriage](../frille/FRI-M-1826a.md)
 * - Kleinenbremen
   - * [Drinkuth](../kleinenbremen/KLE-B-1778a.md)
