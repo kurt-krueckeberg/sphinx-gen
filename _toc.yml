@@ -6,9 +6,8 @@ root: root/index.md
 chapters:
 - file: root/nachträge.md
   sections:
-#   - file: root/origin-of-nachträge.md
     - file: root/significance-of-nachträge.md
-- file: frille/frille-bleekes
+- file: bleeke/bleeke-church-records
   sections:
     - file: frille/FRI-B-1739a
     - file: frille/FRI-B-1760a
