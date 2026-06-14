@@ -3,15 +3,11 @@
 The Bleeke church records are from these sources:
 
 1. These [Archion.de](https:archion.de) Frille volumes:
-  - Verzeichnis der Getauften, Getrauten, Gestorbenen 1664-1757
-  - Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804
+    - Verzeichnis der Getauften, Getrauten, Gestorbenen 1664-1757
+    - Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804
 2. These **Landesarchiv NRW, Abteilung Ostwestfalen-Lippe** Frille Kirchenbuchduplikate:
-  - [Landesarchiv
-NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
-Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003)
-  - [Landesarchiv
-NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
-Minden, Nr. B 168 Jg. 1831-1845](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763).
+    - [Landesarchiv NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003)
+    - [Landesarchiv NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763).
 
 ## Frille KirchenbuchDuplikanten
 
