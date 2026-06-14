@@ -21,21 +21,14 @@ have also been examined.
 
 From: [https:archivsuche](https://www.archive.nrw.de/archivsuche)
 
-1. [Landesarchiv NRW Abteilung
-   Ostwestfalen-Lippe](https://www.archive.nrw.de/archivsuche?link=TEKTONIK-Tekt_a6fa801b-a7f8-46ae-b87c-3e1930f294b5)
-2. [Personenstandsarchiv
-   Westfalen-Lippe](https://www.archive.nrw.de/archivsuche?link=TEKTONIK-Tekt_16ffdb05-f60a-47fa-848e-747a9921bb33)
-3. [Kirchenbuchduplikate, Zivilstands-, Juden- und
-   Dissidentenregister](https://www.archive.nrw.de/archivsuche?link=TEKTONIK-Tekt_1c3f1fff-65fb-4bd0-9f6f-d53fbee4e471)
-4. [Regierrungsbezirk
-   Detmold](https://www.archive.nrw.de/archivsuche?link=TEKTONIK-Tekt_ca036f68-be9a-4699-bd76-e0028956cae9)
-5. [P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des
-   Regierungsbezirks
-Minden](https://www.archive.nrw.de/archivsuche?link=BESTAND-Best_9f7d2003-c149-40fb-a2a1-41bef6f521cd)
-6. [Frille, Kreis
-Minden](https://www.archive.nrw.de/archivsuche?link=KLASSIFIKATION-Klas_2b89c798-9570-4e76-bea3-1eab6f4b3e03)
-  - [Zivilstandregister](https://www.archive.nrw.de/archivsuche?link=KLASSIFIKATION-Klas_68ffc783-c858-4ae3-909d-c58597fdc708)
-  - [Kirchenbuchduplikate](https://www.archive.nrw.de/archivsuche?link=KLASSIFIKATION-Klas_2b647820-98c2-4c4c-9b86-03e1b356d9c8)
+1. [Landesarchiv NRW Abteilung Ostwestfalen-Lippe](https://www.archive.nrw.de/archivsuche?link=TEKTONIK-Tekt_a6fa801b-a7f8-46ae-b87c-3e1930f294b5) →
+2. [Personenstandsarchiv Westfalen-Lippe](https://www.archive.nrw.de/archivsuche?link=TEKTONIK-Tekt_16ffdb05-f60a-47fa-848e-747a9921bb33) →
+3. [Kirchenbuchduplikate, Zivilstands-, Juden- und Dissidentenregister](https://www.archive.nrw.de/archivsuche?link=TEKTONIK-Tekt_1c3f1fff-65fb-4bd0-9f6f-d53fbee4e471) →
+4. [Regierrungsbezirk Detmold](https://www.archive.nrw.de/archivsuche?link=TEKTONIK-Tekt_ca036f68-be9a-4699-bd76-e0028956cae9) →
+5. [P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden](https://www.archive.nrw.de/archivsuche?link=BESTAND-Best_9f7d2003-c149-40fb-a2a1-41bef6f521cd) →
+6. [Frille, Kreis Minden](https://www.archive.nrw.de/archivsuche?link=KLASSIFIKATION-Klas_2b89c798-9570-4e76-bea3-1eab6f4b3e03) →
+   - [Zivilstandregister](https://www.archive.nrw.de/archivsuche?link=KLASSIFIKATION-Klas_68ffc783-c858-4ae3-909d-c58597fdc708) →
+   - [Kirchenbuchduplikate](https://www.archive.nrw.de/archivsuche?link=KLASSIFIKATION-Klas_2b647820-98c2-4c4c-9b86-03e1b356d9c8)
 
 ## 1830s Lutheran Churches in Cincinnati
 
