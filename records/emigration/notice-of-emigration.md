@@ -14,4 +14,4 @@ been digitized by the Bayerische Staatsbibliothek / Münchener
 DigitalisierungsZentrum and is available online here:
 
 [https://www.digitale-sammlungen.de/en/details/bsb10002333](https://www.digitale-sammlungen.de/en/details/bsb10002333)
-
+[https://www.digitale-sammlungen.de/en/details/bsb10002334](https://www.digitale-sammlungen.de/en/details/bsb10002334)
