@@ -13,5 +13,5 @@ Principality of Schaumburg-Lippe**). **1849**. That bound volume has now
 been digitized by the Bayerische Staatsbibliothek / Münchener
 DigitalisierungsZentrum and is available online here:
 
-[https://www.digitale-sammlungen.de/en/details/bsb10002333](https://www.digitale-sammlungen.de/en/details/bsb10002333)
-[https://www.digitale-sammlungen.de/en/details/bsb10002334](https://www.digitale-sammlungen.de/en/details/bsb10002334)
+- [Anzeigen des Fürstenthums Schaumburg-Lippe. 1850 Official Gazette / Notices of the Principality of Schaumburg-Lippe), 1850.](https://www.digitale-sammlungen.de/en/details/bsb10002333)
+- [Anzeigen des Fürstenthums Schaumburg-Lippe. 1850 Official Gazette / Notices of the Principality of Schaumburg-Lippe), 1850.](https://www.digitale-sammlungen.de/en/details/bsb10002334)
