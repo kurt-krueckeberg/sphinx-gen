@@ -14,4 +14,7 @@ been digitized by the Bayerische Staatsbibliothek / Münchener
 DigitalisierungsZentrum and is available online here:
 
 - [Anzeigen des Fürstenthums Schaumburg-Lippe. 1850 (Official Gazette / Notices of the Principality of Schaumburg-Lippe), 1850.](https://www.digitale-sammlungen.de/en/details/bsb10002333)
+  - [Page 226 = 1 Spet. 1849](https://www.digitale-sammlungen.de/en/view/bsb10002333?page=226%2C227)
 - [Anzeigen des Fürstenthums Schaumburg-Lippe. 1850 (Official Gazette / Notices of the Principality of Schaumburg-Lippe), 1850.](https://www.digitale-sammlungen.de/en/details/bsb10002334)
+
+
