@@ -11,17 +11,18 @@ could be used to satisfy outstanding claims.
 
 ## Johann Heinrich's Emigration Officially Published
 
-On 8 August 1849, Johann Heinrich Krückeberg petitioned the Rentkammer
-(Schaumburg-Lippe Fiscal Chamber) for permission to sell Stätte (holding)
-No. 10 in Berenbusch. He explained that he had already reached an agreement
-with the Einlieger (lodger) Wilhelm Bornemann of Nordholz regarding the
-purchase price, and that this agreement had already been reported to the
-Bückeburg Amt (administrative office).[^krueckeberg-sale-file] The
-Bückeburg Amt then published official notice of Krückeberg’s intended
-emigration and sale of No. 10 Berenbusch in the 25 August 1849 issue of the
-*Anzeigen des Fürstenthums Schaumburg-Lippe* (*Notices of the Principality
-of Schaumburg-Lippe*), summoning anyone with claims against him to appear
-before the Amt on 5 September 1849.
+On **8 August 1849**, Johann Heinrich Krückeberg petitioned the Rentkammer
+(Schaumburg-Lippe Fiscal Chamber) for permission to sell Stätte No. 10 in
+Berenbusch (Holding Nr. 10 in Berenbusch). He explained that he had already
+reached an agreement with the Einlieger (lodger) Wilhelm Bornemann of
+Nordholz regarding the purchase price, and that this agreement had already
+been reported to the Bückeburg Amt (administrative
+office).[^krueckeberg-sale-file] The Bückeburg Amt then published official
+notice of Krückeberg’s intended emigration and sale of No. 10 Berenbusch in
+the **25 August 1849** issue of the *Anzeigen des Fürstenthums
+Schaumburg-Lippe* (*Notices of the Principality of Schaumburg-Lippe*),
+summoning anyone with claims against him to appear before the Amt on 5
+September 1849.
 
 The actual Kaufbrief (purchase contract) was subsequently submitted to the
 Rentkammer on 8 September, and it approved it on 20 September 1849.
@@ -31,7 +32,6 @@ Rentkammer on 8 September, and it approved it on 20 September 1849.
 The section header **Bekanntmachung** (Notice) appears in the left column
 of page 204. The notice of Johann Heinrich Krückeberg sale of his Stätte
 (holding) and emigration to America appears in the right column.
-
 
 ```text
 Bückeburg. Colon Krückelberg of No. 10 in Berenbusch, who is about to
@@ -54,8 +54,8 @@ settlement.  Bückeburg, August 23, 1849.
 Fürstlich Schaumb.-Lippisches Amt.
 ```
 
-[^krueckeberg-sale-file]: Niedersächsisches Landesarchiv, Abteilung
-Bückeburg, NLA BU, K 2, B Nr. 139, *Die Stätte Nr. 10 zu Berenbusch*,
-1824–1849; document beginning “Eine untertänigste Bitte an die
-Hochfürstliche Rentkammer” (“A most humble petition to the princely
-Rentkammer”), petition of Johann Heinrich Krückeberg, 8 August 1849.
+[^krueckeberg-emigration-notice]: *Anzeigen des Fürstenthums Schaumburg-Lippe*
+(*Notices of the Principality of Schaumburg-Lippe*), 25 August 1849,
+Bekanntmachung of the Bückeburg Amt concerning Johann Heinrich Krückeberg
+of No. 10 Berenbusch; Bayerische Staatsbibliothek, digitized copy,
+<https://www.digitale-sammlungen.de/en/view/bsb10002333?page=222,223>.
