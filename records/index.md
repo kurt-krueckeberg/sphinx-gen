@@ -2,4 +2,4 @@
 
 List of Records:
 
-- [Emigration](emigration/notice-of-emigration)
+- {doc}`emigration/jhk-aug-25-1849-emigration-notice`

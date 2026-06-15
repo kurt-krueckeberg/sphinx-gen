@@ -1,27 +1,30 @@
 # 25 August 1849 Public Notice of Emigration of Johann Heinrich Krückeberg to America
 
-In many German states, the names of people intending to emigrate were
-officially published before they departed so creditors could bring
-outstanding claims before the local authorities. In Schaumburg-Lippe, these
-notices appeared in the *Anzeigen des Fürstenthums Schaumburg-Lippe*
-(Notices of the Principality of Schaumburg-Lippe), the principality’s
-official publication for government notices, orders, and announcements.
-They were especially important when an emigrant had sold property, because
-sale proceed could be used to satisfy outstanding claims.
+In many German states, emigrants were officially published before they
+departed so creditors could bring outstanding claims before the local
+authorities. In Schaumburg-Lippe, these notices appeared in the *Anzeigen
+des Fürstenthums Schaumburg-Lippe* (Notices of the Principality of
+Schaumburg-Lippe), the principality’s official publication for government
+notices, orders, and announcements. They were especially important when an
+emigrant had sold property before he left for America, because sale proceed
+could be used to satisfy outstanding claims.
+
+## Johann Heinrich's Emigration Officially Published
 
 On 8 August 1849, Johann Heinrich Krückeberg petitioned the Rentkammer
 (Schaumburg-Lippe Fiscal Chamber) for permission to sell Stätte (holding)
 No. 10 in Berenbusch. He explained that he had already reached an agreement
 with the Einlieger (lodger) Wilhelm Bornemann of Nordholz regarding the
 purchase price, and that this agreement had already been reported to the
-Bückeburg Amt.[^krueckeberg-sale-file] The Bückeburg Amt (administrative
-office) then published official notice of Krückeberg’s intended emigration
-and sale of No. 10 Berenbusch in the 25 August 1849 issue of the *Anzeigen
-des Fürstenthums Schaumburg-Lippe* (*Notices of the Principality of
-Schaumburg-Lippe*), summoning anyone with claims against him to appear
-before the Amt on 5 September 1849. The Kaufbrief (purchase contract) was
-subsequently submitted on 8 September and officially approved by the
-Rentkammer on 20 September 1849.
+Bückeburg Amt (administrative office).[^krueckeberg-sale-file] The
+Bückeburg Amt then published official notice of Krückeberg’s intended
+emigration and sale of No. 10 Berenbusch in the 25 August 1849 issue of the
+*Anzeigen des Fürstenthums Schaumburg-Lippe* (*Notices of the Principality
+of Schaumburg-Lippe*), summoning anyone with claims against him to appear
+before the Amt on 5 September 1849.
+
+The actual Kaufbrief (purchase contract) was subsequently submitted to the
+Rentkammer on 8 September, and it approved it on 20 September 1849.
 
 ## Transliteration and Translation
 
