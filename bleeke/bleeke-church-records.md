@@ -30,7 +30,7 @@ From: [https:archivsuche](https://www.archive.nrw.de/archivsuche)
    - [Zivilstandregister](https://www.archive.nrw.de/archivsuche?link=KLASSIFIKATION-Klas_68ffc783-c858-4ae3-909d-c58597fdc708)
    - [Kirchenbuchduplikate](https://www.archive.nrw.de/archivsuche?link=KLASSIFIKATION-Klas_2b647820-98c2-4c4c-9b86-03e1b356d9c8)
 
-## 1830s Cincinatti Lutheran Churches Records
+## 1830s Cincinnati Lutheran Churches Records
 
 The records of the German Evangelical Lutheran and Reformed Church,
 1814–1848, and the North German Lutheran Church reside in the Archive and
