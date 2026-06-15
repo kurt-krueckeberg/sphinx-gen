@@ -287,6 +287,3 @@ chapters:
   title: Civil, Land, Tax, and Emigration Records
   sections:
     - file: records/emigration/jhk-aug-25-1849-emigration-notice
-    # Add non-church record pages here, for example:
-    # - file: records/emigration/index
-    # - file: records/land-and-property/index
