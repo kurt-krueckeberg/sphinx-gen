@@ -11,6 +11,10 @@ could be used to satisfy outstanding claims.
 
 ## Johann Heinrich's Emigration Officially Published
 
+The section header **Bekanntmachung** (Notice) appears in the left column
+of page 204. The notice of Johann Heinrich Krückeberg sale of his Stätte
+(holding) and emigration to America appears in the right column.
+
 ```{figure} images/august-25-1849.jpg
 :name: jhk-emigration-notice
 :class: image-override
@@ -36,10 +40,6 @@ The actual Kaufbrief (purchase contract) was subsequently submitted to the
 Rentkammer on 8 September, and it approved it on 20 September 1849.
 
 ## Transliteration and Translation
-
-The section header **Bekanntmachung** (Notice) appears in the left column
-of page 204. The notice of Johann Heinrich Krückeberg sale of his Stätte
-(holding) and emigration to America appears in the right column.
 
 ### Transliteration
 
