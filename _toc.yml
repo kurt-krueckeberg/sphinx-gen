@@ -4,7 +4,7 @@
 format: jb-book
 root: root/index.md
 chapters:
-- file: root/church-records
+- file: church-records/index
   title: Church Records
   sections:
   - file: root/nachträge.md
@@ -286,7 +286,7 @@ chapters:
 - file: records/index
   title: Civil, Land, Tax, and Emigration Records
   sections:
-    - file: records/emigration/notice-of-emigraion
+    - file: records/emigration/notice-of-emigration
     # Add non-church record pages here, for example:
     # - file: records/emigration/index
     # - file: records/land-and-property/index
