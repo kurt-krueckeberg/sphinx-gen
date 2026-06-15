@@ -1,9 +1,5 @@
 # 25 August 1849 Public Notice of Emigration of Johann Heinrich Krückeberg to America
 
-```{figure} images/august-25-1849.jpg
-:class: image-override
-```
-
 In many German states, emigrants were officially published before they
 departed so creditors could bring outstanding claims before the local
 authorities. In Schaumburg-Lippe, these notices appeared in the *Anzeigen
@@ -12,6 +8,14 @@ Schaumburg-Lippe), the principality’s official publication for government
 notices, orders, and announcements. They were especially important when an
 emigrant had sold property before he left for America, because sale proceed
 could be used to satisfy outstanding claims.
+
+```{figure} images/august-25-1849.jpg
+:name: jhk-emigration-notice
+:class: image-override
+:alt: Notice mentioning Johann Heinrich Krückeberg
+
+Emigration notice for Johann Heinrich Krückeberg, published 25 August 1849.
+```
 
 ## Johann Heinrich's Emigration Officially Published
 
