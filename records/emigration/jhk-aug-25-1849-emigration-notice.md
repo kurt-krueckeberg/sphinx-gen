@@ -51,9 +51,6 @@ settlement.  Bückeburg, August 23, 1849.
 Fürstlich Schaumb.-Lippisches Amt.
 ```
 
-
-## Footnotes
-
 [^krueckeberg-sale-file]: Niedersächsisches Landesarchiv, Abteilung
 Bückeburg, NLA BU, K 2, B Nr. 139, *Die Stätte Nr. 10 zu Berenbusch*,
 1824–1849; document beginning “Eine untertänigste Bitte an die
