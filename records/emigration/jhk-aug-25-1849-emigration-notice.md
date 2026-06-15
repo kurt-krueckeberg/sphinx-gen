@@ -2,9 +2,9 @@
 
 In many German states, emigrants were officially published before they
 departed so creditors could bring outstanding claims before the local
-authorities. In Schaumburg-Lippe, these notices appeared in the *Anzeigen
-des Fürstenthums Schaumburg-Lippe* (Notices of the Principality of
-Schaumburg-Lippe), the principality’s official publication for government
+authorities. In Schaumburg-Lippe, these notices appeared in the [Anzeigen
+des Fürstenthums Schaumburg-Lippe (Notices of the Principality of
+Schaumburg-Lippe)](https://www.digitale-sammlungen.de/en/details/bsb10002333), the principality’s official publication for government
 notices, orders, and announcements. They were especially important when an
 emigrant had sold property before he left for America, because sale proceed
 could be used to satisfy outstanding claims.
