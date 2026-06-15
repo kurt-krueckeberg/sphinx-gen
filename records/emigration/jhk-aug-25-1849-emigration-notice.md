@@ -9,6 +9,8 @@ notices, orders, and announcements. They were especially important when an
 emigrant had sold property before he left for America, because sale proceed
 could be used to satisfy outstanding claims.
 
+## Johann Heinrich's Emigration Officially Published
+
 ```{figure} images/august-25-1849.jpg
 :name: jhk-emigration-notice
 :class: image-override
@@ -16,8 +18,6 @@ could be used to satisfy outstanding claims.
 
 Emigration notice for Johann Heinrich Krückeberg, published 25 August 1849.
 ```
-
-## Johann Heinrich's Emigration Officially Published
 
 On **8 August 1849**, Johann Heinrich Krückeberg petitioned the Rentkammer
 (Schaumburg-Lippe Fiscal Chamber) for permission to sell Stätte No. 10 in
