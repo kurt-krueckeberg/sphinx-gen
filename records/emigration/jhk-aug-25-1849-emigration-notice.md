@@ -37,6 +37,8 @@ The section header **Bekanntmachung** (Notice) appears in the left column
 of page 204. The notice of Johann Heinrich Krückeberg sale of his Stätte
 (holding) and emigration to America appears in the right column.
 
+### Transliteration
+
 ```text
 Bückeburg. Colon Krückelberg of No. 10 in Berenbusch, who is about to
 emigrate to America, has sold his property to the tenant Wilhelm Bornemann
@@ -47,6 +49,8 @@ satisfaction.
 Bückeburg, August 23, 1849.
 Höcker. Hönig.
 ```
+
+### Translation
 
 ```text
 Bückeburg. Colon Krückelberg of No. 10 in Berenbusch, who is about to
