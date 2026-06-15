@@ -1,5 +1,9 @@
 = Review Transliterations/Translations
 
+== Search for Johann Heinrich in Schaumburg-Lippe: Anzeigen des Fürstenthums Schaumburg-Lippe. 1849
+
+<https://www.digitale-sammlungen.de/en/view/bsb10002333?page=,1>
+
 == Add New Research TODO
 
 See the "rewrite of m/research/p/completed-research.adoc" in
