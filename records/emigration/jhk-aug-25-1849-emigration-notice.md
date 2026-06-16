@@ -12,7 +12,7 @@ could be used to satisfy outstanding claims.
 ## Johann Heinrich's Emigration Officially Published
 
 The notice of Johann Heinrich Krückeberg's planned emigration to America
-appeared the August 25, 1849, edition of Notices of the Principality of 
+appeared in the August 25, 1849, edition of Notices of the Principality of 
 Schaumburg-Lippe. This was only seventeen days after he had, as required,
 petitioned the Rentkammer (Fiscal Chamber of Schaumburg-Lippe) to accept
 the purchase contract of his holding No. 10 in Berenbusch to Bornemann from
