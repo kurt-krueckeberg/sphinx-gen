@@ -53,7 +53,7 @@ Rentkammer on 8 September, and it approved it on 20 September 1849.
 
 ```text
 Bückeburg.
-Der Colon Krückelberg No 10 in Berenbusch, welcher nach Amerika
+Der Colon Krückeberg No 10 in Berenbusch, welcher nach Amerika
 auszuwandern im Begriff steht, hat seine Stätte an den Einlieger Wilhelm
 Bornemann auf N 14 in Nordholz verkauft, und werden auf Antrag des erstern
 alle diejenigen, welche Forderun- gen an ihn haben hierdurch aufgefordert,
