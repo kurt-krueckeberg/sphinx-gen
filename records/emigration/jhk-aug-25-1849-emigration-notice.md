@@ -52,14 +52,17 @@ Rentkammer on 8 September, and it approved it on 20 September 1849.
 ### Transliteration
 
 ```text
-Bückeburg. Colon Krückelberg of No. 10 in Berenbusch, who is about to
-emigrate to America, has sold his property to the Einlieger (lodger)
-Wilhelm Bornemann of No. 14 in Nordholz; and, at the request of the former,
-all those who have claims against him are hereby summoned to file them on
-the 5th of September September at 11 a.m. before the local office and to
-await satisfaction.
-Bückeburg, August 23, 1849.
-Höcker. Hönig.
+Bückeburg.
+Der Colon Krückelberg No 10 in Berenbusch, welcher nach Amerika
+auszuwandern im Begriff steht, hat seine Stätte an den Einlieger Wilhelm
+Bornemann auf N 14 in Nordholz verkauft, und werden auf Antrag des erstern
+alle diejenigen, welche Forderun- gen an ihn haben hierdurch aufgefordert,
+zur Anmeldung derselben am 5. k. M. September Morgens 11 Uhr vor hiesigem
+Amte zu erscheinen und Befriedigung zu gewärtigen.
+
+Bückeburg, den 23. August 1849.
+Fürstlich Schaumb.-Lippisches Amt.  
+Höcker. König.
 ```
 
 ### Translation
@@ -70,7 +73,9 @@ emigrate to America, has sold his property to the Einlieger (lodger)
 Wilhelm Bornemann of No. 14 in Nordholz; and, at the request of the former,
 all those who have claims against him are hereby summoned to file them on
 the 5th of September September at 11 a.m. before the local office and to
-await settlement.  Bückeburg, August 23, 1849.  Fürstlich
+await settlement.
+
+Bückeburg, August 23, 1849.  Fürstlich
 Schaumb.-Lippisches Amt.
 ```
 
