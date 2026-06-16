@@ -31,7 +31,7 @@ column.
 Emigration notice for Johann Heinrich Krückeberg, published 25 August 1849.
 ```
 
-On **8 August 1849**, Johann Heinrich Krückeberg {external+nla:doc}`petitioned the Rentkammer <139/krueckeberg-petition-to-sell>`
+On **8 August 1849**, Johann Heinrich Krückeberg {external+nla:doc}`petitioned the Rentkammer <139/jh-krueckeberg-petition-to-sell>`
 (Schaumburg-Lippe Fiscal Chamber) for permission to sell Stätte No. 10 in
 Berenbusch (Holding Nr. 10 in Berenbusch). He explained that he had already
 reached an agreement with the Einlieger (lodger) Wilhelm Bornemann of
