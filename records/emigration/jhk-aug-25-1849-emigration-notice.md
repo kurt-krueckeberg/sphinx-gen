@@ -53,11 +53,11 @@ Rentkammer on 8 September, and it approved it on 20 September 1849.
 
 ```text
 Bückeburg. Colon Krückelberg of No. 10 in Berenbusch, who is about to
-emigrate to America, has sold his property to the tenant Wilhelm Bornemann
-of No. 14 in Nordholz; and, at the request of the former, all those who
-have claims against him are hereby summoned to file them on the 5th of
-September September at 11 a.m. before the local office and to await
-satisfaction.
+emigrate to America, has sold his property to the Einlieger (lodger)
+Wilhelm Bornemann of No. 14 in Nordholz; and, at the request of the former,
+all those who have claims against him are hereby summoned to file them on
+the 5th of September September at 11 a.m. before the local office and to
+await satisfaction.
 Bückeburg, August 23, 1849.
 Höcker. Hönig.
 ```
