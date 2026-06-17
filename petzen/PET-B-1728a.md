@@ -82,17 +82,15 @@ written above the father’s name, apparently the pastor forgot to start the ent
 
 Transliteration
 
-```{code-block} text
-
-18)  7 Julÿ ist Johann Heinrich Krückebergs aus Berenbusch
-Söhnlein Johann Friedrich getauft. Gevatter
-sind gewesen Johann Tönnies Eggerding und H Herman Wiese
+```{div} doc-text
+18)  7 Julÿ ist Johann Heinrich Krückebergs aus Berenbusch Söhnlein Johann
+Friedrich getauft. Gevatter sind gewesen Johann Tönnies Eggerding und H
+Herman Wiese
 ```
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 18) On 7 July The little son of Johann Heinrich Krückeberg from Berenbusch
 was baptized. Godfathers were Johann Tönnies Eggerding and H Herman Wiese
 ```

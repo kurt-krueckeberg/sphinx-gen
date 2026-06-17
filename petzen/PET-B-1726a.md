@@ -16,11 +16,10 @@ Petzen Parish) 1641-1784".
 
 Transliteration
 
-```{code-block} text
-
-den 1 Septembr. ist Heinrich Bleeck[e] aus Evesen Töchterlein
-Anna Maria Elisabeth getauft. Gev. Hans Herman
-Winsen , und Johann Br[aun]s Ehefrau aus Evesen
+```{div} doc-text
+den 1 Septembr. ist Heinrich Bleeck[e] aus Evesen Töchterlein\
+Anna Maria Elisabeth getauft. Gev. Hans Herman\
+Winsen , und Johann Br[aun]s Ehefrau aus Evesen\
 Ehefrau
 ```
 
@@ -31,8 +30,7 @@ appears intended to come after: "Hans Herman Winsen"?
 
 Translationn
 
-```{code-block} text
-
+```{div} doc-text
 On  September 1 the daughter of Heinrich Bleeck[e] from Evesen,
 Anna Maria Elisabeth, was baptized. Godmothers: The wife of Hans Herman
 Winsen and the wife of Johann Br[aun]s from Evesen
