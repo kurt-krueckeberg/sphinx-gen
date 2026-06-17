@@ -48,16 +48,14 @@ entry of the prior page.
 
 Transliteration
 
-```{code-block} text
-
-d[en] 29 dito Krückeberg v. [B. B.] ein Töchterl[ein] tauft
-lassen Dorothea Elisabeth Soldat Weilands Frau Gevatterin
+```{div} doc-text
+d[en] 29 dito Krückeberg v. [B. B.] ein Töchterl[ein] tauft lassen Dorothea
+Elisabeth Soldat Weilands Frau Gevatterin
 ```
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 The 29 January Krückeberg v. [Berenbusch: see note] a little daughter was
 baptized Dorothea Elisabeth Soldier Weiland's wife godmother.
 ```

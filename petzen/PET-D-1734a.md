@@ -68,26 +68,24 @@ alone.
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 d 14t: Wilhelm Rödemeister ein Töchterlein
-von Rocke begrab[en] lasß
+von Rocke begrab[en] lasß\
 [H?] Krückeberg von Behrenbusch ein Töchter-
-lein begrab lasß
+lein begrab lasß\
 [H?] Sieckmanns von Namen Töchterlein
 ```
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 On the 14th:
 Wilhelm Rödemeister from Rocke had a little daughter buried.
 
-[Same day]:
+[Same day]:\
 H. Krückeberg from Berenbusch had a little daughter buried.
 
-[Same day]:
+[Same day]:\
 H. Sickmann from Nammen had a little daughter buried.
 ```
 
