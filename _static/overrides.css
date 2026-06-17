@@ -1,3 +1,15 @@
+.doc-text {
+    font-family: var(--pst-font-family-base);
+/*  font-size: 1rem;  */
+    font-weight: 500;
+    line-height: 1.6;
+    color: #000;
+    background-color: #fdfdfd;  
+    border: 2px solid #222;
+    border-radius: 0.4rem;
+    padding: 1rem 1.25rem;
+    margin-bottom: 1.5rem;
+}
 /* creates a shadow-obrder for images */
 img.image-override,
 .image-override img {
