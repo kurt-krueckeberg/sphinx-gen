@@ -17,10 +17,9 @@ Petzen Parish) 1641-1784".
 Transliteration
 
 ```{div} doc-text
-den 1 Septembr. ist Heinrich Bleeck[e] aus Evesen Töchterlein\
-Anna Maria Elisabeth getauft. Gev. Hans Herman\
-Winsen , und Johann Br[aun]s Ehefrau aus Evesen\
-Ehefrau
+den 1 Septembr. ist Heinrich Bleeck[e] aus Evesen Töchterlein Anna Maria
+Elisabeth getauft. Gev. Hans Herman Winsen , und Johann Br[aun]s Ehefrau
+aus Evesen Ehefrau
 ```
 
 ```{note}
