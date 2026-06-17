@@ -15,7 +15,7 @@ Getauften und Konfirmierten 1641-1784".
 
 Transliteration
 
-```{dev} doc-text
+```{div} doc-text
 13 d 20	April ist Henrich Bleeck aus Ev. Töchterlein Catharine Elisabeth\
    getauft. Gev. Bleeck von Meißsen Ehefrau
 ```
