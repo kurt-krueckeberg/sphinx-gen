@@ -8,10 +8,6 @@ Getauften und Konfirmierten 1641-1784".
 
 ## Images
 
-```{image} images/petzen-band1a-img124-alternate-left-page-bleeke.jpg
-:class: image-override
-```
-
 ```{image} images/petzen-band1a-img124-left-page-bleeke.jpg
 :class: image-override
 ```
