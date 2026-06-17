@@ -18,16 +18,14 @@ This is it enhanced:
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 18 den 26 Junÿ ist Henrich Bleeck aus Evesen Töchterlein Maria
 Elisabeth getauftt. ge[v?]. des Vaters Mutter.
 ```
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 18 The 26th of June was Bleek from Evensen's little daughter Maria
 Elisabeth baptized. [???] the father's mother.
 ```
