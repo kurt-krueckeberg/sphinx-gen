@@ -38,13 +38,13 @@ Getrauten und Gestorbenen 1785-1827".
 
 Page 48 portion:
 
-```{image} images/petzen-band2-img27-left-2.jpg
+```{figure} images/petzen-band2-img27-left-2.jpg
 :class: image-override
 ```
 
 Page 49 portion:
 
-```{image} images/petzen-band2-img27-right-2.jpg
+```{figure} images/petzen-band2-img27-right-2.jpg
 :class: image-override
 ```
 

@@ -2,7 +2,7 @@
 
 ## Twins Hans Heinrich and Carolina Weiland 1790
 
-```{image} images/petzen-band2-img48-left.jpg
+```{figure} images/petzen-band2-img48-left.jpg
 :class: image-override
 ```
 

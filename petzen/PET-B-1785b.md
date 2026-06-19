@@ -9,7 +9,7 @@ The stillborn son of Johann Heinrich Weiland’s is on image 34
 
 ## Baptism Image
 
-```{image} images/petzen-band2-img34-right.jpg
+```{figure} images/petzen-band2-img34-right.jpg
 :class: image-override
 ```
 

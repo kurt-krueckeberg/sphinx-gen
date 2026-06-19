@@ -28,7 +28,7 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827"
 Below is the page header and the start of the list of Knaben (boys) confirmed on Sunday
 Quadimodogeniti (the 1st Sunday After Easter), 1816.
 
-```{image} images/petzen-band2-img211-446-header.jpg
+```{figure} images/petzen-band2-img211-446-header.jpg
 :class: image-override
 ```
 
@@ -58,7 +58,7 @@ Boys
 
 Sophie Wilhelmine Krückeberg is the 9th Mädchen (girl) listed onm page 446.
 
-```{image} images/petzen-band2-img211-446.jpg
+```{figure} images/petzen-band2-img211-446.jpg
 :class: image-override
 ```
 

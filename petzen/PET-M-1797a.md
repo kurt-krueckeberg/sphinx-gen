@@ -49,7 +49,7 @@ is found on {ref}`image 10 <PET-M-1797a>` of the
 
 ## Images of Marriage Record
 
-```{image} images/petzen-band2-img10.jpg
+```{figure} images/petzen-band2-img10.jpg
 :class: image-override
 ```
 

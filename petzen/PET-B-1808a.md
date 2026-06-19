@@ -8,7 +8,7 @@ Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827."
 
 ## Image, Transliteration and Translation
 
-```{image} images/petzen-band2-img99.jpg
+```{figure} images/petzen-band2-img99.jpg
 :class: image-override
 ```
 

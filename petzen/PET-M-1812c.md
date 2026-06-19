@@ -10,11 +10,11 @@ This is found on {ref}`image28 <PET-M-1812c>` of the Petzen "Verzeichnis der Get
 
 The page header spans both pages 50 and 51.
 
-```{image} images/petzen-band2-img28-left.jpg
+```{figure} images/petzen-band2-img28-left.jpg
 :class: image-override
 ```
 
-```{image} images/petzen-band2-img28-right.jpg
+```{figure} images/petzen-band2-img28-right.jpg
 :class: image-override
 ```
 

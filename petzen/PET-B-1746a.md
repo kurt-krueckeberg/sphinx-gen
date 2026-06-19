@@ -10,7 +10,7 @@ on [Archion.de](https://archion.de).
 
 ## Baptism Entry
 
-```{image} images/petzen-band1a-img173.jpg
+```{figure} images/petzen-band1a-img173.jpg
 :class: image-override
 ```
 

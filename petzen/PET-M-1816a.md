@@ -97,13 +97,13 @@ Gestorbenen 1785-1827.
 
 ## Pages 704 and 705
 
-```{image} images/petzen-band2-img339-704.jpg
+```{figure} images/petzen-band2-img339-704.jpg
 :class: image-override
 ```
 
 Page 705 heading portion:
 
-```{image} images/petzen-band2-img339-705.jpg
+```{figure} images/petzen-band2-img339-705.jpg
 :class: image-override
 ```
 
@@ -155,13 +155,13 @@ Gestorbenen 1785-1827.
 
 Page heading on page 704:
 
-```{image} images/petzen-band2-img339-704.jpg
+```{figure} images/petzen-band2-img339-704.jpg
 :class: image-override
 ```
 
 Page 705 heading portion:
 
-```{image} images/petzen-band2-img339-705.jpg
+```{figure} images/petzen-band2-img339-705.jpg
 :class: image-override
 ```
 

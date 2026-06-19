@@ -7,7 +7,7 @@ The baptism of Fridrich Wilhelm Bleke, on 26 December 1776, is on {ref}`image 25
 
 ## Baptism Record
 
-```{image} images/petzen-band1a-img251-bleke.jpg
+```{figure} images/petzen-band1a-img251-bleke.jpg
 :class: image-override
 ```
 

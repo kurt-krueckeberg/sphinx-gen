@@ -27,7 +27,7 @@ entry 12, among the list of Mädchen (girls) confirmed.
 
 **Sophia Caroline Krückeberg** is the 9th Mädchen (girl) listed.
 
-```{image} images/petzen-band2-img211-447-3.jpg
+```{figure} images/petzen-band2-img211-447-3.jpg
 :class: image-override
 ```
 

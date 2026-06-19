@@ -27,7 +27,7 @@ Gestorbenen, 1641-1784".
 
 ## Image of Burial Record
 
-```{image} images/petzen-band1b-img178-left.jpg
+```{figure} images/petzen-band1b-img178-left.jpg
 :class: image-override
 ```
 

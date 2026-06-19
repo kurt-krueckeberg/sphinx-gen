@@ -47,7 +47,7 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827" in the [Archion
 
 ## Image of Pages 512 and 513
 
-```{image} images/petzen-band2-img243-overview.jpg
+```{figure} images/petzen-band2-img243-overview.jpg
 :class: image-override
 ```
 
@@ -65,13 +65,13 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827" in the [Archion
 
 ## Image of Page 512 Entry 8
 
-```{image} images/petzen-band2-img243-512.jpg
+```{figure} images/petzen-band2-img243-512.jpg
 :class: image-override
 ```
 
 ## Image of Page 513 Entry 8
 
-```{image} images/petzen-band2-img243-513.jpg
+```{figure} images/petzen-band2-img243-513.jpg
 :class: image-override
 ```
 

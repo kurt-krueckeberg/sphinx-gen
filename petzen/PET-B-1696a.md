@@ -8,7 +8,7 @@ Parish, 1641-1784".
 
 ## Baptism Image
 
-```{image} images/petzen-band1a-img89.jpg
+```{figure} images/petzen-band1a-img89.jpg
 :class: image-override
 ```
 

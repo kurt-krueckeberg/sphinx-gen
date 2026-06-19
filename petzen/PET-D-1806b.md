@@ -7,11 +7,11 @@ the Petzen church register *Verzeichnis der Getauften, Konfirmierten,
 Getrauten und Gestorbenen 1785-1827*.
 
 ## Burial Image
-```{image} images/petzen-band2-img247-3.jpg
+```{figure} images/petzen-band2-img247-3.jpg
 :class: image-override
 ```
 
-```{image} images/petzen-band2-img247-4.jpg
+```{figure} images/petzen-band2-img247-4.jpg
 :class: image-override
 ```
 

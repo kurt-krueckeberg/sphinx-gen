@@ -39,7 +39,7 @@ der Getauften und Konfirmierten 1641-1784".
 
 ## Images of Marriage Record
 
-```{image} images/petzen-band1a-img202.jpg
+```{figure} images/petzen-band1a-img202.jpg
 :class: image-override
 ```
 

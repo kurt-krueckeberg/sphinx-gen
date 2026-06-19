@@ -11,7 +11,7 @@ Band 4*.
 
 ## Record
 
-```{image} images/windheim-band5-img9-left.jpg
+```{figure} images/windheim-band5-img9-left.jpg
 :class: image-override
 ```
 

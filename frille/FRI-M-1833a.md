@@ -6,7 +6,7 @@ P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Min
 
 TODO: Change all; this  from other record:
 
-```{image} images/FRI-M-1833a.png
+```{figure} images/FRI-M-1833a.png
 :class: image-override
 ```
 

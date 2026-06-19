@@ -73,13 +73,13 @@ volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
 
 Page 652:
 
-```{image} images/petzen-band2-img313-652.jpg
+```{figure} images/petzen-band2-img313-652.jpg
 :class: image-override
 ```
 
 Page 653:
 
-```{image} images/petzen-band2-img313-653.jpg
+```{figure} images/petzen-band2-img313-653.jpg
 :class: image-override
 ```
 

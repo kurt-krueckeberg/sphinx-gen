@@ -6,7 +6,7 @@ The death of Carl Fridirch Bleecke occurred on 1 January 1800. It is {ref}`image
 
 ## Images
 
-```{image} images/frille-band2-img331.jpg
+```{figure} images/frille-band2-img331.jpg
 :class: image-override
 ```
 

@@ -21,7 +21,7 @@ This confirmation entry is on the {ref}`320th image on Archion <PET-C-1781a>` of
 
 ## Image of Confirmation
 
-```{image} images/petzen-band1a-img320.jpg
+```{figure} images/petzen-band1a-img320.jpg
 :class: image-override
 ```
 

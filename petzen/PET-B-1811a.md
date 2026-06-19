@@ -6,7 +6,7 @@ The birth and baptism of Louise Dorothee Weiland is on {ref}`image 115, pages 22
 
 ## Pages 224 and 225
 
-```{image} images/petzen-band2-img115.jpg
+```{figure} images/petzen-band2-img115.jpg
 :class: image-override
 ```
 

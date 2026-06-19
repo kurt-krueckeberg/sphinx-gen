@@ -10,7 +10,7 @@ The marriage is on {ref}`page 5, entry 10 <PET-M-1790b>` of Petzen Kirchenbuch v
 
 The marriages of Johann Heinrich Kruckeberg and Jobst Heinrich Weiland are recorded are on pages 4 and 5 on entries 8 and 10:
 
-```{image} images/petzen-band2-img5-1.jpg
+```{figure} images/petzen-band2-img5-1.jpg
 :class: image-override
 ```
 

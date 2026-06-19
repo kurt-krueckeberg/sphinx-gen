@@ -103,7 +103,7 @@ that:
 The marriage record is on {ref}`image 355, pages 736 and 737, <PET-M-1826a>` of the Petzen Kirchenbuch *Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827*.
 
-```{image} images/petzen-band2-img355-header.jpg
+```{figure} images/petzen-band2-img355-header.jpg
 :class: image-override
 ```
 
@@ -111,11 +111,11 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827*.
 
 The marriage record is entry #8 on poages 736 and 737.
 
-```{image} images/petzen-band2-img355-736.jpg
+```{figure} images/petzen-band2-img355-736.jpg
 :class: image-override
 ```
 
-```{image} images/petzen-band2-img355-737.jpg
+```{figure} images/petzen-band2-img355-737.jpg
 :class: image-override
 ```
 

@@ -5,7 +5,7 @@ This record is from the
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
 Minden, Nr. B 168 Jg. 1831-1845](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763).
 
-```{image} images/carl-f-bleeke/sophie-luise-leonore-bleeke-1833-birth.png
+```{figure} images/carl-f-bleeke/sophie-luise-leonore-bleeke-1833-birth.png
 :class: image-override
 ```
 

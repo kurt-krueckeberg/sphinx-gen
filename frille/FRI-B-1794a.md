@@ -12,7 +12,7 @@ Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ", on image
 The birth and baptism of Carl Fridrich Bleeke is recorded on entry number
 38 on {ref}`page 229 <FRI-B-1794a>` (of the baptism pages).
 
-```{image} images/frille-band2-img123-229.jpg
+```{figure} images/frille-band2-img123-229.jpg
 :class: image-override
 ```
 

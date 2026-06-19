@@ -7,11 +7,11 @@ Petzen "Verzeichnis der Getaufte und Confirmirte, 1641-1784"
 
 ## Image 259
 
-```{image} images/petzen-band1a-img259-overview.jpg
+```{figure} images/petzen-band1a-img259-overview.jpg
 :class: image-override
 ```
 
-```{image} images/petzen-band1a-img259.jpg
+```{figure} images/petzen-band1a-img259.jpg
 :class: image-override
 ```
 

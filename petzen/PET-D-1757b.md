@@ -22,7 +22,7 @@ The May 8, 1757, burial of Anna Maria Krückeberg from Berenbusch appears on {re
 
 ## Image of Burial Record
 
-```{image} images/petzen-band1b-img178-right.jpg
+```{figure} images/petzen-band1b-img178-right.jpg
 :class: image-override
 ```
 

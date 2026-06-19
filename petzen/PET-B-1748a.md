@@ -6,7 +6,7 @@ The baptism of Anna Maria Weiland is on {ref}`image 176, right
 page, fourth entry <PET-B-1748a>` from the "Register of Baptism and Confirmed of the
 Petzen Parish, 1641-1784"
 
-```{image} images/petzen-band1a-img176.jpg
+```{figure} images/petzen-band1a-img176.jpg
 :class: image-override
 ```
 

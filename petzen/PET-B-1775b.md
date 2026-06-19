@@ -34,7 +34,7 @@ Getauften und Konfirmierten, 1641-1784".
 
 ## Image of Baptism
 
-```{image} images/petzen-band1a-img246.jpg
+```{figure} images/petzen-band1a-img246.jpg
 :class: image-override
 ```
 

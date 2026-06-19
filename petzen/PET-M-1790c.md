@@ -45,13 +45,13 @@ Getrauten und Gestorbenen 1785-1827".
 
 The header spans pages 4 and 5:
 
-```{image} images/petzen-band2-img5-header.jpg
+```{figure} images/petzen-band2-img5-header.jpg
 :class: image-override
 ```
 
 Page 5:
 
-```{image} images/petzen-band2-img5-2.jpg
+```{figure} images/petzen-band2-img5-2.jpg
 :class: image-override
 ```
 

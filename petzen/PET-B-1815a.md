@@ -6,7 +6,7 @@ The birth of a stillborn daughter of Heinrich Wilhelm Weiland is entry 17 on {re
 
 ## Image, Transliteration and Translation
 
-```{image} images/petzen-band2-img133.jpg
+```{figure} images/petzen-band2-img133.jpg
 :class: image-override
 ```
 

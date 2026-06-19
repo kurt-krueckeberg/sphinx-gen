@@ -11,7 +11,7 @@ This marriage entry is on the {ref}`3rd image on Archion <PET-M-1785a>` of Petze
 
 ### Marriage Image
 
-```{image} images/petzen-band2-img3-weiland.jpg
+```{figure} images/petzen-band2-img3-weiland.jpg
 :class: image-override
 ```
 

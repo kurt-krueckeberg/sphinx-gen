@@ -9,7 +9,7 @@ Petzen "Verzeichnis der Getaufte und Confirmirte, 1641-1784"
 
 ## Baptism Record
 
-```{image} images/petzen-band1a-img261-right.jpg
+```{figure} images/petzen-band1a-img261-right.jpg
 :class: image-override
 ```
 

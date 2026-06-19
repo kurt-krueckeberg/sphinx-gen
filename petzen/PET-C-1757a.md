@@ -21,7 +21,7 @@ the Petzen Kirchenbuch "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 ## Confirmation Entry
 
-```{image} images/petzen-band1a-img310-right.jpg
+```{figure} images/petzen-band1a-img310-right.jpg
 :class: image-override
 ```
 

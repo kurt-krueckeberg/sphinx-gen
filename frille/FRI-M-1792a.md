@@ -11,13 +11,13 @@ the Frille parish "Verzeichnis der Getauften, Getrauten, Gestorbenen
 
 Overview of pages 52 and 53 showing the marriages of two Bleekes:
 
-```{image} images/frille-band2-img202-52-53.jpg
+```{figure} images/frille-band2-img202-52-53.jpg
 :class: image-override
 ```
 
 View of marriage of Carl Fridrich Bleeke, page 52 (of the pages devoted to listing marriages):
 
-```{image} images/frille-band2-img202-52.jpg
+```{figure} images/frille-band2-img202-52.jpg
 :class: image-override
 ```
 

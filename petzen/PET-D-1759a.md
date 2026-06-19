@@ -22,7 +22,7 @@ The December 26, 1759, burial of Johan Henrich Krückeberg from Berenbusch appea
 
 ## Image of Burial Record
 
-```{image} images/petzen-band1b-img183.jpg
+```{figure} images/petzen-band1b-img183.jpg
 :class: image-override
 ```
 

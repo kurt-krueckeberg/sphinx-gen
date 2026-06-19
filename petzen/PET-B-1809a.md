@@ -6,7 +6,7 @@ The birth and baptism of Wilhelmine Leonore Weiland is on {ref}`image 108, pages
 
 ## Pages 201 and 211
 
-```{image} images/petzen-band2-img108.jpg
+```{figure} images/petzen-band2-img108.jpg
 :class: image-override
 ```
 

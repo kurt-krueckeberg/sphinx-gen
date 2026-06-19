@@ -39,7 +39,7 @@ images.
 
 ## Header for Pages 426 and 427
 
-```{image} images/petzen-band2-img201-overview.jpg
+```{figure} images/petzen-band2-img201-overview.jpg
 :class: image-override
 ```
 
@@ -47,13 +47,13 @@ images.
 
 ### Entry 12 Page 426
 
-```{image} images/petzen-band2-img201-426.jpg
+```{figure} images/petzen-band2-img201-426.jpg
 :class: image-override
 ```
 
 ### Entry 12 Page 427
 
-```{image} images/petzen-band2-img201-427.jpg
+```{figure} images/petzen-band2-img201-427.jpg
 :class: image-override
 ```
 

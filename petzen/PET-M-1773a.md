@@ -38,7 +38,7 @@ are unnumbered), of the Petzen "Verzeichnis der Getrauten und Gestorbenen, 1641-
 
 ## Image of Marriage Record
 
-```{image} images/petzen-band1b-img61.jpg
+```{figure} images/petzen-band1b-img61.jpg
 :class: image-override
 ```
 

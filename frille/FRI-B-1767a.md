@@ -9,7 +9,7 @@ of Baptism, Marriages, Deaths) 1758-1804 ".
 
 ## Images
 
-```{image} images/frille-band2-img33-61.jpg
+```{figure} images/frille-band2-img33-61.jpg
 :class: image-override
 ```
 

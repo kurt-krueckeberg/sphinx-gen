@@ -33,7 +33,7 @@ The February 14th 1734 burial records are on {ref}`image 150 <PET-D-1734a>` of t
 The image below excerpts three burial entries for 14 February 1734. The 2nd record is
 for an unnamed Krückeberg.
 
-```{image} images/petzen-band1b-img150.png
+```{figure} images/petzen-band1b-img150.png
 :class: image-override
 ```
 

@@ -38,7 +38,7 @@ page 420, entry 13, of the Petzen "Verzeichnis der Getauften, Konfirmierten, Get
 
 ## Overview of Pages 420 and 421
 
-```{image} images/petzen-band2-img198-overview.jpg
+```{figure} images/petzen-band2-img198-overview.jpg
 :class: image-override
 ```
 

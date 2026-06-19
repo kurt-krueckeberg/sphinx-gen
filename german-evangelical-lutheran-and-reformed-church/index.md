@@ -6,7 +6,7 @@ Cincinnati). When the church split on December 17, 1838, the Bleekes—​or at 
 those forming a new church, the Norddeutsche Evangelisch-Lutherische Kirche (the North German Lutheran Church of Cincinnati),
 which later built a new church building at ????[footnote  Rau].
 
-```{image} ../north-german-lutheran/images/vol2-page17.jpg
+```{figure} ../north-german-lutheran/images/vol2-page17.jpg
 :class: image-override
 ```
 

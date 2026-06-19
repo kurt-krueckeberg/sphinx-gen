@@ -70,7 +70,7 @@ The birth month of **Jul** is written on page 159 slightly above the text of ent
 
 This is an overview showing the header for pages 158 and 159:
 
-```{image} images/petzen-band2-img82-overview.jpg
+```{figure} images/petzen-band2-img82-overview.jpg
 :class: image-override
 ```
 
@@ -102,13 +102,13 @@ administrative term.
 
 ## Birth Entry 23, Page 158
 
-```{image} images/petzen-band2-img82-entry23-158.jpg
+```{figure} images/petzen-band2-img82-entry23-158.jpg
 :class: image-override
 ```
 
 ## Birth Entry 23, Page 159
 
-```{image} images/petzen-band2-img82-entry23-159.jpg
+```{figure} images/petzen-band2-img82-entry23-159.jpg
 :class: image-override
 ```
 

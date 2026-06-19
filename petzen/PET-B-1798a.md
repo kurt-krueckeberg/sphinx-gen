@@ -42,11 +42,11 @@ Gestorbenen 1785-1827". The entries span both pages 134 and 135.
 
 Header:
 
-```{image} images/petzen-band2-img70-header-134.jpg
+```{figure} images/petzen-band2-img70-header-134.jpg
 :class: image-override
 ```
 
-```{image} images/petzen-band2-img70-header-135.jpg
+```{figure} images/petzen-band2-img70-header-135.jpg
 :class: image-override
 ```
 
@@ -59,11 +59,11 @@ Transliteration of header for pages 134-135
 
 ### Image of pages 134 and 135, entry 12
 
-```{image} images/petzen-band2-img70-134.jpg
+```{figure} images/petzen-band2-img70-134.jpg
 :class: image-override
 ```
 
-```{image} images/petzen-band2-img70-135.jpg
+```{figure} images/petzen-band2-img70-135.jpg
 :class: image-override
 ```
 

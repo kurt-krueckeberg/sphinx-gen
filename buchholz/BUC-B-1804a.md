@@ -8,13 +8,13 @@ unnumbered) of the Buchholz Kirchenbuch *Taufen 1760-1820, Abendmahl
 
 Left page:
 
-```{image} images/buchholz-band2-image198-left-page.jpg
+```{figure} images/buchholz-band2-image198-left-page.jpg
 :class: image-override
 ```
 
 Right page:
 
-```{image} images/buchholz-band2-image198-right-page.jpg
+```{figure} images/buchholz-band2-image198-right-page.jpg
 :class: image-override
 ```
 

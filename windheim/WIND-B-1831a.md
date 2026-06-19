@@ -12,7 +12,7 @@ Trauungen 1837-1838 Band 4*, image 156 of 480.
 
 ## Baptism Image
 
-```{image} images/windheim-band4-img156.jpg
+```{figure} images/windheim-band4-img156.jpg
 :class: image-override
 ```
 

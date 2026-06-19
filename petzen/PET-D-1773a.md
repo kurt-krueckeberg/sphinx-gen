@@ -34,7 +34,7 @@ appears on {ref}`image 210 <PET-D-1773a>`, on the right-hand page of the Petzen 
 
 ## Image of Burial Record
 
-```{image} images/petzen-band1b-img210.jpg
+```{figure} images/petzen-band1b-img210.jpg
 :class: image-override
 ```
 

@@ -7,7 +7,7 @@ Anna Elisabeth Becker is on {ref}`image 25 <image25>` of the Petzen
 "Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
 ## Marriage Image
-```{image} images/petzen-band1b-img25.png
+```{figure} images/petzen-band1b-img25.png
 :class: image-override
 ```
 

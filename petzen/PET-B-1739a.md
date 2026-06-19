@@ -23,7 +23,7 @@ year 1739 appears in the middle of the right page.
 
 ## Baptism Record
 
-```{image} images/petzen-band1a-img157-krueckeberg.jpg
+```{figure} images/petzen-band1a-img157-krueckeberg.jpg
 :class: image-override
 ```
 

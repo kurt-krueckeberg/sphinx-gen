@@ -11,13 +11,13 @@ Entry is on {ref}`image 45, on entry 7 <image45>`.
 Below is an overview of both pages 84 and 85, showing page 84 covers 1788 and page 85 covers the year 1789, starting with the
 month of January for the first entry of page 85.
 
-```{image} images/petzen-band2-img45-overview.jpg
+```{figure} images/petzen-band2-img45-overview.jpg
 :class: image-override
 ```
 
 Below is entry 7 from page 85, year 1789.
 
-```{image} images/petzen-band2-img45-85.jpg
+```{figure} images/petzen-band2-img45-85.jpg
 :class: image-override
 ```
 

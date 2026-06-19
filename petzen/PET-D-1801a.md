@@ -53,7 +53,7 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ### Pages 504 and 505
 
-```{image} images/petzen-band2-img239.jpg
+```{figure} images/petzen-band2-img239.jpg
 :class: image-override
 ```
 

@@ -8,7 +8,7 @@ The confirmation of Carl Friedrich Gottlieb Krückeberg is on {ref}`page 407 ent
 
 Image 191, on page 407, shows Carl Friedrich Gottlieb Kruckeberg’s confirmation as entry 3 among those confirmed in 1792:
 
-```{image} images/petzen-band2-img191-407.jpg
+```{figure} images/petzen-band2-img191-407.jpg
 :class: image-override
 ```
 

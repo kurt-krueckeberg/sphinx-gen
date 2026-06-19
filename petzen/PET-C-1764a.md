@@ -20,7 +20,7 @@ The confirmation entry is on {ref}`image 313 <PET-C-1764a>`, the 6th entry for 1
 
 ## Image of Confirmation Record
 
-```{image} images/petzen-band1a-img313.jpg
+```{figure} images/petzen-band1a-img313.jpg
 :class: image-override
 ```
 

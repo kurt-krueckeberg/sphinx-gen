@@ -44,7 +44,7 @@ Petzen Parish, 1641-1784)".
 
 ## Baptism Record
 
-```{image} images/petzen-band1a-img264.jpg
+```{figure} images/petzen-band1a-img264.jpg
 :class: image-override
 ```
 

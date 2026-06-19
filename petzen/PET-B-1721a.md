@@ -7,7 +7,7 @@ right-hand page, 4th entry from the top, of the Petzen "Verzeichnis der
 Getauften und Konfirmierten 1641-1784".
 
 ## Baptism Image
-```{image} images/petzen-band1a-img129.jpg
+```{figure} images/petzen-band1a-img129.jpg
 :class: image-override
 ```
 

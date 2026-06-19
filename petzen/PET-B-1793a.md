@@ -42,19 +42,19 @@ This entry appears on {ref}`image 59, page 113 <PET-B-1793a-1>`, and the top of 
 
 Header:
 
-```{image} images/petzen-band2-img59-header.jpg
+```{figure} images/petzen-band2-img59-header.jpg
 :class: image-override
 ```
 
 Page 113:
 
-```{image} images/petzen-band2-img59-113.jpg
+```{figure} images/petzen-band2-img59-113.jpg
 :class: image-override
 ```
 
 Page 114:
 
-```{image} images/petzen-band2-img60-114.jpg
+```{figure} images/petzen-band2-img60-114.jpg
 :class: image-override
 ```
 

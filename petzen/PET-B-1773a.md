@@ -35,7 +35,7 @@ The July 11, 1773, baptism record for Anna Philippine Maria Blecken appears on
 1641-1784" on [Archion.de](https://archion.de).
 
 ## Baptism Image
-```{image} images/petzen-band1a-img238.jpg
+```{figure} images/petzen-band1a-img238.jpg
 :class: image-override
 ```
 

@@ -18,7 +18,7 @@ no. 11 Evesen.
 
 ## Image of Death and Burial Record
 
-```{image} images/petzen-band2-img235.jpg
+```{figure} images/petzen-band2-img235.jpg
 :class: image-override
 ```
 

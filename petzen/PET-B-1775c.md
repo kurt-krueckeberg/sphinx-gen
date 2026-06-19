@@ -11,7 +11,7 @@ from the top, of the Petzen "Verzeichnis der Getauften und Konfirmierten
 
 The baptismal record is below.
 
-```{image} images/petzen-band1a-img247-blecken.jpg
+```{figure} images/petzen-band1a-img247-blecken.jpg
 :class: image-override
 ```
 

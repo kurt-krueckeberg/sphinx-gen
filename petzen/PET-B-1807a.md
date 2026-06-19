@@ -150,7 +150,7 @@ Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
 
 ## Image of Pages 186 and 187
 
-```{image} images/petzen-band2-img96-overview.jpg
+```{figure} images/petzen-band2-img96-overview.jpg
 :class: image-override
 ```
 
@@ -172,13 +172,13 @@ Translation of Header for Pages 186 and 187
 
 ## Entry 20, Page 186
 
-```{image} images/petzen-band2-img96-186.jpg
+```{figure} images/petzen-band2-img96-186.jpg
 :class: image-override
 ```
 
 ## Entry 20, Page 187
 
-```{image} images/petzen-band2-img96-187.jpg
+```{figure} images/petzen-band2-img96-187.jpg
 :class: image-override
 ```
 

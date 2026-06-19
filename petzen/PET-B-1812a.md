@@ -86,19 +86,19 @@ Gestorbenen 1785-1827.
 
 Overview:
 
-```{image} images/petzen-band2-img125-overview.jpg
+```{figure} images/petzen-band2-img125-overview.jpg
 :class: image-override
 ```
 
 Page 244:
 
-```{image} images/petzen-band2-img125-244.jpg
+```{figure} images/petzen-band2-img125-244.jpg
 :class: image-override
 ```
 
 Page 245:
 
-```{image} images/petzen-band2-img125-245.jpg
+```{figure} images/petzen-band2-img125-245.jpg
 :class: image-override
 ```
 

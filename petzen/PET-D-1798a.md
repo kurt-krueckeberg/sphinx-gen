@@ -24,7 +24,7 @@ The death of Heinrich Töns Werkmeister, October 17, 1801, {ref}`image
 Getrauten und Gestorbenen 1785-1827".
 
 ## Burial Image
-```{image} images/petzen-band2-img236.jpg
+```{figure} images/petzen-band2-img236.jpg
 :class: image-override
 ```
 

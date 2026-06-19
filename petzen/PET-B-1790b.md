@@ -1,6 +1,6 @@
 # 1790 Eleonore Louisa Weiland Baptism
 
-```{image} images/petzen-band2-img49.jpg
+```{figure} images/petzen-band2-img49.jpg
 :class: image-override
 ```
 

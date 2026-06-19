@@ -7,7 +7,7 @@ The marriage entry for Johann Heinrich Weiland is on the {ref}`image 6, page 6, 
 
 The marriage of Johann Heinrich Weiland shown occurred on 17 October 1790:
 
-```{image} images/petzen-band2-img6-page6.jpg
+```{figure} images/petzen-band2-img6-page6.jpg
 :class: image-override
 ```
 

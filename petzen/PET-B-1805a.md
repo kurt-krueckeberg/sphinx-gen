@@ -7,7 +7,7 @@ The birth of Philippine Sophie Weiland is entry 26 on {ref}`image
 Konfirmierten, Getrauten und Gestorbenen 1785-1827."
 
 ## Baptism Image
-```{image} images/petzen-band2-img88.jpg
+```{figure} images/petzen-band2-img88.jpg
 :class: image-override
 ```
 

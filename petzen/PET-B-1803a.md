@@ -39,11 +39,11 @@ Gestorbenen 1785-1827". The birth entries spans across both pages 156 and 157.
 
 ## Header for Pages 156 and 157
 
-```{image} images/petzen-band2-img81-156-header.jpg
+```{figure} images/petzen-band2-img81-156-header.jpg
 :class: image-override
 ```
 
-```{image} images/petzen-band2-img81-157-header.jpg
+```{figure} images/petzen-band2-img81-157-header.jpg
 :class: image-override
 ```
 
@@ -75,7 +75,7 @@ Births in the [ministered-to?] Schaumb[urg] Lippe villages               Births 
 
 ### Birth Entry 4 Page 156
 
-```{image} images/petzen-band2-img81-156.jpg
+```{figure} images/petzen-band2-img81-156.jpg
 :class: image-override
 ```
 
@@ -83,7 +83,7 @@ Births in the [ministered-to?] Schaumb[urg] Lippe villages               Births 
 
 The birth month of **Jan** is written on page 157 above the entries.
 
-```{image} images/petzen-band2-img81-157.jpg
+```{figure} images/petzen-band2-img81-157.jpg
 :class: image-override
 ```
 

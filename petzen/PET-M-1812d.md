@@ -57,7 +57,7 @@ Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen 1785-1827" found on [Archion.de](https://archion.de).
 
 ## Marriage Image
-```{image} images/petzen-band2-img27-vogt.jpg
+```{figure} images/petzen-band2-img27-vogt.jpg
 :class: image-override
 ```
 

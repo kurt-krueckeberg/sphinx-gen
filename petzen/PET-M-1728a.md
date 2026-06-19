@@ -38,7 +38,7 @@ is on {ref}`image 37 <PET-M-1728a>`, the right-hand page, of the Petzen
 
 ## Image of Marriage Record
 
-```{image} images/petzen-band1b-img37.jpg
+```{figure} images/petzen-band1b-img37.jpg
 :class: image-override
 ```
 

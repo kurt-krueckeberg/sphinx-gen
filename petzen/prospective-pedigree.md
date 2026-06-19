@@ -2,7 +2,7 @@
 
 This graphic by Steve Krueckeberg illustrates inferred prospective Krückeberg family relationships:
 
-```{image} images/prospective-pedigree.jpg
+```{figure} images/prospective-pedigree.jpg
 :class: image-override
 ```
 

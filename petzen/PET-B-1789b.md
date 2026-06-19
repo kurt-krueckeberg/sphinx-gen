@@ -2,7 +2,7 @@
 
 ## Christine Maria Weiland 1789
 
-```{image} images/petzen-band2-img46-87.jpg
+```{figure} images/petzen-band2-img46-87.jpg
 :class: image-override
 ```
 

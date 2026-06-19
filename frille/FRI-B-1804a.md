@@ -8,13 +8,13 @@ image 70 of 388.
 ## Baptism Image
 The baptism year of 1804 is written on the top of page 302 (of the baptism pages), which on image 168:
 
-```{image} images/frille-band2-img168-302.jpg
+```{figure} images/frille-band2-img168-302.jpg
 :class: image-override
 ```
 
 The baptism entry for Marie Louise Bleeke is entry 44, on page 317 (of the baptism pages), on image 170:
 
-```{image} images/frille-band2-img170-317.jpg
+```{figure} images/frille-band2-img170-317.jpg
 :class: image-override
 ```
 

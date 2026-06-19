@@ -31,14 +31,14 @@ entry of the prior page.
 
 ## Baptism Record
 
-```{image} images/petzen-band1a-img152-krueckeberg.jpg
+```{figure} images/petzen-band1a-img152-krueckeberg.jpg
 :class: image-override
 ```
 
 :::{admonition} Explanations
 
 **Berenbusch** does not appear in the record. It is assumed this is an abbreviation for it:
-```{image} images/img152-abbrev.jpg
+```{figure} images/img152-abbrev.jpg
 :width: 150
 ```
 

@@ -8,7 +8,7 @@ This is the baptism record of Henrich Wilhelm Bleeke is found on
 
 ## Baptism Record
 
-```{image} images/petzen-band1a-img191-right-1755.jpg
+```{figure} images/petzen-band1a-img191-right-1755.jpg
 :class: image-override
 ```
 

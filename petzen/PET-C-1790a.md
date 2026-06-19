@@ -11,7 +11,7 @@ Getrauten und Gestorbenden 1785-1827.
 
 Image 190 shows the recorded name of Christina Krückebergen of Berenbusch listed as entry 10 among those confirmed in 1789:
 
-```{image} images/petzen-band2-img190-fwweiland.jpg
+```{figure} images/petzen-band2-img190-fwweiland.jpg
 :class: image-override
 ```
 

@@ -43,11 +43,11 @@ The baptism of Johann Heinrich Wilhelm Krückeberg is on {ref}`image 220 <PET-B-
 
 ## Baptism Record
 
-```{image} images/petzen-band1a-img220-overview.jpg
+```{figure} images/petzen-band1a-img220-overview.jpg
 :class: image-override
 ```
 
-```{image} images/petzen-band1a-img220-left.jpg
+```{figure} images/petzen-band1a-img220-left.jpg
 :class: image-override
 ```
 

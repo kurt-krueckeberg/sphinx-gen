@@ -23,7 +23,7 @@ Eberding is on {ref}`image 27 <image27>`, the right-hand page, of the Petzen
 
 ## Marriage Image
 
-```{image} images/petzen-band1b-img27.png
+```{figure} images/petzen-band1b-img27.png
 :class: image-override
 ```
 

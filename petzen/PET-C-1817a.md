@@ -48,7 +48,7 @@ Boys
 
 Christine Philippine Krückeberg is the 9th Mädchen (girl) listed.
 
-```{image} images/petzen-band2-img211-447-2.jpg
+```{figure} images/petzen-band2-img211-447-2.jpg
 :class: image-override
 ```
 

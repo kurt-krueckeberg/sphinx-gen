@@ -42,13 +42,13 @@ The birth record of Hans Heinrich Wilharm occurs on {ref}`image
 
 ## Image of Left Page
 
-```{image} images/petzen-band2-img68-left.jpg
+```{figure} images/petzen-band2-img68-left.jpg
 :class: image-override
 ```
 
 ## Image of Right Page
 
-```{image} images/petzen-band2-img68-right.jpg
+```{figure} images/petzen-band2-img68-right.jpg
 :class: image-override
 ```
 

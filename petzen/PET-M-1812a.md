@@ -92,13 +92,13 @@ The marriage record is on {ref}`image 27, on pages 48 and 49 <PET-M-1812a>` of P
 
 Page 48 portion:
 
-```{image} images/petzen-band2-img27-left-2.jpg
+```{figure} images/petzen-band2-img27-left-2.jpg
 :class: image-override
 ```
 
 Page 49 portion:
 
-```{image} images/petzen-band2-img27-right-2.jpg
+```{figure} images/petzen-band2-img27-right-2.jpg
 :class: image-override
 ```
 

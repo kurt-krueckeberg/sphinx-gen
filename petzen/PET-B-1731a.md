@@ -38,7 +38,7 @@ last entry on the page, of the Petzen "Verzeichnis der Getauften und Konfirmiert
 
 ## Image 144
 
-```{image} images/petzen-band1a-img144.png
+```{figure} images/petzen-band1a-img144.png
 :class: image-override
 ```
 

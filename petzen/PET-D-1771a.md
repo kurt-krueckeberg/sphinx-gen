@@ -27,7 +27,7 @@ Getrauten und Gestorbenen, 1641-1784".
 
 ## Image of Burial Record
 
-```{image} images/petzen-band1b-img204.jpg
+```{figure} images/petzen-band1b-img204.jpg
 :class: image-override
 ```
 

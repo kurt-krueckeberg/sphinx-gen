@@ -102,7 +102,7 @@ It is entry #22 on pages 176 and 177.
 
 ## Image of Pages 176 and 177
 
-```{image} images/petzen-band2-img91-overview.jpg
+```{figure} images/petzen-band2-img91-overview.jpg
 :class: image-override
 ```
 
@@ -124,13 +124,13 @@ Pages 176-177 Header
 
 ## Entry 22, Page 176
 
-```{image} images/petzen-band2-img91-176.jpg
+```{figure} images/petzen-band2-img91-176.jpg
 :class: image-override
 ```
 
 ## Entry 22, Page 177
 
-```{image} images/petzen-band2-img91-177.jpg
+```{figure} images/petzen-band2-img91-177.jpg
 :class: image-override
 ```
 

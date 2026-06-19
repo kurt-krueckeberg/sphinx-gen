@@ -8,7 +8,7 @@ Taufen 1763-1807, Beerdigungen 1763-1807, Konfirmationen 1763-1803 Band 2".
 
 ## Image, Transliteration and Translation
 
-```{image} images/kleinenbremen-11-aug-1778.jpg
+```{figure} images/kleinenbremen-11-aug-1778.jpg
 :class: image-override
 ```
 

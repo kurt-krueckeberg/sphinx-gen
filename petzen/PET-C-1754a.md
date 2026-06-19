@@ -7,7 +7,7 @@ The confirmation of Anna Ilsabey (Elisabeth) Möller is on
 Konfirmierten 1641-1784" on [Archion.de](https://archion.de).
 
 ## Confirmation Image
-```{image} images/petzen-band1a-img309.jpg
+```{figure} images/petzen-band1a-img309.jpg
 :class: image-override
 ```
 

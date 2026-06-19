@@ -13,7 +13,7 @@ sponsor was Philippine Maria Beuken of Meinsen.
 
 ## Baptism Image 34
 
-```{image} images/petzen-band2-img34.jpg
+```{figure} images/petzen-band2-img34.jpg
 :class: image-override
 ```
 

@@ -8,7 +8,7 @@ Petzen Parish, 1641-1784".
 
 ## Baptism Image
 
-```{image} images/petzen-band1a-img58.png
+```{figure} images/petzen-band1a-img58.png
 :class: image-override
 ```
 

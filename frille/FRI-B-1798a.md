@@ -7,7 +7,7 @@ Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804".
 
 ## Baptism Image 
 
-```{image} images/frille-band2-img138.png
+```{figure} images/frille-band2-img138.png
 :class: image-override
 ```
 

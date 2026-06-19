@@ -8,11 +8,11 @@ Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen 1785-1827".
 
 ## Marriage Image
-```{image} images/petzen-band2-img13-heading.jpg
+```{figure} images/petzen-band2-img13-heading.jpg
 :class: image-override
 ```
 
-```{image} images/petzen-band2-img13.jpg
+```{figure} images/petzen-band2-img13.jpg
 :class: image-override
 ```
 

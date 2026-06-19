@@ -23,7 +23,7 @@ Konfirmierten 1641-1784" available on the Protestant Kirchenbücher portal
 [Archion.de](https://archion.de).
 
 ## Baptism Image
-```{image} images/petzen-band1a-img231-blecken.jpg
+```{figure} images/petzen-band1a-img231-blecken.jpg
 :class: image-override
 ```
 

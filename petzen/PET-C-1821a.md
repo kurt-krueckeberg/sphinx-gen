@@ -30,7 +30,7 @@ Confirmation happened around age 14.
 
 ## Page 449, Top-left List of Knaben
 
-```{image} images/petzen-band2-img212-2.jpg
+```{figure} images/petzen-band2-img212-2.jpg
 :class: image-override
 ```
 

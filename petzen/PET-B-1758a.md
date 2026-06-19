@@ -6,7 +6,7 @@ The baptism of Jobst Heinrich Weiland is on {ref}`image 199, left page, first en
 "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784"
 
 ## Baptism Image
-```{image} images/petzen-band1a-img199.jpg
+```{figure} images/petzen-band1a-img199.jpg
 :class: image-override
 ```
 

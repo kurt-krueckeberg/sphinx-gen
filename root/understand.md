@@ -32,7 +32,7 @@ means "den (the)".
 
 In the image below, **todtgeboren Tochter** — literally *dead-born daughter* — refers to a stillbirth. *todt* in contemporary German there is no "t": *tod*.
 
-```{image} ../petzen/images/petzen-band2-img68-line17.jpg
+```{figure} ../petzen/images/petzen-band2-img68-line17.jpg
 :class: image-override
 ```
 

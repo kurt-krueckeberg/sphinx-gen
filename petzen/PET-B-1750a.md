@@ -35,7 +35,7 @@ Confirmed of the Petzen Parish, 1641-1784".
 
 ## Baptism Record
 
-```{image} images/petzen-band1a-img180.jpg
+```{figure} images/petzen-band1a-img180.jpg
 :class: image-override
 ```
 

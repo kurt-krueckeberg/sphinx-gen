@@ -23,7 +23,7 @@ of the left-hand page (the pages are unnumbered). It is the last entry in Decemb
 
 ## Image of Baptism Record
 
-```{image} images/petzen-band1a-img163.jpg
+```{figure} images/petzen-band1a-img163.jpg
 :class: image-override
 ```
 

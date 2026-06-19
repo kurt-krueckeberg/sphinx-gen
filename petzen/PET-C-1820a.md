@@ -24,7 +24,7 @@ top-right column of confirmed **Knaben** (boys). He is listed first.
 
 Page 448, Knaben (boys) are listed in top-right column:
 
-```{image} images/petzen-band2-img212-1.jpg
+```{figure} images/petzen-band2-img212-1.jpg
 :class: image-override
 ```
 

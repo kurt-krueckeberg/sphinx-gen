@@ -9,13 +9,13 @@ Gestorbenen 1785-1827.
 
 ### Left Page
 
-```{image} images/petzen-band2-img71-wilharm-left.jpg
+```{figure} images/petzen-band2-img71-wilharm-left.jpg
 :class: image-override
 ```
 
 ### Right Page
 
-```{image} images/petzen-band2-img71-wilharm-right.jpg
+```{figure} images/petzen-band2-img71-wilharm-right.jpg
 :class: image-override
 ```
 

@@ -79,13 +79,13 @@ The February 23, 1812, marriage record is on {ref}`image 27, on pages 48 and 49 
 
 Heading page 48:
 
-```{image} images/petzen-band2-img27-left-1.jpg
+```{figure} images/petzen-band2-img27-left-1.jpg
 :class: image-override
 ```
 
 Heading page 49:
 
-```{image} images/petzen-band2-img27-right-1.jpg
+```{figure} images/petzen-band2-img27-right-1.jpg
 :class: image-override
 ```
 

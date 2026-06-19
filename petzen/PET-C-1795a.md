@@ -25,7 +25,7 @@ Mädchen (girls) confirmed.
 
 Johanne Söphie Carlotte Krückeberg is the 2nd name on the list of Mädchen.
 
-```{image} images/petzen-band2-img192-409.jpg
+```{figure} images/petzen-band2-img192-409.jpg
 :class: image-override
 ```
 

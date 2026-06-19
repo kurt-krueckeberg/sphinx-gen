@@ -38,13 +38,13 @@ Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ### Header Pages 438 Header
 
-```{image} images/petzen-band2-img207-438-entry20.jpg
+```{figure} images/petzen-band2-img207-438-entry20.jpg
 :class: image-override
 ```
 
 ### Page 439 Header
 
-```{image} images/petzen-band2-img207-439-entry20.jpg
+```{figure} images/petzen-band2-img207-439-entry20.jpg
 :class: image-override
 ```
 

@@ -7,7 +7,7 @@ Gestorbenen 1785-1827.
 
 ## Image of Baptism Record
 
-```{image} images/petzen-band2-img113.jpg
+```{figure} images/petzen-band2-img113.jpg
 :class: image-override
 ```
 

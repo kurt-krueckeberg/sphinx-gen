@@ -28,7 +28,7 @@ the top, right-hand page, of the Petzen " Verzeichnis der Getrauten und Gestorbe
 
 ## Image of Marriage Record
 
-```{image} images/petzen-band1b-img52.jpg
+```{figure} images/petzen-band1b-img52.jpg
 :class: image-override
 ```
 

@@ -8,7 +8,7 @@ der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages,
 Deaths) 1664-1757.
 
 ## Burial Image
-```{image} images/frille-band1-img384.jpg
+```{figure} images/frille-band1-img384.jpg
 :class: image-override
 ```
 

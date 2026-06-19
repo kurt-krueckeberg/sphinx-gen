@@ -47,7 +47,7 @@ Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827". The birth entrie
 The birth month **April** appears on image 70, page 135, near the bottom of the page. It spans the column for "geb" (birth
 date) and "get" (baptism date).
 
-```{image} images/petzen-band2-img70-135-bottom.jpg
+```{figure} images/petzen-band2-img70-135-bottom.jpg
 :class: image-override
 ```
 
@@ -56,13 +56,13 @@ date) and "get" (baptism date).
 Image 71  continues the births for April of 1798. The birth and baptism entry for Christine Louise Krückeberg
 is the third entry from the top.
 
-```{image} images/petzen-band2-img71-136.jpg
+```{figure} images/petzen-band2-img71-136.jpg
 :class: image-override
 ```
 
 ## Birth Entry 24 on Page 137
 
-```{image} images/petzen-band2-img71-137.jpg
+```{figure} images/petzen-band2-img71-137.jpg
 :class: image-override
 ```
 

@@ -10,7 +10,7 @@ und Konfirmierten 1641-1784".
 
 The enhanced image is below:
 
-```{image} images/petzen-band1a-img117-bleecke.jpg
+```{figure} images/petzen-band1a-img117-bleecke.jpg
 :class: image-override
 ```
 

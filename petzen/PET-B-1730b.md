@@ -8,7 +8,7 @@ Getauften und Konfirmierten 1641-1784".
 
 ## Baptism Record
 
-```{image} images/petzen-band1a-img144.png
+```{figure} images/petzen-band1a-img144.png
 :class: image-override
 ```
 

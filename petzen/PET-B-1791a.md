@@ -32,13 +32,13 @@ This baptism is recorded on {ref}`image 52 on Archion <PET-B-1791a>` of Petzen K
 
 ## Image of Baptism Recrd
 
-```{image} images/petzen-band2-img52-header.jpg
+```{figure} images/petzen-band2-img52-header.jpg
 :class: image-override
 ```
 
 ## Entry of Baptism
 
-```{image} images/petzen-band2-img52-left.jpg
+```{figure} images/petzen-band2-img52-left.jpg
 :class: image-override
 ```
 

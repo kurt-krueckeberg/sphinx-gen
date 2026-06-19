@@ -55,11 +55,11 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 The header and column headings for pages 626 and 627:
 
-```{image} images/petzen-band2-img300-header-left.jpg
+```{figure} images/petzen-band2-img300-header-left.jpg
 :class: image-override
 ```
 
-```{image} images/petzen-band2-img300-header-right.jpg
+```{figure} images/petzen-band2-img300-header-right.jpg
 :class: image-override
 ```
 
@@ -79,11 +79,11 @@ Translation
 
 ### The Record
 
-```{image} images/petzen-band2-img300-left.jpg
+```{figure} images/petzen-band2-img300-left.jpg
 :class: image-override
 ```
 
-```{image} images/petzen-band2-img300-right.jpg
+```{figure} images/petzen-band2-img300-right.jpg
 :class: image-override
 ```
 

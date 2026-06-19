@@ -23,7 +23,7 @@ The confirmation is the penultimate entry on {ref}`image 313 <PET-C-1755a>`, on 
 No page numbers are written on these pages.
 ```
 
-```{image} images/petzen-band1a-img310-left.jpg
+```{figure} images/petzen-band1a-img310-left.jpg
 :class: image-override
 ```
 

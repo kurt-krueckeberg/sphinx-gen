@@ -30,7 +30,7 @@ Anna Maria Elisabeth Moeller is on {ref}`image 58 <PET-M-1770a>` of the Petzen
 
 ## Image of Marriage Record
 
-```{image} images/petzen-band1b-img61.jpg
+```{figure} images/petzen-band1b-img61.jpg
 :class: image-override
 ```
 

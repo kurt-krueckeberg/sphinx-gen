@@ -8,7 +8,7 @@ Konfirmirte, 1641-1784".:wq
 
 ## Baptism Record
 
-```{image} images/petzen-band1a-img261-left.jpg
+```{figure} images/petzen-band1a-img261-left.jpg
 :class: image-override
 ```
 

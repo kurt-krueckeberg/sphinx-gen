@@ -3,7 +3,7 @@
 The confirmation is recorded on {ref}`page 172, of the PDF of volume 1 <CIN-B-1840b>`, of the Kirchenbuch of the
 Deutsche Evangelisch-Lutherische und Reformierte Kirche (North German Lutheran Church) of Cincinnati.
 
-```{image} images/vol1-page172.jpg
+```{figure} images/vol1-page172.jpg
 :class: image-override
 ```
 

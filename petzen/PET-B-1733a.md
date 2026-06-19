@@ -17,7 +17,7 @@
 
 ## Image 149
 
-```{image} images/petzen-band1a-img149.png
+```{figure} images/petzen-band1a-img149.png
 :class: image-override
 ```
 

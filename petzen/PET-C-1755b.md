@@ -7,7 +7,7 @@ Kirchenbuch volume "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 ## Image 310
 
-```{image} images/petzen-band1a-img310-left.jpg
+```{figure} images/petzen-band1a-img310-left.jpg
 :class: image-override
 ```
 
@@ -37,7 +37,7 @@ It is the fifth entry for the year 1757 on page 18 (whose page number is in the 
 
 The confirmation entry for Johann Heinrich Krückeberg from Berenbusch is on the [310th image, page 18, of Confirmati](image310-right) > ofthe Petzen Kirchenbuch volume "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
-```{image} images/petzen-band1a-img310-right.jpg
+```{figure} images/petzen-band1a-img310-right.jpg
 :class: image-override
 ```
 

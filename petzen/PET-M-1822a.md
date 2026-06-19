@@ -76,17 +76,17 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 The header and column headings for pages 722 and 723:
 
-```{image} images/petzen-band2-img348-heading.jpg
+```{figure} images/petzen-band2-img348-heading.jpg
 :class: image-override
 ```
 
 ### The Marriage Record
 
-```{image} images/petzen-band2-img348-722.jpg
+```{figure} images/petzen-band2-img348-722.jpg
 :class: image-override
 ```
 
-```{image} images/petzen-band2-img348-723.jpg
+```{figure} images/petzen-band2-img348-723.jpg
 :class: image-override
 ```
 

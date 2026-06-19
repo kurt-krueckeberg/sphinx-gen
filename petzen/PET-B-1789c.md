@@ -8,7 +8,7 @@ The baptism record is on image 45, [page 85](#cite-PET-B-1789c), entry 7.
 
 ## Baptism Image
 
-```{image} images/petzen-band2-img45-85.jpg
+```{figure} images/petzen-band2-img45-85.jpg
 :class: image-override
 ```
 

@@ -10,11 +10,11 @@ In 1811 Phillipine Louise Weiland, daughter of the deceased Friedrich Weiland, m
 
 Her marriage is entry no. 2 and spans both pages:
 
-```{image} images/petzen-band2-img26-left-1.jpg
+```{figure} images/petzen-band2-img26-left-1.jpg
 :class: image-override
 ```
 
-```{image} images/petzen-band2-img26-right-1.jpg
+```{figure} images/petzen-band2-img26-right-1.jpg
 :class: image-override
 ```
 
@@ -26,11 +26,11 @@ Translation of header for pages 46 and 47
 
 46                Marrianges in the Petzen Parish                  in the year 1811                              47
 
-```{image} images/petzen-band2-img26-left-2.jpg
+```{figure} images/petzen-band2-img26-left-2.jpg
 :class: image-override
 ```
 
-```{image} images/petzen-band2-img26-right-2.jpg
+```{figure} images/petzen-band2-img26-right-2.jpg
 :class: image-override
 ```
 

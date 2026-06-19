@@ -25,7 +25,7 @@ The confirmation of Christine Louise Krückeberg, on the 1st Sunday After Easter
 on {ref}`pages 438 and 439, entry 28, <PET-C-1811b>`, on entry #28, of the Petzen Kirchenbuch "Verzeichnis
 der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
-```{image} images/petzen-band2-img207-entry28.jpg
+```{figure} images/petzen-band2-img207-entry28.jpg
 :class: image-override
 ```
 

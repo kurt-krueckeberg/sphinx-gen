@@ -12,7 +12,7 @@ image, on the right hand page (not shown).
 ```
 
 ## Baptism Image
-```{image} images/petzen-band1a-img191-left-1754.jpg
+```{figure} images/petzen-band1a-img191-left-1754.jpg
 :class: image-override
 ```
 

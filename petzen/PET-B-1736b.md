@@ -9,7 +9,7 @@ The baptism of Hand Heinrich Weiland is on {ref}`image 1153 <PET-B-1736b>`, left
 
 The enhanced image is below:
 
-```{image} images/petzen-band1a-img153-left-page-weiland.jpg
+```{figure} images/petzen-band1a-img153-left-page-weiland.jpg
 :class: image-override
 ```
 

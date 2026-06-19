@@ -9,7 +9,7 @@ Frille parish Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804
 
 ## Images
 
-```{image} images/frille-band2-img313-185.jpg
+```{figure} images/frille-band2-img313-185.jpg
 :class: image-override
 ```
 

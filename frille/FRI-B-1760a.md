@@ -12,7 +12,7 @@ Frille parish "Verzeichnis der Getauften, Getrauten, Gestorbenen
 The baptism and birth year of 1760 is written on page 13  (of the baptism
 pages), just below the middle of the page, on image 9:
 
-```{image} images/frille-band2-img9-13.jpg
+```{figure} images/frille-band2-img9-13.jpg
 :class: image-override
 ```
 
@@ -20,7 +20,7 @@ The birth and baptism of Charlotte Loyse(Louise) Heinriette Bleeckeis
 recorded on entry number 33 on {ref}`page 16 <FRI-B-1760a>` (of the baptism
 pages).
 
-```{image} images/frille-band2-img11-16.jpg
+```{figure} images/frille-band2-img11-16.jpg
 :class: image-override
 ```
 

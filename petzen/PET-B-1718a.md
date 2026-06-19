@@ -7,7 +7,7 @@ page, last entry, of the Petzen "Verzeichnis der Getauften und
 Konfirmierten 1641-1784".
 
 ## Baptism Image
-```{image} images/petzen-band1a-img126-bleeck.jpg
+```{figure} images/petzen-band1a-img126-bleeck.jpg
 :class: image-override
 ```
 

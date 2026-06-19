@@ -29,7 +29,7 @@ Petzen " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
 ## Image of Marriage Record
 
-```{image} images/petzen-band1b-img52-weiland.jpg
+```{figure} images/petzen-band1b-img52-weiland.jpg
 :class: image-override
 ```
 

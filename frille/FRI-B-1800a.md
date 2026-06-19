@@ -11,13 +11,13 @@ page 283. His birth and baptism is the 70th of the year.
 ## Baptism Image
 The baptism year of 1800 is written on the top of page 275 (of the baptism pages), which on image 148:
 
-```{image} images/frille-band2-img148-275.jpg
+```{figure} images/frille-band2-img148-275.jpg
 :class: image-override
 ```
 
 The baptism entry fo Christian Friderich Bleeke is on page 283 (of the baptism pages), which is on image 152:
 
-```{image} images/frille-band2-img152-283.jpg
+```{figure} images/frille-band2-img152-283.jpg
 :class: image-override
 ```
 

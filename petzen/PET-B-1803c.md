@@ -40,7 +40,7 @@ pages 158 and 159. The birth month **Decbr** is written on page 159 between entr
 
 This is an overview showing the header for pages 158 and 159:
 
-```{image} images/petzen-band2-img82-overview.jpg
+```{figure} images/petzen-band2-img82-overview.jpg
 :class: image-override
 ```
 
@@ -74,13 +74,13 @@ Translation of page header
 
 ## Image of Birth Entry 40, Page 158
 
-```{image} images/petzen-band2-img82-entry40-158.jpg
+```{figure} images/petzen-band2-img82-entry40-158.jpg
 :class: image-override
 ```
 
 ## Image of Birth Entry 40, Page 159
 
-```{image} images/petzen-band2-img82-entry40-159.jpg
+```{figure} images/petzen-band2-img82-entry40-159.jpg
 :class: image-override
 ```
 

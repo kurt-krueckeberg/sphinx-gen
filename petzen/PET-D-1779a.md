@@ -7,7 +7,7 @@ of the *Verzeichnis der Getrauten und Gestorbenen, 1641-1784* found on
 [Archion.de](https://archion.de).
 
 ## Burial Image
-```{image} images/petzen-band1b-img223.jpg
+```{figure} images/petzen-band1b-img223.jpg
 :class: image-override
 ```
 

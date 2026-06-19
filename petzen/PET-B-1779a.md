@@ -7,7 +7,7 @@ Sophia Margaretha Weiland’s baptism is on {ref}`image 262, right page, entry n
 
 ## Bpatism Image
 
-```{image} images/petzen-band1a-img262-1779.jpg
+```{figure} images/petzen-band1a-img262-1779.jpg
 :class: image-override
 ```
 

@@ -99,13 +99,13 @@ Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
 Page 654:
 
-```{image} images/petzen-band2-img314-654.jpg
+```{figure} images/petzen-band2-img314-654.jpg
 :class: image-override
 ```
 
 Page 655:
 
-```{image} images/petzen-band2-img314-655.jpg
+```{figure} images/petzen-band2-img314-655.jpg
 :class: image-override
 ```
 
