@@ -1,17 +1,66 @@
-/* Original: Also nice 
-.doc-text {
-    font-family: var(--pst-font-family-base);
-    font-weight: 500;
-    line-height: 1.6;
-    color: #000;
-    background-color: #fdfdfd;  
-    border: 2px solid #222;
-    border-radius: 0.4rem;
-    padding: 1rem 1.25rem;
-    margin-bottom: 1.5rem;
-    text-indent: 0;
+/* removes gird/border lines from a table in a {div} doc-text block 
+.doc-text table,
+.doc-text th,
+.doc-text td {
+    border: none !important;
+}
+
+.doc-text table {
+    border-collapse: collapse;
+}
+
+.doc-text thead {
+    border-bottom: none !important;
+}
+
+.doc-text tr {
+    border: none !important;
 }
 */
+.doc-text table {
+    border-collapse: collapse;
+}
+
+/* draw only internal cell lines */
+.doc-text th,
+.doc-text td {
+    border-top: 1px solid var(--pst-color-border);
+    border-left: 1px solid var(--pst-color-border);
+}
+
+/* remove top outside border */
+.doc-text tr:first-child th,
+.doc-text tr:first-child td {
+    border-top: none;
+}
+
+/* remove left outside border */
+.doc-text th:first-child,
+.doc-text td:first-child {
+    border-left: none;
+}
+
+.doc-text {
+    border: 1.5px solid #777;
+    border-radius: 0.35rem;
+    padding: 1rem 1.25rem;
+    margin-bottom: 1.5rem;
+}
+/*
+.doc-text {
+    background-color: #f7f7f7;
+    border: 1.5px solid #777;
+    border-radius: 0.35rem;
+    padding: 1rem 1.25rem;
+    margin-bottom: 1.5rem;
+}
+
+html[data-theme="dark"] .doc-text {
+    background-color: #1f1f1f;
+    border-color: #aaa;
+}
+*/
+/*
 .doc-text {
     font-family: var(--pst-font-family-base);
     font-weight: 500;
@@ -23,6 +72,14 @@
     padding: 1rem 1.25rem;
     margin-bottom: 1.5rem;
 }
+
+*/
+/* removes even rows as lighter in color 
+.doc-text table.no-borders tbody tr:nth-child(even),
+.doc-text table.no-borders tbody tr:nth-child(even) td {
+    background: transparent !important;
+}
+*/
 /* creates a shadow-obrder for images */
 img.image-override,
 .image-override img {

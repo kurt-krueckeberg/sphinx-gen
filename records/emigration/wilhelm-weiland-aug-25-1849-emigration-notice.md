@@ -10,7 +10,7 @@ announcements. They were especially important when an emigrant had sold
 property before he left for America, because sale proceed could be used to
 satisfy outstanding claims.
 
-## Johann Heinrich's Emigration Officially Published
+## Heinrich Wilhelm Weiland's Emigration Officially Published
 
 The notice of Heinrich Wilhelm Weiland's planned emigration to America
 appeared in the [August 25,
@@ -30,9 +30,7 @@ column.
 25 Aug. 1849 notice of Heinrich Wilhelm Weiland's impending emigration to America
 ```
 
-## Transliteration and Translation
-
-### Transliteration
+## Transliteration
 
 ```{div} doc-text
 Bückeburg. Der Colon Weiland No 20 in Evesen, welcher nach Amerika
@@ -52,7 +50,7 @@ Fürstlich Schaumb. Lippisches Amt.
 Höcker. ᐧ König.
 ```
 
-### Translation
+## Translation
 
 ```{div} doc-text
 Bückeburg. The Colon Weiland, No. 20 in Evesen, who is about to emigrate to
