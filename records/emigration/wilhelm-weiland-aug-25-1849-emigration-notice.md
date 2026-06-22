@@ -37,7 +37,7 @@ Bückeburg. Der Colon Weiland No 20 in Evesen, welcher nach Amerika
 auszuwandern im Begriff steht, hat seine Stätte an den Colon Wöbling No 2
 daselbst verkauft und werden auf An- trag des erstern alle diejenigen,
 welche Forderungen an ihn haben, hierdurch aufgefordert, zur Anmeldung
-derselben
+selben
 
 am 5. k. M. September
 

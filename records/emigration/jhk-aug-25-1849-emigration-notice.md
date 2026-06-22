@@ -47,9 +47,7 @@ September 1849.[^krueckeberg-emigration-notice]
 The actual Kaufbrief (purchase contract) was subsequently submitted to the
 Rentkammer on 8 September, and it approved it on 20 September 1849.
 
-## Transliteration and Translation
-
-### Transliteration
+## Transliteration
 
 ```{div} doc-text
 Bückeburg.
@@ -65,7 +63,7 @@ Fürstlich Schaumb.-Lippisches Amt.
 Höcker. König.
 ```
 
-### Translation
+## Translation
 
 ```{div} doc-text
 Bückeburg. Colon Krückelberg of No. 10 in Berenbusch, who is about to
