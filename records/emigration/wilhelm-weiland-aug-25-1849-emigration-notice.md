@@ -30,6 +30,12 @@ column.
 25 Aug. 1849 notice of Heinrich Wilhelm Weiland's impending emigration to America
 ```
 
+The Bückeburg Amt then published official notice of Weiland's intended
+emigration and sale of No. 10 Berenbusch in the 25 August 1849 issue of the
+Anzeigen des Fürstenthums Schaumburg-Lippe (Notices of the Principality of
+Schaumburg-Lippe), summoning anyone with claims against him to appear
+before the Amt on 5 September 1849.[^weiland-emigration-notice]
+
 ## Transliteration
 
 ```{div} doc-text
