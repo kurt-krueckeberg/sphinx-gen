@@ -18,7 +18,7 @@ appeared in the [August 25,
 edition of Notices of the Principality of Schaumburg-Lippe.
 
 The section header **Bekanntmachung** (Notice) appears in the left column
-of page 204. The notice of Johann Heinrich Krückeberg's sale of his Stätte
+of page 204. The notice of Heinrich Wilhelm Weilands's sale of his Stätte
 (holding) prior to his family's emigration to America appears in the right
 column.
 
