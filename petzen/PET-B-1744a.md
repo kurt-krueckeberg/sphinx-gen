@@ -73,7 +73,7 @@ Translation
 
 On the 19th of the same month [January], Krückeberg had a little son baptized,
 named Johann Henrich. The sponsors were Georg
-Frerking Ahldag, Weiland in Berenbusch, and Watermann’s
+Frerking. Ahldag. Weiland in Berenbusch. Watermann’s
 son from Nordholz
 ```
 
