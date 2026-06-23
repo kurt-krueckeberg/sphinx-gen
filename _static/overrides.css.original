@@ -1,44 +1,43 @@
-.compact-fee-table tbody tr:nth-child(odd),
-.compact-fee-table tbody tr:nth-child(odd) td {
-  background: inherit !important;
-  background-color: inherit !important;
-}
-/* Plain default for every table inside doc-text */
+/* removes gird/border lines from a table in a {div} doc-text block 
 .doc-text table,
-.doc-text table * {
+.doc-text th,
+.doc-text td {
     border: none !important;
-    background: transparent !important;
-    background-color: transparent !important;
 }
 
-/* Opt-in internal rule lines */
-.doc-text table.ruled {
+.doc-text table {
     border-collapse: collapse;
 }
 
-.doc-text table.ruled th,
-.doc-text table.ruled td {
-    border-top: 1px solid var(--pst-color-border) !important;
-    border-left: 1px solid var(--pst-color-border) !important;
+.doc-text thead {
+    border-bottom: none !important;
 }
 
-.doc-text table.ruled tr:first-child th,
-.doc-text table.ruled tr:first-child td {
-    border-top: none !important;
+.doc-text tr {
+    border: none !important;
+}
+*/
+.doc-text table {
+    border-collapse: collapse;
 }
 
-.doc-text table.ruled th:first-child,
-.doc-text table.ruled td:first-child {
-    border-left: none !important;
+/* draw only internal cell lines */
+.doc-text th,
+.doc-text td {
+    border-top: 1px solid var(--pst-color-border);
+    border-left: 1px solid var(--pst-color-border);
 }
 
-.doc-text table.compact {
-    width: auto;
-    display: inline-table;
+/* remove top outside border */
+.doc-text tr:first-child th,
+.doc-text tr:first-child td {
+    border-top: none;
 }
 
-.doc-text table.compact td {
-    padding: 0.15rem 0.35rem;
+/* remove left outside border */
+.doc-text th:first-child,
+.doc-text td:first-child {
+    border-left: none;
 }
 
 .doc-text {

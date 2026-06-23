@@ -60,7 +60,7 @@ Page 114:
 
 Transliteration of page 113, entry 16
 
-```{code-block} text
+ doc-text
 
 16) d 21 April: ist Philippina Eloenora Kruckenbergen
 des Johann Heinrich Krückeberg aus Evesen
@@ -78,7 +78,7 @@ getauft. Gevatttern sind [gemeinsam?]
 
 Translation of page 113 header and entry 16
 
-```{code-block} text
+ doc-text
 
 16) 21 April: Philippina Eleonora Kruckenbergen was baptized
 the begotten daughter of Johann Heinrich Krückeberg from Evesen

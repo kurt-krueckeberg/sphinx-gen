@@ -16,7 +16,7 @@ der Getauften und Konfirmierten 1641-1784".
 
 Transliteration of Baptism Record
 
-```{code-block} text
+ doc-text
 
 #24 d 4ten May: ist Phlippina Eleonore Werkmeistern des Heinrich Tönnies
 Werkmeisters aus Evesen No 11 mit seiner Ehefrau Ilse Maria geb. Mollern
@@ -26,7 +26,7 @@ Evesen
 
 Translation of Baptism Record
 
-```{code-block} text
+ doc-text
 
 On 4th May Philippina Eleonore Werkmeister, the begotten daugther of
 Tönnies Werkmeister from Evesen No. 11 and his wife Ilse Maria née Moller,

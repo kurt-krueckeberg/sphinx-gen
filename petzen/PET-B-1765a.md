@@ -59,14 +59,14 @@ Below is the image of the baptism record for Jobst Heinrich Krückeberg, who was
 
 page header transliteration:
 
-```{code-block} text
+ doc-text
 
 1765                  Getaufte (Baptisms)
 ```
 
 Transliteration
 
-```{code-block} text
+ doc-text
 
 24 Mar[tz] Jobst Heinrich Krückeberg Johann Heinrich
    Krückebergs aus Berenbusch ehelich Sohn getauft
@@ -75,7 +75,7 @@ Transliteration
 
 Translation
 
-```{code-block} text
+ doc-text
 
 24 March Jobst Heinrich Krückeberg legitimate son of Johann Heinrich
    Krückeberg from Berenbusch baptized

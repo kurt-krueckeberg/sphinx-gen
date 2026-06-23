@@ -15,7 +15,7 @@ Getrauten und Gestorbenen 1641-1784".
 
 Transliteration
 
-```{code-block} text
+ doc-text
 
 Anno 1731
 
@@ -71,7 +71,7 @@ See [Höckersau-Sandfurt](https://www.meyersgaz.org/place/10808032)
 
 Translation
 
-```{code-block} text
+ doc-text
 
 On January 3rd, Henrich Vahlsing — a shepherd of 32 years’ standing from
 the High-Comital estate farm at Höckersau — was buried, aged 63 years.

@@ -15,7 +15,7 @@ of the *Verzeichnis der Getrauten und Gestorbenen, 1641-1784* found on
 
 Transliteration
 
-```{code-block} text
+ doc-text
 
 25) 10t Octobr ist begraben Johann Heinrich Blecke aus Evesen ein Ehemann.
     Sein Krankhiet was das bösartige Fieber. Sein Alter 34¼ Jahr.
@@ -23,7 +23,7 @@ Transliteration
 
 Translation
 
-```{code-block} text
+ doc-text
 
 25) 10th October Johann Heinrich Blecke was buried, a married man from
     Evesen was buried. His illnes was the malignant fever. His age was 34¼ years.

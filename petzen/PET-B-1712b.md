@@ -10,7 +10,7 @@ Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784" on
 
 Transliteration
 
-```{code-block} text
+ doc-text
 
 17 den 19 Juni ist Henrich Arendt Vahlsings Schäfers auf Hockersau
 Söhnlein Anthon Henrich getauf Gev. Henri. Weitzenkorn
@@ -18,7 +18,7 @@ Söhnlein Anthon Henrich getauf Gev. Henri. Weitzenkorn
 
 Translation
 
-```{code-block} text
+ doc-text
 
 17 the 19th June was Henrich Arendt Vahlsing's, shepherd at Hockersau,
 little son, Anton Henrich, baptized. Sponsor Henrich Weitzenkorn.

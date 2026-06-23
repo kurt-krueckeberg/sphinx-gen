@@ -21,13 +21,13 @@ This marriage entry is on the {ref}`3rd image on Archion <PET-M-1785a>` of Petze
 the n. This was done because the scribe encountered the right edge of the
 page and ran out of space.
 
-```{code-block} text
+ doc-text
 
 3) d[en] 27th ist copulirt Friderich Weiland Canonier
   aus Evesen mit Philippina Watermann Scheisen aus Evesen
 ```
 
-```{code-block} text
+ doc-text
 
 3) On the 27th, Friedrich Weilandt, a cannoneer from Evesen,
 married Philippina Watermann, the widow of Scheisen, from Evesen.

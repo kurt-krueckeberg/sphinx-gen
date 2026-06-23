@@ -29,7 +29,7 @@ This confirmation entry is on the {ref}`320th image on Archion <PET-C-1781a>` of
 
 Transliteration
 
-```{code-block} text
+ doc-text
 
                     Confirmati ao 1781
 
@@ -38,7 +38,7 @@ Transliteration
 
 Translation
 
-```{code-block} text
+ doc-text
 
                     Confirmed year 1781
 

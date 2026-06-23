@@ -62,7 +62,7 @@ entry: 5 July 1767.
 
 Transliteration
 
-```{code-block} text
+ doc-text
 
 1776                  Getaufte
 
@@ -76,7 +76,7 @@ Eodem) ist alhier getauft Johann Heinrich Kruckebergs aus
 
 Translation
 
-```{code-block} text
+ doc-text
 
 On the same day the son of Johann Heinrich Kruckeberg
  Berenbusch, by his wife Anne Christine Elisabeth

@@ -33,7 +33,7 @@ No page number is written on this page.
 
 Transliteration
 
-```{code-block} text
+ doc-text
 
                      Confirmati 1757
 
@@ -50,7 +50,7 @@ Johan Heinrich Krückeberg aus Bernbusch
 
 Translation
 
-```{code-block} text
+ doc-text
 
                      Confirmed 1757
 

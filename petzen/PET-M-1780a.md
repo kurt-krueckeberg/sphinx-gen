@@ -46,7 +46,7 @@ to Ilse Maria Elisabeth née Möller, widow of Bleken, from Evesen, is on
 
 Transliteration
 
-```{code-block} text
+ doc-text
 
 7) 11t Jun: ist copuliert Heinrich Tönnes Werkmeister aus Wülpke [ein]
 Jgs[Jungeselle]. mit Ilsa Maria geb. Möllern Wittve Bleken aus Evesen
@@ -54,7 +54,7 @@ Jgs[Jungeselle]. mit Ilsa Maria geb. Möllern Wittve Bleken aus Evesen
 
 Translation
 
-```{code-block} text
+ doc-text
 
 7) 11th June Heinrich Tönnis Werkmeister from Wülpke a bachelor
 was married to Ilse Marie nee Möller, widow of Bleke, from Evesen

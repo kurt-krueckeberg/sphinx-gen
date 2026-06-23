@@ -35,7 +35,7 @@ Getrauten und Gestorbenen, 1641-1784".
 
 Transliteration
 
-```{code-block} text
+ doc-text
 
           Begrabene                                                                 1773
 
@@ -45,7 +45,7 @@ d 23  Jun. ist beigesetz[t] des Johann Heinrich Kruckeberg
 
 Translation
 
-```{code-block} text
+ doc-text
 
           Burials                                                                  1773
 

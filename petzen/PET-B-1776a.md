@@ -15,7 +15,7 @@ The baptism of Fridrich Wilhelm Bleke, on 26 December 1776, is on {ref}`image 25
 
 Transliteration
 
-```{code-block} text
+ doc-text
 
 41) d 26t[en] Decembr. ist getauft Fridrich Wilhelm Bleke
               des Heinrich Wilhelm Bleken aus Evesen mit seiner
@@ -26,7 +26,7 @@ Transliteration
 
 Translation
 
-```{code-block} text
+ doc-text
 
 41) The 26th of Decembr. Fridrich Wilhelm Bleke was baptized,
     the legitimate son of Heinrich Wilhelm Bleken from Evesen,

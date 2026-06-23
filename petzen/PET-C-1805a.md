@@ -44,12 +44,12 @@ page 420, entry 13, of the Petzen "Verzeichnis der Getauften, Konfirmierten, Get
 
 ## Translation and Transliteration of Header for Pages 420 and 421
 
-```{code-block} text
+ doc-text
 
 420            Register der am 21. Apr, 1805 in  der                        Kirche zu Petzen Konfirmirten Kinder                 421
 ```
 
-```{code-block} text
+ doc-text
 
 420            Register of those Children on 21. Apr, 1805                  Confirmed in the Petzen Church                       421
 ```

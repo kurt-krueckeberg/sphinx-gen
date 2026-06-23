@@ -52,14 +52,14 @@ Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 Transliteration of page header
 
-```{code-block} text
+ doc-text
 
 438   Verzeichnis der am Sonntage Quasimodogeniti 1811 in der   Kirche zu Petzen Confirmirten aus dem [Leÿß?/Leüß?] Schaumb. Lipp.   439
 ```
 
 Translation of page header
 
-```{code-block} text
+ doc-text
 
 438   List of those confirmed on Sunday Quasimodogeniti 1811 in the        Church at Petzenm from [Leÿß?/Leüß?] Schaumburg Lippe   439
 ```

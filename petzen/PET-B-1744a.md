@@ -48,8 +48,7 @@ for *benennen*, "to name somebody or something after, or for".
 
 Transliteration (See NOTE below)
 
-```{code-block} text
-
+```{div} doc-text
 Anno 1744
 
 [First three entries from 1744 ommitted...]
@@ -69,7 +68,10 @@ that begin before the word 'Sohn'
 
 Translation
 
-```{code-block} text
+```{div} doc-text
+In the year 1744
+
+[First three entries from 1744 ommitted...]
 
 On the 19th of the same month [January], Krückeberg had a little son baptized,
 named Johann Henrich. The sponsors were Georg

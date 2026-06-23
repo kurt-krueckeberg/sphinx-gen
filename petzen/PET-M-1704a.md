@@ -31,7 +31,7 @@ Eberding is on {ref}`image 27 <image27>`, the right-hand page, of the Petzen
 
 Transliteration
 
-```{code-block} text
+ doc-text
 
 Johann Tönnies Eggerding aus D[e]k[h][?][ſ/f] und M. Anna Catharina
 Eberdings aus Petzen den 15. ten 8br. copuliret
@@ -39,7 +39,7 @@ Eberdings aus Petzen den 15. ten 8br. copuliret
 
 Translation
 
-```{code-block} text
+ doc-text
 
 Johann Tönnies Eggerding from D[e]k[h][?][ſ/f] and M. Anna Catharina
 Eberdings from Petzen married the 15ten October.

@@ -33,7 +33,7 @@ Johanne Söphie Carlotte Krückeberg is the 2nd name on the list of Mädchen.
 
 Transliteration page 409
 
-```{code-block} text
+ doc-text
 
                                           409
                 Confirmati
@@ -59,7 +59,7 @@ II. Mägdchen (archaic form of Mädchen = girls)
 
 Translation
 
-```{code-block} text
+ doc-text
 
                                           409
                 Confirmed

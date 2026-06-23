@@ -31,7 +31,7 @@ year 1739 appears in the middle of the right page.
 
 Transliteration
 
-```{code-block} text
+ doc-text
 
 11 hÿ Krückeberg [in] [B. B.] ein Söhnl[ein] tauft
 lassen Johann Wilhelm [benamst?] [uncertain]
@@ -53,7 +53,7 @@ berenbusch abbreviation in the image is an abbreviation for it.
 
 Translation
 
-```{code-block} text
+ doc-text
 
 On the 11th of this month [February] the Berenbusch Kruckeberg's little son was
 baptized [named] Johann Wilhelm [uncertain]

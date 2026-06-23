@@ -36,7 +36,7 @@ the top, right-hand page, of the Petzen " Verzeichnis der Getrauten und Gestorbe
 
 Transliteration
 
-```{code-block} text
+ doc-text
 
 d. 14ten Junii Johann Heinrich Krückeberg
      aus Bernbusch mit Anne Christine Elisebet
@@ -49,7 +49,7 @@ Berenbusch is spelled **Bernbusch** in this record.
 
 Translation
 
-```{code-block} text
+ doc-text
 
 The 14th June Johann Heinrich Krückeberg
      from Bernbusch married Anne Christine Elisebet

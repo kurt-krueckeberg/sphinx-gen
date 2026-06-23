@@ -38,7 +38,7 @@ Anna Maria Elisabeth Moeller is on {ref}`image 58 <PET-M-1770a>` of the Petzen
 
 Transliteration
 
-```{code-block} text
+ doc-text
 
 d 18t Febr ist copuliert Johann Heinrich Bleke aus Evesen no. 11 mit Anna
 Maria Elisabeth Moellern aus Heeßen.
@@ -46,7 +46,7 @@ Maria Elisabeth Moellern aus Heeßen.
 
 Translation
 
-```{code-block} text
+ doc-text
 
 On Feb. 18th Johann Heinrich Bleke from Evesen no. 11 married Anna
 Maria Elisabeth Möller from Heeßen.

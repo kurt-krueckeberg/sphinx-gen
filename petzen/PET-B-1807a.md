@@ -158,14 +158,14 @@ Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
 
 Transliteration of Header for Pages 186 and 187
 
-```{code-block} text
+ doc-text
 
 186         Getaufte im Kirchspiele Petzen                      im Jahr 1807                            187
 ```
 
 Translation of Header for Pages 186 and 187
 
-```{code-block} text
+ doc-text
 
 186         Baptisms in the Parish of Petzen                   in the Year 1807                          187
 ```

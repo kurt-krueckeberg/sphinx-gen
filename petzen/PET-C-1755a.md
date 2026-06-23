@@ -31,7 +31,7 @@ No page numbers are written on these pages.
 
 Transliteration of last four entries on left-hand page
 
-```{code-block} text
+ doc-text
 
                    Confirmati 1755
 
@@ -43,7 +43,7 @@ Charlotte Dieckmans (Einliegers) Röcke
 
 Translation of last four entries on left-hand page
 
-```{code-block} text
+ doc-text
 
                    Confirmed 1755
 

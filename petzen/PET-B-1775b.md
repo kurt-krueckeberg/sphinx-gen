@@ -40,7 +40,7 @@ Getauften und Konfirmierten, 1641-1784".
 
 ## Transliteration and Translation
 
-```{code-block} text
+ doc-text
 
 Getaufte                                                    1775
 
@@ -51,7 +51,7 @@ Getaufte                                                    1775
     Berenbusch
 ```
 
-```{code-block} text
+ doc-text
 
 Baptisms                                                    1775
 

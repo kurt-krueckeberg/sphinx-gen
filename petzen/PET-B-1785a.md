@@ -19,7 +19,7 @@ sponsor was Philippine Maria Beuken of Meinsen.
 
 ## Transliteration and Translation
 
-```{code-block} text
+ doc-text
 62                 Getaufte Aoo 1785
 
 29) d 10ten Jul: ist Philippina Louise Weilands
@@ -30,7 +30,7 @@ getauft. Gevatterin war Philippine
 Maria Beuken Meinsen gebürtig[native; by birth]
 ```
 
-```{code-block} text
+ doc-text
 
 62                 Baptisms Anno 1785
 

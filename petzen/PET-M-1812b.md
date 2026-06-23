@@ -91,7 +91,7 @@ Heading page 49:
 
 Transliteration of page header
 
-```{code-block} text
+ doc-text
 
 48                Copulierte im Kirchspiel Petzen                     im Jahr 1812                      49
 ```

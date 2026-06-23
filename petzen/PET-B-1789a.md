@@ -15,7 +15,7 @@ Below is entry 6, from page 85, in the year 1789.
 
 ## Transliteration and Translation
 
-```{code-block} text
+ doc-text
 
 6) d. 20ten Febr. ist getauft Johann Heinrich Weiland des Jobst
 Heinrich Weilands Tagelöhners in Pezen mit seiner Ehefrau
@@ -24,7 +24,7 @@ Möllern ihr gebohrner Sohn. Gevatter war Johann
 Friederich Altmeyer Hofmeister auf dem Hofe Heb[?] No. 2
 ```
 
-```{code-block} text
+ doc-text
 
 6) On 20 February, Johann Heinrich Weiland was baptized. He was the son
 born to Jobst Heinrich Weiland, a day laborer in Pezen, and his wife

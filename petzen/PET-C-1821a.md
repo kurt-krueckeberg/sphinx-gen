@@ -40,7 +40,7 @@ Confirmation happened around age 14.
 
 Transliteration of Header for page 449
 
-```{code-block} text
+ doc-text
 
 Verzeichnis der am Sonntage Quasidmodgeniti
 1821 Confirmierten Kinder - aus dem Schaumb.[Schaumburg inferred]
@@ -48,7 +48,7 @@ Verzeichnis der am Sonntage Quasidmodgeniti
 
 Knaben (boys) listed in top left list of page 449
 
-```{code-block} text
+ doc-text
 
 Knaben
 
@@ -59,7 +59,7 @@ Knaben
 
 Translation of Header for page 448
 
-```{code-block} text
+ doc-text
 
 Register (or listing) of children confirmed
 1821 - from Schaumb.[Schaumburg inferred]
@@ -67,7 +67,7 @@ Register (or listing) of children confirmed
 
 Translation of Knaben (boys) listed in top left list of page 449
 
-```{code-block} text
+ doc-text
 
 Boys
 

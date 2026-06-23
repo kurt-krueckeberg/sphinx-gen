@@ -59,7 +59,7 @@ The exact landholding class (Kolon, Kötter, Brinksitzer, etc.) is not specified
 
 Transliteration
 
-```{code-block} text
+ doc-text
 
 156                                           1802 u[nd] 1803                                  1802 u[nd] 1803                       157
 Geborene aus den [im?]gepf[???]ten Schaub: Lipp: Dorfschaften      Geborene aus den [in?] gepf[????]ten Schaumb: Lipp: Dorfschaften
@@ -67,7 +67,7 @@ Geborene aus den [im?]gepf[???]ten Schaub: Lipp: Dorfschaften      Geborene aus 
 
 Translation
 
-```{code-block} text
+ doc-text
 
 156                                           1802 and 1803s                                     1802 and 1803                       157
 Births in the [ministered-to?] Schaumb[urg] Lippe villages               Births in the [ministered-to?] Schaumburg Lippe villages
