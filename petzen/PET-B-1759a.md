@@ -43,20 +43,15 @@ The baptism of Ilse Margaretha Krückeberg is on {ref}`image 200, right page, fi
 
 Transliteration
 
-```{code-block} text
-1759                  Getaufte
-
-On 16 September, Ilse Margaretha Krückeberg,
-daughter of Johan Henrich Krückeberg of Berenbusch,
-was baptized. Sponsors: three young unmarried women:
-Wiese, Engelking, and [third name omitted in the original].
+```{div} doc-text
+d 16t Sept. Ilse Margaretha Krückebergs
+des Johann Henirch Krückebergs zu Bernbusch
+Tochter getauft. Gav. 3 Mädgens Wiese, Engelking, and [third name omitted in the original].
 ```
 
 Translation
 
-```{code-block} text
-1759                  Baptized
-
+```{div} doc-text
 16 Sept. Ilse Margaretha Krückeberg,
 daughter of Johan Henrich Krückeberg at Berenbusch,
 baptized. Sponsors: 3 maidens: Wiese, Engelking, and ...
