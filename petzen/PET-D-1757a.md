@@ -35,19 +35,15 @@ Gestorbenen, 1641-1784".
 
 Transliteration
 
-```{code-block} text
-
-1757             Begraben
-d 28t Jan. Louisa Eleonore Krückebergs
+```{div} doc-text
+d 28t Jan. Louisa Eleonore Krückebergs\
       des Krückebergs zu Berenbusch blind geb. Tochter begr. 10 [Jahre]
 ```
 
 Translation
 
-```{code-block} text
-
-1757             Begraben
-d 28th Jan. Louisa Eleonore Krückeberg
+```{div} doc-text
+d 28th Jan. Louisa Eleonore Krückeberg\
   the born-blind daughter of the Krückebergs at Berenbusch [was] buried 10 [years old?]
 ```
 
