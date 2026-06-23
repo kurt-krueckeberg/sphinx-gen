@@ -33,10 +33,7 @@ No page number is written on this page.
 
 Transliteration
 
-```{code-block} text
-
-                     Confirmati 1757
-
+```{div} text
 Johann Heinrich Monchhof (Pühlsmeier[Pichtsmeier]) aus Evesen
 
 Anton Wilhelm Stahlhut aus Röcke
@@ -51,9 +48,6 @@ Johan Heinrich Krückeberg aus Bernbusch
 Translation
 
 ```{code-block} text
-
-                     Confirmed 1757
-
 Johan Henrich Monchhof, living on or associated with the Pichtsmeier farm, from Evesen
 
 Anton Wilhelm Stahlhut from Röcke
