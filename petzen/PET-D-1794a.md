@@ -22,7 +22,7 @@
 ## Record
 
 The burial of Friderich Wilhelm Krückeberg-Croemer, on May 29 1794, is on
-{ref}`page 485 <PET-D-1794a>` entry 16, of Petzen "Verzeichnis der Getauften,
+{doc}`page 485 <PET-D-1794a>` entry 16, of Petzen "Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ```{important}

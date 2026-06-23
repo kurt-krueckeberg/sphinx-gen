@@ -2,7 +2,7 @@
 
 ## Record
 
-The baptism of Henrich Bleecke is on {ref}`image 117 <PET-B-1710a>`, left-hand
+The baptism of Henrich Bleecke is on {doc}`image 117 <PET-B-1710a>`, left-hand
 page, 3nd entry from the top, of the Petzen "Verzeichnis der Getauften
 und Konfirmierten 1641-1784".
 

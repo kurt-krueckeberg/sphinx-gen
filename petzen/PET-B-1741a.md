@@ -17,7 +17,7 @@ The baptism of Sophia Maria Krückeberg occurred on December 27th 1741.
 
 ## Record
 
-The baptism entry is found on {ref}`image 163 <PET-B-1741a>`. It is the third to last entry near the bottom
+The baptism entry is found on {doc}`image 163 <PET-B-1741a>`. It is the third to last entry near the bottom
 of the left-hand page (the pages are unnumbered). It is the last entry in December of 1741, The year
 **1741** appears two pages previous.
 

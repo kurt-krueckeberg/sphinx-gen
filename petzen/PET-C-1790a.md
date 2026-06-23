@@ -3,7 +3,7 @@
 ## Record
 
 The confirmation of Friderich Wilhelm Weiland, in 1790, on Quasimodogeniti
-(the 1st Sunday After Easter), is found on {ref}`ANNO 1790 entry
+(the 1st Sunday After Easter), is found on {doc}`ANNO 1790 entry
 8 <PET-C-1790a>` of Petzen Kirchenbuch volume Verzeichnis der Getauften, Konfirmierten,
 Getrauten und Gestorbenden 1785-1827.
 

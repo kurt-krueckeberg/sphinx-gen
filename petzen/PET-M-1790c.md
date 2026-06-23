@@ -37,7 +37,7 @@
 
 On 12 October 1790, Jobst Heinrich Krückeberg, a cobbler from Berenbusch No
 10, married Philippine Christine Eleonore Tegtmeyern from Meissen No 4.
-The marriage is recorded on the {ref}`5 image, page 5, entry 13 <PET-M-1790c>`
+The marriage is recorded on the {doc}`5 image, page 5, entry 13 <PET-M-1790c>`
 of the Petzen Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten,
 Getrauten und Gestorbenen 1785-1827".
 

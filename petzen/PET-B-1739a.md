@@ -17,7 +17,7 @@
 
 The baptism of a Johann Wilhelm Krückeberg occurred February 11th 1739.
 
-The baptism entry is found on {ref}`image 157 <PET-B-1739a>`. It is the last
+The baptism entry is found on {doc}`image 157 <PET-B-1739a>`. It is the last
 entry at the bottom of the right-hand page (the pages are unnumbered). The
 year 1739 appears in the middle of the right page.
 

@@ -3,7 +3,7 @@
 ## Record
 
 This is the baptism record of Henrich Wilhelm Bleeke is found on
-{ref}`image 191 <PET-B-1755d>`, the right page, 3rd entry from top, of the
+[image 191](PET-B-1755d.md), the right page, 3rd entry from top, of the
 "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784".
 
 ## Baptism Record
