@@ -28,7 +28,7 @@ No page number is written on this page.
 ### Citation
 
 - Sophie Maria Krückeberg from Berenbush
-  Her confirmation entry is on the [310th image, page 17,](image310-left) of "database with images".
+  Her confirmation entry is on the [310th image, page 17](image310-left), of "database with images".
 It is the fifth entry for the year 1757 on page 18 (whose page number is in the lower left hand of the page).
 
 ## Johann Heinrich Krückeberg Confirmation 1757
