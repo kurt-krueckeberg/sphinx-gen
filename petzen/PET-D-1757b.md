@@ -30,20 +30,14 @@ The May 8, 1757, burial of Anna Maria Krückeberg from Berenbusch appears on {re
 
 Transliteration
 
-```{code-block} text
-
-1757             Begraben
-d 8t Maii Anna Maria Krückebergs
-      aus Berenbusch begraben alt 56 Jarhe
+```{div} doc-text
+d 8t Maii Anna Maria Krückebergs aus Berenbusch begraben alt 56 Jarhe
 ```
 
 Translation
 
-```{code-block} text
-
-1757             Begraben
-the 8th May Anna Maria Krückeberg
-      from Berenbusch [was] buried age 56 years
+```{div} doc-text
+the 8th May Anna Maria Krückeberg from Berenbusch [was] buried age 56 years
 ```
 
 ## Citation
