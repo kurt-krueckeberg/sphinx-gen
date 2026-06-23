@@ -27,7 +27,7 @@ their child is born.
 
 Transliteration
 
- doc-text
+```{code-block} text
 
          Getaufte                         1775
 [first entry, which continues from prior page, omitted]
@@ -69,7 +69,7 @@ was born his daughter, who was baptized."**
 
 Translation
 
- doc-text
+```{code-block} text
 
 7) On the 7th of February, Anna Philippina Maria, the daughter born to
 Heinrich Wilhelm Bleken of Evesen by his wife Anna Philippina, née

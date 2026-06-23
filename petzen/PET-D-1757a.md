@@ -35,7 +35,7 @@ Gestorbenen, 1641-1784".
 
 Transliteration
 
- doc-text
+```{code-block} text
 
 1757             Begraben
 d 28t Jan. Louisa Eleonore Krückebergs
@@ -44,7 +44,7 @@ d 28t Jan. Louisa Eleonore Krückebergs
 
 Translation
 
- doc-text
+```{code-block} text
 
 1757             Begraben
 d 28th Jan. Louisa Eleonore Krückeberg

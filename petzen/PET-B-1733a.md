@@ -31,14 +31,14 @@ der Getauften und Konfirmierten 1641-1784" on [Archion.de](https://www.archion.d
 
 Transliteration
 
-```{div} doc-text
+```{code-block} text
 d 6th Septembr ist Johann Hinrich Krückeberg im Berenbusch Söhnlein Jobst Hinrich getrauft.\
 Gevatter der Schäfer Vahlsing aus [E]versen
 ```
 
 Translation
 
-```{div} doc-text
+```{code-block} text
 On the 6th of September, Johann Hinrich Krückeberg in Berenbusch had his
 little son Jobst Hinrich baptized, and the godfather was the shepherd
 Vahlsing from Eversen

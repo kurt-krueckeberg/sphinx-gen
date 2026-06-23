@@ -18,7 +18,7 @@ on [Archion.de](https://archion.de).
 
 Transliteration
 
-```{div} doc-text
+```{code-block} text
 d 17t Julii Heinrich Bleken in Evesen Sohn getauft namens Johann Heinrich.
 Gavatter Hans Heinrich [Meyer] aus Nordholz, Johan Friedrich Hartman aus
 Evesen und Jobst Heinrich Fahlsing aus Evesen.
@@ -26,7 +26,7 @@ Evesen und Jobst Heinrich Fahlsing aus Evesen.
 
 Translation
 
-```{div} doc-text
+```{code-block} text
 The 17tj July Heinrich Bleken in Evesen son baptized named Johann Heinrich.
 Sponsors: Hans Heinrich [Meyer] from Nordholz, Johan Friedrich Hartman from
 Evesen and Jobst Heinrich Fahlsing from Evesen.

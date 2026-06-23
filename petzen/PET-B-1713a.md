@@ -12,7 +12,7 @@ The baptism of Catherina Margarethe Bleeck  is found on image
 
 Transliteration
 
-```{div} doc-text
+```{code-block} text
 den 21. January hatt Henrich Bleeck auß Eversen eine Tochter taufft lassen\
 so Catharina Margaretha genandt und [sein/sind] die Gevatterinnen [gew???]\
 Vaters Schwester auß Meißen und der Mutters Schwester aus Evesen

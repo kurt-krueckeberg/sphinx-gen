@@ -20,7 +20,7 @@ Image 191, on page 407, shows Carl Friedrich Gottlieb Kruckeberg’s confirmatio
 
 Transliteration
 
- doc-text
+```{code-block} text
 
                                                        407
 
@@ -34,7 +34,7 @@ Transliteration
 
 Translation
 
- doc-text
+```{code-block} text
 
                                                        407
                Confirmed

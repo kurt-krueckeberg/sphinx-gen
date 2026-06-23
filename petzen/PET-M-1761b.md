@@ -37,7 +37,7 @@ Petzen " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
 Transliteration
 
- doc-text
+```{code-block} text
 d. 28ten Juni Friedrich Wilhelm Weiland aus Ephesen [Evesen]
    bei der Sandkuhle mit Anna Ilsabei Deierbergs
      aus Ephesen [Evesen]
@@ -45,7 +45,7 @@ d. 28ten Juni Friedrich Wilhelm Weiland aus Ephesen [Evesen]
 
 Translation
 
- doc-text
+```{code-block} text
 the 28th June Friedrich Wilhelm Weiland from Ephesen
    by the sand hallow[pit] with Anna Ilsabei Deierbergs
      from Ephesen

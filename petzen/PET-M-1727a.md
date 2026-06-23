@@ -37,13 +37,13 @@ Petzen " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
 Transliteration
 
-```{div} doc-text
+```{code-block} text
 den 28ten Septemb ist Johann Henrich Krückeberg aus Berenbsuch mit Anna Maria Vahlsings aus Evesen copuliet
 ```
 
 Translation
 
-```{div} doc-text
+```{code-block} text
 the 28th Sept. Johann Henrich Krückeberg from Berenbsuch was married to Anna Maria Vahlsings from Evesen
 ```
 

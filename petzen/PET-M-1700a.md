@@ -15,7 +15,7 @@ Anna Elisabeth Becker is on {ref}`image 25 <image25>` of the Petzen
 
 Transliteration
 
- doc-text
+```{code-block} text
 
 Heinrich Arndt Vahlsing [Sheper] [aus] dem Höckersau und [Anna]
 Elisabeth B[ecker?] aus [Höckersau?] den 23 Sept copuliert
@@ -23,7 +23,7 @@ Elisabeth B[ecker?] aus [Höckersau?] den 23 Sept copuliert
 
 Translation
 
- doc-text
+```{code-block} text
 
 Heinrich Arndt Vahlsing [Sheper] [aus] Höckersau und [Anna]
 Elisabeth B[ecker?] aus [Höckersau?] den 23 Sept copuliert

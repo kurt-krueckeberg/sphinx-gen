@@ -46,7 +46,7 @@ are unnumbered), of the Petzen "Verzeichnis der Getrauten und Gestorbenen, 1641-
 
 Transliteration
 
- doc-text
+```{code-block} text
 
            ANNO 1773
 
@@ -65,7 +65,7 @@ ended with either an appended **"n"** or **"s"**.
 
 Translation
 
- doc-text
+```{code-block} text
 
           ANNO 1773
 

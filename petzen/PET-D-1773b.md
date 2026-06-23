@@ -42,7 +42,7 @@ appears on {ref}`image 210 <PET-D-1773b>`, on the right-hand page of the Petzen 
 
 Transliteration
 
- doc-text
+```{code-block} text
 
           Begraben                            1773
 
@@ -54,7 +54,7 @@ d 29ten Aug ist hierselbst beerdigt Anna Christina
 
 Translation
 
- doc-text
+```{code-block} text
 
         Burial                                1773
 

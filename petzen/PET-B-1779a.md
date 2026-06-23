@@ -13,7 +13,7 @@ Sophia Margaretha Weiland’s baptism is on {ref}`image 262, right page, entry n
 
 ## Transliteration and Translation
 
- doc-text
+```{code-block} text
 
 5) 31ten Jan: ist getrafut Sophia Margaretha Weilands
     des Friederich Wilhelm Weilands aus Evesen No 20
@@ -22,7 +22,7 @@ Sophia Margaretha Weiland’s baptism is on {ref}`image 262, right page, entry n
     rine Margaretha Korfen aus Nammen
 ```
 
- doc-text
+```{code-block} text
 
 5) 31th Jan: Sophia Margaretha was baptism the begotten
     daughter of Friederich Wilhelm Weilands from Evesen No 20

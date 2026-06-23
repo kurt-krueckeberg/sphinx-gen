@@ -30,7 +30,7 @@ The May 8, 1757, burial of Anna Maria Krückeberg from Berenbusch appears on {re
 
 Transliteration
 
- doc-text
+```{code-block} text
 
 1757             Begraben
 d 8t Maii Anna Maria Krückebergs
@@ -39,7 +39,7 @@ d 8t Maii Anna Maria Krückebergs
 
 Translation
 
- doc-text
+```{code-block} text
 
 1757             Begraben
 the 8th May Anna Maria Krückeberg

@@ -19,7 +19,7 @@ The baptismal record is below.
 
 Transliteration
 
- doc-text
+```{code-block} text
 
 43)  d. 17t Decembr ist getaufft An̄a Ilsa Margaretha Blecken des Johann
      Heinrich Bleken aus Evesen No 11 mit seiner Ehefrau Ilse Margarethe
@@ -30,7 +30,7 @@ Transliteration
 
 Translation
 
- doc-text
+```{code-block} text
 
 On the 17th of December Anna Ilsa Margaretha Blecken, the begotton daughter
 of Johann Heinrich Bleken from Evesen No. 11, by his wife Ilsee Margarethe

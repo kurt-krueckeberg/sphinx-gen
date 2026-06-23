@@ -16,7 +16,7 @@ Getauften und Konfirmierten 1641-1784".
 
 Transliteration
 
-```{div} doc-text
+```{code-block} text
 den 17 Decembr ist Heinrich Bleeck aus Evesen Töchterl[ein]. Sophia
 Margaretha getauft gevattet ist gewesen die [j]unge Sandersche aus
 Berenbusch
@@ -24,7 +24,7 @@ Berenbusch
 
 Translation
 
-```{div} doc-text
+```{code-block} text
 On 17 Decembr Sophia Margarethe, the little daugher of Heinrich Bleeck from
 Evesen, was baptized. Godmother was the [young] Sandersche from Berenbusch
 ```

@@ -47,7 +47,7 @@ Page 485, entry 16:
 
 Transliteration of page 485, entry 16
 
- doc-text
+```{code-block} text
 
 16) d 29 ist beerdigt Friderich Wilhelm Kruckeberg:Croemer des Johann
         Heinrich Krückebergs

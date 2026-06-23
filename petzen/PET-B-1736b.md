@@ -18,14 +18,14 @@ for 1737 begin to be listed.
 
 Transliteration
 
-```{div} doc-text
+```{code-block} text
 Octob d 7tn Weiland Soldat von Evesen ein Söhnliein: Hanß
 Heinrich. Gewatter Hardtung v. Evesen Schäfer. Weiland [M?]ön[ck]hof
 ```
 
 Translation
 
-```{div} doc-text
+```{code-block} text
 October 7th Soldier Weiland from Evesen a son: Hans
 Heinrich. Godfater Hardtung from Evesen shepherd. Weiland [M?]ön[ck]hof
 ```

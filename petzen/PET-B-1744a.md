@@ -48,7 +48,7 @@ for *benennen*, "to name somebody or something after, or for".
 
 Transliteration (See NOTE below)
 
-```{div} doc-text
+```{code-block} text
 Anno 1744
 
 [First three entries from 1744 ommitted...]
@@ -68,7 +68,7 @@ that begin before the word 'Sohn'
 
 Translation
 
-```{div} doc-text
+```{code-block} text
 In the year 1744
 
 [First three entries from 1744 ommitted...]

@@ -34,7 +34,7 @@ Quadimodogeniti (the 1st Sunday After Easter), 1816.
 
 Transliteration of Header
 
- doc-text
+```{code-block} text
 
 446
                 Verzeichnis
@@ -45,7 +45,7 @@ Knaben
 
 Translation of Header
 
- doc-text
+```{code-block} text
 
 446
                 Register
@@ -64,7 +64,7 @@ Sophie Wilhelmine Krückeberg is the 9th Mädchen (girl) listed onm page 446.
 
 Transliteration of Entries 8, 9 and 10
 
- doc-text
+```{code-block} text
 
  8. Caroline Ernestine Louise Ahldags. Evesen n. 1
  9. Sophie Wilhelmine Krückebergs. Bärenbusch n. 10

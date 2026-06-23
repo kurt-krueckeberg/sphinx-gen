@@ -12,13 +12,13 @@ The baptism of Jobst Heinrich Weiland is on {ref}`image 199, left page, first en
 
 ## Transliteration and Translation
 
- doc-text
+```{code-block} text
 d 10 Dec. Jobst Heinrich Weiland
    des Einlieger Ludowig Weiland zu Evesen Sohn
    getauft. Gev Jobst [pHen.] Weiland Sander zu Bernb[abbreviation]
 ```
 
- doc-text
+```{code-block} text
 d 10 Dec. Jobst Heinrich Weiland
    des Einlieger Ludowig Weiland zu Evesen Sohn
    getauft. Gev Jobst [Hen.] Weiland, Sander at Berenb[abbreviation

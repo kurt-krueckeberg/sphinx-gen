@@ -55,7 +55,7 @@ the left or right pages.
 
 Transliteration of 1782 Baptsim of Johanna Sophie Charolotte Krückeberg
 
- doc-text
+```{code-block} text
 
 1781,1782      Getaufte
 
@@ -83,7 +83,7 @@ it appears as **au**, **Höckersau**.
 
 Translation
 
- doc-text
+```{code-block} text
 
 1781,1782      Baptisms
 2) on Jan 13th [of 1782] Johanna Sophie Charlotte

@@ -30,7 +30,7 @@ The December 26, 1759, burial of Johan Henrich Krückeberg from Berenbusch appea
 
 Transliteration
 
- doc-text
+```{code-block} text
 
 1759             Begraben
 
@@ -40,7 +40,7 @@ d 26t Decemb. Johan Henrich Krückeberg
 
 Translation
 
- doc-text
+```{code-block} text
 
 1759             Burials
 

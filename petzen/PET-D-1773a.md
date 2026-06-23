@@ -42,7 +42,7 @@ appears on {ref}`image 210 <PET-D-1773a>`, on the right-hand page of the Petzen 
 
 Transliteration
 
- doc-text
+```{code-block} text
 
           Begraben                                                                 1773
 
@@ -52,7 +52,7 @@ d 27ten Aug ist des Johann Heinrich Krückebergs aus Beren-
 
 Translation
 
- doc-text
+```{code-block} text
 
         Burial                                                                     1773
 

@@ -17,7 +17,7 @@ Petzen "Verzeichnis der Getaufte und Confirmirte, 1641-1784"
 
 Transliteration adn Translation
 
- doc-text
+```{code-block} text
 18) d 27ten Jul: ist des Johan Christian Weilands Einlieger in
     Penzen mit seiner Ehefrau Christine Ilsabei
     geb Stediegen erzeugtes Söhnlein todtgeborhren
@@ -27,7 +27,7 @@ Transliteration adn Translation
 Isabein is a short form of Elisabeth
 ```
 
- doc-text
+```{code-block} text
 18) On 27th July the begotten little son of Johan Christian Weiland
     lodger in Penzen [likely meaning Petzen] and his wife Christine
     Ilsabei maiden name Stediege was stillborn

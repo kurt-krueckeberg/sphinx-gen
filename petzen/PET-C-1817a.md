@@ -24,7 +24,7 @@ known as **Sonntag Qadsimodogeniti**, appears on {doc}`image 211 <PET-C-1817a>`,
 
 Transliteration of Header
 
- doc-text
+```{code-block} text
 
                                                           447
                 Verzeichnis
@@ -35,7 +35,7 @@ Knaben
 
 Translation of Header
 
- doc-text
+```{code-block} text
 
                                                          447
                 Register
@@ -54,7 +54,7 @@ Christine Philippine Krückeberg is the 9th Mädchen (girl) listed.
 
 Transliteration of Mädchen Entries 5, 6 and 7
 
- doc-text
+```{code-block} text
 
 Mädchen
 

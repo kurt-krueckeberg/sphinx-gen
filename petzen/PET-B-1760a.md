@@ -47,7 +47,7 @@ der Getauften und Konfirmierten 1641-1784".
 
 Transliteration
 
- doc-text
+```{code-block} text
 
 d. 27ten Aug. Hans Henrich Wilharm
 des Friedrich Wilharms Sohn zu Berenbusch
@@ -57,7 +57,7 @@ getauft. Gev. Joh. Harm Hoff zu Petzen
 
 Translation
 
- doc-text
+```{code-block} text
 
 27 August.
 Hans Henrich Wilharm,

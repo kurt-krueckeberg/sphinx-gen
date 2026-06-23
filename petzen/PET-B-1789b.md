@@ -8,7 +8,7 @@
 
 ## Transliteration and Translation
 
- doc-text
+```{code-block} text
 
                                Getaufte(Baptized) 1789                      87
 19) d 24zen May: ist getauft Christina Maria Weilands
@@ -18,7 +18,7 @@
     Elisabeth Bornemans aus Evesen No. 7
 ```
 
- doc-text
+```{code-block} text
 
 19) d 24th May: Christina Maria Weilands was baptized
     the begotten daughter of Johann Heinrich Weiland

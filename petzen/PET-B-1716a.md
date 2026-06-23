@@ -16,7 +16,7 @@ Getauften und Konfirmierten 1641-1784".
 
 Transliteration
 
-```{div} doc-text
+```{code-block} text
 10 den 16 Junÿ ist Henrich Bleecke aus Evesen Töcherl[ein] Anna Engel
 getauft. Geb[Gev]. des Schäffers von der Höchersau Ehefrau
 ```
@@ -27,7 +27,7 @@ See [1775 Anna Ilsa Margaretha Blecken Baptism](PET-B-1775c.md) for an explanati
 
 Translation
 
-```{div} doc-text
+```{code-block} text
 10 16th June the infant daughter of Henrich Bleecke from Evesen Anna Engel
 was baptized. Godmother the wife of the shepherd of the Höchersau.
 ```

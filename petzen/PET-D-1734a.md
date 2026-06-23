@@ -68,7 +68,7 @@ alone.
 
 Transliteration
 
-```{div} doc-text
+```{code-block} text
 d 14t: Wilhelm Rödemeister ein Töchterlein
 von Rocke begrab[en] lasß\
 [H?] Krückeberg von Behrenbusch ein Töchter-
@@ -78,7 +78,7 @@ lein begrab lasß\
 
 Translation
 
-```{div} doc-text
+```{code-block} text
 On the 14th:
 Wilhelm Rödemeister from Rocke had a little daughter buried.
 

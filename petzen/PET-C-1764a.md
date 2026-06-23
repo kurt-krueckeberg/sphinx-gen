@@ -32,7 +32,7 @@ No page numbers are written on these confirmation entries.
 
 1764 Confirmation entry (no. 6) for Carl Krückeberg
 
- doc-text
+```{code-block} text
 
                   Confirmati 1764
 
@@ -52,7 +52,7 @@ Carl Krückeberg aus Berenbusch
 
 1764 Confirmation entry (no. 6) for Carl Krückeberg
 
- doc-text
+```{code-block} text
 
                   Confirmed 1764
 

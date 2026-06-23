@@ -16,7 +16,7 @@ Parish, 1641-1784".
 
 Transliteration
 
- doc-text
+```{code-block} text
 
 Anna [Elsbeÿ] Notmaÿer, mit [Kuckeberg/Kruckeberg] aus dem Bückeburg,
 unehelichs gezeugtes Söhnlein Hans Otto, getauft
@@ -30,7 +30,7 @@ Gevatter: Notmaÿer in Berenbusch.
 
 Translation
 
- doc-text
+```{code-block} text
 
 Anna Elisbeth Notmaier, with Kückeberg from Bückeburg,
 an illegitimately begotten little son named Hans Otto,

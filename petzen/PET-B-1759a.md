@@ -43,7 +43,7 @@ The baptism of Ilse Margaretha Krückeberg is on {ref}`image 200, right page, fi
 
 Transliteration
 
- doc-text
+```{code-block} text
 1759                  Getaufte
 
 On 16 September, Ilse Margaretha Krückeberg,
@@ -54,7 +54,7 @@ Wiese, Engelking, and [third name omitted in the original].
 
 Translation
 
- doc-text
+```{code-block} text
 1759                  Baptized
 
 16 Sept. Ilse Margaretha Krückeberg,

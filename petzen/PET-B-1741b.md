@@ -15,13 +15,13 @@ Getauften und Konfirmierten 1641-1784".
 
 ## Transliteration and Translation
 
- doc-text
+```{code-block} text
 
 21 dito Möller Vogd in [N./H.] ein Töchterlein taufen
 laßen Anna Catharina Gevattnen d Mutter [hies.] von Meissen
 ```
 
- doc-text
+```{code-block} text
 
 21 dito[meaning: October] Möller village official in [N./H.] a newborn
 little daugher was baptized [named] Anna Catharina Baptismal sponsor the

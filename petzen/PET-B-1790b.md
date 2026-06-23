@@ -12,7 +12,7 @@ Petzen is evidently spelled here as *Penzen*
 
 Transliteration
 
- doc-text
+```{code-block} text
 
 16) 5ten Mai: ist getauft Eleonore Louise Weilands
      des Jobst Heinrich Weilands Einlieger im Penzen[sic] No. 1
@@ -23,7 +23,7 @@ Transliteration
 
 Translation
 
- doc-text
+```{code-block} text
 
 16) 5th May: Eleonore Louise Weiland was baptized
      the begotten daughter of Jobst Heinrich Weiland, free agricultural

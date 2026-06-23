@@ -15,7 +15,7 @@ Konfirmierten 1641-1784".
 
 Transliteration
 
-```{div} doc-text
+```{code-block} text
 23 Eodem ist Henirch Bleeck aus Evesen Töchterlein Anna Ilhabe getauft\
 Gev. Daniel Bruns, [uncertain: Heinrich?] Hartmans aus Evesen, [uncertain]\
 Bleeck aus Meißen Ehefrauens
@@ -23,7 +23,7 @@ Bleeck aus Meißen Ehefrauens
 
 Translation
 
-```{div} doc-text
+```{code-block} text
 23 On the same day [9th October] was Henirch Bleeck[e]'s daughter from Evesen Anna Ilhabe getauft
 Godmothers. wives of Daniel Bruns, [uncertain] Hartmans aus Evesen, [uncertain]
 Bleeck from Meißen.

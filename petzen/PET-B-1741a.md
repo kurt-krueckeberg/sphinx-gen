@@ -37,7 +37,7 @@ Hökersau) represents the best educated guess.
 
 Transliteration
 
- doc-text
+```{code-block} text
 
 27t Kruekeberg in Behrenbusch ein Tochterlein Sophia
 Maria [genennet] von der Fr. Verwalterin Gaden
@@ -51,7 +51,7 @@ The month of December is written two entries above written as the abbreviation
 
 Translation
 
- doc-text
+```{code-block} text
 
 On 27th [December]: Kruekeberg in Behrenbusch,
 a little daughter named Sophia Maria.

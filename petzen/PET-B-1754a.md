@@ -14,13 +14,13 @@ Baptism and Confirmed of the Petzen Parish) 1641-1784".
 
 ## Transliteration and Translation
 
- doc-text
+```{code-block} text
 d 1ten Sept. Anna Maria Weilands +
 des Herman Heinrich Weiland jun. zu Evesen +
 Tochter getauft. Gev. Joh. Stedings Ehefrau.
 ```
 
- doc-text
+```{code-block} text
 
 On Sept 1st Anna Maria Weilands was baptized +
 the younger daughter of Herman Heinrich Weiland at Evesen +

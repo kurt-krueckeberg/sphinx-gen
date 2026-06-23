@@ -53,7 +53,7 @@ Petzen Parish, 1641-1784)".
 ```{note}
 A *Hofmeister* is defined in Thode’s German-English Genealogical Dictionary as:
 
- doc-text
+```{code-block} text
 
 "adminstrator of a manorial estate; child's tutor"
 ```
@@ -68,7 +68,7 @@ der Hockerers Aue".
 ```{note}
 The suffix "-au" or "-aue" in German place names comes from the Old High German word ouwa, which meant:
 
- doc-text
+```{code-block} text
 
 land near water, meadow, floodplain, or wetland. meaning:
 ```
@@ -82,17 +82,17 @@ In place names, -au / -aue usually indicates:
 
 🗺️ Examples:
 
- doc-text
+```{code-block} text
 
 Dessau - floodplain by the Mulde River
 ```
 
- doc-text
+```{code-block} text
 
 Schwarzaue - black meadow or lowland
 ```
 
- doc-text
+```{code-block} text
 
 Sennelager-Aue - meadow near Sennelager
 ```
@@ -111,7 +111,7 @@ baptism record it appears as **aue**, **Höckersaue**.
 
 Transliteration of 1779 Baptsim of Carl Friderich Gottlieb Kruckeberg
 
- doc-text
+```{code-block} text
 
 Getaufte                                                               1779
 
@@ -124,7 +124,7 @@ Getaufte                                                               1779
 
 Translation
 
- doc-text
+```{code-block} text
 
 Baptisms                                                                1779
 

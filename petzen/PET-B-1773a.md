@@ -43,7 +43,7 @@ The July 11, 1773, baptism record for Anna Philippine Maria Blecken appears on
 
 Transliteration
 
- doc-text
+```{code-block} text
 
 d 11t Jul: ist getaufft Anna Maria Philippina Blecken Johann Heinrich
 Blecken aus Evesen No. 11 mit seiner Ehefrau Anna Maria Elisabeth geb.
@@ -53,7 +53,7 @@ Christine Hartmans aus Evesen No. 9
 
 Translation
 
- doc-text
+```{code-block} text
 
 On the 11th of July, Anna Maria Philippina was baptized, the daughter of
 Johann Heinrich Blecken of Evesen no. 11 and his wife Anna Maria Elisabeth,

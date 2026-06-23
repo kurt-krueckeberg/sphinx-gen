@@ -31,7 +31,7 @@ Konfirmierten 1641-1784" available on the Protestant Kirchenbücher portal
 
 Transliteration
 
- doc-text
+```{code-block} text
 
 d 7t Octobr hat die h. Tauffe empfangen des Johann Heinrich
 Blecken aus Evesen No 11 mit seiner Ehefrau Anna
@@ -42,7 +42,7 @@ Kindes Vaters Brüdern.
 
 Translation
 
- doc-text
+```{code-block} text
 
 On the 7th of October, the holy baptism was received by the little son
 begotten by Johann Heinrich Bleken of Evesen no. 11 with his wife Anna

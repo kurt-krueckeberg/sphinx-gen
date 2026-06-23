@@ -18,7 +18,7 @@ The enhanced image is below:
 
 Transliteration
 
- doc-text
+```{code-block} text
 
 den 24 Junÿ Henrich Bleecke aus/auf der
 banstans/banstau ein Sohn tauft lassen

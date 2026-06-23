@@ -121,7 +121,7 @@ The marriage record is entry #8 on poages 736 and 737.
 
 Transliteration Header for pages 736 and 737
 
- doc-text
+```{code-block} text
 
 736            Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)               im Jahr (in the year) 1826                      737
 ```

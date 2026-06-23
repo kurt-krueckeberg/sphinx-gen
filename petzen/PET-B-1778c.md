@@ -15,7 +15,7 @@ Petzen "Verzeichnis der Getaufte und Confirmirte, 1641-1784"
 
 ## Transliteration and Translation
 
- doc-text
+```{code-block} text
 
 29) d. 4ten Octobr ist getaufft Sophia Eleonora Weilands
 des Johan Heinrich Weilands aus Evesen No 21 mit
@@ -24,7 +24,7 @@ erzeugte Tochter die Gevatterin war des
 Sickmeiers Ehefrau aus Evesen No 2.
 ```
 
- doc-text
+```{code-block} text
 
 29) On 4 October, Sophia Eleonora Weiland was baptized, the daughter
     begotten by Johann Heinrich Weiland of Evesen No. 21 with his wife

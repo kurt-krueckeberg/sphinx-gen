@@ -33,7 +33,7 @@ Getrauten und Gestorbenen, 1641-1784".
 
 ## Transliteration and Translation
 
- doc-text
+```{code-block} text
 
 1747           Begraben  [page heading]
 
@@ -44,7 +44,7 @@ d 5t Novemb. Johann Wilhelm Krückeberg
      Söhnlein begraben, alt 8 3/4 Jahr
 ```
 
- doc-text
+```{code-block} text
 
 1747           Burials
 

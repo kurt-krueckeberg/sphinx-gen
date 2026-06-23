@@ -43,7 +43,7 @@ Confirmed of the Petzen Parish, 1641-1784".
 
 Transliteration
 
- doc-text
+```{code-block} text
 
 d. 4[ten] Novemb. Carl Philip Krückeberg
 des Leineweber Kruckebergs zu Bernbusch Sohn
@@ -52,7 +52,7 @@ getauft: Gev[atter]. Fahlsings Sohn aus Eversen
 
 Translation
 
- doc-text
+```{code-block} text
 
 On the 4th of November, Carl Philip Krückeberg,
 son of the linen weaver Krückeberg of Bernbusch,

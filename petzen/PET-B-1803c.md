@@ -58,7 +58,7 @@ or religious?
 
 Transliteration of page header
 
- doc-text
+```{code-block} text
 
 158                                        1803                                  1803                                           159
     Geborene aus den [uncertain] Schumb Lipp  Dorfschaften             Geborene aus den im[rest uncertain] Schumb Lipp  Dorfschaften
@@ -66,7 +66,7 @@ Transliteration of page header
 
 Translation of page header
 
- doc-text
+```{code-block} text
 
 158                                        1803                                  1803                                           159
     Births from the [uncertain] Schaumburg-Lippe Villages               Births from the  [uncertain] Schaumburg-Lippe Villages

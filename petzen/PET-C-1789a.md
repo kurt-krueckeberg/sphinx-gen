@@ -31,7 +31,7 @@ listed as entry 10 among those confirmed in 1789:
 
 ## Transliteration and Translation
 
- doc-text
+```{code-block} text
 
                      Confirmati                                    405
 
@@ -44,7 +44,7 @@ listed as entry 10 among those confirmed in 1789:
 
 Translation
 
- doc-text
+```{code-block} text
 
                      Confirmed                                     405
 

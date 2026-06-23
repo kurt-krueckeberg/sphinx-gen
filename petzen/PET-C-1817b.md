@@ -33,7 +33,7 @@ entry 12, among the list of Mädchen (girls) confirmed.
 
 Transliteration of Header
 
- doc-text
+```{code-block} text
 
                                                           447
                 Verzeichnis
@@ -44,7 +44,7 @@ Knaben
 
 Translation of Header
 
- doc-text
+```{code-block} text
 
                                                          447
                 Register
@@ -55,7 +55,7 @@ Boys
 
 Transliteration of Mädchen (Girls) Entries 11-13
 
- doc-text
+```{code-block} text
 
 Mädchen
 

@@ -45,7 +45,7 @@ The baptism is on the bottom of the left-hand page, the pages being unnumbered.
 
 Transliteration
 
-```{div} doc-text
+```{code-block} text
 d. 26 Oct. Anna Louisa Eleonore Krückebergs getauft\
 Pater _ _ _ Krückeberg aus Berenbusch Gevatter Rödenbecks
 Tochter aus Scheye
@@ -57,7 +57,7 @@ The village **Scheye** below is the same as [Scheie](https://www.meyersgaz.org/p
 
 Translation
 
-```{div} doc-text
+```{code-block} text
 26 Oct. Anna Louisa Eleonore Krückebergs baptized\
 Father _ _ _ Krückeberg aus Berenbusch Godmother Rödenbeck's
 daughter from Scheye

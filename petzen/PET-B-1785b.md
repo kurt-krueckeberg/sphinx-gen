@@ -15,14 +15,14 @@ The stillborn son of Johann Heinrich Weiland’s is on image 34
 
 ## Transliteration and Translation
 
- doc-text
+```{code-block} text
 38) d[ate] 23ten Septbr: ist des Johann Heinrich Weilands aus Evesen 
 No 21 mit seiner Ehefrau Catherine Elisabeth 
 geb. Barnemanns erzeugter Sohn Todt[archaic form of Tod] 
 auf die Welt gekommen
 ```
 
- doc-text
+```{code-block} text
 38) On 23th Sept: the begotten son of Johann Heinrich Weilands from Evesen 
 No 21 and his wife Katheine Elisabeth 
 born Bornemann came into the world dead.
