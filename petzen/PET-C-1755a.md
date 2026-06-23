@@ -31,8 +31,7 @@ No page numbers are written on these pages.
 
 Transliteration of last four entries on left-hand page
 
-```{code-block} text
-
+```{div} doc-text
                    Confirmati 1755
 
 Anna Ilse Margarethe Harmenings Röcke
@@ -43,8 +42,7 @@ Charlotte Dieckmans (Einliegers) Röcke
 
 Translation of last four entries on left-hand page
 
-```{code-block} text
-
+```{div} doc-text
                    Confirmed 1755
 
 Anna Ilse Margarethe Harmenings Röcke
