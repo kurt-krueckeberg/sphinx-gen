@@ -36,20 +36,16 @@ the right-hand page, of the Petzen " Verzeichnis der Getrauten und Gestorbenen 1
 
 Transliteration
 
-```{code-block} text
-
-d. 29t Januarii Johan Henr[ich]. Krückeberg
-     aus Berenbusch mit Ilse Margarethe
-     Röseners aus Evesen copuliert
+```{div} doc-text
+d. 29t Januarii Johan Henr[ich]. Krückeberg aus Berenbusch mit Ilse
+Margarethe Röseners aus Evesen copuliert
 ```
 
 Translation
 
-```{code-block} text
-
-The 29th January was Johan Henr[ich] Krückeberg
-     from Berenbusch married to Ilse Margarethe
-     Rösener from Evesen
+```{div} doc-text
+The 29th January was Johan Henr[ich] Krückeberg from Berenbusch married to
+Ilse Margarethe Rösener from Evesen
 ```
 
 ## Citation
