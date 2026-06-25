@@ -3,6 +3,7 @@
   background: inherit !important;
   background-color: inherit !important;
 }
+
 /* Plain default for every table inside doc-text */
 .doc-text table,
 .doc-text table * {
