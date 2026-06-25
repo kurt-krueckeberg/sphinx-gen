@@ -11,13 +11,11 @@
   - Bernbusch
 ```
 
-## Record
+## Confirmation Record 
 
 The confirmation is the penultimate entry on {ref}`image 313 <PET-C-1755a>`, on the left page
 (the pages are unnumbered) of the Petzen Kirchenbuch "Verzeichnis der Getauften und Konfirmierten
 1641-1784".
-
-## Confirmation Image 
 
 ```{note}
 No page numbers are written on these pages.
@@ -32,22 +30,16 @@ No page numbers are written on these pages.
 Transliteration of last four entries on left-hand page
 
 ```{div} doc-text
-                   Confirmati 1755
-
-Anna Ilse Margarethe Harmenings Röcke
-Anna Elisabeth Röseners Röcke
-Sophie Maria Krückeberg aus Berenbusch
+Anna Elisabeth Röseners Röcke\
+Sophie Maria Krückeberg aus Berenbusch\
 Charlotte Dieckmans (Einliegers) Röcke
 ```
 
 Translation of last four entries on left-hand page
 
 ```{div} doc-text
-                   Confirmed 1755
-
-Anna Ilse Margarethe Harmenings Röcke
-Anna Elisabeth Röseners Röcke
-Sophie Maria Krückeberg from Berenbusch
+Anna Elisabeth Röseners Röcke\
+Sophie Maria Krückeberg from Berenbusch\
 Charlotte Dieckmans, daughter of an Einlieger, Röcke
 ```
 
