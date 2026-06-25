@@ -28,12 +28,10 @@ Sophie Marie Krückeberg [born in 1741](PET-B-1741a.md), whose [death record](PE
 states she was also born blind.
 ```
 
-## Record
+## Baptism Entry
 
 The baptism appears on {ref}`image 174 <PET-B-1746a>` at the bottom of the left-hand
 page of the Petzen Kirchenbuch "Verzeichnis der Getauften und Konfirmierten 1641-1784".
-
-## Baptism Entry
 
 The baptism is on the bottom of the left-hand page, the pages being unnumbered.
 
@@ -41,11 +39,9 @@ The baptism is on the bottom of the left-hand page, the pages being unnumbered.
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
-Transliteration
-
-```{code-block} text
+```{div} doc-text
 d. 26 Oct. Anna Louisa Eleonore Krückebergs getauft\
 Pater _ _ _ Krückeberg aus Berenbusch Gevatter Rödenbecks
 Tochter aus Scheye
@@ -55,9 +51,9 @@ Tochter aus Scheye
 The village **Scheye** below is the same as [Scheie](https://www.meyersgaz.org/place/20702058).
 ```
 
-Translation
+## Translation
 
-```{code-block} text
+```{div} doc-text
 26 Oct. Anna Louisa Eleonore Krückebergs baptized\
 Father _ _ _ Krückeberg aus Berenbusch Godmother Rödenbeck's
 daughter from Scheye

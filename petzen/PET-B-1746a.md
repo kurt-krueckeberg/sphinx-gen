@@ -1,32 +1,27 @@
 # 1746 Johann Heinrich Bleken Baptism
 
-## Family Relationship
-
-## Record
+## Baptism Entry
 
 The baptism appears on {ref}`image 173 <PET-B-1746a>` of the
 Petzen Kirchenbuch "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 on [Archion.de](https://archion.de).
 
-## Baptism Entry
 
 ```{figure} images/petzen-band1a-img173.jpg
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
-Transliteration
-
-```{code-block} text
+```{div} doc-text
 d 17t Julii Heinrich Bleken in Evesen Sohn getauft namens Johann Heinrich.
 Gavatter Hans Heinrich [Meyer] aus Nordholz, Johan Friedrich Hartman aus
 Evesen und Jobst Heinrich Fahlsing aus Evesen.
 ```
 
-Translation
+## Translation
 
-```{code-block} text
+```{div} doc-text
 The 17tj July Heinrich Bleken in Evesen son baptized named Johann Heinrich.
 Sponsors: Hans Heinrich [Meyer] from Nordholz, Johan Friedrich Hartman from
 Evesen and Jobst Heinrich Fahlsing from Evesen.
