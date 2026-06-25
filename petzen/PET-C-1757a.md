@@ -29,9 +29,7 @@ the Petzen Kirchenbuch "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 No page number is written on this page.
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration 
 
 ```{div} text
 Johann Heinrich Monchhof (Pühlsmeier[Pichtsmeier]) aus Evesen
@@ -45,7 +43,7 @@ Herman Heinrich Hermening aus Röcke
 Johan Heinrich Krückeberg aus Bernbusch
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Johan Henrich Monchhof, living on or associated with the Pichtsmeier farm, from Evesen
