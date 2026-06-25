@@ -38,8 +38,7 @@ Ernst Wilhelm Hartmann aus Röcke
 Ernst Pape aus Petzen
 
 Carl Klodthacke aus Pezen\
-`              Scheifer`
-Jobst Heinrich Hofmeier aus Evesen
+Jobst Heinrich <ruby>Hofmeier<rt style="font-size: 1em;">Scheifer</rt></ruby> aus Evesen
 
 Carl Pape aus Röcke
 
