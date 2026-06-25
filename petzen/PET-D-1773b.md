@@ -34,18 +34,15 @@ The August 29, 1773, burial of Anna Christina Kruckeberg, age 36, wife of Johann
 appears on {ref}`image 210 <PET-D-1773b>`, on the right-hand page of the Petzen "Verzeichnis der Getrauten und Gestorbenen,
 1641-1784".
 
-## Transliteration and Translation
+## Transliteration 
 
 ```{figure} images/petzen-band1b-img210.jpg
 :class: image-override
 ```
 
-Transliteration
+## Translation
 
-```{code-block} text
-
-          Begraben                            1773
-
+```{div} doc-text
 d 29ten Aug ist hierselbst beerdigt Anna Christina
         Kruckebergen des Johann Heinrich Krückebergs aus
         Berenbusch Ehefrau. Sie ist gestorben in
@@ -54,10 +51,7 @@ d 29ten Aug ist hierselbst beerdigt Anna Christina
 
 Translation
 
-```{code-block} text
-
-        Burial                                1773
-
+```{div} doc-text
 On  Aug 29th is here buried Anna Christina
         Kruckeberg, wife of Johann Heinrich Krückeberg from
         Berenbusch. She died from childbirth complications
