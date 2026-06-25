@@ -31,7 +31,8 @@ mentioned.
 
 ## Baptism Record
 
-The baptism entry is found on {ref}`image 167, year 1744, fourth entry for January <PET-B-1744a>`.
+The baptism entry is found on {ref}`image 167, year 1744, fourth entry for
+January <PET-B-1744a>`.
 
 ```{figure} images/petzen-band1a-img167.jpg
 :class: image-override
