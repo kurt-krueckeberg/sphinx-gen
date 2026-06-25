@@ -29,20 +29,14 @@ This confirmation entry is on the {ref}`320th image on Archion <PET-C-1781a>` of
 
 Transliteration
 
-```{code-block} text
-
-                    Confirmati ao 1781
-
-4. Johann Heinrich Krückeberg **********_ aus Berenbusch
+```{div} doc-text
+4. Johann Heinrich Krückeberg aus Berenbusch
 ```
 
 Translation
 
-```{code-block} text
-
-                    Confirmed year 1781
-
-4. Johann Heinrich Krückeberg **********_ from Berenbusch
+```{div} doc-text
+4. Johann Heinrich Krückeberg from Berenbusch
 ```
 
 ## Citation
