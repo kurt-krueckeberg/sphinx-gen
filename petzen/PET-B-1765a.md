@@ -55,30 +55,19 @@ Below is the image of the baptism record for Jobst Heinrich Krückeberg, who was
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration 
 
-page header transliteration:
-
-```{code-block} text
-
-1765                  Getaufte (Baptisms)
-```
-
-Transliteration
-
-```{code-block} text
-
-24 Mar[tz] Jobst Heinrich Krückeberg Johann Heinrich
-   Krückebergs aus Berenbusch ehelich Sohn getauft
+```{div} doc-text
+24 Mar[tz] Jobst Heinrich Krückeberg Johann Heinrich\
+   Krückebergs aus Berenbusch ehelich Sohn getauft\
    Gevatter war Rösener aus Evesen im kurzen Bruche
 ```
 
-Translation
+## Translation
 
-```{code-block} text
-
-24 March Jobst Heinrich Krückeberg legitimate son of Johann Heinrich
-   Krückeberg from Berenbusch baptized
+```{div} doc-text
+24 March Jobst Heinrich Krückeberg legitimate son of Johann Heinrich\
+   Krückeberg from Berenbusch baptized\
    Godfather was Rösener from Evesen in the "kurzen Bruche" [short marshland or thicket]
 ```
 
