@@ -38,9 +38,10 @@ The baptism entry is found on {ref}`image 167, year 1744, fourth entry for Janua
 ```
 
 ```{note}
-Due to the poor quality of the text, it is unclear word precedes "Johann Henrich". Is it the first of three given
-names? It is might be **benahmsen**, with **benahmsen** likely just another form of **benamsen**, colloquial
-for *benennen*, "to name somebody or something after, or for".
+Due to the poor quality of the text, it is unclear word precedes "Johann
+Henrich". Is it the first of three given names? It is might be
+**benahmsen**, with **benahmsen** likely just another form of **benamsen**,
+colloquial for *benennen*, "to name somebody or something after, or for".
 ```
 
 ## Transliteration 
