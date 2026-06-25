@@ -28,24 +28,18 @@ The December 26, 1759, burial of Johan Henrich Krückeberg from Berenbusch appea
 
 ## Transliteration and Translation
 
-Transliteration
+```{div} doc-text
+1759  Begraben
 
-```{code-block} text
-
-1759             Begraben
-
-d 26t Decemb. Johan Henrich Krückeberg
-      aus Berenbusch begraben alt 55 Jahre
+d 26t Decemb. Johan Henrich Krückeberg aus Berenbusch begraben alt 55 Jahre
 ```
 
 Translation
 
-```{code-block} text
+```{div} doc-text
+1759 Burials
 
-1759             Burials
-
-the 26th Decemb. Johan Henrich Krückeberg
-      from Berenbusch [was] buried age 55
+the 26th Decemb. Johan Henrich Krückeberg from Berenbusch [was] buried age 55
 ```
 
 ## Citation
