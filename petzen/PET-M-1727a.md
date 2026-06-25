@@ -21,29 +21,25 @@
   - Evesen
 ```
 
-## Record
+## Marriage Record
 
 The September 28, 1728, marriage of Johann Henrich Krückeberg to Anna Maria
 Vahlsing is on {ref}`image 36 <PET-M-1727a>`, the right-hand page, of the
 Petzen " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
-## Image of Marriage Record
-
 ```{figure} images/petzen-band1b-img36.jpg
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
-Transliteration
-
-```{code-block} text
+```{div} doc-text
 den 28ten Septemb ist Johann Henrich Krückeberg aus Berenbsuch mit Anna Maria Vahlsings aus Evesen copuliet
 ```
 
-Translation
+## Translation
 
-```{code-block} text
+```{div} doc-text
 the 28th Sept. Johann Henrich Krückeberg from Berenbsuch was married to Anna Maria Vahlsings from Evesen
 ```
 
