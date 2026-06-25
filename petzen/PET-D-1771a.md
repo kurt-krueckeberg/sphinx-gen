@@ -35,20 +35,14 @@ Getrauten und Gestorbenen, 1641-1784".
 
 Transliteration
 
-```{code-block} text
-
-          Begrabene                                                                 1773
-
+```{div} doc-text
 d 23  Jun. ist beigesetz[t] des Johann Heinrich Kruckeberg
       aus Berenbusch Todtgebohrens Knäblein
 ```
 
 Translation
 
-```{code-block} text
-
-          Burials                                                                  1773
-
+```{div} doc-text
 d 23  Jun. The stillborn little boy of Johann Heinrich Kruckeberg
       from Berenbusch was interred
 ```
