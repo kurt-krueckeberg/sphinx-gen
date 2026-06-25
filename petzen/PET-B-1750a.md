@@ -27,32 +27,28 @@ Is **Fahlsing's son from Evesen** Jobst Heinrich Vahlsing, who was the son of
 [Arend Heinrich Vahlsing’s](PET-M-1728a.md) (1670-1730)?
 ```
 
-## Record
+## Baptism Record
 
 The baptism of Carl Philip Krückeberg is on {ref}`image 180 <PET-B-1750a>`,
 right page, 3rd entry from the bottom, of the "Register of Baptism and
 Confirmed of the Petzen Parish, 1641-1784".
 
-## Baptism Record
-
 ```{figure} images/petzen-band1a-img180.jpg
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
-Transliteration
-
-```{code-block} text
+```{div} doc-text
 
 d. 4[ten] Novemb. Carl Philip Krückeberg
 des Leineweber Kruckebergs zu Bernbusch Sohn
 getauft: Gev[atter]. Fahlsings Sohn aus Eversen
 ```
 
-Translation
+## Translation
 
-```{code-block} text
+```{div} doc-text
 
 On the 4th of November, Carl Philip Krückeberg,
 son of the linen weaver Krückeberg of Bernbusch,
