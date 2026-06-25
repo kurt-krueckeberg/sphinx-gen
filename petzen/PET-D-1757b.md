@@ -15,26 +15,22 @@
   - May 8, 1757
 ```
 
-## Record
+## Burial Record
 
 The May 8, 1757, burial of Anna Maria Krückeberg from Berenbusch appears on {ref}`image 178 <PET-D-1757b>`, on the right-hand page, of the Petzen
 "Verzeichnis der Getrauten und Gestorbenen, 1641-1784".
-
-## Image of Burial Record
 
 ```{figure} images/petzen-band1b-img178-right.jpg
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 d 8t Maii Anna Maria Krückebergs aus Berenbusch begraben alt 56 Jarhe
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 the 8th May Anna Maria Krückeberg from Berenbusch [was] buried age 56 years

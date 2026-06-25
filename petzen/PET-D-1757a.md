@@ -18,29 +18,25 @@ This is prospectively [Anna Louisa Eleonore Kruekeberg who was born
   - Jan. 26, 1757
 ```
 
-## Record
+## Burial Record
 
 The January 16, 1757, burial of the born-blind Louisa Eleonore Krückeberg
 of the "Krückebergs at Berenbusch" appears on {ref}`image 178 <PET-D-1757a>`,
 on the left-hand page, of the Petzen "Verzeichnis der Getrauten und
 Gestorbenen, 1641-1784".
 
-## Image of Burial Record
-
 ```{figure} images/petzen-band1b-img178-left.jpg
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 d 28t Jan. Louisa Eleonore Krückebergs\
       des Krückebergs zu Berenbusch blind geb. Tochter begr. 10 [Jahre]
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 d 28th Jan. Louisa Eleonore Krückeberg\
