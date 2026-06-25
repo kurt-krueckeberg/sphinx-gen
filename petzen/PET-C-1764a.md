@@ -13,12 +13,10 @@
   - Berenbusch
 ```
 
-## Record
+## Confirmation Record
 
 The confirmation entry is on {ref}`image 313 <PET-C-1764a>`, the 6th entry for 1764, of the Petzen
 "Verzeichnis der Getauften und Konfirmierten 1641-1784".
-
-## Image of Confirmation Record
 
 ```{figure} images/petzen-band1a-img313.jpg
 :class: image-override
@@ -28,21 +26,19 @@ The confirmation entry is on {ref}`image 313 <PET-C-1764a>`, the 6th entry for 1
 No page numbers are written on these confirmation entries.
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 1764 Confirmation entry (no. 6) for Carl Krückeberg
 
-```{code-block} text
-
-                  Confirmati 1764
+```{div} doc-text
+Confirmati 1764
 
 Ernst Wilhelm Hartmann aus Röcke
 
 Ernst Pape aus Petzen
 
-Carl Klodthacke aus Petzen
-
-               Scheifer
+Carl Klodthacke aus Pezen\
+`              Scheifer`
 Jobst Heinrich Hofmeier aus Evesen
 
 Carl Pape aus Röcke
@@ -52,7 +48,7 @@ Carl Krückeberg aus Berenbusch
 
 1764 Confirmation entry (no. 6) for Carl Krückeberg
 
-```{code-block} text
+```{div} doc-text
 
                   Confirmed 1764
 
