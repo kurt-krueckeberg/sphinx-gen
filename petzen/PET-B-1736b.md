@@ -1,31 +1,28 @@
 # 1736 Hans Heinrich Weiland Baptism
 
-## Record
+## Baptism Record
 
 The baptism of Hand Heinrich Weiland is on {ref}`image 1153 <PET-B-1736b>`, left-hand page, third to last entry, of the
 "Verzeichnis der Getauften und Konfirmierten 1641-1784".
-
-## Baptism Record
-
-The enhanced image is below:
 
 ```{figure} images/petzen-band1a-img153-left-page-weiland.jpg
 :class: image-override
 ```
 
-The year **1736** appears on the previous image, image number 152, toward the bottom of the left-hand page, where the baptisms
-for 1737 begin to be listed.
+The year **1736** appears on the previous image, image number 152, toward
+the bottom of the left-hand page, where the baptisms for 1737 begin to be
+listed.
 
-Transliteration
+## Transliteration
 
-```{code-block} text
+```{div} doc-text
 Octob d 7tn Weiland Soldat von Evesen ein Söhnliein: Hanß
 Heinrich. Gewatter Hardtung v. Evesen Schäfer. Weiland [M?]ön[ck]hof
 ```
 
-Translation
+## Translation
 
-```{code-block} text
+```{div} doc-text
 October 7th Soldier Weiland from Evesen a son: Hans
 Heinrich. Godfater Hardtung from Evesen shepherd. Weiland [M?]ön[ck]hof
 ```

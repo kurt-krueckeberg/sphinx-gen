@@ -64,11 +64,9 @@ not used here, this Töchterlein was born alive but died in early childhood.
 Whether she was baptized cannot be told for certain from the burial entry
 alone.
 
-## Transliteration and Translation
+## Transliteration
 
-Transliteration
-
-```{code-block} text
+```{div} doc-text
 d 14t: Wilhelm Rödemeister ein Töchterlein
 von Rocke begrab[en] lasß\
 [H?] Krückeberg von Behrenbusch ein Töchter-
@@ -76,9 +74,9 @@ lein begrab lasß\
 [H?] Sieckmanns von Namen Töchterlein
 ```
 
-Translation
+## Translation
 
-```{code-block} text
+```{div} doc-text
 On the 14th:
 Wilhelm Rödemeister from Rocke had a little daughter buried.
 

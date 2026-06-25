@@ -21,7 +21,7 @@
 * - wife of soldier Weiland
 ```
 
-## Record
+## Baptism Record
 
 The baptism of a Dorothea Elisabeth Krückeberg occurred January 29th 1736.
 
@@ -29,7 +29,6 @@ The baptism entry is found on {ref}`image 152 <PET-B-1736a>`. It is the third en
 of the right-hand page (the pages being unnumbered). The year 1736 appears on the bottom
 entry of the prior page.
 
-## Baptism Record
 
 ```{figure} images/petzen-band1a-img152-krueckeberg.jpg
 :class: image-override
@@ -44,18 +43,16 @@ entry of the prior page.
 
 :::
 
-## Transliteration and Translation
+## Transliteration
 
-Transliteration
-
-```{code-block} text
+```{div} doc-text
 d[en] 29 dito Krückeberg v. [B. B.] ein Töchterl[ein] tauft lassen Dorothea
 Elisabeth Soldat Weilands Frau Gevatterin
 ```
 
-Translation
+## Translation
 
-```{code-block} text
+```{div} doc-text
 The 29 January Krückeberg v. [Berenbusch: see note] a little daughter was
 baptized Dorothea Elisabeth Soldier Weiland's wife godmother.
 ```
