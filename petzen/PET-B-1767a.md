@@ -43,10 +43,6 @@ The baptism of Johann Heinrich Wilhelm Krückeberg is on {ref}`image 220 <PET-B-
 
 ## Baptism Record
 
-```{figure} images/petzen-band1a-img220-overview.jpg
-:class: image-override
-```
-
 ```{figure} images/petzen-band1a-img220-left.jpg
 :class: image-override
 ```
@@ -58,15 +54,11 @@ entry: 5 July 1767.
 
 :::
 
-## Transliteration and Translation
+## Transliteration
 
 Transliteration
 
-```{code-block} text
-
-1776                  Getaufte
-
-
+```{div} doc-text
 Eodem) ist alhier getauft Johann Heinrich Kruckebergs aus
     Berenbusch mit seiner Ehefrau Anne Christine Elisabeth
     Seegers erzeugter Sohn und genant worden Johann
@@ -74,10 +66,9 @@ Eodem) ist alhier getauft Johann Heinrich Kruckebergs aus
     Heinrich Weiland aus Berenbusch.
 ```
 
-Translation
+## Translation
 
-```{code-block} text
-
+```{div} doc-text
 On the same day the son of Johann Heinrich Kruckeberg
  Berenbusch, by his wife Anne Christine Elisabeth
  Seegers, was baptized here and named Johann
