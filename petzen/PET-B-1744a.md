@@ -25,12 +25,11 @@
 
 The baptism of a Johann Henrich Krückeberg does not list the father’s given names
 nor does it list the locality where he was born. Berenbusch is not
-mentioned. This MIGHT be because there was only one Krückeberg family, the
-one in Berenbusch.
+mentioned. 
 
 :::
 
-## Image of Baptism Record
+## Baptism Record
 
 The baptism entry is found on {ref}`image 167, year 1744, fourth entry for January <PET-B-1744a>`.
 
@@ -44,11 +43,9 @@ names? It is might be **benahmsen**, with **benahmsen** likely just another form
 for *benennen*, "to name somebody or something after, or for".
 ```
 
-## Transliteration and Translation
+## Transliteration 
 
-Transliteration (See NOTE below)
-
-```{code-block} text
+```{div} doc-text
 Anno 1744
 
 [First three entries from 1744 ommitted...]
@@ -66,9 +63,9 @@ Sohn von Nordholtz.
 that begin before the word 'Sohn'
 ```
 
-Translation
+## Translation
 
-```{code-block} text
+```{div} doc-text
 In the year 1744
 
 [First three entries from 1744 ommitted...]
