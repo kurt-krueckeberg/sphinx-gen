@@ -29,21 +29,21 @@ This confirmation entry is on the {ref}`319th image <PET-C-1778a>`, entry #2, of
 
 Page Header and Confimation Entry no. 2 for Jobst Heinrich Krückeberg
 
-```{code-block} text
-
-                   Confirmati ao 1778 D. Quasimod:
+```{div} doc-text
+Confirmati ao 1778 D. Quasimod:
 
 [line 1 not translitered]
+
 2. Jobst Heinrich Krückeberg aus Berenbusch
 ```
 
 Page Header and Confimation Entry no. 2 for Jobst Heinrich Krückeberg
 
-```{code-block} text
-
-                   Confirmed year 1778 1st Sunday after Easter
+```{div} doc-text
+Confirmed year 1778 1st Sunday after Easter
 
 [Line 1 not transliterated]
+
 2. Jobst Heinrich Krückeberg from Berenbusch
 ```
 

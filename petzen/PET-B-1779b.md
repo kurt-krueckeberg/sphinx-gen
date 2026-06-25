@@ -50,7 +50,7 @@ Petzen Parish, 1641-1784)".
 
 :::{admonition} Meaning of Hofmeister and "au" Suffix in Höckersau
 
-```{note}
+````{note}
 A *Hofmeister* is defined in Thode’s German-English Genealogical Dictionary as:
 
 ```{code-block} text
@@ -63,7 +63,7 @@ Aue" also appears in image 274 in the baptism record of
 [Johanna Sophie Charlotte Kruckebergen](PET-B-1782a.md). Her
 godmother **Johanna Sophie Margedalenna Wilkeningen** is described as: "von
 der Hockerers Aue".
-```
+````
 
 ```{note}
 The suffix "-au" or "-aue" in German place names comes from the Old High German word ouwa, which meant:

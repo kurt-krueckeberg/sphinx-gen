@@ -47,7 +47,7 @@ Johan Heinrich Krückeberg aus Bernbusch
 
 Translation
 
-```{code-block} text
+```{div} doc-text
 Johan Henrich Monchhof, living on or associated with the Pichtsmeier farm, from Evesen
 
 Anton Wilhelm Stahlhut from Röcke
