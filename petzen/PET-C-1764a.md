@@ -33,35 +33,25 @@ No page numbers are written on these confirmation entries.
 ```{div} doc-text
 Confirmati 1764
 
-Ernst Wilhelm Hartmann aus Röcke
-
-Ernst Pape aus Petzen
-
+Ernst Wilhelm Hartmann aus Röcke\
+Ernst Pape aus Petzen\
 Carl Klodthacke aus Pezen\
-Jobst Heinrich <ruby>Hofmeier<rt style="font-size: 1em;">Scheifer</rt></ruby> aus Evesen
-
-Carl Pape aus Röcke
-
+Jobst Heinrich <ruby>Hofmeier<rt style="font-size: 1em;">Scheifer</rt></ruby> aus Evesen\
+Carl Pape aus Röcke\
 Carl Krückeberg aus Berenbusch
 ```
 
 1764 Confirmation entry (no. 6) for Carl Krückeberg
 
 ```{div} doc-text
+Confirmed 1764
 
-                  Confirmed 1764
-
-Ernst Wilhelm Hartmann from Röcke
-
-Ernst Pape from Petzen
-
-Carl Klodthacke from Petzen
-
-               Scheifer
-Jobst Heinrich Hofmeier from Evesen
-
-Carl Pape from Röcke
-
+Ernst Wilhelm Hartmann from Röcke\
+Ernst Pape from Petzen\
+Carl Klodthacke from Petzen\
+Carl Klodthacke aus Pezen\
+Jobst Heinrich <ruby>Hofmeier<rt style="font-size: 1em;">Scheifer</rt></ruby> from Evesen\
+Carl Pape from Röcke\
 Carl Krückeberg from Berenbusch
 ```
 
