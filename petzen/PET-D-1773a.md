@@ -38,26 +38,18 @@ appears on {ref}`image 210 <PET-D-1773a>`, on the right-hand page of the Petzen 
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
-Transliteration
-
-```{code-block} text
-
-          Begraben                                                                 1773
-
-d 27ten Aug ist des Johann Heinrich Krückebergs aus Beren-
-        busch no. 10 todtgebohrens Söhnlein beerdigt wurde
+```{div} doc-text
+d 27ten Aug ist des Johann Heinrich Krückebergs aus Berenbusch no. 10
+todtgebohrens Söhnlein beerdigt wurde
 ```
 
-Translation
+## Translation
 
-```{code-block} text
-
-        Burial                                                                     1773
-
+```{div} doc-text
 On  Aug[ust] 27 the stillborn son of Johann Heinrich Krückeberg from Berenbush
-    no. 10 was buried
+no. 10 was buried
 ```
 
 ## Citation
