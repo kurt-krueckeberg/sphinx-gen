@@ -35,7 +35,7 @@ property holders in Evesen, Berenbusch, Nordholz, and Rusbend in the
 context of the General Land Survey** done in 1743-1744.  and perhaps
 earlier.
 
-Aslo the document **Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg
+Also the document **Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg
 und Arensburg, mit Nummerierung der sämtlichen Häuser ("List of names of
 all Kolons of the offices of Bückeburg and Arensburg, with numbering of the
 all houses")** shows, {external+nla:doc}`on page 17 <140/page-17>`, us that in 1747
@@ -48,13 +48,12 @@ Johann Heinrich Krücekberg to question #1 at
 {external+nla:doc}`Records of the questioning of the individual rural property holders in Evesen, Berenbusch, Nordholz, and Rusbend in the context of the General Land Survey (land measurement). (1743-1744) <2741/index>`.
 ```
 
-## Record
+## Baptism Record
 
 The baptism entry is found on {ref}`image 140 <PET-B-1728a>`. It is labled **18**, and it is the
 18th birth and baptims in 1728. **Anno 1728** appears at the top of the prior
 page where the list of the baptisms for 1728 begin.
 
-## Baptism Record
 
 ```{figure} images/petzen-band1a-img140.jpg
 :class: image-override
@@ -78,19 +77,17 @@ Unlike the other baptism entries where the date appears first, the date of **7 J
 written above the father’s name, apparently the pastor forgot to start the entry with the date and had to insert it.
 ```
 
-## Transliteration and Translation
+## Transliteration
 
-Transliteration
-
-```{code-block} text
+```{div} doc-text
 18)  7 Julÿ ist Johann Heinrich Krückebergs aus Berenbusch Söhnlein Johann
 Friedrich getauft. Gevatter sind gewesen Johann Tönnies Eggerding und H
 Herman Wiese
 ```
 
-Translation
+## Translation
 
-```{code-block} text
+```{div} doc-text
 18) On 7 July The little son of Johann Heinrich Krückeberg from Berenbusch
 was baptized. Godfathers were Johann Tönnies Eggerding and H Herman Wiese
 ```
