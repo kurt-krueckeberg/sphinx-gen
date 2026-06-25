@@ -36,19 +36,16 @@ The November 7, 1773, marriage of Johann Heinrich Krükkeberg from Bernbusch to 
 née Schakel from Päpinghausen is on {doc}`image 61 <PET-M-1773a>`, the last entry on the left-hand page (the pages
 are unnumbered), of the Petzen "Verzeichnis der Getrauten und Gestorbenen, 1641-1784".
 
-## Image of Marriage Record
+## Marriage Record
 
 ```{figure} images/petzen-band1b-img61.jpg
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
-Transliteration
-
-```{code-block} text
-
-           ANNO 1773
+```{div} doc-text
+ANNO 1773
 
 1) [omitted]
 
@@ -63,11 +60,10 @@ this is a female’s surname. In the marriage records for this time period all t
 ended with either an appended **"n"** or **"s"**.
 ```
 
-Translation
+## Translation
 
-```{code-block} text
-
-          ANNO 1773
+```{div} doc-text
+ANNO 1773
 
 1) [omitted]
 
