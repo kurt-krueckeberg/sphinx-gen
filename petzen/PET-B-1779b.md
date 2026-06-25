@@ -61,8 +61,7 @@ godmother **Johanna Sophie Margedalenna Wilkeningen** is described as: "von
 der Hockerers Aue".
 
 The suffix "-au" or "-aue" in German place names comes from the Old High German word ouwa, which meant:
-
-> land near water, meadow, floodplain, or wetland. meaning:
+land near water, meadow, floodplain, or wetland.
 
 🟢 **Common meanings:**
 
@@ -73,11 +72,14 @@ In place names, -au / -aue usually indicates:
 
 🗺️ Examples:
 
-> Dessau - floodplain by the Mulde River
+Dessau 
+: floodplain by the Mulde River
 
-> Schwarzaue - black meadow or lowland
+Schwarzaue 
+: black meadow or lowland
 
-> Sennelager-Aue - meadow near Sennelager
+Sennelager-Aue 
+: meadow near Sennelager
 
 So, “Höckersau” likely meant something like “Höcker’s meadow/floodplain”, named after a person or family Höcker, or perhaps
 referencing a knoll or "hump" (Höcker) in the landscape.
