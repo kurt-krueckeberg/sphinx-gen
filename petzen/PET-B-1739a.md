@@ -13,7 +13,7 @@
   - Valsing
 ```
 
-## Record
+## Baptism Record
 
 The baptism of a Johann Wilhelm Krückeberg occurred February 11th 1739.
 
@@ -21,18 +21,14 @@ The baptism entry is found on {doc}`image 157 <PET-B-1739a>`. It is the last
 entry at the bottom of the right-hand page (the pages are unnumbered). The
 year 1739 appears in the middle of the right page.
 
-## Baptism Record
 
 ```{figure} images/petzen-band1a-img157-krueckeberg.jpg
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
-Transliteration
-
-```{code-block} text
-
+```{div} doc-text
 11 hÿ Krückeberg [in] [B. B.] ein Söhnl[ein] tauft
 lassen Johann Wilhelm [benamst?] [uncertain]
 [seina?] Gevatter Valsing
@@ -53,7 +49,7 @@ berenbusch abbreviation in the image is an abbreviation for it.
 
 Translation
 
-```{code-block} text
+```{div} doc-text
 
 On the 11th of this month [February] the Berenbusch Kruckeberg's little son was
 baptized [named] Johann Wilhelm [uncertain]
