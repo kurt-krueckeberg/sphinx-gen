@@ -31,7 +31,7 @@ No page number is written on this page.
 
 ## Transliteration 
 
-```{div} text
+```{div} doc-text
 Johann Heinrich Monchhof (Pühlsmeier[Pichtsmeier]) aus Evesen
 
 Anton Wilhelm Stahlhut aus Röcke
