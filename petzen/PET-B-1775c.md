@@ -1,13 +1,11 @@
 # 1775 Anna Ilsa Margaretha Blecken Baptism
 
-## Record
+## Baptism Record
 
 The December 17, 1775, baptism record for Anna Ilse Blecken appears on
 {ref}`image 247 <PET-B-1775c>`, on the right-hand page, entry #43, the third entry
 from the top, of the Petzen "Verzeichnis der Getauften und Konfirmierten
 1641-1784".
-
-## Baptism Record
 
 The baptismal record is below.
 
@@ -15,12 +13,11 @@ The baptismal record is below.
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 43)  d. 17t Decembr ist getaufft An̄a Ilsa Margaretha Blecken des Johann
      Heinrich Bleken aus Evesen No 11 mit seiner Ehefrau Ilse Margarethe
      Elisabeth geb. Möllern erzeugtes Töchterlein.  Die Gevatterinnen war
@@ -28,10 +25,9 @@ Transliteration
      + 4. Mai 1846
 ```
 
-Translation
+## Translation
 
-```{code-block} text
-
+```{div} doc-text
 On the 17th of December Anna Ilsa Margaretha Blecken, the begotton daughter
 of Johann Heinrich Bleken from Evesen No. 11, by his wife Ilsee Margarethe
 Elisabeth nee Möller, was baptized. The godmothers were Margaretha

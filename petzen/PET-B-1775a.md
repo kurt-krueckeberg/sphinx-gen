@@ -1,13 +1,11 @@
 # 1775 Anna Philippine Maria Blecken Baptism
 
-## Record
+## Baptism Record
 
 The baptism record for Anna Philippine Maria Blecken appears on
 {ref}`image 243 <PET-B-1775a>`, on the right-hand page, the first complete
 entry, of the Petzen "Verzeichnis der Getauften und Konfirmierten
 1641-1784".
-
-## Baptism Record
 
 :::{admonition} Marriage Required Approval
 
@@ -23,15 +21,9 @@ their child is born.
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
-Transliteration
-
-```{code-block} text
-
-         Getaufte                         1775
-[first entry, which continues from prior page, omitted]
-
+```{div} doc-text
 7) d 7t Febr. Anna Philippina Maria Bleken des
 Heinrich Wilhelm Bleken aus Evesen von seiner
 seit den 15ten Jan: āī huj: [= anno huius]
@@ -67,10 +59,9 @@ was born his daughter, who was baptized."**
 
 :::
 
-Translation
+## Translation
 
-```{code-block} text
-
+```{div} doc-text
 7) On the 7th of February, Anna Philippina Maria, the daughter born to
 Heinrich Wilhelm Bleken of Evesen by his wife Anna Philippina, née
 Rösener, who had been married to him since the 15th of January of this

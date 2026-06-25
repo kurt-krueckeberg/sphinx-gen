@@ -26,24 +26,19 @@
   - Berenbusch
 ```
 
-## Record
+## Baptism Record
 
 Anna Christina Maria Krückeberg’s baptism is on {ref}`image 246, right
 page, entry no. 10 <PET-B-1775b>` from the Petzen Kirchenbuch volume "Verzeichnis der
 Getauften und Konfirmierten, 1641-1784".
 
-## Image of Baptism
-
 ```{figure} images/petzen-band1a-img246.jpg
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
-```{code-block} text
-
-Getaufte                                                    1775
-
+```{div} doc-text
 10) d[en] 10ten Septembr ist getauft Anna Christina Maria Krückebergen
     Johann Heinrich Krückebergs aus Berenbusch mit seiner
     Ehefrau Anna Marie Elisabeth geb. Schekele erzeugte
@@ -51,10 +46,9 @@ Getaufte                                                    1775
     Berenbusch
 ```
 
-```{code-block} text
+## Trasnlation
 
-Baptisms                                                    1775
-
+```{div} doc-text
 10) On September 10th Anna Christina Maria Krückeberg was
     baptized, the begotton daughter of Johann Heinrich Krückeberg
     from Berenbusch, by his wife Marie Elisabeth born Schekele
