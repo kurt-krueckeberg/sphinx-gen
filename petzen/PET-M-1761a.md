@@ -32,27 +32,17 @@ the top, right-hand page, of the Petzen " Verzeichnis der Getrauten und Gestorbe
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration 
 
-Transliteration
-
-```{code-block} text
-
-d. 14ten Junii Johann Heinrich Krückeberg
-     aus Bernbusch mit Anne Christine Elisebet
+```{div} doc-text
+d. 14ten Junii Johann Heinrich Krückeberg aus Bernbusch mit Anne Christine Elisebet
      Seeger aus Evesen copuliert
 ```
 
-```{note}
-Berenbusch is spelled **Bernbusch** in this record.
-```
+## Translation
 
-Translation
-
-```{code-block} text
-
-The 14th June Johann Heinrich Krückeberg
-     from Bernbusch married Anne Christine Elisebet
+```{div} doc-text
+The 14th June Johann Heinrich Krückeberg from Bernbusch married Anne Christine Elisebet
      Seeger from Evesen
 ```
 
