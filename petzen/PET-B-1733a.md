@@ -27,18 +27,16 @@ The September 6th 1733 baptism of Jobst Hinrich Krückeberg, the son of Johann
 Hinrich Krückeberg Hinrich of Berenbusch, is on {ref}`image 149 <PET-B-1733a>` of the Petzen Kirchenbuch "Verzeichnis
 der Getauften und Konfirmierten 1641-1784" on [Archion.de](https://www.archion.de).
 
-## Transliteration and Translation
+## Transliteration
 
-Transliteration
-
-```{code-block} text
+```{div} doc-text
 d 6th Septembr ist Johann Hinrich Krückeberg im Berenbusch Söhnlein Jobst Hinrich getrauft.\
 Gevatter der Schäfer Vahlsing aus [E]versen
 ```
 
-Translation
+## Translation
 
-```{code-block} text
+```{div} doc-text
 On the 6th of September, Johann Hinrich Krückeberg in Berenbusch had his
 little son Jobst Hinrich baptized, and the godfather was the shepherd
 Vahlsing from Eversen
