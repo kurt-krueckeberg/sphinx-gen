@@ -15,19 +15,19 @@
 
 The baptism of Sophia Maria Krückeberg occurred on December 27th 1741.
 
-## Record
+## Baptism Record
 
-The baptism entry is found on {doc}`image 163 <PET-B-1741a>`. It is the third to last entry near the bottom
-of the left-hand page (the pages are unnumbered). It is the last entry in December of 1741, The year
-**1741** appears two pages previous.
+The baptism entry is found on {doc}`image 163 <PET-B-1741a>`. It is the
+third to last entry near the bottom of the left-hand page (the pages are
+unnumbered). It is the last entry in December of 1741, The year **1741**
+appears two pages previous.
 
-## Image of Baptism Record
 
 ```{figure} images/petzen-band1a-img163.jpg
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{note}
 The text is difficult to be certain of. **von der Fr. Verwalterin
@@ -35,24 +35,22 @@ Gaden zur Hökersau getaufft** (Baptized by Mrs. Gaden, the steward’s wife at
 Hökersau) represents the best educated guess.
 ```
 
-Transliteration
+## Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 27t Kruekeberg in Behrenbusch ein Tochterlein Sophia
 Maria [genennet] von der Fr. Verwalterin Gaden
 zur Hökersau getaufft.
 ```
 
 ```{note}
-The month of December is written two entries above written as the abbreviation
+The month of December is written two entries above, abbreviated as
 **Decemb**.
 ```
 
-Translation
+## Translation
 
-```{code-block} text
-
+```{div} doc-text
 On 27th [December]: Kruekeberg in Behrenbusch,
 a little daughter named Sophia Maria.
 Baptized by Mrs. Gaden, the steward’s wife at Hökersau
