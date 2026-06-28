@@ -32,6 +32,21 @@
   - Petzen
 ```
 
+```{important}
+Johann Heinrich Krückeberg, Leibzüchter of No. 10 Berenbusch, who died in
+Berenbusch on 21 March 1822 and was buried in Petzen on 24 March, may be
+identical with the xref:PET-B-1744a.adoc[Johann Henrich Krückeberg baptized
+in Petzen on 19 January 1744]. The identification is plausible because the
+names are essentially the same, because a child born or baptized in January
+1744 would have been exactly 78 years old in March 1822, and because the
+Petzen baptism is most plausible location for Berenbusch, where Krückebergs
+are already recorded in the Petzen church books by 1727. However, the death
+record does not state the decedent’s birth village, and it gives his age
+more precisely as 78 years, 2 months, and 3 weeks, which points to a birth
+around 31 December 1743; no corresponding December 1743 birth or baptism
+entry for a Johann Henrich Krückeberg has been found.
+```
+
 ```{list-table} Survivors’s Facts
 :header-rows: 1
 
@@ -69,18 +84,20 @@ The death of Johann Heinrich Krückeberg Death in 1822 is found on
 volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
 1785-1827".
 
-### Pages 652 and 653
-
-Page 652:
+*Page 652:*
 
 ```{figure} images/petzen-band2-img313-652.jpg
 :class: image-override
+
+Portion of death record at the bottom of page 652
 ```
 
-Page 653:
+*Page 653:*
 
 ```{figure} images/petzen-band2-img313-653.jpg
 :class: image-override
+
+Portion of death record at the top of page 653
 ```
 
 ## Transliteration and Translation of Pages 652 and 653
