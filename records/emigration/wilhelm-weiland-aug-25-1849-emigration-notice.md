@@ -33,7 +33,8 @@ column.
 ## Transliteration
 
 ```{div} doc-text
-Bückeburg. Der Colon Weiland No 20 in Evesen, welcher nach Amerika
+Bückeburg.\
+Der Colon Weiland No 20 in Evesen, welcher nach Amerika
 auszuwandern im Begriff steht, hat seine Stätte an den Colon Wöbling No 2
 daselbst verkauft und werden auf An- trag des erstern alle diejenigen,
 welche Forderungen an ihn haben, hierdurch aufgefordert, zur Anmeldung
@@ -53,7 +54,8 @@ Höcker. ᐧ König.
 ## Translation
 
 ```{div} doc-text
-Bückeburg. The Colon Weiland, No. 20 in Evesen, who is about to emigrate to
+Bückeburg.\
+The Colon Weiland, No. 20 in Evesen, who is about to emigrate to
 America, has sold his holding to the colonist Wöbling, No. 2 there.
 
 At the request of the former, all those who have claims against him are
