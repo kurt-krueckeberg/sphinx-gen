@@ -80,8 +80,8 @@ Schwarzaue
 Sennelager-Aue 
 : meadow near Sennelager
 
-So, “Höckersau” likely meant something like “Höcker’s meadow/floodplain”, named after a person or family Höcker, or perhaps
-referencing a knoll or "hump" (Höcker) in the landscape.
+So, “Höckersau” likely meant something like “Höcker’s meadow/floodplain”, named after a person or family
+Höcker, or perhaps referencing a knoll or "hump" (Höcker) in the landscape.
 
 In this entry **"au"** occurs as the suffix in **Höckersau**, while in the
 [1782 Johanna Sophie Charlotte Krückeberg](PET-B-1782a.md)
