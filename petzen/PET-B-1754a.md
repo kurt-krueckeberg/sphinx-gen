@@ -32,8 +32,7 @@ Godmother was Joh. Stedings wife.
 (PET-B-1754a)=
 
 "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([<https://www.archion.de/p/f25ea4a12b/>](https://www.archion.de/p/f25ea4a12b/)
-: 5 November 2023), path: Niedersachsen >
+with images, *Archion* (<https://www.archion.de/p/f25ea4a12b/> : 5 November 2023), path: Niedersachsen >
 Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und
 Konfirmierten 1641-1784, image 190 of 322
