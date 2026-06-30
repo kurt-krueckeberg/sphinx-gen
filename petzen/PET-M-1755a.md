@@ -26,7 +26,7 @@ d 29 April Henrich Ludow[ig] Weiland aus Evesen mit Anna Sophia Christina Stiema
 ## Translation
 
 ```{div} doc-text
-On 29 April Henrich Ludow[ig] Weiland from Evesen married Anna Sophia Christina Stiemans from Nammen
+On 29 April Henrich Ludowig Weiland from Evesen married Anna Sophia Christina Stiemans from Nammen
 ```
 
 
