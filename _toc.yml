@@ -235,9 +235,11 @@ chapters:
   - file: petzen/weiland
     sections:
       - file: petzen/PET-B-1736b
+      - file: petzen/PET-M-1746a
       - file: petzen/PET-B-1748a
       - file: petzen/PET-B-1754a
-      - file: petzen/PET-B-1754b
+      - file: petzen/PET-M-1755a
+      - file: petzen/PET-M-1755b
       - file: petzen/PET-B-1758a
       - file: petzen/PET-M-1761b
       - file: petzen/PET-B-1777a
