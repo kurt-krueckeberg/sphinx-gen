@@ -1,4 +1,4 @@
-# 1723 Henrich Weÿland Baptism 
+# 1723 Herman Henrich Weÿland Baptism 
 
 ## Record
 
@@ -14,14 +14,14 @@ of the "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 Transliteration
 
 ```{div} doc-text
-7 d 19 Martÿ ist Herman Henirch Weÿland aus Evesen Söhnl[ein].
+7 d 19 Martÿ ist Herman Henirch Weÿland aus Evesen Söhnl[ein]. Herman
 Henrich getauft. Gev. Derberg von Evesen.
 ```
 
 Translationn
 
 ```{div} doc-text
-7) On 19 March, Henrich, son of Herman Henrich Weÿland of Evesen,
+7) On 19 March, Herman Henrich, son of Herman Henrich Weÿland of Evesen,
    was baptized. The godfather was Derberg of Evesen.
 ```
 
