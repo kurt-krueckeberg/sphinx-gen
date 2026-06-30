@@ -7,7 +7,7 @@ page, first entry <PET-B-1753a>` from the "Register of Baptism and Confirmed of 
 Petzen Parish, 1641-1784"
 
 
-## Transliteration and Translation
+## Transliteration 
 
 ```{div} doc-text
 d 15t Julii Friderich Wilhelm Weiland
@@ -16,6 +16,8 @@ Parens Henrich Ludowig Weiland zu Evesen.
 Gev. Pichtmeiers [?] Mönchhofs Sohn und Herman Henrich
 Steding fil[.?] zu Evesen
 ```
+
+## Translation
 
 ```{div} doc-text
 On 15 July, Friderich Wilhelm Weiland was baptized. He was born
