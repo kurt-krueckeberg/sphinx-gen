@@ -1,0 +1,38 @@
+# 1753 Friderich Wilhelm Weiland Baptism
+
+## Record
+
+The baptism of Friderich Wilhelm Weiland is on {ref}`image 188, left
+page, first entry <PET-B-1753a>` from the "Register of Baptism and Confirmed of the
+Petzen Parish, 1641-1784"
+
+
+## Transliteration and Translation
+
+```{div} doc-text
+d 15t Julii Friderich Wilhelm Weiland
+getauft auf Steinemans Stette zu Nammen geborn.
+Parens Henrich Ludowig Weiland zu Evesen.
+Gev. Pichtmeiers [?] Mönchhofs Sohn und Herman Henrich
+Steding fil[.?] zu Evesen
+```
+
+```{div} doc-text
+On 15 July, Friderich Wilhelm Weiland was baptized. He was born
+at Steineman’s holding in Nammen.
+
+The parent was Henrich Ludowig Weiland of Evesen.
+
+The godparents were Pichtmeier’s [?] son from the Mönchhof and
+Herman Henrich Steding’s son [?] of Evesen.
+```
+
+## Citation
+
+(PET-B-1753a)=
+
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion*
+(<https://www.archion.de/p/caa1d2f962/> : 30 June 2026), path: Niedersachsen >
+Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten
+1641-1784, image 188 of 322
