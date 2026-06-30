@@ -20,6 +20,7 @@
 ## Record
 
 ```{figure} images/petzen-band1b-img56.png
+:class: image-overrie
 ```
 
 ## Transliteration
