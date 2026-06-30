@@ -14,11 +14,11 @@
 * - **Groom**
   - Friedrich Wilhelm Weiland
   - June 28, 1761
-  - Ephesen[= Evesen]
+  - Ephesen [also spelled: Evesen]
 * - **Bride**
   - Anna Ilsabei Deierberg
   - June 28, 1761
-  - Ephesen[= Evesen]
+  - Ephesen [also spelled: Evesen]
 ```
 
 ## Record
@@ -37,18 +37,16 @@ Petzen " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
 Transliteration
 
-```{code-block} text
-d. 28ten Juni Friedrich Wilhelm Weiland aus Ephesen [Evesen]
-   bei der Sandkuhle mit Anna Ilsabei Deierbergs
-     aus Ephesen [Evesen]
+```{div} doc-text
+d. 28ten Juni Friedrich Wilhelm Weiland aus Ephesen [Evesen] bei der Sandkuhle mit Anna Ilsabei Deierbergs
+aus Ephesen [Evesen]
 ```
 
 Translation
 
-```{code-block} text
-the 28th June Friedrich Wilhelm Weiland from Ephesen
-   by the sand hallow[pit] with Anna Ilsabei Deierbergs
-     from Ephesen
+```{div} doc-text
+the 28{sup}`th` June Friedrich Wilhelm Weiland from Ephesen (Evesen) by the sand hallow[pit] with Anna
+Ilsabei Deierbergs from Ephesen (Evesen)
 ```
 
 ## Citation
