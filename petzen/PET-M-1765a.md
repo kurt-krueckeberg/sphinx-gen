@@ -17,9 +17,16 @@
   - Pezen 
 ```
 
+## Record
+
+```{figure} images/petzen-band1b-img56.png
+```
+
 ## Transliteration
 
 ```{div} doc-text
+d 7t Feb: Heinrich Ludewig Weiland Schweinhirtens und Einliegers in Rücke
+mit Anna Christina Nergen aus der dristen in Pezen copuliert
 ```
 
 ## Translation
@@ -32,7 +39,7 @@
 (citation-1763a)=
 
 "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* (<https://www.archion.de/p/4cc563d634/: : 27 June
+with images, *Archion* (<https://www.archion.de/p/4cc563d634/>: : 27 June
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 56 of 239
