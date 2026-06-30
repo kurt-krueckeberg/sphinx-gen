@@ -21,10 +21,8 @@ Steding fil[.?] zu Evesen
 
 ```{div} doc-text
 On 15 July, Friderich Wilhelm Weiland was baptized. He was born
-at Steineman’s holding in Nammen.
-
-The parent was Henrich Ludowig Weiland of Evesen.
-
+at Steineman’s holding in Nammen.\
+The father was Henrich Ludowig Weiland of Evesen.\
 The godparents were Pichtmeier’s [?] son from the Mönchhof and
 Herman Henrich Steding’s son [?] of Evesen.
 ```
