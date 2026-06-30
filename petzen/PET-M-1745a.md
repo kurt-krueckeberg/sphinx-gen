@@ -19,7 +19,7 @@
 
 ## Record
 
-The 14 February 1745 marriage record is found on {ref}`image 44 <PET-M-1745a>` of the
+The 14 February 1745 marriage record is found on {ref}`image 44 <1745a>` of the
 "Verzeichnis der Getrauten und Gestorbenen 1641-1784". 
 
 ## Transliteration
@@ -39,7 +39,7 @@ Sophia Elisabeth Bünte, née Rüser, a widow from Nammen.
 
 ## Citation
 
-(citation-1745a)=
+(1745a)=
 
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/c14f9e99e9/> : 27 June
