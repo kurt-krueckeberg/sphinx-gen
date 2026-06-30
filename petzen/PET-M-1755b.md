@@ -3,10 +3,13 @@
 ## Family Facts
 
 ```{list-table}
+:header-rows: 1
+
 * - Marriage Date
   - Groom's Name
   - Groom's Residence
   - Bride's Name
+  - Bride's Residence
 * - 3 November 1746  
   - Herman Henrich Weiland
   - Evesen
