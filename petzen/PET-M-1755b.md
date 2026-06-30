@@ -26,7 +26,7 @@ d 7t Junii Jobst Henrich Weiland aus Berenbusch mit Anna Ilse Margarethe Mönchh
 ## Translation
 
 ```{div} doc-text
-On 7 June, Jobst Henrich Weiland from Berenbusch was married to Anna Ilse Margaretha Mönchhof of Jägerstätte (Jäger's holding) at Evesen.
+On 7 June, Jobst Henrich Weiland from Berenbusch was married to Anna Ilse Margaretha Mönchhof of Jäger's holding at Evesen.
 ```
 
 ## Citation
