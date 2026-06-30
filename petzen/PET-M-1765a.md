@@ -26,13 +26,15 @@
 ## Transliteration
 
 ```{div} doc-text
-d 7t Febr: Heinrich Ludewig Weiland Schweinhirtens und Einliegers in Rücke
+d 7t Febr: Heinrich Ludewig Weiland Schweinhirtens und Einliegers in Röcke
 mit Anna Christina Nergen aus der dristen in Pezen copuliert
 ```
 
 ## Translation
 
 ```{div} doc-text
+On February 7{sup}`th` Heinrich Ludewig Weiland, pig herder and Einlieger
+(lodger) in Röcke married Anna Christina Nerge from the Dristen in Petzen.
 ```
 
 ## Citation
