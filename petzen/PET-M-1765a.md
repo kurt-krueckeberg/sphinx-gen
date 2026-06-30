@@ -20,13 +20,13 @@
 ## Record
 
 ```{figure} images/petzen-band1b-img56.png
-:class: image-overrie
+:class: image-override
 ```
 
 ## Transliteration
 
 ```{div} doc-text
-d 7t Feb: Heinrich Ludewig Weiland Schweinhirtens und Einliegers in Rücke
+d 7t Febr: Heinrich Ludewig Weiland Schweinhirtens und Einliegers in Rücke
 mit Anna Christina Nergen aus der dristen in Pezen copuliert
 ```
 
