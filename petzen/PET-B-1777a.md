@@ -16,7 +16,7 @@ FamilySearch Tree id:
 * - Frideridch Wilhelm Weiland
   - Jan. 26 1777
   - Friedrich Wilhelm Weiland
-  - Anna Maria Meiland
+  - Anna Maria [W/M]eiland
   - no. 20 Evesen
 ```
 
@@ -50,7 +50,7 @@ Transliteration
 2) d 26ten Jan: ist getauft Friderich Wilhelm Weiland
    des Friederich Wilhelm Weiland aus Evesen
    No 20 mit seiner Ehefrau Anna Maria geb.
-   Meilands erzeugter Sohn. die Gevattern
+   [M/W]eilands erzeugter Sohn. die Gevattern
    waren Johann Heinrich Weiland aus Nordholz
    und Hans Heinrich Möller aus Heessen
 ```
@@ -60,7 +60,7 @@ Translation
 ```{code-block} text
 On 26 January, Friedrich Wilhelm Weiland was baptized, the son begotten by
 Friedrich Wilhelm Weiland of Evesen, No. 20, with his wife Anna Maria, née
-Meiland. The baptismal sponsors were Johann Heinrich Weiland of Nordholz
+[M/W]eiland. The baptismal sponsors were Johann Heinrich Weiland of Nordholz
 and Hans Heinrich Möller of Heeßen.
 ```
 
