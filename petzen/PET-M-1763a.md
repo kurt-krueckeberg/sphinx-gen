@@ -27,7 +27,7 @@ Maria Röseners aus Meisen.
 ## Translation
 
 ```{div} doc-text
-On April 26`{sup}th` Heinrich Ludewig Weiland Einlieger (lodger) in Berenbusch married Anna
+On April 26{sup}`th` Heinrich Ludewig Weiland Einlieger (lodger) in Berenbusch married Anna
 Maria Rösener from Meisen.
 ```
 
