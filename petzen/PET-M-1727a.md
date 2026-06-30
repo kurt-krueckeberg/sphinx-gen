@@ -25,7 +25,7 @@
 
 The September 28, 1728, marriage of Johann Henrich Krückeberg to Anna Maria
 Vahlsing is on {ref}`image 36 <PET-M-1727a>`, the right-hand page, of the
-Petzen " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
+Petzen "Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
 ```{figure} images/petzen-band1b-img36.jpg
 :class: image-override
