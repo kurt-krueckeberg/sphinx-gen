@@ -13,7 +13,7 @@ Petzen Parish, 1641-1784"
 ```{note}
 **Pat** is the abbreviation for either:
 
-- **Pate**& — sponsor (for either baptism or confirmation). Its plural form
+- **Pate** — sponsor (for either baptism or confirmation). Its plural form
 is **Paten**.
 - **Pater** — father
 
