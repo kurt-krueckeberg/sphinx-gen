@@ -1,4 +1,4 @@
-# 1763 Jobst Henrich Weiland Marriage
+# 1763 Heinrich Ludewig Weiland Marriage
 
 ## Family Facts
 
