@@ -6,8 +6,7 @@
 
 == Add New Research TODO
 
-See the "rewrite of m/research/p/completed-research.adoc" in
-`~/gen/todo.adoc`.
+See the "rewrite of m/research/p/completed-research.adoc" in `~/gen/todo.adoc`.
 
 == Finish Moehle Research Summary and Research Plan Write Up
 
