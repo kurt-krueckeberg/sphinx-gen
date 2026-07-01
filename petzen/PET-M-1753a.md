@@ -1,4 +1,4 @@
-# 1753 Herman Henrich Weiland Marriage
+# 1753 Henrich Ludewig Weiland Marriage
 
 ## Family and Other Facts
 
