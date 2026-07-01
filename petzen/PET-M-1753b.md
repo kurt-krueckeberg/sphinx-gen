@@ -1,4 +1,4 @@
-# 1755 Jobst Henrich Weiland Marriage
+# 1753 Jobst Henrich Weiland Marriage
 
 ## Family Facts
 
@@ -11,10 +11,16 @@
   - Bride's Name
   - Bride's Residence
 * - 3 November 1746  
-  - Herman Henrich Weiland
-  - Evesen
-  - Anna Sabine Breier
+  - Jobst Henrich Weiland
+  - Berenbusch
+  - Anna Ilse Margarethe Monchhof
   - Jäger's holding in Evesen
+```
+
+## Record
+
+```{figure} images/petzen-band1b-img4802.jpg
+:class: image-override
 ```
 
 ## Transliteration
