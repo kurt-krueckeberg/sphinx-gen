@@ -19,7 +19,7 @@
 
 ## Record
 
-```{figure} images/petzen-band1b-img56.jpg
+```{figure} images/petzen-band1b-img54.jpg
 :class: image-override
 ```
 
