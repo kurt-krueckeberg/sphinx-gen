@@ -213,7 +213,7 @@ chapters:
   - file: petzen/vahlsing    
     sections:
       - file: petzen/PET-M-1700a
-      - file: petzen/PET-M-1709a
+      - file: petzen/PET-B-1709a
       - file: petzen/PET-B-1712b
       - file: petzen/PET-M-1728a
       - file: petzen/PET-D-1731a

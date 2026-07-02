@@ -7,7 +7,7 @@ record that HEnirch Arend Vahlsing {ref}`married Anna Elisabeth Becker<PET-M-170
 
 ## Record
 
-The baptism of Jost Henrich Vahlsing is on {doc}`image 114 <PET-B-1709a>` of the Petzen "Verzeichnis der Getauften
+The baptism of Jost Henrich Vahlsing is on {ref}`image 114 <PET-B-1709a>` of the Petzen "Verzeichnis der Getauften
 und Konfirmierten 1641-1784".
 
 ```{figure} images/petzen-band1a-img114.jpg
