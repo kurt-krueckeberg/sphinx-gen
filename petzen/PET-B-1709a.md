@@ -3,7 +3,7 @@
 The name Vahlsing does not appear in the record. Instead the father's
 identity is given as **Henrich der Schäfer, Jost Beckers Schwieger Sohn**
 (Henrich the sheperd, Jost Becker's son-in-law). We known from his marriage
-record that HEnirch Arend Vahlsing {ref}`married Anna Elisabeth Becker<PET-M-1700a>`.
+record that HEnirch Arend Vahlsing {doc}`married Anna Elisabeth Becker<PET-M-1700a>`.
 
 ## Record
 
