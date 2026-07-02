@@ -1,4 +1,4 @@
-# THe Practice of Hofnamen
+# Hofname Explained
 
 ## Explanation
 
@@ -49,6 +49,40 @@ necessarily blood descent.
 
 ## Example
 
-Below is an example of a Hofname in a baptism record.
+Below is an example of a Hofname used in a Petzen 1706 baptism record.
 
-**TODO**
+```{figure} images/hofname-example-petzen-band1a-img109.jpg
+:class: image-override
+```
+
+## Transliteration
+
+```{div} doc-text
+den 2. Julij Gerckens Meyer alias Henrich Bornman
+einen Sohn tauffen laßen, welcher Otto Hermann
+Henrich genant. Die Gevattern waren die
+zum Bauverwalter Gaden, der Hofmeister Reichman
+und des Schaffmeisters sein Sohn von der Cammer.
+```
+
+## Translation
+
+```{div} doc-text
+On 2 July, Gercken’s tenant-holder (Meyer), alias Heinrich Bornmann,
+had a son baptized. The child was named Otto Hermann Heinrich.
+
+The baptismal sponsors were:
+the person associated with Gaden, the estate/building administrator (Bauverwalter);
+Reichmann, the estate steward (Hofmeister);
+and the son of the provisioning or treasury steward (Schaffmeister)
+from the princely chamber administration (Cammer).
+```
+
+## Citation
+
+(hofnamea)=
+
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/760b065632/> : 15 May 2025), path: Niedersachsen >
+Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und
+Konfirmierten 1641-1784, image 110 of 322
+
