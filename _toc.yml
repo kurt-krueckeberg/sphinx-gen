@@ -10,6 +10,7 @@ chapters:
   - file: root/nachträge.md
     sections:
       - file: root/significance-of-nachträge.md
+  - file: hofname/hofname    
   - file: bleeke/bleeke-church-records
     sections:
       - file: frille/FRI-B-1739a
