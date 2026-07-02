@@ -6,9 +6,8 @@ In Schaumburg-Lippe and much of northwest Germany, a **Hofname** was the
 traditional name of a farmstead, holding, or household, not simply a family
 surname.
 
-The key distinction is between a surname and Hofname is:
-
-**The surname followed the family. The Hofname followed the holding.**
+The key distinction is between a surname and Hofname is: **The surname
+followed the family. The Hofname followed the holding (Stätte).**
 
 So if a man married into a farm, bought a holding, or took over a widow’s
 property, he might be recorded under his birth surname, the farm (or
