@@ -1,12 +1,10 @@
 # Hofname Explained
 
-## Explanation
-
 In Schaumburg-Lippe and much of northwest Germany, a **Hofname** was the
 traditional name of a farmstead, holding, or household, not simply a family
 surname.
 
-The key distinction is between a surname and Hofname is: **The surname
+The key distinction between a surname and Hofname is: **The surname
 followed the family. The Hofname followed the holding (Stätte).**
 
 So if a man married into a farm, bought a holding, or took over a widow’s
@@ -30,11 +28,14 @@ Meaning: Friedrich Wilhelm Schulze, called Bruns.
 
 **3. Without an explanatory word**
 
-> Anna Catharina Meyer, des Schulzen Tochter
 
-Depending on the local context, this might mean Anna Catharina was
-connected with the Schulze holding or household, even if Meyer was her
-hereditary surname.
+> Hans Heinrich Meyer, sonst Kuhlmanns Sohn, ließ eine Tochter taufen.
+
+Meaning:Hans Heinrich Meyer, otherwise Kuhlmann’s son, had a daughter baptized.
+
+Here Meyer is functioning as the Hofname because it is being used as his
+recorded name, while Kuhlmann identifies his family origin. No alias or
+genannt is needed, but the contrast makes the Hofname visible.
 
 Pastors used Hofnamen because villages often had many people with the same
 given names and surnames. The holding name helped identify the exact
@@ -46,7 +47,7 @@ person or family appears under different names in different records. It is
 usually a clue to **property, residence, or household identity**, not
 necessarily blood descent.
 
-## Example
+## Example 1
 
 Below is an example of a Hofname used in a Petzen 1706 baptism record.
 
@@ -77,9 +78,36 @@ and the son of the provisioning or treasury steward (Schaffmeister)
 from the princely chamber administration (Cammer).
 ```
 
+
+## Example 2
+
+```{figure} images/hofname-petzen-band1a-img113.jpg
+:class: image-override
+```
+
+## Transliteration
+
+```{div} doc-text
+d 11 Mey Hans Jurgen(Jürgen) Meyer alias Heine aus Nordholtz eine Tochter
+tauffen lassen, welche von seiner Mutter Catharine Margrete genant:
+```
+
+## Translation
+
+```{div} doc-text
+On 11 May, Hans Jürgen Meyer, alias Heine, of Nordholz, had a daughter
+baptized, who was named Catharine Margrete after her mother.
+```
+
+### Explanation
+
+Here “Meyer” is the Hofname or holding-name used for Hans Jürgen in the
+record, while “alias Heine” identifies him by his surname, Heine.
+
+
 ## Citation
 
-(hofnamea)=
+(hofname1)=
 
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/760b065632/> : 2 July 2026), path: Niedersachsen >
 Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und
