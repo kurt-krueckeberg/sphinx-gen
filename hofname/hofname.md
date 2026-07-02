@@ -81,7 +81,7 @@ from the princely chamber administration (Cammer).
 
 (hofnamea)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/760b065632/> : 15 May 2025), path: Niedersachsen >
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/760b065632/> : 2 July 2026), path: Niedersachsen >
 Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und
 Konfirmierten 1641-1784, image 110 of 322
 
