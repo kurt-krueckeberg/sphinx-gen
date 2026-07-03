@@ -1,4 +1,4 @@
-# 1700 Heinrich Arendt Vahlsing Marriage
+# 1700 Hinrich Arent Vahlsing Marriage
 
 ## Record
 
@@ -14,14 +14,14 @@ Anna Elisabeth Becker is on {ref}`image 25 <image25>` of the Petzen
 ## Transliteration
 
 ```{div} doc-text
-Heinrich Arndt Vahlsing [Sheper] [aus] dem Höckersau und [Anna]
+Hinrich Arent Vahlsing [Sheper] [aus] dem Höckersau und [Anna]
 Elisabeth B[ecker?] aus [Evesen?] den 23 Sept copuliert
 ```
 
 ## Translation
 
 ```{div} doc-text
-Heinrich Arndt Vahlsing [shpeherd] at Höckersau married Anna
+Hinrich Arent Vahlsing [shpeherd] at Höckersau married Anna
 Elisabeth B[ecker?] from [Evesen?] on Sept [1700]
 ```
 
