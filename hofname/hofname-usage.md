@@ -1,4 +1,4 @@
-# Hofname Explained
+# Hofname in Church Registers
 
 In Schaumburg-Lippe and much of northwest Germany, a **Hofname** was the
 traditional name of a farmstead, holding, or household, not simply a family

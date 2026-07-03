@@ -10,7 +10,9 @@ chapters:
   - file: root/nachträge.md
     sections:
       - file: root/significance-of-nachträge.md
-  - file: hofname/hofname    
+  - file: hofname/hofname-explained
+    sections:
+      - file: hofname/hofname-usage   
   - file: petzen/becker
     sections:
       - file: petzen/PET-B-1677a

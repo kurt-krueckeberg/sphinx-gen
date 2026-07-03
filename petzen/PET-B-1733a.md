@@ -1,4 +1,4 @@
-# 1733 Jobst Heinrich Krückeberg Baptized
+# 1733 Jobst Hinrich Krückeberg Baptized
 
 ## Family Relationship and Other Facts
 
