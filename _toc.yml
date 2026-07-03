@@ -12,7 +12,7 @@ chapters:
       - file: root/significance-of-nachträge.md
   - file: hofname/hofname-explained
     sections:
-      - file: hofname/hofname-usage   
+      - file: hofname/hofname-in-church-registers
   - file: petzen/becker
     sections:
       - file: petzen/PET-B-1677a
