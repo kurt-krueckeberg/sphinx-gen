@@ -11,22 +11,18 @@ Anna Elisabeth Becker is on {ref}`image 25 <image25>` of the Petzen
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
-Transliteration
-
-```{code-block} text
-
+```{div} doc-text
 Heinrich Arndt Vahlsing [Sheper] [aus] dem Höckersau und [Anna]
-Elisabeth B[ecker?] aus [Höckersau?] den 23 Sept copuliert
+Elisabeth B[ecker?] aus [Evesen?] den 23 Sept copuliert
 ```
 
-Translation
+## Translation
 
-```{code-block} text
-
-Heinrich Arndt Vahlsing [Sheper] [aus] Höckersau und [Anna]
-Elisabeth B[ecker?] aus [Höckersau?] den 23 Sept copuliert
+```{div} doc-text
+Heinrich Arndt Vahlsing [shpeherd] at Höckersau married Anna
+Elisabeth B[ecker?] from [Evesen?] on Sept [1700]
 ```
 
 ## Citation
