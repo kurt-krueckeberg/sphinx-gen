@@ -11,6 +11,9 @@ chapters:
     sections:
       - file: root/significance-of-nachträge.md
   - file: hofname/hofname    
+  - file: petzen/becker
+    sections:
+      - file: petzen/PET-B-167a
   - file: bleeke/bleeke-church-records
     sections:
       - file: frille/FRI-B-1739a
