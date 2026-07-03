@@ -20,7 +20,7 @@ In church registers, Hofnamen may appear in several ways:
 
 Meaning: Johann Heinrich Müller, also known by the Hofname Meyer.
 
-**2. With German *genannt***
+**2. With German *genannt*** (called, named, referred to as)
 
 > Friedrich Wilhelm Schulze genannt Bruns
 
@@ -28,10 +28,9 @@ Meaning: Friedrich Wilhelm Schulze, called Bruns.
 
 **3. Without an explanatory word**
 
-
 > Hans Heinrich Meyer, sonst Kuhlmanns Sohn, ließ eine Tochter taufen.
 
-Meaning:Hans Heinrich Meyer, otherwise Kuhlmann’s son, had a daughter baptized.
+Meaning: Hans Heinrich Meyer, otherwise Kuhlmann’s son, had a daughter baptized.
 
 Here Meyer is functioning as the Hofname because it is being used as his
 recorded name, while Kuhlmann identifies his family origin. No alias or
