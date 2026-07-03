@@ -52,7 +52,7 @@ Transliteration
 d. 27ten Aug. Hans Henrich Wilharm
 des Friedrich Wilharms Sohn zu Berenbusch
 getauft. Gev. Joh. Harm Hoff zu Petzen
-+ d:2. Mai 1843
+`+` d:2. Mai 1843
 ```
 
 Translation
