@@ -20,8 +20,12 @@ Elisabeth B[ecker?] aus [Evesen?] den 23 Sept copuliert
 
 ## Translation
 
+```{note} 
+Scheper is apparently a dialectal form of Schäfter (shepherd)
+```
+
 ```{div} doc-text
-Hinrich Arent Vahlsing [shpeherd] at Höckersau married Anna
+Hinrich Arent Vahlsing [shepherd] at Höckersau married Anna
 Elisabeth B[ecker?] from [Evesen?] on Sept [1700]
 ```
 
