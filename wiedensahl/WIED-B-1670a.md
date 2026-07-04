@@ -12,13 +12,9 @@ The 1670 baptism entry is found on {ref}`image 47 <WIED-B-1670a>`, the first ent
 
 Transliteration
 
-```{code-block} text
-
-Johan Vahlsing den 6 Fe-
-bruar, ein Kind getauft
-so Heinrich Arends genant
-dieser Gefatter ist gewesen
-Heinrich [Pa.?] Harm ⟨terminal flourish⟩
+```{div} doc-text
+Johan Vahlsing den 6 Februar, ein Kind getauft so Heinrich Arends genant
+dieser Gefatter ist gewesen Heinrich [Pa.?] Harm ⟨terminal flourish⟩
 ```
 
 ```{note}
@@ -27,11 +23,9 @@ In **„ein Kind getauft“** → **“baptized a child”**, the pastor is impl
 
 Translation
 
-```{code-block} text
+```{div} doc-text
 
-Johann Vahlsing, on the 6th of February, baptized a child,
-named Heinrich Arend;
-the godfather was
+Johann Vahlsing, on the 6th of February, baptized a child, named Heinrich Arend; the godfather was
 Heinrich P[a.?] Harm.
 ```
 
