@@ -67,7 +67,7 @@ und des Schaffmeisters sein Sohn von der Cammer.
 ## Translation
 
 ```{div} doc-text
-On 2 July, Gercken’s tenant-holder (Meyer), alias Heinrich Bornmann,
+On 2 July, Gercken’s tenant-holder, alias Heinrich Bornmann,
 had a son baptized. The child was named Otto Hermann Heinrich.
 
 The baptismal sponsors were:
@@ -87,7 +87,7 @@ from the princely chamber administration (Cammer).
 ## Transliteration
 
 ```{div} doc-text
-d 11 Mey Hans Jurgen(Jürgen) Meyer alias Heine aus Nordholtz eine Tochter
+d 11 Mey Hans Jurgen Meyer alias Heine aus Nordholtz eine Tochter
 tauffen lassen, welche von seiner Mutter Catharine Margrete genant:
 ```
 
