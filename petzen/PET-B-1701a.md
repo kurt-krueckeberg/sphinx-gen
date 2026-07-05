@@ -1,37 +1,40 @@
-# 1701 Anna Maria Vahlsing Baptism
+# 1701 Anna Elisabeth Vahlsing Baptism
 
-The name Vahlsing does not appear in the record. Instead the father's
-identity is given as **Henrich der Schäfer, Jost Beckers Schwieger Sohn**
-(Henrich the sheperd, Jost Becker's son-in-law). We known from his marriage
-record that HEnirch Arend Vahlsing {doc}`married Anna Elisabeth Becker<PET-M-1700a>`.
+The father's name of Vahlsing does not appear in the record. Instead the father's
+identity is given as **das Schefer auf der Höckersau**, Schefer apparently a from of Schäfter
+(shepherd).
 
 ## Record
 
-The baptism of Jost Henrich Vahlsing is on {ref}`image 114 <PET-B-1709a>` of the Petzen "Verzeichnis der Getauften
+The baptism of Anna Elisabeth Vahlsing is on {ref}`image 99 <PET-B-1701a>` of the Petzen "Verzeichnis der Getauften
 und Konfirmierten 1641-1784".
 
-```{figure} images/petzen-band1a-img114.jpg
+```{figure} images/petzen-band1a-img99.jpg
 :class: image-override
 ```
 
 ## Transliteration
 
 ```{div} doc-text
-den 20 Henrich der Schäfer auf der Höckersau Jost Beckers sein Schwieger
-Wohn ein Sohn taufen lassen. Nahmens Jost Henrich
+das Schepers auf der Höckersau, Töchterlein, Anna
+Elisabeth, getauft den 19 Junÿ, Gevatter [Faust? B??]
 ```
 
 ## Translation
 
+```{div} doc-text
+The sheperd at the Höckersau, daughter, Anna
+Elisabeth, baptized on 19 June, baptism sponsor [Faust? B??]
+```
 
 ## Citation
 
-(PET-B-1709a)=
+(PET-B-1701a)=
 
 "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* (<https://www.archion.de/p/9cf65653e8/> : 2 July  
+with images, *Archion* (<https://www.archion.de/p/892d82a701/> : 5 July 
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784, image 114 of 322,
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 99of 322,
 left hand page, 3rd entry.
 
