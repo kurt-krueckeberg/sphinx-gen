@@ -19,7 +19,7 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ## Transliteration and Translation
 
-```{list-table} 2 Dec. 1808 Marriage, entry 7
+```{list-table} 2 Dec. 1804 Marriage, entry 7
 :header-rows: 1
 
 * - Zahl
@@ -38,7 +38,7 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827".
   - 
 ```
 
-```{list-table} 2 Dec. 1808 Marriage, entry 7
+```{list-table} 2 Dec. 1804 Marriage, entry 7
 :header-rows: 1
 
 * - Num.
