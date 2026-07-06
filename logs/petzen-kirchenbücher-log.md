@@ -21,8 +21,7 @@ Marriages starting in 1680, which begin on image number 17, were reviewed.
 ```{list-table}
 :header-rows: 1
 
-* - Image Number\
-    or Image Range
+* - Image Range
   - Notes
 * - 17-67
   - Kuhlmann marriages:
