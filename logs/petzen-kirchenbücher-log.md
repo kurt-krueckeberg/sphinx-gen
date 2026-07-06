@@ -5,14 +5,10 @@
 ```{list-table}
 :header-rows: 1
 
-* - Volumne No.
-  - Volumnme Name
-* - 1
-  - Verzeichnis der Getauften und Konfirmierten 1641-1784
-* - 2
-  - Verzeichnis der Getrauten und Gestorbenen 1641-1784
-* - 3
-  - Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827
+* - Volume Name
+* - Verzeichnis der Getauften und Konfirmierten 1641-1784
+* - Verzeichnis der Getrauten und Gestorbenen 1641-1784
+* - Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827
 ```
 
 ## Review of Marriages 1641-1784
@@ -29,7 +25,8 @@ Marriages starting in 1680, which begin on image number 17, were reviewed.
     or Image Range
   - Notes
 * - 17-67
-  - - image 20 has Johann Fridirch Cuhlmann marriage to Anna Catherina
+  - Kuhlmann marriages:
+    - image 20 has Johann Fridirch Cuhlmann marriage to Anna Catherina
       [Dinges?].
     
     The following images contain Weiland marriages:
