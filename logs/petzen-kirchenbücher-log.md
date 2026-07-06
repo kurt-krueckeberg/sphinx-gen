@@ -35,8 +35,8 @@ Marriages starting in 1680 on image number 17 were reviewed.
   - Weiland marriage
 * - 66
   - Weiland marriage
-* - 67?
-  - Weiland marriage
+* - 67
+  - Weiland[Bünte Hofname?] marriage
 ```
 
 
