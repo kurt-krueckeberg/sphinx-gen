@@ -16,25 +16,27 @@
 Below is a list of the marriage images reviewed in the Petzen Kirchenbuch
 **Verzeichnis der Getrauten und Gestorbenen 1641-1784** on [Archion.de](https://archion.de).
 
-Marriages starting in 1680, which begin on image number 17, were reviewed.
+Marriages starting in 1680 on image number 17 were reviewed.
 
 ```{list-table}
 :header-rows: 1
 
-* - Image Range
+* - Image Number
   - Notes
-* - 17-67
-  - Kuhlmann marriages:
-    - image 20 has Johann Fridirch Cuhlmann marriage to Anna Catherina
-      [Dinges?].
-    
-    The following images contain Weiland marriages:
-    - 58
-    - 61
-    - 62
-    - 64
-    - 66
-    - 67?
+* - 20
+  - Johann Fridirch Cuhlmann marriage to Anna Catherina [Dinges?].
+* - 58
+  - Weiland marriage
+* - 61
+  - Weiland marriage
+* - 62
+  - Weiland marriage
+* - 64
+  - Weiland marriage
+* - 66
+  - Weiland marriage
+* - 67?
+  - Weiland marriage
 ```
 
 
