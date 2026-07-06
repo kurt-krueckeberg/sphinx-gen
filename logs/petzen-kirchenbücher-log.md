@@ -39,6 +39,55 @@ Marriages starting in 1680 on image number 17 were reviewed.
   - Weiland[Bünte Hofname?] marriage
 ```
 
+## Review of Marriages 1641-1784
 
+Deaths recorded in **Verzeichnis der Getrauten und Gestorbenen 1641-1784**
+starting in 1670 on image 87 were reviewed.
 
+```{list-table}
+:header-rows: 1
+
+* - Image Number
+  - Notes
+* -
+  -
+```
+
+## Review of Petzen Baptisms
+
+Petzen baptisms recorded in  **Verzeichnis der Getauften und Konfirmierten 1641-1784** starting
+in 1700 on image 96 were reviewed.
+
+**TODO:** I believe images up to 143 were reviewed.
+
+```{list-table}
+:header-rows: 1
+
+* - Image Number
+  - Notes
+* - 102
+  - Weiland
+* - 105 
+  - Father: Tönnis Kuhlmann
+* - 106
+  - Father: Henrich Weiland
+* - 112
+  - Johann Weiland
+* - 118
+  - Weiland
+* - 119
+  - Hans Hinrich Weiland aus Berenbusch
+* - 120
+  - Father: Henrich Arend Vahlsing
+* - 
+  - 
+* - 
+  - 
+* - 
+  - 
+* - 
+  - 
+* - 
+  - 
+```
 
