@@ -51,7 +51,7 @@ Transliteration
 
 d. 27ten Aug. Hans Henrich Wilharm
 des Friedrich Wilharms Sohn zu Berenbusch
-getauft. Gev. Joh. Harm Hoff zu Petzen
+getauft. Gev. Joh[ann]. Harm[ann] Hoff zu Petzen
 `+` d:2. Mai 1843
 ```
 
@@ -63,7 +63,7 @@ Translation
 Hans Henrich Wilharm,
 son of Friedrich Wilharm of Berenbusch,
 was baptized.
-Godfather: Johann Harm Hoff of Petzen.
+Godfather: Joh[ann] Harm[ann] Hoff of Petzen.
 
 Died: 2 May 1843.
 ```
