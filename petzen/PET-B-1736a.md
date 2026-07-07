@@ -54,7 +54,7 @@ Elisabeth Soldat Weilands Frau Gevatterin
 
 ```{div} doc-text
 The 29 January Krückeberg v. [Berenbusch: see note] a little daughter was
-baptized Dorothea Elisabeth Soldier Weiland's wife godmother.
+baptized Dorothea Elisabeth. Soldier Weiland's wife godmother.
 ```
 
 ```{note}
