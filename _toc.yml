@@ -220,6 +220,7 @@ chapters:
       sections:
         - file: petzen/PET-M-1700a
         - file: petzen/PET-B-1701a
+        - file: petzen/PET-B-1706a
         - file: petzen/PET-B-1709a
         - file: petzen/PET-B-1712b
         - file: petzen/PET-B-1716b
