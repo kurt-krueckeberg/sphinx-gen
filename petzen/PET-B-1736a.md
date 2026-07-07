@@ -47,7 +47,7 @@ entry of the prior page.
 
 ```{div} doc-text
 d[en] 29 dito Krückeberg v. [B. B.] ein Töchterl[ein] tauft lassen Dorothea
-Elisabeth Soldat Weilands Frau Gevatterin
+Elisabeth. Soldat Weilands Frau Gevatterin
 ```
 
 ## Translation
