@@ -39,7 +39,7 @@ Marriages starting in 1680 on image number 17 were reviewed.
   - Weiland[Bünte Hofname?] marriage
 ```
 
-## Review of Marriages 1641-1784
+## Review of Deaths 1641-1784
 
 Deaths recorded in **Verzeichnis der Getrauten und Gestorbenen 1641-1784**
 starting in 1670 on image 87 were reviewed.
