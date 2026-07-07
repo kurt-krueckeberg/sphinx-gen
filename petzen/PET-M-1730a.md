@@ -22,6 +22,10 @@
 The 17 September 1730 marriage record is found on {ref}`image 38 <1730a>` of the
 "Verzeichnis der Getrauten und Gestorbenen 1641-1784". 
 
+```{figure} images/petzen-band1b-img38.jpg
+:class: image-override
+```
+
 ## Transliteration
 
 ```{div} doc-text
