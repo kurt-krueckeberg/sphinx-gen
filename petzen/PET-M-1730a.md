@@ -25,14 +25,15 @@ The 17 September 1730 marriage record is found on {ref}`image 38 <1730a>` of the
 ## Transliteration
 
 ```{div} doc-text
-den 17t Septembr: ist Hans Hermann Weÿland aus Berenbusch mit Ilsa[?]
-Maria[?] Vahlsing aus Evesen copuliert
+den 17t Septembr: ist Hans Hermann Weÿland aus Berenbusch, so Schloß-Granadier zu
+Bückeburg mit Ilsa[?] Maria[?] Vahlsing aus Evesen copuliert
 ```
 
 ## Translation
 
 ```{div} doc-text
-On September 17, Hans Hermann Weÿland of Berenbusch was married to Ilsa Maria Vahlsing of Evesen.
+On September 17, Hans Hermann Weÿland of Berenbusch, who was a castle
+grenadier at Bückeburg, was married to Ilsa[?] Maria[?] Vahlsing of Evesen.
 ```
 
 ## Citation
