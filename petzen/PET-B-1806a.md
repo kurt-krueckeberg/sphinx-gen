@@ -110,14 +110,14 @@ It is entry #22 on pages 176 and 177.
 
 Pages 176-177 Header
 
-```{code-block} text
+```{div} doc-text
 
 176         Getaufte im Kirchspiele Petzen                               im Jahr 1806                            177
 ```
 
 Pages 176-177 Header
 
-```{code-block} text
+```{div} doc-text
 
 176         Baptisms in the Parish of Petzen                              in the Year 1806                       177
 ```

@@ -25,7 +25,7 @@ would be women.
 
 1748 Baptism of Anna Maria Weiland
 
-```{code-block} text
+```{div} doc-text
 
 d 18ten Febr: Anna Maria Weilands getauft
 Pat. Wilhelm Weÿland zu Nordholtz, Gavattern
@@ -33,7 +33,7 @@ Brüggemans Fr zu Nordholtz, Nergen Fr zu P[?]etzen
 und Bormans Frau aus Berenbusch
 ```
 
-```{code-block} text
+```{div} doc-text
 
 On 18th Feb. Anna Maria Weilands was baptized
 Father Wilhelm Weÿland at Nordholtz, Sponsors[godmothers]

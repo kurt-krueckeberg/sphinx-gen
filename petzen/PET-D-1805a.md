@@ -53,12 +53,12 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827" in the [Archion
 
 ## Transliteration and Translation of Header for Pages 512 and 513
 
-```{code-block} text
+```{div} doc-text
 
 512   Gestorbene in Kirchspiel Petzen                                        Schumb. Lipp. [???] in Jahr the 1805                    512
 ```
 
-```{code-block} text
+```{div} doc-text
 
 512   Deaths in the Petzen Parish                                            Schumb. Lipp. [???] in the year 1805                    512
 ```

@@ -16,7 +16,7 @@ This is the baptism record of Henrich Wilhelm Bleeke is found on
 
 Transliteration
 
-```{code-block} text
+```{div} doc-text
 
 d 2t Martii Henrich Wilhelm Bleeke
      des Bleken Sohn aus Evesen getaift Gevatt.
@@ -29,7 +29,7 @@ d 2t Martii Henrich Wilhelm Bleeke
 
 Translation
 
-```{code-block} text
+```{div} doc-text
 
 d 2nd March Henrich Wilhelm Bleeke, the son of the
      Blekes from Evesen, was baptized. Godfathers

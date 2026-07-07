@@ -16,7 +16,7 @@ Konfirmirte, 1641-1784".:wq
 
 Transliteration
 
-```{code-block} text
+```{div} doc-text
 
 26) d 11t[en] Sept ist getauft Sophia Ernestine Bleken
     des Johann Heinrich Bleken aus Evesen mit seiner
@@ -26,7 +26,7 @@ Transliteration
 
 Translation
 
-```{code-block} text
+```{div} doc-text
 
 26) On 11th Sept Sophia Ernestine Belken was
     baptized, the daughter of Johann Heinrich Bleken from Evesen, by his

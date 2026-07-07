@@ -8,7 +8,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
+```{div} doc-text
 
 5) d 27ten Jan. sind getauft die Zwillinge [eins?]
             a. Hans Heinr Weilands des Friederich Wilehlm
@@ -21,7 +21,7 @@
             [al?] Pichtsmeiersche aus Evesen no. 4
 ```
 
-```{code-block} text
+```{div} doc-text
 
 5) 27th Jan. The twins [???]
            a. Hans Heinrich Weiland the begotten son of Friederich Wilhelm

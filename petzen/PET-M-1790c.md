@@ -65,21 +65,21 @@ indicates she died in 1849.
 
 Transliteration
 
-```{code-block} text
+```{div} doc-text
 
                         Getraute       1790                               5
 ```
 
 Translation
 
-```{code-block} text
+```{div} doc-text
 
                        Married Couples 1790                                5
 ```
 
 Transliteration
 
-```{code-block} text
+```{div} doc-text
 
 13) d 12th October ist copulirt Jobst Heinrich Kruckeberg aus Berenbusch
                                    gest. 21.10.22
@@ -95,7 +95,7 @@ is denoted with the preceding gest., meaning **gestorben** (died).
 
 Translation
 
-```{code-block} text
+```{div} doc-text
 
 13) On 12th October Jobst Heinrich Kruckeberg from Berenbusch
                                    died 21.10.22

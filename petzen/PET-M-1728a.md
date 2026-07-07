@@ -46,7 +46,7 @@ is on {ref}`image 37 <PET-M-1728a>`, the right-hand page, of the Petzen
 
 Transliteration
 
-```{code-block} text
+```{div} doc-text
 
 den 21 Octobr ist der Schäfter Henrich Vahlsing aus Evesen mit Anna
 Margaretha Bruns aus Evesen copuliert
@@ -54,7 +54,7 @@ Margaretha Bruns aus Evesen copuliert
 
 Translation
 
-```{code-block} text
+```{div} doc-text
 
 the 21st October the shepard Henirch Vahlsing from Evesen married Anna
 Margaretha Bruns from Evesen.

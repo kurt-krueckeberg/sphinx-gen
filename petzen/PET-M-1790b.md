@@ -22,7 +22,7 @@ indicates she died in 1849.
 
 ## Transliteration and Translation
 
-```{code-block} text
+```{div} doc-text
 
                        Married Couples 1790                                5
 
@@ -42,7 +42,7 @@ indicates she died in 1849.
 
 Translation
 
-```{code-block} text
+```{div} doc-text
 
 8) date 2 Aug Johann Heinrich Kruckeberg
     from Berenbusch No 10 was married to maiden Anna Catharine Sophia

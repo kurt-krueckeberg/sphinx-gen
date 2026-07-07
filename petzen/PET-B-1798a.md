@@ -52,7 +52,7 @@ Header:
 
 Transliteration of header for pages 134-135
 
-```{code-block} text
+```{div} doc-text
 
 134                           Gebohrne(births)                       im Jahr (in the year) 1789                 135
 ```

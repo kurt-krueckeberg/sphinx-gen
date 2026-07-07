@@ -46,7 +46,7 @@ This baptism is recorded on {ref}`image 52 on Archion <PET-B-1791a>` of Petzen K
 
 Transliteration and translation of entry 12, baptism of Friderich Wilhelm Krückeberg
 
-```{code-block} text
+```{div} doc-text
 
 12) d. 25ten Apr: ist getauft Friderich Wilhelm Krückeberg
 des Johann Heinrich Krückebergs aus Evesen Noo
@@ -55,7 +55,7 @@ Crömern ergeugter Sohn. Gevatter war Johann
 Heinrich Krückeberg aus Berenbusch
 ```
 
-```{code-block} text
+```{div} doc-text
 
 12) One 25th Apr. Friderich Wilhelm Krückeberg was baptized,
 the begotten son of Johann Heinrich Krückebergs from Evesen Num.

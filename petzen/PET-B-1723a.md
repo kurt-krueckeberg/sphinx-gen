@@ -16,14 +16,14 @@ Baptism and Confirmed of the Petzen Parish) 1641-1784".
 
 Transliteration
 
-```{code-block} text
+```{div} doc-text
 31 d 24t[en] Octbr. ist Heinrich Bleeck aus Evesen Söhnlien\
      Johann Daniel getauft gav. [dessen] Vater im Mei[ßen]
 ```
 
 Translationn
 
-```{code-block} text
+```{div} doc-text
 31 The 224th October the little son of Heinrich Bleeck from Evesen\
      baptized. godfather [his?] Father in Mei[ßen]
 ```

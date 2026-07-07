@@ -12,7 +12,7 @@ This 1760 confirmation of Johann Heinrich Bleke is found on {doc}`image 311 <PET
 
 ## Transliteration
 
-```{code-block} text
+```{div} doc-text
 
 Johann Heinrich Bleke Evesen
 ```

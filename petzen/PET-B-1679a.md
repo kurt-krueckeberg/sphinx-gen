@@ -16,7 +16,7 @@ Petzen Parish, 1641-1784".
 
 Transliteration
 
-```{code-block} text
+```{div} doc-text
 
 Cuhman [?????], Sohn, Johann Tonnis, getauft, den 30 April
 Gefattern, Tonnis Jäger, Hi[nrig] Vogt zu Namnen, [?] der [Müller]
@@ -25,7 +25,7 @@ zu Nammen
 
 Translation
 
-```{code-block} text
+```{div} doc-text
 
 Cuhman [?????], son, Johann Tonnis, baptized, on the 30 April
 Baptism Sponsors, Tonnis Jäger, Hi[nrig] Vogt at Namnen, [?] the miller

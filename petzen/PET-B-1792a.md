@@ -68,14 +68,14 @@ This entry appears on {ref}`image 55, page 105 <PET-B-1792a>` of Petzen Kirchenb
 
 Transliteration of page 105 header
 
-```{code-block} text
+```{div} doc-text
 
                         Getaufte 1792                                           105
 ```
 
 Translation of page 105 header
 
-```{code-block} text
+```{div} doc-text
 
                         Baptisms 1792                                           105
 ```
@@ -95,7 +95,7 @@ this case, "of the same [month]".
 
 Transliteration of page 105, entry 9
 
-```{code-block} text
+```{div} doc-text
 
    9) 3ten Febr ist [getauft] Philippine Caroline Christine Kruckebergen
 1. cop. 23.2.1812    des Jobst Heinrich Krückeberg Schusters in Berenbusch No 10
@@ -108,7 +108,7 @@ gest. 26.10.70       geb. Tegtmeyern erzeugte und d. 1ten ejusd abends 6 Uhr
 
 Translation of page 105, entry 9
 
-```{code-block} text
+```{div} doc-text
 
  9) On February 3, Philippine Caroline Christine Kruckeberg, daughter of Jobst Heinrich Krückeberg, shoemaker in
 1. married 2/23/1812      Berenbusch No. 10, and his wife Christine Philippine Eleonore, née Tegtmeyern, was baptized.

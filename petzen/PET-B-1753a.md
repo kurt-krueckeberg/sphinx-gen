@@ -3,7 +3,7 @@
 ## Family and Other Relationships
 
 ```{list-table} Family Facts
-:header_rows: 1
+:header-rows: 1
 
 * - Father
   - Father's Residence

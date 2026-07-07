@@ -89,33 +89,33 @@ baptism record it appears as **aue**, **Höckersaue**.
 
 :::
 
-## Transliteration and Translation
+## Transliteration
 
-Transliteration of 1779 Baptsim of Carl Friderich Gottlieb Kruckeberg
+```{list-table}
+:header-rows: 0
+:widths: auto
 
-```{code-block} text
-
-Getaufte                                                               1779
-
-15)             d 18ten Apr:[of 1779] ist Carl Friderich Gottlieb Kruckeberg
- +              des Johann Heinrich Krückebergs aus Berenbusch
- 13 [Mai] 1838  mit seiner Ehefrau Anna Maria geb. Schekeln
-                erzeugter Sohn getauft. der Gevatter war
-                Otto Rösener Hoffmeister auf der Höckersau
+* - 15)            
+    `+` 13 [Mai] 1838 
+  - d 18ten Apr:[of 1779] ist Carl Friderich Gottlieb Kruckeberg
+    des Johann Heinrich Krückebergs aus Berenbusch
+    mit seiner Ehefrau Anna Maria geb. Schekeln
+    erzeugter Sohn getauft. der Gevatter war
+    Otto Rösener Hoffmeister auf der Höckersau
 ```
+## Translation
 
-Translation
+```{list-table}
+:header-rows: 0
+:widths: auto
 
-```{code-block} text
-
-Baptisms                                                                1779
-
-
-15)             On 18th April[of 1779] April Carl Friderich Gottlieb Kruckeberg was
- +              baptized, the begotten son of Johann Heinrich Krückeberg from Berenbusch,
- 13 [May] 1838  by his wife Anna Maria née Schekel
-                The godfather was Otto Rösener estate administrator[or: child's tutor]
-                on the Höckersau[Höcker's estate].
+* - 15)         
+    `+`  13 [May] 1838  
+  -  On 18th April[of 1779] April Carl Friderich Gottlieb Kruckeberg was
+     baptized, the begotten son of Johann Heinrich Krückeberg from Berenbusch,
+     by his wife Anna Maria née Schekel
+     The godfather was Otto Rösener estate administrator[or: child's tutor]
+     on the Höckersau[Höcker's estate].
 ```
 
 ## Citation

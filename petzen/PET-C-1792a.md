@@ -20,12 +20,9 @@ Image 191, on page 407, shows Carl Friedrich Gottlieb Kruckeberg’s confirmatio
 
 Transliteration
 
-```{code-block} text
-
-                                                       407
-
-               Confirmati
-    Domoinica Quasimodogeniti 1792
+```{div} doc-text
+Confirmati\
+Domoinica Quasimodogeniti 1792
 
 1) Johann Gottlieb Roefener aus Petzen
 
@@ -34,11 +31,9 @@ Transliteration
 
 Translation
 
-```{code-block} text
-
-                                                       407
-               Confirmed
-    2nd Sunday after Easter 1792
+```{div} doc-text
+Confirmed\
+2nd Sunday after Easter 1792\
 
 1) Johann Gottlieb Roefener aus Petzen
 

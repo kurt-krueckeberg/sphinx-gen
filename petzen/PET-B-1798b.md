@@ -98,7 +98,7 @@ The dates of her marriage and death, written below her name, have been displayed
 
 Transliteration of dates written below her name
 
-```{code-block} text
+```{div} doc-text
 
  cop.  1.12.1816
  gest. 11.9.1878
@@ -130,7 +130,7 @@ Transliteration of dates written below her name
 
 Translation of Nachtrag dates written below her name
 
-```{code-block} text
+```{div} doc-text
 
  married  12/1/1816
  died      9/11/1878

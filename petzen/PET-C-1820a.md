@@ -34,21 +34,21 @@ Page 448, Knaben (boys) are listed in top-right column:
 
 Transliteration of Header for page 448
 
-```{code-block} text
+```{div} doc-text
 
 der am Sonntage Quasidmodgeniti 1818 Confirmierten Kinder - aus dem Schaumb.
 ```
 
 Translation of Header for page 448
 
-```{code-block} text
+```{div} doc-text
 
 The children confirmed on Sonday Quasidmodgeniti 1818 - from Schaumb[urg]
 ```
 
 Transliteration of right column at the top of page 448
 
-```{code-block} text
+```{div} doc-text
 
 Am Sonntag Quasimodogentiti
 1820. sind Confirmiert
@@ -61,7 +61,7 @@ Knaben
 
 Translation of right column at the top of page 448
 
-```{code-block} text
+```{div} doc-text
 
 On Sunday Quasimodogentiti
 1820. were confirmed

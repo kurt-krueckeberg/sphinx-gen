@@ -20,14 +20,14 @@ The page header spans both pages 50 and 51.
 
 Transliteration of page header
 
-```{code-block} text
+```{div} doc-text
 
 50                 Copulierte im Kirchspiel Petzen         |                      im Jahr 1812                      51
 ```
 
 Translation of page header
 
-```{code-block} text
+```{div} doc-text
 
 50                 Marriages in the Parish Petzen          |                      in the year 1812                   51
 ```

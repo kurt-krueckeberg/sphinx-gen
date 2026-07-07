@@ -44,14 +44,14 @@ last entry on the page, of the Petzen "Verzeichnis der Getauften und Konfirmiert
 
 ## Transliteration and Translation
 
-```{code-block} text
+```{div} doc-text
 13 Januarÿ ist Johann Heinrich Krückeberg aus Berenbusch Töchterl[ein]:
 Rudolphina Margaretha Elisabeth getafut. Gevatterin sind gewesen Rudolpha
 Mönhkhoffs, Margaretha Elisabeth Bormanns, Anna Elisabeth Weÿland, und
 Anna Margareth Stedings aus Berenbusch
 ```
 
-```{code-block} text
+```{div} doc-text
 On 13 January Johann Heinrich Krückeberg from Berenbusch's little
 daughter Rudolphian Margaretha Elisabeth was baptized. Sponsors were
 Rudolphine Mönhkhoff, Margaretha Elisabeth Bormann, Anna Elisabeth

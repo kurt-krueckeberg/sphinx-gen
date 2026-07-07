@@ -46,21 +46,21 @@ The abbreviation **Jfr** stands for Jungfrau or maiden.
 
 Transliteration of Page Header
 
-```{code-block} text
+```{div} doc-text
 
                         Getraute       1790                                5
 ```
 
 Translation of Page Header
 
-```{code-block} text
+```{div} doc-text
 
                        Married Couples 1790                                5
 ```
 
 Transliteration
 
-```{code-block} text
+```{div} doc-text
 
 8) d 2 Aug ist copuliert Johann Heinrich Kruckeberg
     aus Berenbusch No 10 mit Jfr[Jungfrau] Anna Catharine Sophia
@@ -69,7 +69,7 @@ Transliteration
 
 Translation
 
-```{code-block} text
+```{div} doc-text
 
 8) date 2 Aug Johann Heinrich Kruckeberg
     from Berenbusch No 10 was married to maiden Anna Catharine Sophia

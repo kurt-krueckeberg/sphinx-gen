@@ -92,7 +92,7 @@ The header and column headings for pages 722 and 723:
 
 Pages 722 and 723 header
 
-```{code-block} text
+```{div} doc-text
 
 722                Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)             im Jahr Iin the year) 1822                      723
 ```

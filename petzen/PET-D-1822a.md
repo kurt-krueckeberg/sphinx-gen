@@ -104,7 +104,7 @@ Portion of death record at the top of page 653
 
 Transliteration of Page Header
 
-```{code-block} text
+```{div} doc-text
 
 652   Gestorbene in Kirchspiel Petzen (Deaths in Petzen Parish)                im Jahr (in the year) 1822                                653
 ```

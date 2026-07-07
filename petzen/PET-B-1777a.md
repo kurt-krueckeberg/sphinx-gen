@@ -46,7 +46,7 @@ The baptismal record is shown below:
 
 Transliteration
 
-```{code-block} text
+```{div} doc-text
 2) d 26ten Jan: ist getauft Friderich Wilhelm Weiland
    des Friederich Wilhelm Weiland aus Evesen
    No 20 mit seiner Ehefrau Anna Maria geb.
@@ -57,7 +57,7 @@ Transliteration
 
 Translation
 
-```{code-block} text
+```{div} doc-text
 On 26 January, Friedrich Wilhelm Weiland was baptized, the son begotten by
 Friedrich Wilhelm Weiland of Evesen, No. 20, with his wife Anna Maria, née
 [M/W]eiland. The baptismal sponsors were Johann Heinrich Weiland of Nordholz
