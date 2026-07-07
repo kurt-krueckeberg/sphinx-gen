@@ -15,16 +15,19 @@ und Konfirmierten 1641-1784".
 ## Transliteration
 
 ```{div} doc-text
-20 Januar: der Schäfer auf der Höckersau, Jost Beckers sein Schwieger Sohn,
-eine Tochter tauffen lassen, welche von der Meyersch, auf der Höckersau zur
-taufte [?], und Ilse Maria genannt wurde.
+den 20 Januar: Der Schäffer auf der Höckersau,
+Jost Beckers sein Schwieger Sohn, eine
+Tochter tauffen lassen, welche von der
+Meyerschen, auf der Höckersau zur Tauffe
+gehalten, und Ilse Maria genant wurde.
 ```
 
 ## Translation
 
 ```{div} doc-text
-The sheperd at the Höckersau, daughter, Anna
-Elisabeth, baptized on 19 June, baptism sponsor [Faust? B??]
+On 20 January, the shepherd on the Höckersau, Jost Becker’s son-in-law, had
+a daughter baptized, who was held at baptism by the Meyersche on the
+Höckersau and was named Ilse Maria.
 ```
 
 ## Citation
