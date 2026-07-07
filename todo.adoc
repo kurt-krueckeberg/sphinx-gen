@@ -1,8 +1,14 @@
 = Review Transliterations/Translations
 
-== Search for Johann Heinrich in Schaumburg-Lippe: Anzeigen des Fürstenthums Schaumburg-Lippe. 1849
+== Hans Hermann Weiland is Soldat Weiland
 
-<https://www.digitale-sammlungen.de/en/view/bsb10002333?page=,1>
+See the Hans Herman Weiland who married Ilse Maria Vahlsing in 1730,
+PET-M-1730a.md, where he is a Granadier at the Schloss in Bückeburg. 
+
+I think he is also 'Soldat' Weiland who appears in some other baptism 
+records.
+
+Add him to family search.
 
 == Add New Research TODO
 
