@@ -26,7 +26,7 @@ Hans Weiland of Meinsen Anna Catharina Bormans [???], married 7 May.
 (image19)=
 
 "Archion Protestant Kirchenbücher Portal", database with
-images, *Archion* (<https://www.archion.de/p/00dce3a895/ : 7 July 2026),
+images, *Archion* (<https://www.archion.de/p/00dce3a895/> : 7 July 2026),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 19 of 239
