@@ -63,7 +63,7 @@ in 1700 on image 96 were reviewed.
 ```{list-table}
 :header-rows: 1
 
-* - Image Number
+* - Image Number/Year
   - Notes
 * - 102
   - Weiland
@@ -77,13 +77,13 @@ in 1700 on image 96 were reviewed.
   - Weiland
 * - 119
   - Hans Hinrich Weiland aus Berenbusch
-* - 120
+* - 120 / 1712
   - Father: Henrich Arend Vahlsing
-* - 
-  - 
-* - 
-  - 
-* - 
+* - 122 /
+  - Father: Johann Weiland. Child: Johann Hinrich Weiland
+* - 123
+  - Father: Hans Henirch Weiland. Child: Wilhelm
+* - 124 Vahlsing's, Schäfter auf der Höckersau, son Johann Wilhelm. 
   - 
 * - 
   - 
