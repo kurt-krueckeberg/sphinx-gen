@@ -53,7 +53,7 @@ starting in 1670 on image 87 were reviewed.
   -
 ```
 
-## Review of Petzen Baptisms
+## Review of Petzen Baptisms 1700-1784
 
 Petzen baptisms recorded in  **Verzeichnis der Getauften und Konfirmierten 1641-1784** starting
 in 1700 on image 96 were reviewed.
