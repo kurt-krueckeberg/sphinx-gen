@@ -83,11 +83,13 @@ in 1700 on image 96 were reviewed.
   - Father: Johann Weiland. Child: Johann Hinrich Weiland
 * - 123
   - Father: Hans Henirch Weiland. Child: Wilhelm
-* - 124 Vahlsing's, Schäfter auf der Höckersau, son Johann Wilhelm. 
-  - 
-* - 
-  - 
-* - 
+* - 124 / 1716
+  - Vahlsing's, Schäfter auf der Höckersau, son Johann Wilhelm. 
+* - 125 / 1717
+  - Father: Johann Weiland aus Nammen
+* - 125 / 1718
+  - Father: Hans Henrich Weiland aus Berenbusch
+* - Resume with imgage 127
   - 
 ```
 
