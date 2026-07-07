@@ -18,14 +18,13 @@ Translation of page header: **Proclaimed (banns) and Married in the year 1820**.
 :header-rows: 1
 
 * - Nro.
-  - Vor- und Zunamen
+  - Vor- und Zunamen\
     des
     Bräutigum.
-  - Stand
+  - Stand\
     und Wohnort des Vaters
-  - Alter des Bräuti-
-    gams.
-  - Ob Eltern oder
+  - Alter des Bräutigams.
+  - Ob Eltern oder\
     Vormund die Einwilligung gegeben,
     und wie solches geschehen.
   - Ob er schon
@@ -42,10 +41,10 @@ Translation of page header: **Proclaimed (banns) and Married in the year 1820**.
   - Alter
     der
     Braut.
-  - Ob Eltern oder
-    Vormund die Ein-
-    willingung gegeben,
-    und wie solches
+  - Ob Eltern oder\
+    Vormund die Ein-\
+    willingung gegeben\,
+    und wie solches\
     geschehen.
   - Ob sie schon
     verehelicht gewesen
@@ -59,17 +58,13 @@ Translation of page header: **Proclaimed (banns) and Married in the year 1820**.
     der
     die Kopulation verrichtet.
 * - 7
-  - Christian Friede-
-    rich Bleeke, Ein-
-    lieger in Leeteln
+  - Christian Friederich Bleeke, Einlieger in Leeteln
   - Christian
-    Friederich Blee-
-    ke Col[o]n No. 1[3]
+    Friederich Bleeke Col[o]n No. 1[3]
     in Leeteln
   - 25 Ja.
   - Mündig
-  - Unvereh-
-    licht
+  - Unverehlicht
   - Luise Eleonore
     Krückeberg
   - Jobst Heinrich
@@ -77,10 +72,8 @@ Translation of page header: **Proclaimed (banns) and Married in the year 1820**.
     10 in Bärenbusch
   - 30 Ja.
   - Mündig
-  - Unvereh-
-    licht
-  - Sechs und zwan-
-    zigsten (26)
+  - Unverehlicht
+  - Sechs und zwanzigsten (26)
     Novemb.
   - v. z. Pr. Schütz
 ```

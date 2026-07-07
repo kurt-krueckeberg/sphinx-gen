@@ -56,7 +56,6 @@ records.
 
 :::{admonition} Anerbe Explained
 
-```{note}
 The groom is described as the "Sohn u[nd] **Anerbe** des Johann Heinrich Jäger (son an principal heir of Johann Heinrich Jäger)".
 **Anerbe** was part of the **Anerbenrecht**:
 
@@ -72,7 +71,6 @@ Anerbe
 
   - "principal heir[to a landed estate]; single heir"
   - single heir
-```
 
 In 1826, in Schaumburg-Lippe, "Anerbe" had a specific legal and social meaning
 rooted in German inheritance practices. Here’s what it meant in your context:
