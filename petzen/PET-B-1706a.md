@@ -26,7 +26,7 @@ gehalten, und Ilse Maria genant wurde.
 
 ```{div} doc-text
 On 20 January, the shepherd on the Höckersau, Jost Becker’s son-in-law, had
-a daughter baptized, who was held at baptism by the Meyersche on the
+a daughter baptized. She was presented at baptism by the Meyer woman on the
 Höckersau and was named Ilse Maria.
 ```
 
