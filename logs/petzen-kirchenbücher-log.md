@@ -97,5 +97,7 @@ in 1700 on image 96 were reviewed.
   - Father :Henirch Vahlsing Schäfer 
 * - **NOTE**: >>The images from to image 142 have not been reviewed.<<
   - 
+* - 142 / 1730
+  - Father: Hans Herman Weiland.
 ```
 
