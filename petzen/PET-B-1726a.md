@@ -43,6 +43,4 @@ Winsen and the wife of Johann Br[aun]s from Evesen
 images, *Archion* ,(<https://www.archion.de/p/75745b577e/> : 19 May 2025)
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784, image 136 of 322,
-right page
-
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 136 of 322
