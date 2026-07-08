@@ -9,13 +9,13 @@ Getrauten und Gestorbenen 1641-1784".
 ## Transliteration
 
 ```{div} doc-text
-d 14t Octobr Jobst Heinrich Weiland aus Berenbuschalt 59 Jahr
+d 14t Octobr Jobst Heinrich Weiland aus Berenbusch alt 59 Jahr
 ```
 
 ## Transliteration
 
 ```{div} doc-text
-On October 14{sup}`th` Jobst Heinrich Weiland of Berenbuschalt [died] 59 years of age.
+On October 14{sup}`th` Jobst Heinrich Weiland of Berenbusch [died] 59 years of age.
 ```
 
 ## Citation
