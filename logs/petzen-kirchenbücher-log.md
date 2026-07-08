@@ -99,5 +99,7 @@ in 1700 on image 96 were reviewed.
   - 
 * - 142 / 1730
   - Father: Hans Herman Weiland.
+* - 144
+  - Father : Vahlsing. Daughter: Ilse Margaretha  
 ```
 
