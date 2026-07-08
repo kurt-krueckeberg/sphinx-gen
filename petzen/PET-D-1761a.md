@@ -23,7 +23,7 @@ On October 14{sup}`th` Jobst Heinrich Weiland of Berenbuschalt [died] 59 years o
 (PET-D-1761a)=
 
 “Archion Protestant Kirchenbücher Portal”, database with images, Archion
-(https://www.archion.de/p/4685e02676/ : 8 July 2026), path: Niedersachsen >
+(<https://www.archion.de/p/4685e02676/> : 8 July 2026), path: Niedersachsen >
 Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getrauten und
 Gestorbenen, 1641-1784 > Image 186 of 239
