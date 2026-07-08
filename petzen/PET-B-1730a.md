@@ -6,8 +6,6 @@ The 17 December 1730 baptism of Sophia Margarthe Bleeck is found on
 {ref}`image 144 <PET-B-1730a>`, the left page, of the "Verzeichnis der
 Getauften und Konfirmierten 1641-1784".
 
-## Baptism Record
-
 ```{figure} images/petzen-band1a-img144-bleeck.png
 :class: image-override
 ```
