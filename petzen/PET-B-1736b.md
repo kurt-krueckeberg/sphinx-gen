@@ -16,7 +16,7 @@ listed.
 ## Transliteration
 
 ```{div} doc-text
-Octob d 7tn Weiland Soldat von Evesen ein Söhnliein: Hanß
+Octob d 7tn Weiland Soldat von Evesen ein Söhnlein: Hanß
 Heinrich. Gewatter Hardtung v. Evesen Schäfer. Weiland [M?]ön[ck]hof
 ```
 
