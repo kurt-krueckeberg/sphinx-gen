@@ -99,7 +99,11 @@ in 1700 on image 96 were reviewed.
   - 
 * - 142 / 1730
   - Father: Hans Herman Weiland.
-* - 144
+* - 144 / 1731, right page
   - Father : Vahlsing. Daughter: Ilse Margaretha  
+* - 145 
+  - Father: Hermann Henrich Weiland. Child: Anna Ilsabe
+* - 146
+  - father: Jobst Henrich Vahlsing. Child: Johann Henrig
 ```
 
