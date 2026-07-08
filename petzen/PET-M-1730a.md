@@ -11,9 +11,9 @@
   - Bride's Name
   - Bride's Residence
 * - 17 September 1730
-  - Hans Hermann Weÿland
+  - Hans Hermann Weÿland, FamilySearch id: PXMY-D76
   - Berenbusch
-  - Ilsa Maria Vahlsing 
+  - Ilsa Maria Vahlsing , FamilySearch id: G8S2-LZ1
   - Evesen
 ```
 

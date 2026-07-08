@@ -36,7 +36,7 @@ Marriages starting in 1680 on image number 17 were reviewed.
 * - 66
   - Weiland marriage
 * - 67
-  - Weiland[Bünte Hofname?] marriage
+  - Weiland[is Bünte his Hofname?] marriage
 ```
 
 ## Review of Deaths 1641-1784
