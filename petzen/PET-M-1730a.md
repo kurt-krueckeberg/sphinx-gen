@@ -36,8 +36,9 @@ Bückeburg mit Ilsa[?] Maria[?] Vahlsing aus Evesen copuliert
 ## Translation
 
 ```{div} doc-text
-On September 17, Hans Hermann Weÿland of Berenbusch, who was a castle
-grenadier at Bückeburg, was married to Ilsa[?] Maria[?] Vahlsing of Evesen.
+On 17 September, Hans Hermann Weÿland of Berenbusch, who was a grenadier
+serving at Bückeburg Palace, was married to Ilsa[?] Maria[?] Vahlsing of
+Evesen.
 ```
 
 ## Citation
