@@ -1,6 +1,7 @@
 # 1790 Jobst Heinrich Weiland Marriage
 
-On 19 September 1790, Jobst Heinrich Weiland from Berenbush No 1 married Anna Catharina Margaretha Mohtin from Berenbush No 7.
+On 19 September 1790, Jobst Heinrich Weiland from Berenbush No 1 married
+Anna Catharina Margaretha Mohtin from Berenbush No 7.
 
 ## Record
 
@@ -8,7 +9,8 @@ The marriage is on {ref}`page 5, entry 10 <PET-M-1790b>` of Petzen Kirchenbuch v
 
 ### Image of Marriage Record
 
-The marriages of Johann Heinrich Kruckeberg and Jobst Heinrich Weiland are recorded are on pages 4 and 5 on entries 8 and 10:
+The marriages of Johann Heinrich Kruckeberg and Jobst Heinrich Weiland are
+recorded are on pages 4 and 5 on entries 8 and 10:
 
 ```{figure} images/petzen-band2-img5-1.jpg
 :class: image-override
@@ -23,9 +25,6 @@ indicates she died in 1849.
 ## Transliteration and Translation
 
 ```{div} doc-text
-
-                       Married Couples 1790                                5
-
 8) d 2 Aug ist copuliert Johann Heinrich Kruckeberg
     aus Berenbusch No 10 mit Jfr Anna Catharine Sophia
     Krömern aus Evesen No 19.
@@ -34,8 +33,8 @@ indicates she died in 1849.
      Berenbush No 1 mit Jfr Anna Catharina Margaretha
      Mohtin aus Berenbush No 7.
 
-13) d 12th October ist copulirt Jobst Heinrich Kruckeberg aus Berenbusch
-                                             +1849
+13) d 12th October ist copulirt Jobst Heinrich Kruckeberg aus Berenbusch\
+`                                            +1849`
     No 10 ein Schuster mit Jfr Philippine Christine Eleonore Tegtmeyern aus
     Meissen[faded, ambiguous] N:4
 ```
@@ -52,8 +51,8 @@ Translation
      Berenbush No 1 was married to maiden Anna Catharina Margaretha
      Mohtin from Berenbush No 7.
 
-13) date 12th October Jobst Heinrich Kruckeberg from Berenbusch
-                                             +1849
+13) date 12th October Jobst Heinrich Kruckeberg from Berenbusch\
+`                                             +1849`
     No 10 a cobbler was married to Philippine Christine Eleonore Tegtmeyer from
     Meinsen[faded, ambiguous] N:4
 ```
