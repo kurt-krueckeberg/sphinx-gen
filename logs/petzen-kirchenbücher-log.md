@@ -65,7 +65,7 @@ in 1700 on image 96 were reviewed.
 
 * - Image Number/Year
   - Notes
-* - 102
+* - 102 DONE
   - Father: Hans Hinrich Weiland. Child: ? 
 * - 105 
   - Father: Tönnis Kuhlmann
