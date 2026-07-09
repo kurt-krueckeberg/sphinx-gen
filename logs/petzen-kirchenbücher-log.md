@@ -62,14 +62,15 @@ in 1700 on image 96 were reviewed.
 
 ```{list-table}
 :header-rows: 1
-
 * - Image Number/Year
   - Notes
+* - 67 / 1684  On FamilySearch
+  - Child: Johann Tönnies Weiland 
 * - 102 DONE
   - Father: Hans Hinrich Weiland. Child: ? 
-* - 105 
+* - 105
   - Father: Tönnis Kuhlmann
-* - 106
+* - 106 DONE
   - Father: Henrich Weiland
 * - 112
   - Johann Weiland
