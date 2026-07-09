@@ -17,7 +17,7 @@ down, ending the sentence with "was".
 ```
 
 ```{div} doc-text
-den 24. Henrich Weÿlandt vom Berenbusch einen
+den 24. [Mey] Henrich Weÿlandt vom Berenbusch einen
 Sohn tauffen laßen, welcher Hans Herm[ann] benamset, der Ge-
 vatter war.
 ```
@@ -25,7 +25,7 @@ vatter war.
 ## Translation
 
 ```{div} doc-text
-On the 24th, Henrich Weÿlandt from Berenbusch had a son baptized, who was named Hans Hermann; the godfather was...
+On the 24{sup}`th` of May, Henrich Weÿlandt from Berenbusch had a son baptized, who was named Hans Hermann; the godfather was...
 [name omitted from record by scribe]
 ```
 
