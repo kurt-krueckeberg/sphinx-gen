@@ -66,7 +66,7 @@ in 1700 on image 96 were reviewed.
   - Notes
 * - 67 / 1684  Put on FamilySearch
   - Child: Johann Tönnies Weiland 
-* - 102  Put on gen.kru.org
+* - 102  Put on gen.krueckeberg.org
   - Father: Hans Hinrich Weiland. Child: ? 
 * - 105
   - Father: Tönnis Kuhlmann
@@ -77,7 +77,7 @@ in 1700 on image 96 were reviewed.
 * - 118 / 1710 Put on FamilySearch
   - Child: Johann Wilhem Weiland in Petzen
 * - 119 ??? NOT CORRECT NAME?? 
-  - Hans Hinrich Weiland aus Berenbusch
+  - Father: Hans Hinrich Weiland aus Berenbusch. Child: Ilse Margaretha
 * - 120 / 1712 On both my site and familysearch
   - Father: Henrich Arend Vahlsing
 * - 122 / <-- Resume
