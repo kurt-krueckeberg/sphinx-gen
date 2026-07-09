@@ -72,7 +72,7 @@ in 1700 on image 96 were reviewed.
   - Father: Tönnis Kuhlmann
 * - 106 DONE
   - Father: Henrich Weiland
-* - 112
+* - 112     <--- RESUME
   - Johann Weiland
 * - 118
   - Weiland
