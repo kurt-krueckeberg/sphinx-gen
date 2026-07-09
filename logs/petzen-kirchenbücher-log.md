@@ -64,23 +64,23 @@ in 1700 on image 96 were reviewed.
 :header-rows: 1
 * - Image Number/Year
   - Notes
-* - 67 / 1684  On FamilySearch
+* - 67 / 1684  Put on FamilySearch
   - Child: Johann Tönnies Weiland 
-* - 102 DONE
+* - 102  Put on gen.kru.org
   - Father: Hans Hinrich Weiland. Child: ? 
 * - 105
   - Father: Tönnis Kuhlmann
-* - 106 DONE
+* - 106  Put on gen.kru.org
   - Father: Henrich Weiland
-* - 112     On FamilySearch
+* - 112     Put on FamilySearch
   - Rather: Johann Tönnies Weiland Child: Johann Henrich Weiland
-* - 118 / 1710 On FamilySearch
+* - 118 / 1710 Put on FamilySearch
   - Child: Johann Wilhem Weiland in Petzen
-* - 119
+* - 119 ??? NOT CORRECT NAME?? 
   - Hans Hinrich Weiland aus Berenbusch
-* - 120 / 1712
+* - 120 / 1712 On both my site and familysearch
   - Father: Henrich Arend Vahlsing
-* - 122 /
+* - 122 / <-- Resume
   - Father: Johann Weiland. Child: Johann Hinrich Weiland
 * - 123
   - Father: Hans Henirch Weiland. Child: Wilhelm
