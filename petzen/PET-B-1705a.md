@@ -17,9 +17,8 @@ down, ending the sentence with "was".
 ```
 
 ```{div} doc-text
-den 24. [Mey] Henrich Weÿlandt vom Berenbusch einen
-Sohn tauffen laßen, welcher Hans Herm[ann] benamset, der Ge-
-vatter war.
+den 24. [Mey] Henrich Weÿlandt vom Berenbusch einen Sohn tauffen laßen,
+welcher Hans Herm[ann] benamset, der Gevatter war.
 ```
 
 ## Translation
