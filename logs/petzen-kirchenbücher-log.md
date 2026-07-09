@@ -72,10 +72,10 @@ in 1700 on image 96 were reviewed.
   - Father: Tönnis Kuhlmann
 * - 106 DONE
   - Father: Henrich Weiland
-* - 112     <--- RESUME
-  - Johann Weiland
-* - 118
-  - Weiland
+* - 112     On FamilySearch
+  - Rather: Johann Tönnies Weiland Child: Johann Henrich Weiland
+* - 118 / 1710 On FamilySearch
+  - Child: Johann Wilhem Weiland in Petzen
 * - 119
   - Hans Hinrich Weiland aus Berenbusch
 * - 120 / 1712
