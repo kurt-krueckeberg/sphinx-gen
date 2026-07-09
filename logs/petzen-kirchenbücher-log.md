@@ -62,49 +62,71 @@ in 1700 on image 96 were reviewed.
 
 ```{list-table}
 :header-rows: 1
-* - Image Number/Year
-  - Notes
+* - Image Number/Year/Notes
+  - Child
+  - Father
 * - 67 / 1684  Put on FamilySearch
-  - Child: Johann Tönnies Weiland 
+  - Johann Tönnies Weiland 
+  -
 * - 102  Put on gen.krueckeberg.org
-  - Father: Hans Hinrich Weiland. Child: ? 
+  - 
+  - Hans Hinrich Weiland
 * - 105
-  - Father: Tönnis Kuhlmann
+  -
+  - Tönnis Kuhlmann
 * - 106  Put on gen.kru.org
-  - Father: Henrich Weiland
+  -
+  - Henrich Weiland
 * - 112     Put on FamilySearch
-  - Rather: Johann Tönnies Weiland Child: Johann Henrich Weiland
+  - Johann Henrich Weiland
+  - Johann Tönnies Weiland 
 * - 118 / 1710 Put on FamilySearch
-  - Child: Johann Wilhem Weiland in Petzen
+  - Johann Wilhem Weiland in Petzen
+  -
 * - 119 ??? NOT CORRECT NAME?? 
-  - Father: Hans Hinrich Weiland aus Berenbusch. Child: Ilse Margaretha
+  - Ilse Margaretha Weiland
+  - Hans Hinrich Weiland aus Berenbusch. 
 * - 120 / 1712 On both my site and familysearch
-  - Father: Henrich Arend Vahlsing
+  -
+  - Henrich Arend Vahlsing
 * - 122 / <-- Resume
-  - Father: Johann Weiland. Child: Johann Hinrich Weiland
+  - Johann Hinrich Weiland
+  - Johann Weiland. 
 * - 123
-  - Father: Hans Henirch Weiland. Child: Wilhelm
+  - Wilhelm
+  - Hans Henirch Weiland
 * - 124 / 1716
-  - Vahlsing's, Schäfter auf der Höckersau, son Johann Wilhelm. 
+  - Johann Wilhelm 
+  - Vahlsing's, Schäfter auf der Höckersau 
 * - 125 / 1717
+  -
   - Father: Johann Weiland aus Nammen
 * - 125 / 1718
-  - Father: Hans Henrich Weiland aus Berenbusch
+  -
+  - Hans Henrich Weiland aus Berenbusch
 * - 128 
-  - Father: Hans Henrich [M/W]ailand. Child: Hans Henrich
+  - Hans Henrich
+  - Hans Henrich [M/W]ailand 
 * - 128 / right side of page
+  - 
   - [something] Vahlsing
 * - 129 / top left <-- Add to my webiste and FamilySearch
-  - Father :Henirch Vahlsing Schäfer 
+  - 
+  - Henirch Vahlsing Schäfer 
 * - **NOTE**: >>The images from to image 142 have not been reviewed.<<
   - 
+  -
 * - 142 / 1730
-  - Father: Hans Herman Weiland.
+  -
+  - Hans Herman Weiland.
 * - 144 / 1731, right page
-  - Father : Vahlsing. Daughter: Ilse Margaretha  
+  - Ilse Margaretha  
+  - Vahlsing 
 * - 145 
-  - Father: Hermann Henrich Weiland. Child: Anna Ilsabe
+  - Anna Ilsabe
+  - Hermann Henrich Weiland 
 * - 146
-  - father: Jobst Henrich Vahlsing. Child: Johann Henrig
+  - Johann Henrig
+  - Jobst Henrich Vahlsing 
 ```
 
