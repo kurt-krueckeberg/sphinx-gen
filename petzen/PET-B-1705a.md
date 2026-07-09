@@ -5,20 +5,28 @@
 The baptism of Hans Hermann Weiland is on {ref}`image 106 <PET-B-1705a>` of the Petzen "Verzeichnis der Getauften
 und Konfirmierten 1641-1784".
 
-```{figure} images/petzen-band1a-img99.jpg
+```{figure} images/petzen-band1a-img106.jpg
 :class: image-override
 ```
 
 ## Transliteration
 
+```{note}
+The baptism sponsors name is missing because the scribe never wrote it
+down, ending the sentence with "was".
+```
+
 ```{div} doc-text
-den 24, Henrich Weÿland vom Berenbusch einen Sohn tauft laßen, welcher
-Hans Herm[ann] benamst, 
+den 24. Henrich Weÿlandt vom Berenbusch einen
+Sohn tauffen laßen, welcher Hans Herm[ann] benamset, der Ge-
+vatter war.
 ```
 
 ## Translation
 
 ```{div} doc-text
+On the 24th, Henrich Weÿlandt from Berenbusch had a son baptized, who was named Hans Hermann; the godfather was...
+[name omitted from record by scribe]
 ```
 
 ## Citation
