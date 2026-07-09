@@ -58,74 +58,116 @@ starting in 1670 on image 87 were reviewed.
 Petzen baptisms recorded in  **Verzeichnis der Getauften und Konfirmierten 1641-1784** starting
 in 1700 on image 96 were reviewed.
 
-**TODO:** I believe images up to 143 were reviewed.
+**TODO:** Add the ? ? Weiland that lives in Nammen as a new person in the
+FamilySearch tree.
 
 ```{list-table}
 :header-rows: 1
-* - Image Number/Year/Notes
+:widths: 1 2 5 5 5
+
+* - Image Number
+  - Year
+  - Notes
   - Child
   - Father
-* - 67 / 1684  Put on FamilySearch
+* - 67 
+  - 1684
+  -  On FamilySearch
   - Johann Tönnies Weiland 
   -
-* - 102  Put on gen.krueckeberg.org
+* - 102
+  -
+  - On gen.krueckeberg.org
   - 
   - Hans Hinrich Weiland
 * - 105
   -
+  -
+  -
   - Tönnis Kuhlmann
-* - 106  Put on gen.kru.org
+* - 106  
+  -
+  - On gen.kru.org 
   -
   - Henrich Weiland
-* - 112     Put on FamilySearch
+* - 112
+  -
+  - On FamilySearch
   - Johann Henrich Weiland
   - Johann Tönnies Weiland 
-* - 118 / 1710 Put on FamilySearch
+* - 118 
+  - 1710
+  - On FamilySearch
   - Johann Wilhem Weiland in Petzen
   -
-* - 119 ??? NOT CORRECT NAME?? 
+* - 119
+  -
+  - ??? NOT CORRECT NAME?? 
   - Ilse Margaretha Weiland
   - Hans Hinrich Weiland aus Berenbusch. 
-* - 120 / 1712 On both my site and familysearch
+* - 120 
+  - 1712
+  - On both my site and familysearch
   -
   - Henrich Arend Vahlsing
-* - 122 / <-- Resume
+* - 122
+  -
+  - On FamilySearch
   - Johann Hinrich Weiland
   - Johann Weiland. 
 * - 123
+  -
+  -
   - Wilhelm
   - Hans Henirch Weiland
-* - 124 / 1716
+* - 124 
+  - 1716
+  -
   - Johann Wilhelm 
   - Vahlsing's, Schäfter auf der Höckersau 
-* - 125 / 1717
+* - 125 
+  - 1717
+  -
   -
   - Father: Johann Weiland aus Nammen
-* - 125 / 1718
+* - 125 
+  - 1718
+  -
   -
   - Hans Henrich Weiland aus Berenbusch
 * - 128 
+  -
+  -
   - Hans Henrich
   - Hans Henrich [M/W]ailand 
-* - 128 / right side of page
+* - 128
+  - 
+  - 
   - 
   - [something] Vahlsing
-* - 129 / top left <-- Add to my webiste and FamilySearch
+* - 129
+  - 
+  - 
   - 
   - Henirch Vahlsing Schäfer 
-* - **NOTE**: >>The images from to image 142 have not been reviewed.<<
-  - 
+* - 142
+  - 1730
   -
-* - 142 / 1730
   -
   - Hans Herman Weiland.
-* - 144 / 1731, right page
+* - 144
+  - 1731
+  -
   - Ilse Margaretha  
   - Vahlsing 
 * - 145 
+  -
+  -
   - Anna Ilsabe
   - Hermann Henrich Weiland 
 * - 146
+  -
+  -
   - Johann Henrig
   - Jobst Henrich Vahlsing 
 ```
