@@ -1,4 +1,4 @@
-# 1705 Hans Hermann Weilanbd Baptism
+# 1705 Hans Hermann Weiland Baptism
 
 ## Record
 
