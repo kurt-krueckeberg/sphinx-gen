@@ -130,7 +130,7 @@ FamilySearch tree.
   - On FamilySearch
   - Catherina Maria Weiland aus Nammen
   - Johann Weiland aus Nammen
-* - 125 <-- Resume
+* - 125 <-- Resume. The father seems to be a new person?
   - 1718
   -
   -
