@@ -20,29 +20,6 @@ welcher von Johann Brand aus Nammen Johann Henrich genandt worden.
 ## Translation
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Citation
 
 (PET-B-1714a)=
