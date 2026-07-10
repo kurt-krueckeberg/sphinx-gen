@@ -12,18 +12,19 @@
 * - 15 Dec. 1812
   - 20 Dec. 1812
   - #31 Röcke
-  - 4{sup}`th` child
-  - 3{sup}`rd` son 
+  - 4{sup}`th` child\
+    3{sup}`rd` son 
 ```
 
 ```{list-table} Parentage
 :header-rows: 1
 
 * - Father
+  - Residence
   - Occupation
   - Mother
-  - Residence
 * - Friedrich Wilhelm Weiland
+  - #31 Röcke
   - Schuster at #31 Röcke
   - Caroline Louise Lauen\
     from Röcke
