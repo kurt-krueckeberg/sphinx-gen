@@ -14,6 +14,7 @@ The birth and baptism of Louise Dorothee Weiland is on {ref}`image 115, pages 22
 
 ```{list-table} Geboren im Kirchspiele Petzen im Jahr 1811 (Born in the Petzen parish in the year 1811)
 :header-rows: 1
+:widths: 1 2 2 2 2 2 2 2 2
 
 * - Zahl
   - Name des Kindes
