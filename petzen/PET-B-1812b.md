@@ -1,14 +1,45 @@
 # 1812 Ernst Heinrich Weiland Baptism
 
-This image gives extensive information:
+## Family and Other Information
 
-- Birth order, including order of sons or daughters
-- Date born, including time of day, place of birth
-- Date and place of baptism
-- Name of father, his occupation, religion and birth place
-- Name of mother, her religion and birth place
-- Residence of the parents
-- Baptismal witnesses [sponsors] of the child
+```{list-table} Birth Information
+:header-rows: 1
+:widths:
+
+* - Birthdate
+  - Baptism date
+  - Birthplace
+  - Birth Order
+* - 15 Dec. 1812
+  - 20 Dec. 1812
+  - #31 Röcke
+  - 4{sup}`th` child
+  - 3{sup}`rd` son 
+```
+
+```{list-table} Parentage
+:header-rows: 1
+:widths:
+
+* - Father
+  - Occupation
+  - Mother
+  - Residence
+* - Friedrich Wilhelm Weiland
+  - Schuster at #31 Röcke
+  - Caroline Louise Lauen\
+    from Röcke
+```
+
+```{list-table} Baptism sponsors
+:header-rows: 1
+:widths:
+
+* - Name
+  - Residence
+* - Johann Tönnies Wöbking
+  - #4 Röcke
+```
 
 ## Record
 
