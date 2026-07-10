@@ -6,7 +6,7 @@ The baptism of Hans Henrig (Henrich?) from Peezen (Petzen) is on {ref}`image 60 
 of the Petzen church register *Verzeichnis der Getaufen und Konfirmierten
 1641-1784*.
 
-```{figure} images/
+```{figure} images/petzen-=band1a-img60.png
 :class: image-override
 ```
 
