@@ -4,7 +4,6 @@
 
 ```{list-table} Birth Information
 :header-rows: 1
-:widths:
 
 * - Birthdate
   - Baptism date
@@ -19,7 +18,6 @@
 
 ```{list-table} Parentage
 :header-rows: 1
-:widths:
 
 * - Father
   - Occupation
@@ -33,7 +31,6 @@
 
 ```{list-table} Baptism sponsors
 :header-rows: 1
-:widths:
 
 * - Name
   - Residence
