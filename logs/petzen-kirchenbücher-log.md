@@ -130,11 +130,12 @@ FamilySearch tree.
   - On FamilySearch
   - Catherina Maria Weiland aus Nammen
   - Johann Weiland aus Nammen
-* - 125 <-- Resume. The father seems to be a new person?
+* - 125 <-- Resume
   - 1718
   -
   -
-  - Hans Henrich Weiland aus Berenbusch
+  - Hans Henrich Weiland aus Berenbusch\
+    >> Appears to be a new person <<
 * - 128 
   -
   -
