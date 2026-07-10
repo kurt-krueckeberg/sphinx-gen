@@ -82,7 +82,7 @@ FamilySearch tree.
   - Hans Hinrich Weiland
 * - 105
   -
-  -
+  - Skipped
   -
   - Tönnis Kuhlmann
 * - 106  
@@ -115,22 +115,22 @@ FamilySearch tree.
   - On FamilySearch
   - Johann Hinrich Weiland
   - Johann Weiland. 
-* - 123
-  -
-  -
+* - 123 
+  - 1715
+  - On FamilySearch
   - Wilhelm
-  - Hans Henirch Weiland
+  - Hans Henirch Weiland aus Berebusch:
 * - 124 
   - 1716
-  -
+  - On FamilySearch
   - Johann Wilhelm 
   - Vahlsing's, Schäfter auf der Höckersau 
 * - 125 
   - 1717
-  -
-  -
-  - Father: Johann Weiland aus Nammen
-* - 125 
+  - On FamilySearch
+  - Catherina Maria Weiland aus Nammen
+  - Johann Weiland aus Nammen
+* - 125 <-- Resume
   - 1718
   -
   -
