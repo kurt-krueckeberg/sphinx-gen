@@ -38,7 +38,7 @@ Marriages starting in 1680 on image number 17 were reviewed.
   - Johann Heinrich Weiland aus Evesen and Sophie Elisabeth Ahrens
 * - 64
   - Johann Heinrich Weiland, Einlieger in Berenbusch and Anna Catharina
-    Elisabeth Bornemann 
+  - Elisabeth Bornemann 
 * - 66
   - 1781
   - Heinrich Ludowig Weiland and Dorothee Steding
