@@ -56,7 +56,8 @@ starting in 1670 on image 87 were reviewed.
 :header-rows: 1
 
 * - Image Number
-  - Notes
+  - Year
+  - Name
 * -
   -
 ```
