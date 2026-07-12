@@ -42,7 +42,7 @@ Thode’s define Hausfrau as:
 * - 4
   - Caroline Sophie
     Weilands
-  - des 2{suop}`ten` Kind u.
+  - des 2{sup}`ten` Kind u.
     2{sup}`ten` Tocher
   - ist geboren
     d. 23{sup}`ten` Jan.
