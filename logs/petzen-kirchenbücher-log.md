@@ -22,21 +22,29 @@ Marriages starting in 1680 on image number 17 were reviewed.
 :header-rows: 1
 
 * - Image Number
-  - Notes
+  - Year
+  - Marriage Parties
 * - 20
+  - 1689
   - Johann Fridirch Cuhlmann marriage to Anna Catherina [Dinges?].
 * - 58
-  - Weiland marriage
+  - 1770
+  - Johann Christian and Chritina Ilsabei Steding
 * - 61
-  - Weiland marriage
+  - 1774
+  - Johann heinrich Weiland and Anna Margaretha Ruft
 * - 62
-  - Weiland marriage
+  - 1776
+  - Johann Heinrich Weiland aus Evesen and Sophie Elisabeth Ahrens
 * - 64
-  - Weiland marriage
+  - Johann Heinrich Weiland, Einlieger in Berenbusch and Anna Catharina
+    Elisabeth Bornemann 
 * - 66
-  - Weiland marriage
+  - 1781
+  - Heinrich Ludowig Weiland and Dorothee Steding
 * - 67
-  - Weiland[is Bünte his Hofname?] marriage
+  -
+  - Weiland/Bünte aus Nammen and Prange 
 ```
 
 ## Review of Deaths 1641-1784
