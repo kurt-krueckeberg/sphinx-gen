@@ -78,9 +78,9 @@ Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
     Weiland
   - the 7{sup}`th` child and
     3{sup}`rd` son
-  - born the
-    11{sup}`th` Jan. at
-    8 a.m. in Evesen
+  - born the morning of
+    11{sup}`th` Jan. in
+    Evesen
   - was baptized
     on 14{sup}`th` Jan. in the church
   - Friedrich Wilhelm
