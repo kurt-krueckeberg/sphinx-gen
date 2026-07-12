@@ -1,5 +1,20 @@
 # 1702 Jobst Hinrich Weilandt Baptism
 
+## Family Relationship and Other Facts
+
+```{list-table}
+:header-rows:
+
+* - Father
+  - Residence
+  - Son
+  - Sponsor
+* - Hans Hinrich Weiland
+  - Berenbusch
+  - [Junst] Hinrich
+  - Son on Diderig Sander
+```
+
 ## Record
 
 The baptism of Jobst Hinrich Weilandt is on {ref}`image 1029 <PET-B-1702a>` of the Petzen "Verzeichnis der
