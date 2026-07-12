@@ -7,7 +7,7 @@ Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ## Transliteration
 
-```{list-table} 266 Geboren im Kirchspiele Petzen (births in Petzen church parish) im Jahr (in the year) 1815 267
+```{list-table} 
 :header-rows: 1
 :widths: 1 2 2 2 2 2 2 2 2
 
@@ -52,7 +52,7 @@ Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ## Translation
 
-```{list-table} 266 Geboren im Kirchspiele Petzen (births in Petzen church parish) im Jahr (in the year) 1815 267
+```{list-table} 
 :header-rows: 1
 :widths: 1 2 2 2 2 2 2 2 2
 
