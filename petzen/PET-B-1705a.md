@@ -12,7 +12,7 @@
 * - Henrich Weiland
   - Berenbusch
   - Hans Hermann Weiland
-  - [done given]
+  - [none given]
 ```
 
 ## Record
