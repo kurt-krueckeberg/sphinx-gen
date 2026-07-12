@@ -42,12 +42,12 @@ Thode’s define Hausfrau as:
 * - 4
   - Caroline Sophie
     Weilands
-  - des 2ten Kind u.
-    2ten Tocher
+  - des 2{suop}`ten` Kind u.
+    2{sup}`ten` Tocher
   - ist geboren
-    d. 23ten Jan.
+    d. 23{sup}`ten` Jan.
     Abends 8. Uhr in Evesen
-  - wurde getauft d. 29thn Januar
+  - wurde getauft d. 29{sup}`th` Januar
     in Petzen
   - Friedrich Wilhelm
     Weiland n. 20 in
@@ -92,9 +92,9 @@ Thode’s define Hausfrau as:
   - the 2nd child and
     2nd daugher
   - born on
-    23rd Jan.
+    23{sup}`rd` Jan.
     at 8p.m. in Evesen
-  - was baptized on 29th January
+  - was baptized on 29{sup}`th` January
     in Petzen
   - Friedrich Wilhelm
     Weiland n. 20 in
@@ -109,7 +109,7 @@ Thode’s define Hausfrau as:
     at n. 20
     in Evesen
   - Caroline Sieckmeiern
-    housewife[or landlady] from n. 4. in
+    housewife from n. 4. in
     Evesen
 ```
 
