@@ -11,7 +11,7 @@
   - Sponsor
 * - Hans Hinrich Weiland
   - Berenbusch
-  - [Junst] Hinrich
+  - [Junst?] Hinrich
   - Son on Diderig Sander
 ```
 
