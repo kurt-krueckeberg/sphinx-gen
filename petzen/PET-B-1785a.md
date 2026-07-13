@@ -1,17 +1,9 @@
 # 1785 Philippiine Louise Weiland Baptism
 
-## Citation
+## Record
 
-Philippine Louis Weiland’s baptism is found on {ref}`image 34,
-page 62 <PET-B-1785a>` of Petzen Kirchenbuch volume 2.
-
-## Philippine Louise Weiland 1785
-
-On 10 July 1785 Philippina Louise Weiland was baptized, the daughter of
-Friederich Wilehlm Weilands from Evesen and his wife Philippine. The
-sponsor was Philippine Maria Beuken of Meinsen.
-
-## Baptism Image 34
+Philippine Louis Weiland’s baptism is found on {ref}`image 34, page 62 <PET-B-1785a>` of the Petzen 
+*Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827*.
 
 ```{figure} images/petzen-band2-img34.jpg
 :class: image-override
