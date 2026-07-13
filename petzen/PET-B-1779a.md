@@ -2,9 +2,8 @@
 
 ## Family Relationship and Other Facts
 
-
 ```{list-table}
-:header-rows:
+:header-rows: 1
 
 * - Infant
   - Father
