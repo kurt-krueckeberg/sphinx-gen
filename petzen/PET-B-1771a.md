@@ -11,7 +11,7 @@
   - Mother
   - Dwelling
 * - Anna Philippina Maria Weiland
-  - 17 March 1771
+  - 17 Mar. 1771
   - Fridrich Wilhelm Weiland
   - Anna Maria Weiland
   - no. 20 Evesen
