@@ -5,17 +5,11 @@
 The stillbirth of the little son of Johann Christian Weiland in 1778 is on {doc}`image 259, right page <PET-B-1778a>`, of the
 Petzen "Verzeichnis der Getaufte und Confirmirte, 1641-1784"
 
-## Image 259
-
-```{figure} images/petzen-band1a-img259-overview.jpg
-:class: image-override
-```
-
 ```{figure} images/petzen-band1a-img259.jpg
 :class: image-override
 ```
 
-Transliteration adn Translation
+## Transliteration 
 
 ```{div} doc-text
 18) d 27ten Jul: ist des Johan Christian Weilands Einlieger in
@@ -26,6 +20,8 @@ Transliteration adn Translation
 ```{note}
 Isabein is a short form of Elisabeth
 ```
+
+## Translation
 
 ```{div} doc-text
 18) On 27th July the begotten little son of Johan Christian Weiland
