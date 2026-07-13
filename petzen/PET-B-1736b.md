@@ -9,7 +9,7 @@
   - Residence
   - Son
   - Sponsors
-* - Soldier Weiland Evesen
+* - Soldier Weiland
   - Evesen
   - Hans Hrnrich Weiland
   - Hardtung, sheperd, Weiland, Mönckhof
