@@ -1,5 +1,18 @@
 # 1761 Jobst Heinrich Weiland Death
 
+## Family and Other Facts
+
+```{list-table}
+:header-rows: 1
+
+* - Decedent's Name
+  - Residence
+  - age
+* - Jobst Heinrich Weiland 
+  - Berenbusch
+  - 59
+```
+
 ## Record
 
 The 14 October 1761 death of Jobst Heinrich Weiland is found on
