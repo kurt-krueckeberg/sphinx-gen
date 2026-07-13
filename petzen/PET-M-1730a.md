@@ -11,13 +11,16 @@
   - Bride's Name
   - Bride's Residence
 * - 17 Sept. 1730
-  - Hans Hermann Weÿland\
-    FamilySearch: [PXMY-D76](https://www.familysearch.org/en/tree/person/details/PXMY-D76)
+  - Hans Hermann Weÿland
   - Berenbusch
-  - Ilsa Maria Vahlsing\
-   FamilySearch: [G8S2-LZ1](https://www.familysearch.org/en/tree/person/details/G8S2-LZ1)
+  - Ilsa Maria Vahlsing
   - Evesen
 ```
+
+FamilySearch Tree ids:
+
+- Hans Hermann Weÿland: [PXMY-D76](https://www.familysearch.org/en/tree/person/details/PXMY-D76)
+- Ilsa Maria Vahlsing: [G8S2-LZ1](https://www.familysearch.org/en/tree/person/details/G8S2-LZ1)
 
 ## Record
 
