@@ -1,7 +1,5 @@
 # 1778 Sophia Eleonora Weiland Baptism
 
-This is the baptism record of varl Friderich Gottlieb Krückeberg from "database with images", image 261.
-
 ## Record
 
 Sophia Elonora Weiland’s baptism is on {ref}`image 261 <PET-B-1778c>`, right page, entry no. 29, from the
