@@ -10,10 +10,10 @@
   - Groom's Residence
   - Bride's Name
   - Bride's Residence
-* - 14 February 1745
+* - 14 Feb1. 745
   - Henrich Weiland
   - Berenbusch
-  - Sophia Elisabeth Bünte, née Rüser, widow 
+  - Sophia Elisabeth Bünte, née Rüser, a widow from Nammen
   - Nammen
 ```
 
