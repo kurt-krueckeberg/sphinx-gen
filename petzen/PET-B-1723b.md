@@ -1,5 +1,20 @@
 # 1723 Herman Henrich Weÿland Baptism 
 
+## Family and Other Facts
+
+```{list-table}
+:header-rows: 1
+
+* - Father
+  - Residence
+  - Son
+  - Sponsor
+* - Herman Henirch Weÿland
+  - Evesen 
+  - Herman Henirch Weÿland
+  - Derberg from Evesen
+```
+
 ## Record
 
 The baptism of Henrich Weÿland is on {ref}`image 131 <citation-image131>`
