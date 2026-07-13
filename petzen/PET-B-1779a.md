@@ -16,8 +16,7 @@ Sophia Margaretha Weiland’s baptism is on {ref}`image 262, right page, entry n
 5) 31ten Jan: ist getrafut Sophia Margaretha Weilands
    des Friederich Wilhelm Weilands aus Evesen No 20
    mit seiner Ehefrau Anna Maria geb. Weilands
-   erzeugte Tochter. Die Gevaterin war Catha
-   rine Margaretha Korfen aus Nammen
+   erzeugte Tochter. Die Gevaterin war Catharine Margaretha Korfen aus Nammen
 ```
 
 ## Translation
@@ -27,7 +26,7 @@ Sophia Margaretha Weiland’s baptism is on {ref}`image 262, right page, entry n
 5) 31th Jan: Sophia Margaretha was baptism the begotten
    daughter of Friederich Wilhelm Weilands from Evesen No 20
    and his wife Anna Maria born Weiland
-   The godmother was Catheine Korfen from Nammen.
+   The godmother was Catharine Korfen from Nammen.
 ```
 
 ## Citation
