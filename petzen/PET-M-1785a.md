@@ -24,7 +24,6 @@ page and ran out of space.
 ## Translation
 
 ```{div} doc-text
-Philippina Watermann, widow Scheise, of Evesen
 3) On the 27th, Friedrich Weilandt, a cannoneer from Evesen,
 married Philippina Watermann, widow Scheisen, from Evesen.
 ```
