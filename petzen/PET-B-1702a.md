@@ -12,7 +12,7 @@
 * - Hans Hinrich Weiland
   - Berenbusch
   - [Junst?] Hinrich
-  - Son on Diderig Sander
+  - son of Diderig Sander
 ```
 
 ## Record
