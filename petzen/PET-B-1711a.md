@@ -1,5 +1,20 @@
 # 1711 Ilse Margaretha Weiland Baptism
 
+## Family and Other Facts
+
+```{list-table}
+:header-rows: 1
+
+* - Father
+  - Residence
+  - Daughter
+  - Sponsor
+* - Hans Heinrich Weÿlandts 
+  - Berenbsuch
+  - Ilse Margaretha Weÿlandts  
+  - wives of Johann Steding, Hans Herman Möchkhoff and Tönnies Kuhlman
+```
+
 ## Record
 
 The June 14, 1711, baptism entry is found on {doc}`image 119 <PET-B-1711a>`
@@ -17,7 +32,6 @@ Töchterlein getauft und genandt worden Ilse Margaretha
 Gavaterinnen war Johann Stedings, Hans Herman Möchkhoffs und
 Tönnies Kuhlmans Frauen
 ```
-
 
 ## Translation
 
