@@ -17,11 +17,9 @@ sponsor was Philippine Maria Beuken of Meinsen.
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration 
 
 ```{div} doc-text
-62                 Getaufte Aoo 1785
-
 29) d 10ten Jul: ist Philippina Louise Weilands
 des Friederich Wilehlm Weilands aus Evesen
 Einlieger mit seiner Frau Philippine Witwe
@@ -30,10 +28,9 @@ getauft. Gevatterin war Philippine
 Maria Beuken Meinsen gebürtig[native; by birth]
 ```
 
+## Translation
+
 ```{div} doc-text
-
-62                 Baptisms Anno 1785
-
 29) On 10th Jul: Philippina Louise Weilands was baptized +
 the conceived daughter of Friederich Wilehlm Weilands from Evesen +
 a free farm laborer and his wife Philippine widow[widowed] +
