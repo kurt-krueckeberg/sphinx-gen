@@ -1,5 +1,20 @@
 # 1714 Johann Henrich Weiland Baptized
 
+## Family and Other Facts
+
+```{list-table}
+:header-rows: 1
+
+* - Father
+  - Residence
+  - Son
+  - Sponsor
+* - [Hans?] Johann Weÿland 
+  - Nammen
+  - Johann Henrich Weÿland 
+  - Johann Brand
+```
+
 ## Record
 
 The baptism of Johann Henirch Weiland from Nammen is on {ref}`image 122 <PET-B-1714a>`
