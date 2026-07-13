@@ -8,7 +8,7 @@ This marriage entry is on the {ref}`3rd image on Archion <PET-M-1785a>` of Petze
 :class: image-override
 ```
 
-### Transliteration and Translation
+### Transliteration 
 
 ```{note}
 The horizontal line written above the **n** in Waterman means double
@@ -20,6 +20,8 @@ page and ran out of space.
 3) d 27th ist copulirt Friderich Weiland Canonier
   aus Evesen mit Philippina Watermanns Wittve Scheisen aus Evesen
 ```
+
+## Translation
 
 ```{div} doc-text
 Philippina Watermann, widow Scheise, of Evesen
