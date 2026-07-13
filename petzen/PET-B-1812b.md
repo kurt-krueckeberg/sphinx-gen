@@ -69,24 +69,26 @@ This seems to be the date of his death, and it is likely prefixed with **ges** f
 ```
 
 ```{list-table} 244 Geboren im Kirchspiele Petzen (Births in the Parish of Petzen) im Jahr 1812 245
+:header-rows: 1
+:widths: 1 3 2 2 2 3 3 3
 
-* - **Zahl**
-  - **Name des Kindes**
-  - **Zahl**
-  - **Geburtzeit
-    u. Geburtsort**
-  - **Taufzeit
+* - Zahl
+  - Name des Kindes
+  - Zahl
+  - Geburtzeit
+    u. Geburtsort
+  - Taufzeit
     u.
-    Taufort**
-  - **Name, Stand Religion
-    u. Geburts ort des Vaters**
-  - **Name, Religion
+    Taufort
+  - Name, Stand Religion
+    u. Geburts ort des Vaters
+  - Name, Religion
     u. Geburtsort der
-    Mutter**
-  - **Wohnort
+    Mutter
+  - Wohnort
     der
-    Eltern**
-  - **Taufzeugen**
+    Eltern
+  - Taufzeugen
 * - 31
   - Caroline Dorothee
     Krückebergs
@@ -136,24 +138,26 @@ This seems to be the date of his death, and it is likely prefixed with **ges** f
 ```
 
 ```{list-table} 244 Geboren im Kirchspiele Petzen (Births in the Parish of Petzen) im Jahr 1812 245
+:header-rows: 1
+:widths: 1 3 2 2 2 3 3 3
 
-* - **Number**
-  - **Child’s Name**
-  - **Number**
-  - **Birth time
-    and Place**
-  - **Baptism Time
+* - Number
+  - Child’s Name
+  - Number
+  - Birth time
+    and Place
+  - Baptism Time
     and
-    Place**
-  - **Name, Job, Religion
-    and Birth place of Father**
-  - **Name, Religion
+    Place
+  - Name, Job, Religion
+    and Birth place of Father
+  - Name, Religion
     and Birth Place of
-    Mother**
-  - **Residence
+    Mother
+  - Residence
     of
-    Parents**
-  - **Baptism Witnesses**
+    Parents
+  - Baptism Witnesses
 * - 31
   - Caroline Dorothee
     Krückeberg
