@@ -34,7 +34,7 @@ Maria Beuken Meinsen gebürtig[native; by birth]
 29) On 10th Jul: Philippina Louise Weilands was baptized,
 the conceived daughter of Friederich Wilehlm Weilands from Evesen,
 a lodger and his wife Philippine widow[widowed] [Scheifer] née Waterman. 
-Godmother was Philippine Maria Beuke Meinsen native-born
+Godmother was Philippine Maria Beuke native of Meinsen
 ```
 
 ## Citation
