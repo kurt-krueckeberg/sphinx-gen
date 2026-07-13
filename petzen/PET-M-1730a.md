@@ -17,6 +17,13 @@
   - Evesen
 ```
 
+```{list-table} Other Facts
+:header-rows: 1
+
+* - Fact
+* - Hermann Weÿland is a grenadier serving at the Bückeburg Palace
+```
+
 FamilySearch Tree ids:
 
 - Hans Hermann Weÿland: [PXMY-D76](https://www.familysearch.org/en/tree/person/details/PXMY-D76)
