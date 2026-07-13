@@ -5,8 +5,6 @@
 Sophia Elonora Weiland’s baptism is on {ref}`image 261 <PET-B-1778c>`, right page, entry no. 29, from the
 Petzen "Verzeichnis der Getaufte und Confirmirte, 1641-1784"
 
-## Baptism Record
-
 ```{figure} images/petzen-band1a-img261-right.jpg
 :class: image-override
 ```
@@ -14,12 +12,11 @@ Petzen "Verzeichnis der Getaufte und Confirmirte, 1641-1784"
 ## Transliteration and Translation
 
 ```{div} doc-text
-
 29) d. 4ten Octobr ist getaufft Sophia Eleonora Weilands
-des Johan Heinrich Weilands aus Evesen No 21 mit
-seiner Ehefrau Sophia Elisabeth geb. Astwehs
-erzeugte Tochter die Gevatterin war des
-Sickmeiers Ehefrau aus Evesen No 2.
+    des Johan Heinrich Weilands aus Evesen No 21 mit
+    seiner Ehefrau Sophia Elisabeth geb. Astwehs
+    erzeugte Tochter die Gevatterin war des
+    Sickmeiers Ehefrau aus Evesen No 2.
 ```
 
 ```{div} doc-text
