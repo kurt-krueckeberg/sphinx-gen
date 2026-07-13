@@ -12,7 +12,7 @@
   - Bride's Residence
 * - 26 April 1763  
   - Heinrich Ludewig Weiland
-  - Berenbusch
+  - lodger in Berenbusch
   - Anna Maria Rösener
   - Meisen 
 ```
