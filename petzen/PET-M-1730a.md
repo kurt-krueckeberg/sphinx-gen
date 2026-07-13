@@ -21,7 +21,8 @@
 :header-rows: 1
 
 * - Fact
-* - Hermann Weÿland is a grenadier serving at the Bückeburg Palace
+* - Hermann Weÿland is a grenadier serving at the Bückeburg Palace,
+    a soldier in the palace guard at Count of Schaumburg-Lippe's palace in Bückeburg 
 ```
 
 FamilySearch Tree ids:
@@ -46,6 +47,22 @@ Bückeburg mit Ilsa[?] Maria[?] Vahlsing aus Evesen copuliert
 ```
 
 ## Translation
+
+```{important}
+Because the Count of Schumaburg-Lippe personally ruled Schaumburg-Lippe
+from his court, the palace was also, in a broader sense, the **political and
+administrative center of the county**. But *Schloss* itself does not mean “seat
+of government” as an institution; it means the **palace or castle-residence
+of the ruling Count**. Bückeburg was the capital, while the Schloss was the
+ruler’s residence.
+
+Therefore, in *Schloß-Granadier* (palace-grenadier), *Schloß-* most naturally means
+attached to or serving at the Count’s palace, not simply “a soldier of the
+Schaumburg-Lippe government.”
+
+The precise organization and duties of the Bückeburg palace grenadiers in 1730 remain
+unclear, but Hans Hermann Weÿland was a soldier in the palace guard at Bückeburg, 
+```
 
 ```{div} doc-text
 On 17 September, Hans Hermann Weÿland of Berenbusch, who was a grenadier
