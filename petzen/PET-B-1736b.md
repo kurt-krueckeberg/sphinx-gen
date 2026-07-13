@@ -1,4 +1,19 @@
-# 1736 Hans Heinrich Weiland Baptism
+# 1736 Hans Henrich Weiland Baptism
+
+## Family Relationship and Other Facts
+
+```{list-table}
+:header-rows: 1
+
+* - Father
+  - Residence
+  - Son
+  - Sponsors
+* - Soldier Weiland Evesen
+  - Evesen
+  - Hans Hrnrich Weiland
+  - Hardtung, sheperd, Weiland, Mönckhof
+```
 
 ## Baptism Record
 
@@ -17,14 +32,14 @@ listed.
 
 ```{div} doc-text
 Octob d 7tn Weiland Soldat von Evesen ein Söhnlein: Hanß
-Heinrich. Gewatter Hardtung v. Evesen. Schäfer. Weiland [smudge marks] Mönckhof
+Henrich. Gewatter Hardtung v. Evesen. Schäfer. Weiland [smudge marks] Mönckhof
 ```
 
 ## Translation
 
 ```{div} doc-text
 October 7th Soldier Weiland from Evesen a son: Hans
-Heinrich. Godfater Hardtung from Evesen shepherd. Weiland [smudge marks] Mönckhof
+Henrich. Godfater Hardtung from Evesen. shepherd. Weiland [smudge marks] Mönckhof
 ```
 
 ## Citation
