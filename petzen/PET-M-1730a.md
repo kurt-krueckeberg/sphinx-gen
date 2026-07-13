@@ -22,7 +22,7 @@
 
 * - Fact
 * - Hermann Weÿland is a grenadier serving at the Bückeburg Palace,
-    a soldier in the palace guard at Count of Schaumburg-Lippe's palace in Bückeburg 
+    a soldier in the palace guard of the Count of Schaumburg-Lippe's residence. 
 ```
 
 FamilySearch Tree ids:
