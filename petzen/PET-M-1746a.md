@@ -10,7 +10,7 @@
   - Groom's Residence
   - Bride's Name
   - Bride's Residence
-* - 3 November 1746  
+* - 3 Nov. 1746  
   - Herman Henrich Weiland
   - Evesen
   - Anna Sabine Breier
