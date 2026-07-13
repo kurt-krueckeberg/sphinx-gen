@@ -12,9 +12,20 @@
   - Bride's Residence
 * - 7 February 1765
   - Heinrich Ludewig Weiland
-  - Röcke
+  - lodger in Röcke
   - Anna Christina Nerge
   - Pezen 
+```
+
+```{list-table}
+:header-rows: 1
+
+* - Name
+  - Fact
+* - Heinrich Ludewig Weiland
+  - pig herder
+* - Heinrich Ludewig Weiland
+  - lodger who does not hold property
 ```
 
 ## Record
