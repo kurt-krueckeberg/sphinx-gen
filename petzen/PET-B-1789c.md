@@ -6,20 +6,19 @@
 
 The baptism record is on image 45, [page 85](#cite-PET-B-1789c), entry 7.
 
-## Baptism Image
-
 ```{figure} images/petzen-band2-img45-85.jpg
 :class: image-override
 ```
 
-## Transliteration and Translation
-
+## Transliteration 
 
 ```text
 7) d 20ten Feb Christine Eleonore Weiland der oben Benannte
 Elterns Tochter. Gevatterin war Frau Christine Eleonore
 Wittwe Rinne des Schusters in Penyen Haushalterin zu fünf
 ```
+
+## Translation
 
 ```text
 7) date 20th Febr. Chrstine Eleonore Weiland the daughter of the above named parents.
