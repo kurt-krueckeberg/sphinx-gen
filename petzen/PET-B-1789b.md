@@ -1,5 +1,22 @@
 # 1789 Christine Maria Weiland Baptism
 
+## Family Relationship and Other Facts
+
+```{list-table} Family Relationship
+:header-rows: 1
+
+* - Infant
+  - Father
+  - Mother
+  - Dwelling
+  - Sponsor
+* - Christina Maria Weiland
+  - Johann Heinrich Weiland
+  - Catherine Elisabeth nee Borneman
+  - Evesen No 21
+  - Maria Elisabeth Bornemans from Evesen No. 7
+```
+
 ## Record 
 
 This baptism of Christine Maria Weiland is on {ref}`image 46 <PET-B-1789a>` of the
@@ -25,7 +42,7 @@ Petzen *Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785
 19) d 24th May: Christina Maria Weilands was baptized
     the begotten daughter of Johann Heinrich Weiland
     from Evesen No 21 and his wife Catherine Elisabeth
-    born Bornemans. Godmothers were Maria
+    born Bornemans. Godmother was Maria
     Elisabeth Bornemans from Evesen No. 7
 ```
 
