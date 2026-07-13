@@ -1,5 +1,20 @@
 # 1754 Anna Maria Weiland Baptism
 
+## Family and Other Facts
+
+```{list-table}
+:header-rows: 1
+
+* - Father
+  - Residence
+  - Daughter
+  - Sponsor
+* - Herman Heinrich Weiland junior
+  - Evesen
+  - Anna Maria Weiland
+  - wife of Johann Steding
+```
+
 ## Record
 
 The baptism of Anna Maria Weiland is on {ref}`image 190, right hand
@@ -20,8 +35,9 @@ Tochter getauft. Gev. Joh. Stedings Ehefrau.
 ```
 
 ```{div} doc-text
-On Sept 1st Anna Maria Weilands was baptized the younger daughter of Herman Heinrich Weiland at Evesen
-Godmother was Joh. Stedings wife.
+On 1 September, Anna Maria Weiland, daughter of Hermann Heinrich Weiland
+junior of Evesen, was baptized. The baptismal sponsor was the wife of
+Johann Steding.
 ```
 
 ## Citation
