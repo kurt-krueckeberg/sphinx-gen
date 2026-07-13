@@ -10,7 +10,7 @@
 * - Wilhelm Weÿland 
   - Nordholtz
   - Anna Maria Weiland 
-  - wives of Brüggemans Fr ofu Nordholtz, Nergen of P[?]etzen and Borman of Berenbusch
+  - wives of Brüggeman of Nordholtz, Nergen of P[?]etzen and Borman of Berenbusch
 ```
 
 ## Record
