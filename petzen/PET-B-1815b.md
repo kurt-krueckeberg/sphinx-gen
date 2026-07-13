@@ -25,23 +25,25 @@ See discussion of **Einlieger/Einlinger** at [Image 82](PET-B-1803b.md).
 ```
 
 ```{list-table} 266 Geboren im Kirchspiele Petzen (births in Petzen church parish) im Jahr (in the year) 1815 267
+:header-rows: 1
+:widths: 1 3 3 3 3 3 3 3 3
 
-* - **Zahl**
-  - **Name des Kindes**
-  - **Zahl**
-  - **Geburtzeit
-    u. Geburtsort**
-  - **Taufzeit u.
-    Taufort**
-  - **Name, Stand Religion
-    u. Geburtsrt des Vaters**
-  - **Name, Religion
+* - Zahl
+  - Name des Kindes
+  - Zahl
+  - Geburtzeit
+    u. Geburtsort
+  - Taufzeit u.
+    Taufort
+  - Name, Stand Religion
+    u. Geburtsrt des Vaters
+  - Name, Religion
     u. Geburtsort der
-    Mutter**
-  - **Wohnort
+    Mutter
+  - Wohnort
     der
-    Eltern**
-  - **Taufzeugen**
+    Eltern
+  - Taufzeugen
 * - 37
   - Heinrich Wilehlm
     Weiland
@@ -66,6 +68,8 @@ See discussion of **Einlieger/Einlinger** at [Image 82](PET-B-1803b.md).
 ```
 
 ```{list-table} 266 Geboren im Kirchspiele Petzen (births in Petzen church parish) im Jahr (in the year) 1815 267
+:header-rows: 1
+:widths: 1 3 3 3 3 3 3 3 3
 
 * - Number
   - Child’s Name

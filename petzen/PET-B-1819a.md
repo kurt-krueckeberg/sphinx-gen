@@ -9,7 +9,7 @@ Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ```{list-table} 
 :header-rows: 1
-:widths: 1 2 2 2 2 2 2 2 2
+:widths: 1 3 3 3 3 3 3 3 3
 
 * - Zahl
   - Name des Kindes
@@ -54,7 +54,7 @@ Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ```{list-table} 
 :header-rows: 1
-:widths: 1 2 2 2 2 2 2 2 2
+:widths: 1 3 3 3 3 3 3 3 3
 
 * - Number
   - Child’s Name
