@@ -23,7 +23,7 @@ sponsor was Philippine Maria Beuken of Meinsen.
 29) d 10ten Jul: ist Philippina Louise Weilands
 des Friederich Wilhelm Weilands aus Evesen
 Einlieger mit seiner Frau Philippine Witwe
-[Scheifer] ge[boren] Watermans erzeugte Tochteer
+Scheifer ge[boren] Watermans erzeugte Tochteer
 getauft. Gevatterin war Philippine
 Maria Beuken Meinsen gebürtig[native; by birth]
 ```
@@ -33,7 +33,7 @@ Maria Beuken Meinsen gebürtig[native; by birth]
 ```{div} doc-text
 29) On 10th Jul: Philippina Louise Weilands was baptized,
 the conceived daughter of Friederich Wilehlm Weilands from Evesen,
-a lodger and his wife Philippine widow[widowed] [Scheifer] née Waterman. 
+a lodger, and his wife Philippine, widow Scheifer, née Waterman. 
 Godmother was Philippine Maria Beuke native of Meinsen
 ```
 
