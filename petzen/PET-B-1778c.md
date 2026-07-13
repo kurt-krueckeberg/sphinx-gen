@@ -1,5 +1,23 @@
 # 1778 Sophia Eleonora Weiland Baptism
 
+## Family Relationship and Other Facts
+
+```{list-table} Details of 4 Oct. 1778 baptism 
+:header-rows: 1
+
+* - Infant
+  - Father
+  - Mother
+  - Dwelling
+  - Sponsor
+* - Sophia Eleonora Weiland 
+  - Johann Heinrich Weiland
+  - Sophia Elisabeth née Astwehs
+  - Evesen No. 21
+  - wife of Sickmeier
+    of Evesen No. 2.
+```
+
 ## Record
 
 Sophia Elonora Weiland’s baptism is on {ref}`image 261 <PET-B-1778c>`, right page, entry no. 29, from the
