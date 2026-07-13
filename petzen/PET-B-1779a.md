@@ -1,5 +1,23 @@
 # 1779 Sophia Margaretha Weiland Baptism
 
+## Family Relationship and Other Facts
+
+
+```{list-table}
+:header-rows:
+
+* - Infant
+  - Father
+  - Mother
+  - Residence
+  - Sponsor
+* - Sophia Margaretha
+  - Friederich Wilhelm Weiland
+  - Anna Maria nee Weiland 
+  - Evesen no. 20
+  - Catharine Margaretha Korfen
+```
+
 ## Record
 
 Sophia Margaretha Weiland’s baptism is on {ref}`image 262, right page, entry no. 5 <PET-B-1779a>` from the
@@ -23,9 +41,9 @@ Sophia Margaretha Weiland’s baptism is on {ref}`image 262, right page, entry n
 
 ```{div} doc-text
 
-5) 31th Jan: Sophia Margaretha was baptism the begotten
+5) 31th Jan: Sophia Margaretha was baptized, the begotten
    daughter of Friederich Wilhelm Weilands from Evesen No 20
-   and his wife Anna Maria born Weiland
+   and his wife Anna Maria born Weiland.
    The godmother was Catharine Korfen from Nammen.
 ```
 
