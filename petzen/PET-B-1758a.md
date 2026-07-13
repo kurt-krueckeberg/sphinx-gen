@@ -1,5 +1,20 @@
 # 1758 Jobst Heinrich Weiland Baptism
 
+## Family and Other Facts
+
+```{list-table}
+:header-rows: 1
+
+* - Father
+  - Residence
+  - Son
+  - Sponsor
+* - Ludowig Weiland 
+  - lodger in Evesen
+  - Jobst Heinrich Weiland
+  - 
+```
+
 ## Record
 
 The baptism of Jobst Heinrich Weiland is on {ref}`image 199, left page, first entry <cite-PET-B-1758a>` from
