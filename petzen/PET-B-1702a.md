@@ -1,4 +1,4 @@
-# 1702 Jobst Hinrich Weilandt Baptism
+# 1702 [Just?] Hinrich Weilandt Baptism
 
 ## Family Relationship and Other Facts
 
@@ -17,7 +17,7 @@
 
 ## Record
 
-The baptism of Jobst Hinrich Weilandt is on {ref}`image 1029 <PET-B-1702a>` of the Petzen "Verzeichnis der
+The baptism of [Just?]t Hinrich Weilandt is on {ref}`image 102 <PET-B-1702a>` of the Petzen "Verzeichnis der
 Getauften und Konfirmierten 1641-1784".
 
 ```{figure} images/petzen-band1a-img102.jpg
@@ -34,7 +34,7 @@ Hinrich getaufft, den 27 Oct: gevatter, Diderig Sander Sohn
 ## Translation
 
 ```{div} doc-text
-Hans Hinrich Wielandt in Berenbusch had a little son baptized, named Jobst Hinrich, on 27 October. Godfather: Diderig Sander’s son.
+Hans Hinrich Wielandt in Berenbusch had a little son baptized, named [Just?] Hinrich, on 27 October. Godfather: Diderig Sander’s son.
 ```
 
 ## Citation
