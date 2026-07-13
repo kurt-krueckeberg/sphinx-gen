@@ -14,11 +14,11 @@
 * - **Groom**
   - Friedrich Wilhelm Weiland
   - June 28, 1761
-  - Ephesen [also spelled: Evesen]
+  - Ephesen [Evesen]
 * - **Bride**
   - Anna Ilsabei Deierberg
   - June 28, 1761
-  - Ephesen [also spelled: Evesen]
+  - Ephesen [Evesen]
 ```
 
 ## Record
