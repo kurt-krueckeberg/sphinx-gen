@@ -70,7 +70,7 @@ This seems to be the date of his death, and it is likely prefixed with **ges** f
 
 ```{list-table} 244 Geboren im Kirchspiele Petzen (Births in the Parish of Petzen) im Jahr 1812 245
 :header-rows: 1
-:widths: 1 3 2 2 2 3 3 3
+:widths: 1 3 2 2 2 3 3 3 3
 
 * - Zahl
   - Name des Kindes
@@ -139,7 +139,7 @@ This seems to be the date of his death, and it is likely prefixed with **ges** f
 
 ```{list-table} 244 Geboren im Kirchspiele Petzen (Births in the Parish of Petzen) im Jahr 1812 245
 :header-rows: 1
-:widths: 1 3 2 2 2 3 3 3
+:widths: 1 3 2 2 2 3 3 3 3
 
 * - Number
   - Child’s Name
