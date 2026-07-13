@@ -13,8 +13,7 @@
 
 ## Background
 
-We know by 1745 that no. 1 Berenbusch was the holding of {external+nla:doc}` Jobst Henirch
-Weiland.
+We know by 1745 that no. 1 Berenbusch was the holding of {external+nla:doc}`Jobst Henirch Weiland <2713/index>`.
 
 ## Review of Marriages 1641-1784
 
