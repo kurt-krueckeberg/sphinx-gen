@@ -1,5 +1,29 @@
 # 1785 Philippiine Louise Weiland Baptism
 
+## Family and Other Facts
+
+```{list-table}
+:header-rows: 1
+
+* - Infant
+  - Father
+  - Residence
+  - Occupation
+  - Mother
+  - Sponsor
+* - Philippina Louise Weiland
+  - Friederich Wilehlm Weilands
+  - Evesen 
+  - Philippine, widow Scheifer, née Waterman 
+  - Philippine Maria Beuke of Meinsen 
+```
+
+```{list-table} Other Facts
+* - Fact
+* - the fathe is an Einlieger, so the family lodges and does their own
+    holding.
+```
+
 ## Record
 
 Philippine Louis Weiland’s baptism is found on {ref}`image 34, page 62 <PET-B-1785a>` of the Petzen 
