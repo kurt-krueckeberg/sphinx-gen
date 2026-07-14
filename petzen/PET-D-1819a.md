@@ -63,21 +63,6 @@ The header and column headings for pages 626 and 627:
 :class: image-override
 ```
 
-Transliteration
-
-```{div} doc-text
-
-626         Gestorbene im Kirchspiel Petzen                      im Jahr 1818 u. 1819                 627
-```
-
-Translation
-
-```{div} doc-text
-
-626         Deaths in the Church Parish Petzen                   in the Year 1818 and 1819            627
-```
-
-### The Record
 
 ```{figure} images/petzen-band2-img300-left.jpg
 :class: image-override

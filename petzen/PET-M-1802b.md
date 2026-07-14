@@ -19,7 +19,7 @@
   - Philippine Doroth[ea] Beucken
   - had sexaul relations with him several years ago
   - Evesen
-  - Einliegerin
+  - Einliegerin, lodger in another's home.
 ```
 
 :::{admonition} What Leibzüchter tells us
@@ -31,7 +31,7 @@ When Johann Heinrich Krückeberg marries on 11 April 1802, he is a **Leibzüchte
 - He retained residence and livelihood rights (*Leibzucht*)
 - The holding number (**10**) remains attached to him administratively
 
-This is exactly what we expect after an **inter vivos Übergabe** (handover during lifetime).
+This is exactly what is expected after an **inter vivos Übergabe** (handover during lifetime).
 
 :::
 
@@ -41,14 +41,9 @@ The marriage occurred on April 11, 1802. It is {ref}`entry 10,
 page 19, on image 12 <PET-M-1802b>` of Petzen Kirchenbuch Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
-## Page 19
-
 The entries on the top of page 19 continue those begun in the middle of page 18
-for the year 1802 (starting with entry 1 for Hans Heinrich Pohler). The date of
-the marriage is actually given on the page 18 above entry 6 as **Am 11 April
-("on 11 April")**
-
-## Image or Record
+for the year 1802. The date of the marriage is actually given on the page
+18 above entry 6 as **Am 11 April ("on 11 April")**
 
 ```{figure} images/petzen-band2-img12-right1.jpg
 :class: image-override
@@ -58,15 +53,15 @@ the marriage is actually given on the page 18 above entry 6 as **Am 11 April
 
 ```{note}
 The date of the marriage, 11 April 1802, is written above the three marriages that
-occurred on that date, the first of which is at the bottom of the prior page in
-the church regsiter.
+occurred on that date, the first of which is at the bottom of the prior page.
 ```
 
 ```{important}
 The word "geschwächt" is ambigous in the image, but it does resemble in its
 wording another marriage record where **geschwächt** is clearer, that of
-[1804 Fridrich Wilhelm Weyland of Petzen no. 2 Marriage](PET-M-1804a.md). While "geschwächt" means "weakened", the
-sense is idomatic. It refers to premartial sexual relations.
+[1804 Fridrich Wilhelm Weyland of Petzen no. 2 Marriage](PET-M-1804a.md).
+While "geschwächt" means "weakened", the sense is idomatic. It refers to
+premartial sexual relations.
 ```
 
 ```{list-table} Johann Heinrich Krückeberg Marriage, on 11 April 1802, entry number 10, page 19:
@@ -102,7 +97,8 @@ sense is idomatic. It refers to premartial sexual relations.
   - Widower Joh[ann] Heinrich Krückeberg  Leibzüchter (retired farmer)
   - Berenb[usch]
   - 10
-  - Philippine Dorothea Beucken, who had had premarital relations with him some years earlier
+  - Philippine Dorothea Beucken, who had had premarital relations
+    with him some years earlier
   - Meinsen
   - lodger
 ```

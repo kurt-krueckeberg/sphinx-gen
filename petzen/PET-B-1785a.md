@@ -11,10 +11,20 @@
   - Mother
   - Sponsor
 * - Philippina Louise Weiland
-  - Friederich Wilehlm Weilands
+  - Friederich Wilehlm Weiland
   - Evesen 
   - Philippine, widow Scheifer, née Waterman 
   - Philippine Maria Beuke of Meinsen 
+```
+
+```{list-table} Other Facts
+:header-rows:
+
+* - Person
+  - Fact
+* - Friederich Wilhelm Weiland
+  - Einlieger, a lodger without a
+    holding
 ```
 
 ## Record
@@ -34,16 +44,16 @@ des Friederich Wilhelm Weilands aus Evesen
 Einlieger mit seiner Frau Philippine Witwe
 Scheifer ge[boren] Watermans erzeugte Tochteer
 getauft. Gevatterin war Philippine
-Maria Beuken Meinsen gebürtig[native; by birth]
+Maria Beuken Meinsen gebürtig
 ```
 
 ## Translation
 
 ```{div} doc-text
-29) On 10th Jul: Philippina Louise Weilands was baptized,
-the conceived daughter of Friederich Wilehlm Weilands from Evesen,
-a lodger, and his wife Philippine, widow Scheifer, née Waterman. 
-Godmother was Philippine Maria Beuke native of Meinsen
+29) On 10 July, Philippina Louise Weiland, the daughter of Friedrich
+Wilhelm Weiland, an Einlieger from Evesen, and his wife Philippine, widow
+of Scheifer, née Watermann, was baptized. The godmother was Philippine
+Maria Beuke, a native of Meinsen.
 ```
 
 ## Citation
