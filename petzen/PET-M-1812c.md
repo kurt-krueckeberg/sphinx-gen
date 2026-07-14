@@ -34,7 +34,7 @@ Translation of page header
 
 ```{list-table} Marriage entry No. 1.
 :header-rows: 1
-:wdiths: 1 3 3 3 3 3 3 3
+:widths: 1 3 3 3 3 3 3 3
 
 * - Zahl
   - Name, Stand, Religion
@@ -82,7 +82,7 @@ Translation of page header
 
 ```{list-table} Marriage entry No. 1.
 :header-rows: 1
-:wdiths: 1 3 3 3 3 3 3 3
+:widths: 1 3 3 3 3 3 3 3
 
 * - No.
   - Name, Occupation, Religion,
