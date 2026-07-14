@@ -5,7 +5,7 @@
 ```{list-table}
 :header-rows: 1
 
-* - Infanct
+* - Infant
   - Father
   - Occupation
   - Mother
