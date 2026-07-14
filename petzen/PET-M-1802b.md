@@ -12,8 +12,8 @@
   - "Sh" or No.
 * - **Groom**
   - Johann Heinrich Krückeberg
-  - Leibzüchter (retired farmer) and widower
-  - Berenb[usch]
+  - Leibzüchter and widower
+  - Berenbusch
   - 10
 * - **Bride**
   - Philippine Doroth[ea] Beucken
