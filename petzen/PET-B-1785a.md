@@ -17,12 +17,6 @@
   - Philippine Maria Beuke of Meinsen 
 ```
 
-```{list-table} Other Facts
-* - Fact
-* - the fathe is an Einlieger, so the family lodges and does their own
-    holding.
-```
-
 ## Record
 
 Philippine Louis Weiland’s baptism is found on {ref}`image 34, page 62 <PET-B-1785a>` of the Petzen 
