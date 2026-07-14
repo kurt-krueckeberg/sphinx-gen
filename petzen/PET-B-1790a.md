@@ -10,7 +10,7 @@
 
 ```{div} doc-text
 
-5) d 27ten Jan. sind getauft die Zwillinge [eins?]
+5) d 27ten Jan. sind getauft die Zwillinge [eins?]\
             a. Hans Heinr Weilands des Friederich Wilehlm
             Weiland aus Evesen No. 20 mit seiner Ehefrau
             Anna Maria geb. Weilands erzeugter Sohn. Gevatter
@@ -23,7 +23,7 @@
 
 ```{div} doc-text
 
-5) 27th Jan. The twins [???]
+5) 27th Jan. The twins [???]\
            a. Hans Heinrich Weiland the begotten son of Friederich Wilhelm
            Weiland from Evesen no. 20 and his wife Anna Maria
            born. Weiland. Godfather was Johann Christoph Ludowig Weiland
