@@ -18,7 +18,7 @@
 ```
 
 ```{list-table} Other Facts
-:header-rows:
+:header-rows: 1
 
 * - Person
   - Fact
