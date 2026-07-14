@@ -13,7 +13,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;a. Hans Heinr. Weiland des Friederich Wilhelm Weilands aus Evesen No. 20 mit seiner Ehefrau Anna Maria geb. Weilands erzeugter Sohn. Gevatter war Johan Christoph Ludewig Weiland aus Evesen No. 21.
 
-6.)&nbsp;b. Carolina Weilands, die Schwester von demselben. Gevatterin war Sophie Maria geb. Mönchhoffs, al. Pichtmeiersche aus Evesen No. 4.
+6.)&nbsp;b. Carolina Weilands, die Schwester von demselben. Gevatterin war Sophie Maria geb. Mönchhoffs, al. Pichtsmeiersche aus Evesen No. 4.
 ```
 
 ```{div} doc-text
@@ -28,9 +28,8 @@ Maria, née Mönchhoff, also known as Pichtmeier, of Evesen, house no. 4.
 ```
 
 ```{note}
-Sopia Maria appears appears to be identified as **Pichtsmeiersche**,
-apparently the adjective form of the surname Pichtsmeier, but the
-abbreviation before **Pichtsmeiersche** is uncertain.
+In this record, Pichtmeiersche may identify Sophie Maria by the Pichtmeier household or **Hofname**, rather
+than necessarily indicating a second legal surname. 
 ```
 
 ## Citation
