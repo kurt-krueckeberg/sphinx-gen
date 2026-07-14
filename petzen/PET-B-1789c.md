@@ -21,7 +21,7 @@
 :header-rows: 1
 
 * - Fact
-* - Christine Eleonore Weiland is the twin sister of [Johann Heinrich Weiland](PET-B1789a.md).
+* - Christine Eleonore Weiland is the twin sister of [Johann Heinrich Weiland](PET-B-1789a.md).
 * - The twins were conceived out of wedlock
 ```
 
