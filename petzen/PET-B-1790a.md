@@ -9,29 +9,22 @@
 ## Transliteration and Translation
 
 ```{div} doc-text
+5.) d. 27ten Jan. sind getauft die Zwillinge neml.
 
-5) d 27ten Jan. sind getauft die Zwillinge [eins?]\
-            a. Hans Heinr Weilands des Friederich Wilehlm
-            Weiland aus Evesen No. 20 mit seiner Ehefrau
-            Anna Maria geb. Weilands erzeugter Sohn. Gevatter
-            war Johan Christoph Ludowig Weiland aus Evesen No. 21
+    a. Hans Heinr. Weiland des Friederich Wilhelm Weilands aus Evesen No. 20 mit seiner Ehefrau Anna Maria geb. Weilands erzeugter Sohn. Gevatter war Johan Christoph Ludewig Weiland aus Evesen No. 21.
 
-6) --- --- b. Carolina Weilands die Schwester von demselben
-            Gavatterin war Sophie Maria geb. Monckhoffs
-            [al?] Pichtsmeiersche aus Evesen no. 4
+6.) b. Carolina Weilands, die Schwester von demselben. Gevatterin war Sophie Maria geb. Mönchhoffs, al. Pichtmeiersche aus Evesen No. 4.
 ```
 
 ```{div} doc-text
+5.) On 27 January, the twins were baptized, namely:
 
-5) 27th Jan. The twins [???]\
-           a. Hans Heinrich Weiland the begotten son of Friederich Wilhelm
-           Weiland from Evesen no. 20 and his wife Anna Maria
-           born. Weiland. Godfather was Johann Christoph Ludowig Weiland
-           from Evesen no. 21
+a. Hans Heinrich Weiland, the son born to Friedrich Wilhelm Weiland of
+Evesen, house no. 20, and his wife Anna Maria, née Weiland. The godfather
+was Johann Christoph Ludowig Weiland of Evesen, house no. 21.
 
-6) --- --- b. Carolina Weilands the sister of the same
-            Godmother was was Sophie Maria, née Monckhoff
-            [Pichtsmeier's wife?]  from Evesen no. 4
+6.) b. Carolina Weiland, the sister of the same. The godmother was Sophie
+Maria, née Mönchhoff, also known as Pichtmeier, of Evesen, house no. 4.
 ```
 
 ```{note}
