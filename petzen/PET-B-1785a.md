@@ -27,6 +27,17 @@
     holding
 ```
 
+```{important}
+The baptismal sponsor is Philippine Marie Beuke of Meinsen. In 1802 a
+Philippine Dorothea Beucken, also of Meinsen, [married Johann Heinrich
+Krückeberg](PET-M-1802a.md). We know from the [death record of Philippine Dorothea,
+nee Beuke, Krückeberg](PET-D-1819a.md) that she was 54 when she died, meaning she would have
+been around 21 in 1785.
+
+We don't know for certain that Philippine Maria Beuke of Meinsen is
+Phlippine Dorothea Beucke of Meinsen. 
+```
+
 ## Record
 
 Philippine Louis Weiland’s baptism is found on {ref}`image 34, page 62 <PET-B-1785a>` of the Petzen 

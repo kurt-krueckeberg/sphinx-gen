@@ -38,9 +38,14 @@
   - Husband and a daughter
 ```
 
+
 ```{note}
-Philippine Dorothee nee Beuke Krückeberg was survived by a daughter, but it is not clear that Johann Heinrich Krückeberg
-was her daugher’s father. We don’t have a baptism record yet.
+Philippine Dorothee nee Beuke Krückeberg was survived by a daughter, but it
+is not clear that Johann Heinrich Krückeberg was her daugher’s father. We
+don’t have a baptism record yet.
+
+A Philippine Maria Beucke was a baptismal sponsor in 1785 at the
+[baptism of Philippiine Louise Weiland](PET-B-1785a.md).
 ```
 
 ## Record
