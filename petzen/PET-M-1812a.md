@@ -140,7 +140,7 @@ See this more detailed explantion: [What is a Lieftucht/Leibzucht?](https://chri
 
 ```{list-table} Marriage entry No. 3.
 :header-rows: 1
-:wdiths: 1 3 3 3 3 2 3 3
+:widths: 1 3 3 3 3 2 3 3
 
 * - Zahl
   - Name, Stand, Religion
@@ -189,7 +189,7 @@ See this more detailed explantion: [What is a Lieftucht/Leibzucht?](https://chri
 
 ```{list-table} Marriage entry No. 3.
 :header-rows: 1
-:wdiths: 1 3 3 3 3 2 3 3
+:widths: 1 3 3 3 3 2 3 3
 
 * - No.
   - Name, Occupation, Religion,
