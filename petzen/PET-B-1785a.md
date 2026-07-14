@@ -8,7 +8,6 @@
 * - Infant
   - Father
   - Residence
-  - Occupation
   - Mother
   - Sponsor
 * - Philippina Louise Weiland
