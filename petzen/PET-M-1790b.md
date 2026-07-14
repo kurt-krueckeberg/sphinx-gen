@@ -1,13 +1,25 @@
 # 1790 Jobst Heinrich Weiland Marriage
 
-On 19 September 1790, Jobst Heinrich Weiland from Berenbush No 1 married
-Anna Catharina Margaretha Mohtin from Berenbush No 7.
+## Family and Other Facts
+
+```{list-table}
+:header-rows: 1
+
+* - Groom 
+  - Groom's Residence
+  - Bride
+  - Bride's Residence
+* - Jobst Heinrich Weiland
+  - Berenbusch No. 1
+  - Anna Catharina Margaretha Mohtin
+  - Berenbusch No. 7
+```
 
 ## Record
 
-The marriage is on {ref}`page 5, entry 10 <PET-M-1790b>` of Petzen Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
-
-### Image of Marriage Record
+The marriage is on {ref}`page 5, entry 10 <PET-M-1790b>` of Petzen
+Kirchenbuch volume *Verzeichnis der Getauften, Konfirmierten, Getrauten und
+Gestorbenen 1785-1827*.
 
 The marriages of Johann Heinrich Kruckeberg and Jobst Heinrich Weiland are
 recorded are on pages 4 and 5 on entries 8 and 10:
@@ -17,7 +29,7 @@ recorded are on pages 4 and 5 on entries 8 and 10:
 ```
 
 ```{note}
-1. The + symbol denotes a death date. The **+1849** above the name of *Philippine Christine Eleonore Tegtmeyern* below
+1. The **†** symbol denotes a death date. The **+1849** above the name of *Philippine Christine Eleonore Tegtmeyern* below
 indicates she died in 1849.
 2. The abbreviation **Jfr** stands for Jungfrau or maiden.
 ```
@@ -25,36 +37,17 @@ indicates she died in 1849.
 ## Transliteration and Translation
 
 ```{div} doc-text
-8) d 2 Aug ist copuliert Johann Heinrich Kruckeberg
-    aus Berenbusch No 10 mit Jfr Anna Catharine Sophia
-    Krömern aus Evesen No 19.
-
 10) d 19th Septbr ist copulirt Jobst Heinrich Weiland aus
      Berenbush No 1 mit Jfr Anna Catharina Margaretha
      Mohtin aus Berenbush No 7.
-
-13) d 12th October ist copulirt Jobst Heinrich Kruckeberg aus Berenbusch\
-`                                            +1849`
-    No 10 ein Schuster mit Jfr Philippine Christine Eleonore Tegtmeyern aus
-    Meissen[faded, ambiguous] N:4
 ```
 
 Translation
 
 ```{div} doc-text
-
-8) date 2 Aug Johann Heinrich Kruckeberg
-    from Berenbusch No 10 was married to maiden Anna Catharine Sophia
-    Krömer from Evesen No 19.
-
-10) date 19th Septbr Jobs[h]t Heinrich Weiland from
+10) date 19th Septbr Jobst Heinrich Weiland from
      Berenbush No 1 was married to maiden Anna Catharina Margaretha
      Mohtin from Berenbush No 7.
-
-13) date 12th October Jobst Heinrich Kruckeberg from Berenbusch\
-`                                             +1849`
-    No 10 a cobbler was married to Philippine Christine Eleonore Tegtmeyer from
-    Meinsen[faded, ambiguous] N:4
 ```
 
 ## Citation
