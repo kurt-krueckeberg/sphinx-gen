@@ -1,5 +1,22 @@
 # 1785 Friderich Weiland Marriage
 
+## Family and Other Facts
+
+```{list-table}
+:header-rows: 1
+
+* - Groom
+  - Groom Locality
+  - Groom Occupation
+  - Bride
+  - Bride Locality
+* - Friderich Weiland
+  - Evesen
+  - cannoneer
+  - Philippina Watermann, widow Scheisen
+  - Evesen
+```
+
 ## Record
 
 This marriage entry is on the {ref}`3rd image on Archion <PET-M-1785a>` of Petzen Kirchenbuch volume Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
