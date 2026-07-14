@@ -21,7 +21,7 @@
 :header-rows: 1
 
 * - Fact
-* - Johann Heinrich Weiland is the twin brother of [Christine Eleonora Weiland](PET-B1789c.md).
+* - Johann Heinrich Weiland is the twin brother of [Christine Eleonora Weiland](PET-B-1789c.md).
 * - The twins were conceived out of wedlock
 ```
 
