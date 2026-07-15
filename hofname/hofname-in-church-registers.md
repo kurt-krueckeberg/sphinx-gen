@@ -57,7 +57,7 @@ Below is an example of a Hofname used in a Petzen 1706 baptism record.
 ## Transliteration
 
 ```{div} doc-text
-den 2. Julij Gerckens Meyer alias Henrich Bornman
+den 2. Juli Gerckens Meyer alias Henrich Bornman
 einen Sohn tauffen laßen, welcher Otto Hermann
 Henrich genant. Die Gevattern waren die
 zum Bauverwalter Gaden, der Hofmeister Reichman
