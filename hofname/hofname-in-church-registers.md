@@ -20,6 +20,27 @@ In church registers, Hofnamen may appear in several ways:
 
 Meaning: Johann Heinrich Müller, also known by the Hofname Meyer.
 
+Below is an actual example from the Petzen parish *Verzeichnis der Getauften und Konfirmierten 1641-1784*[^1].
+ 
+```{figure} images/hofname-petzen-band1a-img113.jpg
+:class: image-override
+```
+
+The transliteration of the text in the image is
+
+```{div} doc-text
+d 11 Mey Hans Jurgen Meyer alias Heine aus Nordholtz eine Tochter
+tauffen lassen, welche von seiner Mutter Catharine Margrete genant:
+```
+
+which translates as
+
+```{div} doc-text
+On 11 May, Hans Jürgen Meyer, alias Heine, of Nordholz, had a daughter
+baptized, who was named Catharine Margrete after her mother.
+```
+
+
 **2. With German *genannt*** (called, named, referred to as)
 
 > Friedrich Wilhelm Schulze genannt Bruns
@@ -77,27 +98,6 @@ and the son of the provisioning or treasury steward (Schaffmeister)
 from the princely chamber administration (Cammer).
 ```
 
-
-## Example 2
-
-```{figure} images/hofname-petzen-band1a-img113.jpg
-:class: image-override
-```
-
-## Transliteration
-
-```{div} doc-text
-d 11 Mey Hans Jurgen Meyer alias Heine aus Nordholtz eine Tochter
-tauffen lassen, welche von seiner Mutter Catharine Margrete genant:
-```
-
-## Translation
-
-```{div} doc-text
-On 11 May, Hans Jürgen Meyer, alias Heine, of Nordholz, had a daughter
-baptized, who was named Catharine Margrete after her mother.
-```
-
 ### Explanation
 
 Here “Meyer” is the Hofname or holding-name used for Hans Jürgen in the
@@ -112,12 +112,10 @@ record, while “alias Heine” identifies him by his surname, Heine.
 The father's name shown in column ??? is **Johann Henrich Drinkuth Niederhahne**
 
 
+## Citations
 
-## Citation
-
-(hofname1)=
-
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/760b065632/> : 2 July 2026), path: Niedersachsen >
+[^1]:
+https://www.archion.de/p/73ac31ea60/
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/639e293268/> : 2 July 2026), path: Niedersachsen >
 Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und
-Konfirmierten 1641-1784, image 110 of 322
-
+Konfirmierten 1641-1784, image 113 of 322

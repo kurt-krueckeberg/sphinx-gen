@@ -35,6 +35,6 @@ Elisabeth, baptized on 19 June, baptism sponsor [Faust? B??]
 with images, *Archion* (<https://www.archion.de/p/892d82a701/> : 5 July 
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784, image 99of 322,
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 99 of 322,
 left hand page, 3rd entry.
 
