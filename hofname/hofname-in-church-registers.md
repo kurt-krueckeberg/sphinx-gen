@@ -47,11 +47,10 @@ Below is another example found one image 109 of the same volume.[^2]
 ```
 
 The first line reads "den 2. Juli Gerckens Meyer alias Henrich Bornman".
-
 Here “Meyer” is the Hofname or holding-name used for Hans Jürgen in the
 record, while “alias Heine” identifies him by his surname, Heine.
 
-This would translated as: "On 2 July, Gercken’s tenant-holder, alias Heinrich Bornmann".
+This would be translated as: "On 2 July, Gercken’s tenant-holder, alias Heinrich Bornmann".
 
 **2. Wsth German *genannt*** (called, named, referred to as)
 
