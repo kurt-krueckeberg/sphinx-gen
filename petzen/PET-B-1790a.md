@@ -27,7 +27,7 @@ The sponsor of Carolina Weiland is Sophia Maria, whose maiden name was Mönchhof
 
 - **geb.** (geboren) Mönchhoffs gives her birth surname.
 - **al. Pichtsmeiersche** gives an alternative name by which she was known—most likely a house or farm name, not simply a married surname.
-- Alternatively, the two letters may not be **al.** at all.
+- Alternatively, the two letters may not be **al.** (alias) at all.
 ```
 
 ## Record
