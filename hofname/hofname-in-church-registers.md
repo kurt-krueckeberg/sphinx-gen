@@ -53,7 +53,7 @@ record, while “alias Heine” identifies him by his surname, Heine.
 
 This would be translated as: "On 2 July, Gercken’s tenant-holder, alias Heinrich Bornmann".
 
-**2. Wsth German *genannt*** (called, named, referred to as)
+**2. With German *genannt*** (called, named, referred to as)
 
 > Friedrich Wilhelm Schulze genannt Bruns
 
