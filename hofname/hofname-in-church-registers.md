@@ -46,8 +46,14 @@ Below is another example found one image 109 of the same volume.[^2]
 :class: image-override
 ```
 
+The first line reads "den 2. Juli Gerckens Meyer alias Henrich Bornman".
 
-**2. With German *genannt*** (called, named, referred to as)
+Here “Meyer” is the Hofname or holding-name used for Hans Jürgen in the
+record, while “alias Heine” identifies him by his surname, Heine.
+
+This would translated as: "On 2 July, Gercken’s tenant-holder, alias Heinrich Bornmann".
+
+**2. Wsth German *genannt*** (called, named, referred to as)
 
 > Friedrich Wilhelm Schulze genannt Bruns
 
@@ -63,6 +69,17 @@ Here Meyer is functioning as the Hofname because it is being used as his
 recorded name, while Kuhlmann identifies his family origin. No alias or
 genannt is needed, but the contrast makes the Hofname visible.
 
+**TODO:** Mention background as related and elaborted by Eberhardt.
+
+Here is an actual example from the Kleinenbremen parish[^3].
+
+```{figure} ../kleinenbremen/images/kleinenbremen-11-aug-1778.jpg
+:class: image-override
+```
+
+The father's name shown in column ??? is **Johann Henrich Drinkuth Niederhahne**
+
+
 Pastors used Hofnamen because villages often had many people with the same
 given names and surnames. The holding name helped identify the exact
 household. Later, house numbers such as **Evesen No. 11** or **Berenbusch
@@ -72,51 +89,6 @@ For genealogy, the Hofname is important because it can explain why the same
 person or family appears under different names in different records. It is
 usually a clue to **property, residence, or household identity**, not
 necessarily blood descent.
-
-## Example 1
-
-Below is an example of a Hofname used in a Petzen 1706 baptism record.
-
-```{figure} images/hofname-example-petzen-band1a-img109.jpg
-:class: image-override
-```
-
-## Transliteration
-
-```{div} doc-text
-den 2. Juli Gerckens Meyer alias Henrich Bornman
-einen Sohn tauffen laßen, welcher Otto Hermann
-Henrich genant. Die Gevattern waren die
-zum Bauverwalter Gaden, der Hofmeister Reichman
-und des Schaffmeisters sein Sohn von der Cammer.
-```
-
-## Translation
-
-```{div} doc-text
-On 2 July, Gercken’s tenant-holder, alias Heinrich Bornmann,
-had a son baptized. The child was named Otto Hermann Heinrich.
-
-The baptismal sponsors were:
-the person associated with Gaden, the estate/building administrator (Bauverwalter);
-Reichmann, the estate steward (Hofmeister);
-and the son of the provisioning or treasury steward (Schaffmeister)
-from the princely chamber administration (Cammer).
-```
-
-### Explanation
-
-Here “Meyer” is the Hofname or holding-name used for Hans Jürgen in the
-record, while “alias Heine” identifies him by his surname, Heine.
-
-## Example 3
-
-```{figure} ../kleinenbremen/images/kleinenbremen-11-aug-1778.jpg
-:class: image-override
-```
-
-The father's name shown in column ??? is **Johann Henrich Drinkuth Niederhahne**
-
 
 ## Citations
 
@@ -132,3 +104,12 @@ https://www.archion.de/p/73ac31ea60/
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/03bf4b430f/> : 2 July 2026), path: Niedersachsen >
 Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und
 Konfirmierten 1641-1784, image 109 of 322
+
+[^3]:
+"Archion Protestant Kirchenbücher Portal", database
+with images, *Archion* (<https://www.archion.de/p/fe6af9f457/> : 25 Jan. 2025),
+path: Nordrhein-Westfalen > Landeskirchliches Archiv der Evangelischen
+Kirche von Westfalen > Kirchenkreis Minden > Kleinenbremen > Trauungen
+1763-1807, Taufen 1763-1807, Beerdigungen 1763-1807, Konfirmationen
+1763-1803 Band 2 > Image 62 of 215
+
