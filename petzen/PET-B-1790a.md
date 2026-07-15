@@ -1,5 +1,35 @@
 # 1790 Twins Hans Heinrich and Carolina Weiland Baptism
 
+## Family and Other Facts
+
+```{list-table}
+:header-rows: 1
+
+* - Infant
+  - Father
+  - Mother 
+  - Residence
+  - Sponsor
+* - Hans Heinrich Weiland
+  - Friedrich Wilhelm Weiland 
+  - Anna Maria Weiland
+  - Evesen no. 20
+  - Johann Christoph Ludowig Weiland of Evesen 21.
+* - Carolina Weiland
+  - Friedrich Wilhelm Weiland 
+  - Anna Maria Weiland
+  - Evesen no. 20
+  - Sophie Maria nee Mönchhoffs, al. Pichtsmeiersche, Evesen No. 4.
+```
+
+```{note}
+The sponsor of Carolina Weiland is Sophia Maria, whose maiden name was Mönchhoff. Thus
+
+- **geb.** (geboren) Mönchhoffs gives her birth surname.
+- **al. Pichtsmeiersche** gives an alternative name by which she was known—most likely a house or farm name, not simply a married surname.
+- Alternatively, the two letters may not be **al.** at all.
+```
+
 ## Record
 
 The baptisms of  Hans Heinrich and Carolina Weiland are on {ref}`image 48 <PET-B-1790a>`
@@ -14,9 +44,12 @@ of the Petzen *Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorben
 ```{div} doc-text
 5.) d. 27ten Jan. sind getauft die Zwillinge neml.
 
-a\. Hans Heinr. Weiland des Friederich Wilhelm Weilands aus Evesen No. 20 mit seiner Ehefrau Anna Maria geb. Weilands erzeugter Sohn. Gevatter war Johan Christoph Ludewig Weiland aus Evesen No. 21.
+a\. Hans Heinr. Weiland des Friederich Wilhelm Weilands aus Evesen No. 20
+mit seiner Ehefrau Anna Maria geb. Weilands erzeugter Sohn. Gevatter war
+Johan Christoph Ludewig Weiland aus Evesen No. 21.
 
-6.)&nbsp;b. Carolina Weilands, die Schwester von demselben. Gevatterin war Sophie Maria geb. Mönchhoffs, al. Pichtsmeiersche aus Evesen No. 4.
+6.) b. Carolina Weilands, die Schwester von demselben. Gevatterin war
+Sophie Maria geb. Mönchhoffs, al. Pichtsmeiersche aus Evesen No. 4.
 ```
 
 ```{div} doc-text
@@ -24,10 +57,10 @@ a\. Hans Heinr. Weiland des Friederich Wilhelm Weilands aus Evesen No. 20 mit se
 
 a\. Hans Heinrich Weiland, the son born to Friedrich Wilhelm Weiland of
 Evesen, house no. 20, and his wife Anna Maria, née Weiland. The godfather
-was Johann Christoph Ludowig Weiland of Evesen, house no. 21.
+was Johann Christoph Ludowig Weiland of Evesen no. 21.
 
 6.) b. Carolina Weiland, the sister of the same. The godmother was Sophie
-Maria, née Mönchhoff, also known as Pichtmeier, of Evesen, house no. 4.
+Maria, née Mönchhoff, also known as Pichtmeier, of Evesen no. 4.
 ```
 
 ```{note}
