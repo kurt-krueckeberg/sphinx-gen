@@ -103,6 +103,15 @@ baptized, who was named Catharine Margrete after her mother.
 Here “Meyer” is the Hofname or holding-name used for Hans Jürgen in the
 record, while “alias Heine” identifies him by his surname, Heine.
 
+## Example 3
+
+```{figure} ../kleinenbremen/images/kleinenbremen-11-aug-1778.jpg
+:class: image-override
+```
+
+The father's name shown in column ??? is **Johann Henrich Drinkuth Niederhahne**
+
+
 
 ## Citation
 
