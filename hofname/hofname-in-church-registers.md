@@ -34,7 +34,8 @@ d 11 Mey Hans Jürgen Meyer alias Heine auß Nordholtz eine Tochter tauffen laß
 
 which translates as
 
-**TODO** IT is not clear which is the surname and which is the Hofname!!
+**TODO**: See hofname/surname-vs-hofname.md for clarification on which is the surname and which is the
+Hofname in these records. It makes the most sense.
 
 ```{div} doc-text
 On 11 May, Hans Jürgen Meyer, alias Heine, of Nordholz, had a daughter
