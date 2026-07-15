@@ -1,6 +1,9 @@
 # 1790 Twins Hans Heinrich and Carolina Weiland Baptism
 
-## Twins Hans Heinrich and Carolina Weiland 1790
+## Record
+
+The baptisms of  Hans Heinrich and Carolina Weiland are on {ref}`image 48 <PET-B-1790a>`
+of the Petzen *Ver 
 
 ```{figure} images/petzen-band2-img48-left.jpg
 :class: image-override
