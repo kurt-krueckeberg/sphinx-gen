@@ -2,7 +2,7 @@
 
 ## Family and Other Facts
 
-```{list-table}
+```{list-table} 27 Jan. 1790 baptism of Weiland twins 
 :header-rows: 1
 
 * - Infant
