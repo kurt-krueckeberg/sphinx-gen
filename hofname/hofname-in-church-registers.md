@@ -29,11 +29,12 @@ Below is the actual example from the Petzen parish *Verzeichnis der Getauften un
 The transliteration of the text in the image is
 
 ```{div} doc-text
-d 11 Mey Hans Jurgen Meyer alias Heine aus Nordholtz eine Tochter
-tauffen lassen, welche von seiner Mutter Catharine Margrete genant:
+d 11 Mey Hans Jürgen Meyer alias Heine auß Nordholtz eine Tochter tauffen laßen, welche von seiner Mutter Catharina Margretha genant:
 ```
 
 which translates as
+
+**TODO** IT is not clear which is the surname and which is the Hofname!!
 
 ```{div} doc-text
 On 11 May, Hans Jürgen Meyer, alias Heine, of Nordholz, had a daughter
@@ -77,7 +78,6 @@ Here is an actual example from the Kleinenbremen parish[^3].
 ```
 
 The father's name shown in column ??? is **Johann Henrich Drinkuth Niederhahne**
-
 
 Pastors used Hofnamen because villages often had many people with the same
 given names and surnames. The holding name helped identify the exact
