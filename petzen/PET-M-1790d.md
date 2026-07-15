@@ -11,8 +11,8 @@
   - Bride Locality
 * - Johann Heinrich Weiland
   - Evesen no. 24
-  - 
-  -
+  - Anna Margarthea Harren 
+  - Meisen [likely Meinsen] No 1
 ```
 
 ## Record
@@ -26,12 +26,24 @@ The marriage of Johann Heinrich Weiland shown occurred on 17 October 1790:
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration 
 
 ```{div} doc-text
 14) d[en] 17ten October ist copuliert Johann Heinrich Weiland aus Evesen
     No. 24 mit Jfr Anna Margarthea Harren aus Meisen No 1
 ```
+
+```{note}
+There was a village called Meißen near Minden. The record spells the place Meisen. It remains uncertain
+whether that spelling refers to Meißen or to Meinsen.
+
+Nevertheless, Meinsen remains the more likely identification because:
+
+- Meinsen was within the immediate Petzen–Bückeburg area.
+- The entry gives No. 1, which is consistent with Schaumburg-Lippe’s numbered rural holdings.
+```
+
+## Translation
 
 ```{div} doc-text
 14) the 17th October Johann Heinrich Weiland from Evesen
