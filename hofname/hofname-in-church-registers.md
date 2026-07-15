@@ -129,6 +129,6 @@ Konfirmierten 1641-1784, image 113 of 322
 
 [^2]:
 https://www.archion.de/p/73ac31ea60/
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/639e293268/> : 2 July 2026), path: Niedersachsen >
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/03bf4b430f/> : 2 July 2026), path: Niedersachsen >
 Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und
-Konfirmierten 1641-1784, image 113 of 322
+Konfirmierten 1641-1784, image 109 of 322
