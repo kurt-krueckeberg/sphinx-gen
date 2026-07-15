@@ -20,7 +20,7 @@ In church registers, Hofnamen may appear in several ways:
 
 Meaning: Johann Heinrich Müller, also known by the Hofname Meyer.
 
-Below is an actual example from the Petzen parish *Verzeichnis der Getauften und Konfirmierten 1641-1784*[^1].
+Below is the actual example from the Petzen parish *Verzeichnis der Getauften und Konfirmierten 1641-1784*[^1].
  
 ```{figure} images/hofname-petzen-band1a-img113.jpg
 :class: image-override
@@ -38,6 +38,12 @@ which translates as
 ```{div} doc-text
 On 11 May, Hans Jürgen Meyer, alias Heine, of Nordholz, had a daughter
 baptized, who was named Catharine Margrete after her mother.
+```
+
+Below is another example found one image 109 of the same volume.[^2]
+
+```{figure} images/hofname-example-petzen-band1a-img109.jpg
+:class: image-override
 ```
 
 
@@ -115,6 +121,13 @@ The father's name shown in column ??? is **Johann Henrich Drinkuth Niederhahne**
 ## Citations
 
 [^1]:
+https://www.archion.de/p/73ac31ea60/
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/639e293268/> : 2 July 2026), path: Niedersachsen >
+Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und
+Konfirmierten 1641-1784, image 113 of 322
+
+
+[^2]:
 https://www.archion.de/p/73ac31ea60/
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/639e293268/> : 2 July 2026), path: Niedersachsen >
 Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und
