@@ -3,7 +3,7 @@
 ## Record
 
 The baptisms of  Hans Heinrich and Carolina Weiland are on {ref}`image 48 <PET-B-1790a>`
-of the Petzen *Ver 
+of the Petzen *Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827*. 
 
 ```{figure} images/petzen-band2-img48-left.jpg
 :class: image-override
