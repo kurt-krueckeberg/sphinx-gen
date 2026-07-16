@@ -28,7 +28,7 @@ The entry records that **Henrich Bornman** (who was currently living on and oper
 See also:
 
 - [German Naming Convntions](https://www.familysearch.org/en/wiki/Germany_Naming_Customs)
-- [Genannt (bei Familiennamen)](https://wiki.genealogy.net/Genannt_(bei_Familiennamen)
+- [Genannt (bei Familiennamen)](https://wiki.genealogy.net/Genannt_(bei_Familiennamen))
 - [Namensanklebung](https://wiki.genealogy.net/Namensanklebung)
 - [https://wiki.genealogy.net/Westf%C3%A4lisches_Erbfolgerecht](https://wiki.genealogy.net/Westf%C3%A4lisches_Erbfolgerecht)
 - [Hausname](https://de.wikipedia.org/wiki/Hausname)
