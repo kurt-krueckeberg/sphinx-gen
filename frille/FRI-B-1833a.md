@@ -83,7 +83,7 @@ Translation of page header: **Births and Baptims in 1833**.
   - fourth (4) Marche three (3) a.m. in Leeteln
   - legitimage
   - Carl Friederich Bleeke Colon of No. 13 in Leeteln
-  - Marie Luise nee Niemann aus Todtenhausen.
+  - Marie Luise geb. Niemann aus Todtenhausen.
   - Leeteln No. 13
   - tenth (10) March
   - Schütz

@@ -19,7 +19,7 @@
   - Friedrich Wilhelm Weiland 
   - Anna Maria Weiland
   - Evesen no. 20
-  - Sophie Maria nee Mönchhoffs, al. Pichtsmeiersche, Evesen No. 4.
+  - Sophie Maria geb. Mönchhoffs, al. Pichtsmeiersche, Evesen No. 4.
 ```
 
 ```{note}
@@ -56,11 +56,11 @@ Sophie Maria geb. Mönchhoffs, al. Pichtsmeiersche aus Evesen No. 4.
 5.) On 27 January, the twins were baptized, namely:
 
 a\. Hans Heinrich Weiland, the son born to Friedrich Wilhelm Weiland of
-Evesen, house no. 20, and his wife Anna Maria, née Weiland. The godfather
+Evesen, house no. 20, and his wife Anna Maria, geb. Weiland. The godfather
 was Johann Christoph Ludowig Weiland of Evesen no. 21.
 
 6.) b. Carolina Weiland, the sister of the same. The godmother was Sophie
-Maria, née Mönchhoff, also known as Pichtmeier, of Evesen no. 4.
+Maria, geb. Mönchhoff, also known as Pichtmeier, of Evesen no. 4.
 ```
 
 ```{note}

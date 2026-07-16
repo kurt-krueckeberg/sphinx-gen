@@ -82,7 +82,7 @@ Translation of page header: **Born and Baptized in the year 1836**.
   - twenty eight (28) January four (4) p.m. in Leeteln
   - legitimate
   - Christian Friedrich Bleke resident at No. 17 in Leeteln
-  - Christine Luise nee Krückeberg from Beerenbusch
+  - Christine Luise geb. Krückeberg from Beerenbusch
   - Leeteln
   - thirty one (31) January
   - Schütz

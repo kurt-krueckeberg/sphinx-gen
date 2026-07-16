@@ -11,7 +11,7 @@
   - Residence
   - Baptism Date
 * - Johann Heinrich Krückeberg
-  - Anna Marie Elisabeth née Schekel
+  - Anna Marie Elisabeth geb. Schekel
   - Anna Christina Maria Krückeberg
   - Berenbusch
   - 10 Sep. 1775

@@ -81,7 +81,7 @@ Translation of page header: **Births and Baptims in 1828**.
   - twenty eighth (28th) Feb. ten (10) p.m. at Leeteln
   - legitimate
   - Carl Friederich Bleeke Col No. 13
-  - Marie Luise nee Niemann
+  - Marie Luise geb. Niemann
   - Leeteln
   - second (2nd) March
   - Schütz

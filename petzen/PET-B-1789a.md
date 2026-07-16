@@ -49,7 +49,7 @@ Friederich Altmeyer Hofmeister auf dem Hofe [sub?] No. 2
 ```{div} doc-text
 6) On 20 February, Johann Heinrich Weiland was baptized, the son born to
 Jobst Heinrich Weiland, a day laborer in Petzen, and his wife Sophie
-Dorothea, née Möller, whom he had previously impregnated. The godfather was
+Dorothea, geb. Möller, whom he had previously impregnated. The godfather was
 Johann Friedrich Altmeyer, steward on farm no. 2.
 ```
 

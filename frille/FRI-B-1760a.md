@@ -41,7 +41,7 @@ preceded, respecitvely, by the following single-letter abbreviations:
 from Frille. Father: the Prussian schoolmaster Daniel
 Heinrich Philip Bleke. Mother: Amalia Wilhelmina
 Dünker. Sponsor: Mrs. War Councillor Charlotte Loyse
-Henriette Meirre, née Delius.
+Henriette Meirre, geb. Delius.
 ```
 
 ```text
@@ -49,7 +49,7 @@ Henriette Meirre, née Delius.
     from Frille. Father: the Prussian schoolmaster Daniel
     Heinrich Philip Bleke. Mother: Amalia Wilhelmina
     Dünker. Sponsor: the War Councillor’s wife Charlotte Louise
-    Henriette Meirre, née Delius.
+    Henriette Meirre, geb. Delius.
 ```
 
 ## Citation

@@ -12,7 +12,7 @@
   - Jobst Heinrch Kruckeberg
   - no. 10 Berenbusch
 * - **Mother**
-  - Anne Christine Philippine née Tegtmeier
+  - Anne Christine Philippine geb. Tegtmeier
   - no. 10 Berenbusch
 * - **Child/Confirmant**
   - Anne Christine Lenore Krückeberg
@@ -110,7 +110,7 @@ Translation of page header
 * - 20)
   - Anne Christine Leonore Krückeberg
   - Jobst Heinrich Kruckeberg
-  - Anna Christine Philippine nee Tegtmeier
+  - Anna Christine Philippine geb. Tegtmeier
   - Bärenbusch n. 10
   - 14. Febr. 1798
   - 

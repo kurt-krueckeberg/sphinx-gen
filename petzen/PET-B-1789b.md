@@ -12,7 +12,7 @@
   - Sponsor
 * - Christina Maria Weiland
   - Johann Heinrich Weiland
-  - Catherine Elisabeth nee Borneman
+  - Catherine Elisabeth geb. Borneman
   - Evesen No 21
   - Maria Elisabeth Bornemans from Evesen No. 7
 ```

@@ -10,7 +10,7 @@
   - Child
   - Residence
 * - Carl Friedrich Gottlieb Krückeberg
-  - Philippine Lenore née **Bleeken†**
+  - Philippine Lenore geb. **Bleeken†**
   - Carl Friedrich Krückeberg
   - no. 14 Bärenbusch
 ```
@@ -20,7 +20,7 @@
 It was not **Bleeke**. Part of the explanation is
 {external+ancestry:doc}`here <ancestry/proof-arg-philippine-eleonore-werkmeister>`.
 
-The mother of Philippine Eleonore Werkmesiter was Ilse Marie nee Möller, who
+The mother of Philippine Eleonore Werkmesiter was Ilse Marie geb. Möller, who
 had two marriages. The first was to Johann Heinrich Bleke, on 18
 Februray 1770, with whom she had three daughters.
 
@@ -62,13 +62,13 @@ Friedrich Krückeberg’s mother.
   - Lutheran
 ```
 
-```{list-table} Mother Philippine Lenore née Werkmeister/Bleeken Facts
+```{list-table} Mother Philippine Lenore geb. Werkmeister/Bleeken Facts
 :header-rows: 1
 
 * - Name
   - Birth Place
   - Religion
-* - Philippine Lenore née Werkmeister/Bleeken
+* - Philippine Lenore geb. Werkmeister/Bleeken
   - no. 11 Evesen
   - Lutheran
 ```
@@ -115,7 +115,7 @@ Heinrich Tönnis Werkmeister. Their daughter, born 4 May 1883, was
 Philippine Eleonore Werkmeister, who married Carl Friedrich Gottlieb
 Krückeberg on [13 March 1803](PET-M-1803a.md).
 
-Thus Carl Friedrich Gottlieb Krückeberg’s mother-in-law, Ilse Marie nee
+Thus Carl Friedrich Gottlieb Krückeberg’s mother-in-law, Ilse Marie geb.
 Möller, was also the mother-in-law of Hans Heinrich Wilharm.
 
 Carl Friedrich Gottlieb Krückeberg’s wife, Philippine Eleonore Werkmeister,

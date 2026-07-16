@@ -57,7 +57,7 @@ Translation
 
 On the 11th of July, Anna Maria Philippina was baptized, the daughter of
 Johann Heinrich Blecken of Evesen no. 11 and his wife Anna Maria Elisabeth,
-née Möller.
+geb. Möller.
 
 The godmothers were Anna Engel Möller of Heßen and Sophia Christine
 Hartmann, of Evesen no. 9.

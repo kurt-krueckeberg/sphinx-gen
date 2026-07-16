@@ -12,7 +12,7 @@
   - Sponsor
 * - Sophia Eleonora Weiland 
   - Johann Heinrich Weiland
-  - Sophia Elisabeth née Astwehs
+  - Sophia Elisabeth geb. Astwehs
   - Evesen No. 21
   - wife of Sickmeier
     of Evesen No. 2.
@@ -41,7 +41,7 @@ Petzen "Verzeichnis der Getaufte und Confirmirte, 1641-1784"
 
 29) On 4 October, Sophia Eleonora Weiland was baptized, the daughter
     begotten by Johann Heinrich Weiland of Evesen No. 21 with his wife
-    Sophia Elisabeth, née Astwehs. The godmother was Sickmeier’s wife
+    Sophia Elisabeth, geb. Astwehs. The godmother was Sickmeier’s wife
     of Evesen No. 2.
 ```
 

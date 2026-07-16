@@ -158,7 +158,7 @@ administrative term.
   - Hausherr
   - Evesen
   - 19
-  - Catha[rine] Soph[ie] née Krömer
+  - Catha[rine] Soph[ie] geb. Krömer
   - 21
   - 31
   - Sophie Ernestine Wilharm from Evesen

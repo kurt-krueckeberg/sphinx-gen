@@ -86,7 +86,7 @@ Translation of page header: **Births and Baptims in 1835**.
   - Zwanzigsten (20) Frebruary seven (7) p.m. in Leeteln
   - legitimate
   - Carl Friedrich Bleeke Colon of No. 13 in Leeteln
-  - Marie Luise nee Niemann from Todtenhasuen
+  - Marie Luise geb. Niemann from Todtenhasuen
   - Leeteln
   - first (1) March
   - Schütz

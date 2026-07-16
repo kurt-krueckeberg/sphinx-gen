@@ -33,7 +33,7 @@
   - no. 18 Bärebusch
   - Lutheran
 * - **Mother**
-  - Philippine Leonore née Bleeke
+  - Philippine Leonore geb. Bleeke
   - no. 18 Bärebusch
   - no. 11 Evesen
   - Lutheran
@@ -57,7 +57,7 @@
   - [13 Mar. 1803](PET-M-1803a.md)
 ```
 
-```{list-table} Nachträge for Philippine Leonore née Bleeke, mother of Carloline Dorothee Krückeberg
+```{list-table} Nachträge for Philippine Leonore geb. Bleeke, mother of Carloline Dorothee Krückeberg
 :header-rows: 1
 
 * - Baptism

@@ -15,7 +15,7 @@
   - 26 April 1798
   - 7 April 1811
   - Johann Heinrich Krückeberg
-  - Anne Sophie née Crömer
+  - Anne Sophie geb. Crömer
   - no. 19 Evesen
 ```
 

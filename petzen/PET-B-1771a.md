@@ -53,7 +53,7 @@ Berenbusch.
 
 ```{div} doc-text
 On 17 March, the little daughter of Friderich Wilhelm Wiland of Evesen No.
-20 and his wife Anna Maria, née Weiland, received holy baptism. She was
+20 and his wife Anna Maria, geb. Weiland, received holy baptism. She was
 given the name Anna Philippina Maria by Deerberg’s wife of Evesen, Möller’s
 wife of Heeßen, and Brun’s wife of Berenbusch.
 ```

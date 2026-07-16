@@ -84,7 +84,7 @@ Translation of page header: **Births and Baptisms in the year 1830**.
   - twenty seventh (27) July six (6) p.m. in Leeteln
   - legitimate
   - Christian Friederich Bleeke Tagelöhner and Einlieg[er] at N. 16
-  - Christine Luise nee Krückeberg from Bärenbusch
+  - Christine Luise geb. Krückeberg from Bärenbusch
   - Leeteln
   - first (1) August
   - Schütz

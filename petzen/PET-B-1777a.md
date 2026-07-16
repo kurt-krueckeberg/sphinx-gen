@@ -59,7 +59,7 @@ Translation
 
 ```{div} doc-text
 On 26 January, Friedrich Wilhelm Weiland was baptized, the son begotten by
-Friedrich Wilhelm Weiland of Evesen, No. 20, with his wife Anna Maria, née
+Friedrich Wilhelm Weiland of Evesen, No. 20, with his wife Anna Maria, geb.
 [M/W]eiland. The baptismal sponsors were Johann Heinrich Weiland of Nordholz
 and Hans Heinrich Möller of Heeßen.
 ```

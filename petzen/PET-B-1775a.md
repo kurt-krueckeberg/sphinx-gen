@@ -54,7 +54,7 @@ Töchter getaufft."**
 
 translates as:
 
-**"…​by his wife Anna Philippina née Rösener, to whom he had been married since the 15th of January of this year,
+**"…​by his wife Anna Philippina geb. Rösener, to whom he had been married since the 15th of January of this year,
 was born his daughter, who was baptized."**
 
 :::
@@ -63,7 +63,7 @@ was born his daughter, who was baptized."**
 
 ```{div} doc-text
 7) On the 7th of February, Anna Philippina Maria, the daughter born to
-Heinrich Wilhelm Bleken of Evesen by his wife Anna Philippina, née
+Heinrich Wilhelm Bleken of Evesen by his wife Anna Philippina, geb.
 Rösener, who had been married to him since the 15th of January of this
 year, was baptized.
 

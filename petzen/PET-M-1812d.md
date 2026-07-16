@@ -46,7 +46,7 @@
 
 * - Name
   - Fact
-* - Ilse Margarethe nee Blecken
+* - Ilse Margarethe geb. Blecken
   - died in 1846
 ```
 

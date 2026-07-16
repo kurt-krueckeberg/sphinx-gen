@@ -60,7 +60,7 @@ war 3 und 1/4 Jahr.
      the begotten son of Johann Heinrich
      Krückebergs ["Krückebergs" is written above "Crömers"]
      Cromers from Evesen no 19 and his wife
-     Anne Catharine Sophie née Crömer.
+     Anne Catharine Sophie geb. Crömer.
      His illnes was coughing[literally: the cough] and [continuing weakness]. His age
      was 3 and 1/4 years.
 ```

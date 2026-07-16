@@ -14,7 +14,7 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
   - Johann Heinrich Kruckeberg
   - Berenbusch
 * - **Mother**
-  - Anne Christine Elisabeth née Seeger
+  - Anne Christine Elisabeth geb. Seeger
   - Berenbusch
 ```
 

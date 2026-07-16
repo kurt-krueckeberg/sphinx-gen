@@ -1,4 +1,4 @@
-# 1773 Anna Christina Kruckeberg, née Seeger, Burial
+# 1773 Anna Christina Kruckeberg, geb. Seeger, Burial
 
 ## Family Group and Other Facts
 
@@ -12,7 +12,7 @@
   - Johann Heinrich Krückkeberg
   - 
 * - **Wife**
-  - Anna Christina née Seeger Krückeberg
+  - Anna Christina geb. Seeger Krückeberg
   - Aug. 29, 1773
 * - **Residence**
   - Berenbusch
@@ -24,7 +24,7 @@
 
 * - Person
   - Fact
-* - Anna Christina née Seeger Krückeberg
+* - Anna Christina geb. Seeger Krückeberg
   - Died from complications of childbirth
 ```
 

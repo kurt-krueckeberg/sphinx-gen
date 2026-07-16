@@ -16,7 +16,7 @@
   - 11 Jun. 1780
   - Wülpke
 * - **Bride**
-  - Ilse Maria née Möller, widow of Bleke
+  - Ilse Maria geb. Möller, widow of Bleke
   - 11 Jun. 1780
   - Evesen
 ```
@@ -26,14 +26,14 @@
 
 * - Person
   - Fact
-* - Ilse Maria née Möller
+* - Ilse Maria geb. Möller
   - widow of Bleke
 ```
 
 ## Record
 
 The June 11, 1780 marriage of Heinrich Tönnes Werkmeister from Wülpke
-to Ilse Maria Elisabeth née Möller, widow of Bleken, from Evesen, is on
+to Ilse Maria Elisabeth geb. Möller, widow of Bleken, from Evesen, is on
 {ref}`image 65 <PET-M-1780a>`  of the Petzen *Verzeichnis der Getrauten und Gestorbenen,
 1641-1784*. 
 
@@ -57,7 +57,7 @@ Translation
 ```{div} doc-text
 
 7) 11th June Heinrich Tönnis Werkmeister from Wülpke a bachelor
-was married to Ilse Marie nee Möller, widow of Bleke, from Evesen
+was married to Ilse Marie geb. Möller, widow of Bleke, from Evesen
 ```
 
 ## Citation

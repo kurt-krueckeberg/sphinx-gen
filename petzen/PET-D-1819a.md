@@ -1,4 +1,4 @@
-# 1819 Philippine Dorothee Krückeberg, née Beucke, Burial
+# 1819 Philippine Dorothee Krückeberg, geb. Beucke, Burial
 
 ## Family Relationship and Other Facts
 
@@ -11,7 +11,7 @@
   - Daughter
   - Death Date
   - Burial Date
-* - Philippine Dorothee nee Beucke Krückeberg
+* - Philippine Dorothee geb. Beucke Krückeberg
   - Johann Heinrich Krückeberg
   - no. 13 Bärenbusch
   - not given
@@ -40,7 +40,7 @@
 
 
 ```{note}
-Philippine Dorothee nee Beuke Krückeberg was survived by a daughter, but it
+Philippine Dorothee geb. Beuke Krückeberg was survived by a daughter, but it
 is not clear that Johann Heinrich Krückeberg was her daugher’s father. We
 don’t have a baptism record yet.
 
@@ -50,7 +50,7 @@ A Philippine Maria Beucke was a baptismal sponsor in 1785 at the
 
 ## Record
 
-On January 6, 1819, Philippine Dorothee Krückeberg, nee Beucken (or Beucke) died and was buried on January 9, 1819.
+On January 6, 1819, Philippine Dorothee Krückeberg, geb. Beucken (or Beucke) died and was buried on January 9, 1819.
 The death and burial record is on {ref}`image 300 <PET-D-1819a>`, entry #1, of the Petzen Kirchenbuch "Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 

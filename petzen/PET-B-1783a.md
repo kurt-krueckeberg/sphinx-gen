@@ -29,7 +29,7 @@ Translation of Baptism Record
 ```{div} doc-text
 
 On 4th May Philippina Eleonore Werkmeister, the begotten daugther of
-Tönnies Werkmeister from Evesen No. 11 and his wife Ilse Maria née Moller,
+Tönnies Werkmeister from Evesen No. 11 and his wife Ilse Maria geb. Moller,
 was baptized. The godmother was Margarethe Braun from Evesen
 ```
 

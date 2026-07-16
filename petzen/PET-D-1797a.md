@@ -8,7 +8,7 @@ images of the *Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen*.
 
 ```{note}
-Anne Marie Philippine nee Bleke Wilharm [died on 11
+Anne Marie Philippine geb. Bleke Wilharm [died on 11
 April 1797](PET-M-1797a.md), the day after the birth of her first child,
 [Hans Heinrich Wilharm](PET-B-1779a.md), who had the same name as his
 father. Later the same year, her widowed husband remarried,

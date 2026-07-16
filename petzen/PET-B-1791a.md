@@ -12,7 +12,7 @@
   - Residence
 * - Friderich Wilhelm
   - Johann Heinrich Krückeberg
-  - Catherine Margaretha née Crömer
+  - Catherine Margaretha geb. Crömer
   - April 25, 1791
   - Evesen
 ```

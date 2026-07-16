@@ -121,7 +121,7 @@ farmer.
   - Survivors
   - [untitled]
 * - 8
-  - Joh[ann] Hen[rich] Krickeberg hereditary tenant farmer: n 19 in Evesen, son of Joh[ann] Hen[rich] Kruckeberg in Berenb[usch] n 10 and Christine Rösener from Evesen [née] Kruckeb[erg]
+  - Joh[ann] Hen[rich] Krickeberg hereditary tenant farmer: n 19 in Evesen, son of Joh[ann] Hen[rich] Kruckeberg in Berenb[usch] n 10 and Christine Rösener from Evesen [geb.] Kruckeb[erg]
   - Died on March 18th, buried: on 21st
   - hemorrhage
   - 38 years old

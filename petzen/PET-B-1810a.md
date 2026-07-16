@@ -91,7 +91,7 @@ Gestorbenen 1785-1827.
   - Hans Heinrich Wilharm
     farmer from n. 11 in Evesen
     Lutheran Confession
-  - Sophie nee Blecken
+  - Sophie geb. Blecken
     from n. 11. in Evesen, Luth. Conf.
   - live at no. 11
     in Evesen

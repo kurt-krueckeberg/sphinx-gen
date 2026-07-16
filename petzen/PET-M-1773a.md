@@ -16,7 +16,7 @@
   - Nov. 7 1773
   - Berenbusch
 * - **Bride**
-  - Ilse Anna Marie Elisabeth née Schakel
+  - Ilse Anna Marie Elisabeth geb. Schakel
   - Nov. 7 1773
   - Päpinghausen
 ```
@@ -33,7 +33,7 @@
 ## Record
 
 The November 7, 1773, marriage of Johann Heinrich Krükkeberg from Bernbusch to Ilse Anna Maria Elisabeth
-née Schakel from Päpinghausen is on {doc}`image 61 <PET-M-1773a>`, the last entry on the left-hand page (the pages
+geb. Schakel from Päpinghausen is on {doc}`image 61 <PET-M-1773a>`, the last entry on the left-hand page (the pages
 are unnumbered), of the Petzen "Verzeichnis der Getrauten und Gestorbenen, 1641-1784".
 
 ## Marriage Record
@@ -69,7 +69,7 @@ ANNO 1773
 
 2) The 7th Nov. Johann Heinrich Kruckeberg
           a widower from Berenbusch married Ilse Anna Maria
-          Elisabeth née Schakel from Päpinghausen
+          Elisabeth geb. Schakel from Päpinghausen
 ```
 
 ## Citation

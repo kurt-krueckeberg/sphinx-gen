@@ -12,7 +12,7 @@
   - Residence
 * - Hans Heinrich Wilharm
   - Hans Heinrich Wilharm
-  - Anne Marie Philippine nee Blecke
+  - Anne Marie Philippine geb. Blecke
   - 10 April 1797
   - no. 11 Evesen
 ```
@@ -27,7 +27,7 @@
 ```
 
 ```{note}
-Anne Marie Philippine nee Blecke Wilharm [died
+Anne Marie Philippine geb. Blecke Wilharm [died
 the day after giving birth](PET-D-1797a.md).
 ```
 

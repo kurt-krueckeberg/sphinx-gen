@@ -1,4 +1,4 @@
-# 1814 Ilse (Elisabeth) Marie nee Möller, married 1st Blecke, married 2nd Werkmeister, Death
+# 1814 Ilse (Elisabeth) Marie geb. Möller, married 1st Blecke, married 2nd Werkmeister, Death
 
 ## Record
 
@@ -9,7 +9,7 @@
 Ilsabey.**
 ```
 
-Ilse Marie Werkmeister, nee Möller, was the mother-in-law of Carl Friedrich
+Ilse Marie Werkmeister, geb. Möller, was the mother-in-law of Carl Friedrich
 Gottlieb Krückeberg, who married her daugher, Philippine Eleonore
 Werkmeister, on [13 March 1803](PET-M-1803a.md).
 
@@ -17,7 +17,7 @@ Her husband Heinrich Tönnis Werkmeister [died on 7
 October 1798](PET-D-1798a.md) at no. 11 Evesen age 59. He was a Leibzüchter. She died at
 age 73 as a Leibzüchterin at n. 11 Evesen.
 
-The death of Ilse Marie Wermeister, nee Möller, on 26 January 1814, is
+The death of Ilse Marie Wermeister, geb. Möller, on 26 January 1814, is
 found on {ref}`image 285 <PET-D-1814a>` of the [Archion](https://archion.de)
 images of the Petzen Kirchenbuch volume "Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827".
@@ -64,7 +64,7 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827".
   - Survivors
   - Remarks
 * - 4.
-  - Ilse Marie Werkmeistern nee Möllern, Leibzuchterin at n. 11 in Evesen
+  - Ilse Marie Werkmeistern geb. Möllern, Leibzuchterin at n. 11 in Evesen
     Luth. Conf.
   - died 26th Abends 8:30 p.m. in Evesen and buried 31 Jan. in
     Petzen

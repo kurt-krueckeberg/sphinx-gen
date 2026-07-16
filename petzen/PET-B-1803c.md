@@ -15,7 +15,7 @@
 * - Christine Philippine
   - Carl Friedrich Krückeberg
   - Einlieger
-  - Philippine née Werkmeister
+  - Philippine geb. Werkmeister
   - Evesen
     (No. missing)
   - 7 Dec. 1803
@@ -132,7 +132,7 @@ Translation of page header
   - Einlieger
   - Evesen
   - 
-  - Philipp[ine] nee: Werkmeister
+  - Philipp[ine] geb.: Werkmeister
   - Dec. 7
   - Dec. 11
   - Mrs. Kruckeberg and Weyland from Berenbusch.

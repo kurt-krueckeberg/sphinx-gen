@@ -30,7 +30,7 @@ Transliteration
 ```{div} doc-text
 On the 17th of December Anna Ilsa Margaretha Blecken, the begotton daughter
 of Johann Heinrich Bleken from Evesen No. 11, by his wife Ilsee Margarethe
-Elisabeth nee Möller, was baptized. The godmothers were Margaretha
+Elisabeth geb. Möller, was baptized. The godmothers were Margaretha
 Elisabeth Bruns from Evesen by the bridge.
 + May 4, 1846
 ```

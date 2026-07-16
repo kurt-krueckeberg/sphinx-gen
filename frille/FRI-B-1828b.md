@@ -87,7 +87,7 @@ Translation of page header: **Born and Baptized in the year 1828**.
   - legitimate
   - Johann Heinrich Philipp Bleeke
     Colon No 16 in Leeteln
-  - Christine Marie nee Schwier from Wietersheim
+  - Christine Marie geb. Schwier from Wietersheim
   - seventeenth (17) August
   - Leeteln
   - Schütz

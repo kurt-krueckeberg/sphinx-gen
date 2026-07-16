@@ -30,7 +30,7 @@ Translation
 
 26) On 11th Sept Sophia Ernestine Belken was
     baptized, the daughter of Johann Heinrich Bleken from Evesen, by his
-    wife Anna Ilse Maria nee. Möllern
+    wife Anna Ilse Maria geb.. Möllern
     godmother: Anna Sophia Maria Rinnen
 ```
 

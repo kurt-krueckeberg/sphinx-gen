@@ -12,7 +12,7 @@
   - Johann Heinrch Kruckeberg
   - No. 19 Evesen
 * - **Mother**
-  - Anne Cathrine Sophie née Krömer
+  - Anne Cathrine Sophie geb. Krömer
   - No. 19 Evesen
 ```
 

@@ -51,7 +51,7 @@ The baptism of Philippine Caroline Christine Kruckebergen 1792, page 105.
 ```{note}
 In the baptism record the **“die alte Krückebergen als Großmutter (the old
 Krückeberg, as grandmother)”** most plausibly refers to **Ilse Anna Maria
-Elisabeth née Schakeln**, the second wife of Johann Heinrich Krückeberg,
+Elisabeth geb. Schakeln**, the second wife of Johann Heinrich Krückeberg,
 Jobst Heinrich Kruückeberg’s father. She was the stepmother of Jobst
 Heinrich Krückeberg (whose mother, Anna Christine Elisabeth Seeger,
 [died](PET-D-1773b.md) when he was eight), and therefore the social
@@ -111,7 +111,7 @@ Translation of page 105, entry 9
 ```{div} doc-text
 
  9) On February 3, Philippine Caroline Christine Kruckeberg, daughter of Jobst Heinrich Krückeberg, shoemaker in
-1. married 2/23/1812      Berenbusch No. 10, and his wife Christine Philippine Eleonore, née Tegtmeyern, was baptized.
+1. married 2/23/1812      Berenbusch No. 10, and his wife Christine Philippine Eleonore, geb. Tegtmeyern, was baptized.
 2. married 5/11/1834      She was born on the 1st of the same month at 6 o'clock in the evening. Godmothers were:
 died 10/26/1870
                            1. the old Krückeberg, as grandmother.

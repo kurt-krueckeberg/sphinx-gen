@@ -17,7 +17,7 @@ The **"n"** on "Schäkeln" may be a inflected ending appended to the actual name
 * - Jan. 13, 1782
   - Johanna Sophie Charlotte
   - Johann Heinrich Krückeberg
-  - Anna Maria Elisabeth née Schäkel
+  - Anna Maria Elisabeth geb. Schäkel
 ```
 
 ```{list-table} Sponsors

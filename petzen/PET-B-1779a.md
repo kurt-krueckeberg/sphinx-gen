@@ -12,7 +12,7 @@
   - Sponsor
 * - Sophia Margaretha
   - Friederich Wilhelm Weiland
-  - Anna Maria nee Weiland 
+  - Anna Maria geb. Weiland 
   - Evesen no. 20
   - Catharine Margaretha Korfen
 ```

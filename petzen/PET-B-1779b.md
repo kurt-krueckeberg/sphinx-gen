@@ -13,7 +13,7 @@ Carl Friedrich Gottlieb Kruckeberg was baptized on April 18, 1779, in Petzen.
   - Residence
 * - Carl Friderich Gottlieb
   - Johann Heinrich Kruckeberg
-  - Anna Maria née Schekel
+  - Anna Maria geb. Schekel
   - Berenbusch
 ```
 
@@ -113,7 +113,7 @@ baptism record it appears as **aue**, **Höckersaue**.
     `+`  13 [May] 1838  
   -  On 18th April[of 1779] April Carl Friderich Gottlieb Kruckeberg was
      baptized, the begotten son of Johann Heinrich Krückeberg from Berenbusch,
-     by his wife Anna Maria née Schekel
+     by his wife Anna Maria geb. Schekel
      The godfather was Otto Rösener estate administrator[or: child's tutor]
      on the Höckersau[Höcker's estate].
 ```

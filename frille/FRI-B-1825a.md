@@ -86,7 +86,7 @@ Translation of page header: **Born and Baptized in the year 1825**.
   - Johann Heinrich
     Bleeke Colon No. 16 in
     Leeteln
-  - Christine Marie nee Schwier from Wietersheim
+  - Christine Marie geb. Schwier from Wietersheim
   - Leeteln
   - four (4)
     December

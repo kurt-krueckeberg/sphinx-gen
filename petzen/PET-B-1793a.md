@@ -83,7 +83,7 @@ Translation of page 113 header and entry 16
 16) 21 April: Philippina Eleonora Kruckenbergen was baptized
 the begotten daughter of Johann Heinrich Krückeberg from Evesen
 No 19, by his wife Katherina Sophie
-née Krömer and the [1?]st born daughter.
+geb. Krömer and the [1?]st born daughter.
 
  [entry continues at the top of page 114]
 

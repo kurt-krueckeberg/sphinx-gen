@@ -13,7 +13,7 @@
 * - 14 Feb1. 745
   - Henrich Weiland
   - Berenbusch
-  - Sophia Elisabeth Bünte, née Rüser, a widow from Nammen
+  - Sophia Elisabeth Bünte, geb. Rüser, a widow from Nammen
   - Nammen
 ```
 
@@ -34,7 +34,7 @@ copulirt.
 
 ```{div} doc-text
 In the year 1745, on February 14, Henrich Weiland of Berenbusch married
-Sophia Elisabeth Bünte, née Rüser, a widow from Nammen.
+Sophia Elisabeth Bünte, geb. Rüser, a widow from Nammen.
 ```
 
 ## Citation

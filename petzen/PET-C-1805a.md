@@ -15,7 +15,7 @@
     (in error)
   - Child’s Birthplace
 * - Jobst Heinrich Krückeberg
-  - Christine Philippine Eleonore née Tegtmeier
+  - Christine Philippine Eleonore geb. Tegtmeier
   - Bärenbusch
   - Philippine Caroline Christine
   - 21 Apr 1805

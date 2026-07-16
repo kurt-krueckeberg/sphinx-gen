@@ -87,7 +87,7 @@ Translation of page header: **Born and Baptized in the year 1839**.
   - Eighteenth (18) July ten (10) p.m. in Leeteln
   - legitimate
   - Christian Friederich Bleeke Ein[lieger] at No. 13 in Leeteln
-  - Christian Luise nee Krückeberg fromu Beerenbusch
+  - Christian Luise geb. Krückeberg fromu Beerenbusch
   - Leeteln
   - Twenty first (21) July
   - Schütz
