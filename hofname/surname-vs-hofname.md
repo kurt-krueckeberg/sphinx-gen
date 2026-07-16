@@ -1,4 +1,6 @@
-The historical naming conventions of Northwest Germany (including Schaumburg-Lippe and Westphalia), and linguistic clues, we can clearly infer which is the surname and which is the *Hofname* (farm name).
+The historical naming conventions of Northwest Germany (including
+Schaumburg-Lippe and Westphalia), and linguistic clues, we can clearly
+infer which is the surname and which is the *Hofname* (farm name).
 
 ### 1. The Names Identified
 
@@ -20,3 +22,12 @@ The historical naming conventions of Northwest Germany (including Schaumburg-Lip
 ### Summary of the Entry
 
 The entry records that **Henrich Bornman** (who was currently living on and operating the farm known as **Gerckens Meyer**) brought his son to be baptized.
+
+
+See also:
+
+- [German Naming Convntions](https://www.familysearch.org/en/wiki/Germany_Naming_Customs)
+- [Genannt (bei Familiennamen)](https://wiki.genealogy.net/Genannt_(bei_Familiennamen)
+- [Namensanklebung](https://wiki.genealogy.net/Namensanklebung)
+- [https://wiki.genealogy.net/Westf%C3%A4lisches_Erbfolgerecht](https://wiki.genealogy.net/Westf%C3%A4lisches_Erbfolgerecht)
+- [Hausname](https://de.wikipedia.org/wiki/Hausname)
