@@ -27,6 +27,7 @@ The entry records that **Henrich Bornman** (who was currently living on and oper
 
 See also:
 
+- [What is a German Farm Name?](https://www.familysearch.org/en/blog/what-is-a-german-farm-name)
 - [German Naming Convntions](https://www.familysearch.org/en/wiki/Germany_Naming_Customs)
 - [Following An Ancestor with a German Farm Name (Hofname)](https://stlgs.org/media/pdf/german-farm-names-whitton-2024.pdf)
 - [Genannt (bei Familiennamen)](https://wiki.genealogy.net/Genannt_(bei_Familiennamen))
