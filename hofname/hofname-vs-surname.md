@@ -27,9 +27,22 @@ The entry records that **Henrich Bornman** (who was currently living on and oper
 
 See also:
 
+FamilySearch links:
+
 - [What is a German Farm Name?](https://www.familysearch.org/en/blog/what-is-a-german-farm-name)
-- [German Naming Convntions](https://www.familysearch.org/en/wiki/Germany_Naming_Customs)
-  - [Farm Names (Hofname = House name)](https://freepages.rootsweb.com/~ehrhard/genealogy/Farm%20Names.htm)
+  
+  See sections on:
+  - **Hofname (Farm Names)** 
+  - **Grammatical Changes in German Surnames**
+  - **Surnnames Historial Develpment**
+  - **Given Names**
+  - **German Naming Patterns**
+- [German Naming Conventions](https://www.familysearch.org/en/wiki/Germany_Naming_Customs)
+
+Other links:
+
+- [Wikipedia: German Names](https://en.wikipedia.org/wiki/German_name)
+- [Farm Names (Hofname = House name)](https://freepages.rootsweb.com/~ehrhard/genealogy/Farm%20Names.htm)
 - [Following An Ancestor with a German Farm Name (Hofname)](https://stlgs.org/media/pdf/german-farm-names-whitton-2024.pdf)
 - [Genannt (bei Familiennamen)](https://wiki.genealogy.net/Genannt_(bei_Familiennamen))
 - [Family Name vs. Farm Name: Competing Forms of Farm Name Inheritance in Wittgenstein and Lippe ](https://www.wggf.de/downloads/Linde_Hofname_contra_Familienname.pdf)
