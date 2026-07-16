@@ -10,13 +10,15 @@ marriage, and the sole child born to born to her second marriage.
 
 - {doc}`PET-B-1741b`
 - {doc}`PET-C-1754a`
-- {doc}`PET-M-1770a`
-- {doc}`PET-B-1770a`
-- {doc}`PET-B-1773a`
-- {doc}`PET-B-1775a`
-- {doc}`PET-B-1778b`
+- {doc}`Her marriage to Johann Heinrich Bleke <PET-M-1770a>`
+  - Children:
+    - {doc}`PET-B-1770a`
+    - {doc}`PET-B-1773a`
+    - {doc}`PET-B-1775a`
+    - {doc}`PET-B-1778b`
 - {doc}`PET-D-1779a`
-- {doc}`PET-M-1780a`
-- {doc}`PET-B-1783a`
+- {doc}`Her marraige to Heinrich Tönnis Werkmeister <PET-M-1780a>`
+  - Children:
+    - {doc}`PET-B-1783a`
 - {doc}`PET-M-1803a`
 - {doc}`PET-D-1814a` 
