@@ -15,7 +15,7 @@ chapters:
       sections:
         - file: hofname/hofname-in-church-registers
         - file: hofname/suranems-nonimmutable.md
-        - file: hofname/surname-vs-hofname.md
+        - file: hofname/hofname-vs-surname.md
     - file: petzen/becker
       sections:
         - file: petzen/PET-B-1677a
