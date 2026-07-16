@@ -1,13 +1,15 @@
+# Historical Naming Conventions of Northwest Germany 
+
 The historical naming conventions of Northwest Germany (including
 Schaumburg-Lippe and Westphalia), and linguistic clues, we can clearly
 infer which is the surname and which is the *Hofname* (farm name).
 
-### 1. The Names Identified
+## 1. The Names Identified
 
 * **Birth/Family Surname:** **Bornman** (or Bornmann)
 * **Hofname (Farm Name):** **Gerckens Meyer** (often stylized as *Gerckensmeyer*)
 
-### 2. How to Infer This from the Text
+## 2. How to Infer This from the Text
 
 * **The Particle "*alias*":** In northwest German church records, Latin particles such as *alias*, *genannt* (often abbreviated *gnt.* or *gen.*), *modo*, or *vulgo* were used when a person's family surname differed from the name of the farm they lived on or managed.
 * **The Structure "Hofname *alias* Family Name":** Historically, the community identified individuals primarily by the land they occupied (the *Hof*). Therefore, in church registers, the **Hofname is almost always listed first**, followed by the linking particle (*alias* / *genannt*) and then the person's actual birth or legal family name.
@@ -19,10 +21,9 @@ infer which is the surname and which is the *Hofname* (farm name).
 
 * **Linguistic Clues in "Henrich Bornman":** *Henrich* is the father's given name, and *Bornman* is his inherited, hereditary family surname.
 
-### Summary of the Entry
+## Summary of the Entry
 
 The entry records that **Henrich Bornman** (who was currently living on and operating the farm known as **Gerckens Meyer**) brought his son to be baptized.
-
 
 See also:
 
