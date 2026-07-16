@@ -29,6 +29,7 @@ See also:
 
 - [What is a German Farm Name?](https://www.familysearch.org/en/blog/what-is-a-german-farm-name)
 - [German Naming Convntions](https://www.familysearch.org/en/wiki/Germany_Naming_Customs)
+  - [Farm Names (Hofname = House name)](https://freepages.rootsweb.com/~ehrhard/genealogy/Farm%20Names.htm)
 - [Following An Ancestor with a German Farm Name (Hofname)](https://stlgs.org/media/pdf/german-farm-names-whitton-2024.pdf)
 - [Genannt (bei Familiennamen)](https://wiki.genealogy.net/Genannt_(bei_Familiennamen))
 - [Family Name vs. Farm Name: Competing Forms of Farm Name Inheritance in Wittgenstein and Lippe ](https://www.wggf.de/downloads/Linde_Hofname_contra_Familienname.pdf)
