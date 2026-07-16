@@ -1,12 +1,12 @@
-# 1814 Ilse (Elisabeth) Marie geb. Möller, married 1st Blecke, married 2nd Werkmeister, Death
+# 1814 Ilse Marie geb. Möller, widow of Blecke, widow of Werkmeister, Death
 
 ## Record
 
 ```{note}
 - **Ilsabey** is a **regional, phonetic compound form of Elisabeth**
-(Ilsa/Ilse + reduced -beth → -bey / -beÿ).
+  (Ilsa/Ilse + reduced -beth → -bey / -beÿ).
 - **Ilse** and **Ilsa** are **shortened forms derived from the first element of
-Ilsabey.**
+  Ilsabey.**
 ```
 
 Ilse Marie Werkmeister, geb. Möller, was the mother-in-law of Carl Friedrich

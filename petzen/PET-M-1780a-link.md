@@ -20,5 +20,5 @@ marriage, and the sole child born to born to her second marriage.
 - {doc}`Her marraige to Heinrich Tönnis Werkmeister <PET-M-1780a>`
   - Children:
     - {doc}`PET-B-1783a`
-- {doc}`PET-M-1803a`
+- {doc}`1803 marriage of Philippine Eleonore to Carl Friedrich Gottilieb Krückeberg <PET-M-1803a>`
 - {doc}`PET-D-1814a` 
