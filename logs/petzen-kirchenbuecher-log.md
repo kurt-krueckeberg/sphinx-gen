@@ -101,7 +101,7 @@ FamilySearch tree.
   - Tönnis Kuhlmann
 * - 106  
   -
-  - On gen.kru.org 
+  - **On gen.kru.org??**
   -
   - Henrich Weiland
 * - 112
@@ -132,28 +132,27 @@ FamilySearch tree.
 * - 123 
   - 1715
   - On FamilySearch
-  - Wilhelm
-  - Hans Henirch Weiland aus Berebusch:
+  - Wilhelm Weiland
+  - Hans Henirch Weiland aus Berebusch
 * - 124 
   - 1716
   - On FamilySearch
-  - Johann Wilhelm 
-  - Vahlsing's, Schäfter auf der Höckersau 
+  - Johann Wilhelm Vahlsing
+  - Vahlsing, Schäfter auf der Höckersau 
 * - 125 
   - 1717
   - On FamilySearch
   - Catherina Maria Weiland aus Nammen
   - Johann Weiland aus Nammen
-* - 125 <-- Resume
+* - 125 **<-- Resume**
   - 1718
   -
   -
-  - Hans Henrich Weiland aus Berenbusch\
-    **Appears to be a new person**
+  - Hans Henrich Weiland aus Berenbusch **<--Appears to be a new person**
 * - 128 
   -
   -
-  - Hans Henrich
+  - Hans Henrich [M/W]ailand 
   - Hans Henrich [M/W]ailand 
 * - 128
   - 
@@ -173,17 +172,17 @@ FamilySearch tree.
 * - 144
   - 1731
   -
-  - Ilse Margaretha  
+  - Ilse Margaretha Vahlsing
   - Vahlsing 
 * - 145 
   -
   -
-  - Anna Ilsabe
+  - Anna Ilsabe Weiland
   - Hermann Henrich Weiland 
 * - 146
   -
   -
-  - Johann Henrig
+  - Johann Henrig Vahlsing
   - Jobst Henrich Vahlsing 
 ```
 
