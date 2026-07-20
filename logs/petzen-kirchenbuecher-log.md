@@ -47,8 +47,8 @@ Marriages starting in 1680 on image number 17 were reviewed.
   - 1781
   - Heinrich Ludowig Weiland and Dorothee Steding
 * - 67
-  -
-  - Weiland/Bünte aus Nammen and Prange 
+  - 1784
+  - Weiland/Bünte--is Bünte the Hausname?--aus Nammen and Prange 
 ```
 
 ## Review of Deaths 1641-1784
