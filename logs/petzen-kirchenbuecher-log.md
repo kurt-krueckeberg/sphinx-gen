@@ -149,7 +149,7 @@ FamilySearch tree.
   -
   -
   - Hans Henrich Weiland aus Berenbusch\
-    >> Appears to be a new person <<
+    **Appears to be a new person**
 * - 128 
   -
   -
