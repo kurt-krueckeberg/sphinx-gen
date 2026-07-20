@@ -34,6 +34,10 @@ welcher von Johann Brand aus Nammen Johann Henrich genandt worden.
 
 ## Translation
 
+```{div} doc-text
+27 On 2{sup}`nd` November The son of  [Hans?]Johann Weÿland from Nammen
+was baptized, who was named by Johann Brand as Johann Henrich 
+```
 
 ## Citation
 

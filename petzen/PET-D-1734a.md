@@ -15,12 +15,12 @@
 
 ## A Potential Corresponding Baptism Record Exists
 
-This could be the burial record for [Ruldolphine
-Margaretha Elisabeth Krückeberg](PET-B-1731a.md). There is no baptism entry for a Krückeberg
-in the February baptism records of the Petzen "Verzeichnis der Getauften und
-Konfimierten 1641-1784". If this is not [Ruldolphine
-Margaretha Elisabeth Krückeberg](PET-B-1731a.md), then, this child was born alive (not
-marked “todtgeboren” in a baptism entry) but probably died very soon after birth,
+This could be the burial record for [Ruldolphine Margaretha Elisabeth
+Krückeberg](PET-B-1731a.md). There is no baptism entry for a Krückeberg in
+the February baptism records of the Petzen "Verzeichnis der Getauften und
+Konfimierten 1641-1784". If this is not [Ruldolphine Margaretha Elisabeth
+Krückeberg](PET-B-1731a.md), then, this child was born alive (not marked
+“todtgeboren” in a baptism entry) but probably died very soon after birth,
 and her baptism was either not performed or not recorded.
 
 ## Record

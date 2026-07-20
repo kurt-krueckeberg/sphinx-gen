@@ -44,4 +44,3 @@ with images, *Archion* (<https://www.archion.de/p/cc769a286b/> : 27 June
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 48 of 239
-

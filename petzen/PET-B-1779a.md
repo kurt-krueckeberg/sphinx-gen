@@ -19,8 +19,9 @@
 
 ## Record
 
-Sophia Margaretha Weiland’s baptism is on {ref}`image 262, right page, entry no. 5 <PET-B-1779a>` from the
-"Verzeichnis der Getaufte und Confirmirte  (Register of Baptims and Confirmations), 1641-1784"
+Sophia Margaretha Weiland’s baptism is on {ref}`image 262, right page, entry no. 5 <PET-B-1779a>`
+from the "Verzeichnis der Getaufte und Confirmirte  (Register of Baptims and Confirmations),
+1641-1784"
 
 ```{figure} images/petzen-band1a-img262-1779.jpg
 :class: image-override
@@ -39,10 +40,9 @@ Sophia Margaretha Weiland’s baptism is on {ref}`image 262, right page, entry n
 ## Translation
 
 ```{div} doc-text
-
 5) 31th Jan: Sophia Margaretha was baptized, the begotten
    daughter of Friederich Wilhelm Weilands from Evesen No 20
-   and his wife Anna Maria born Weiland.
+   and his wife Anna Maria born Weiland.\
    The godmother was Catharine Korfen from Nammen.
 ```
 
