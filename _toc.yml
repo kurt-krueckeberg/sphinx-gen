@@ -7,7 +7,7 @@ chapters:
 - file: church-records/index
   title: Church Records
   sections:
-    - file: logs/petzen-kirchenbücher-log.md
+    - file: logs/petzen-kirchenbuecher-log.md
     - file: root/nachträge.md
       sections:
         - file: root/significance-of-nachträge.md
