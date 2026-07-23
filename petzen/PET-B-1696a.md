@@ -6,16 +6,20 @@ The baptism of Hans Otto is on {doc}`image 89 <PET-B-1696a>`, right-hand page,
 2nd entry from the "Register of Baptism and Confirmed of the Petzen
 Parish, 1641-1784".
 
-## Baptism Image
-
 ```{figure} images/petzen-band1a-img89.jpg
 :class: image-override
 ```
 
 ## Transliteration
 
-```{div} doc-text
+```{important}
+The dates are Julian dates. They are therefore 10 days earlier than our
+current calendar. Schaumburg-Lippe adopted the Gregorian calendar in 1700,
+when February 18, 1700, was followed my March 1, 1700, skipping the dates
+of February 19 through February 28.
+```
 
+```{div} doc-text
 Anna [Elsbeÿ] Notmaÿer, mit [Kuckeberg/Kruckeberg] aus dem Bückeburg,
 unehelichs gezeugtes Söhnlein Hans Otto, getauft
 den 2ten Februar.

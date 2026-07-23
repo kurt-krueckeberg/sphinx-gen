@@ -28,6 +28,14 @@ of the Petzen church register *Verzeichnis der Getaufen und Konfirmierten
 
 ## Transliteration
 
+```{important}
+The dates are Julian dates. They are therefore 10 days earlier than our
+current calendar. Schaumburg-Lippe adopted the Gregorian calendar in 1700,
+when February 18, 1700, was followed my March 1, 1700, skipping the dates
+of February 19 through February 28.
+```
+
+
 ```{div} doc-text
 [Wolter?] Weilandt of Peezen ein Söhnlein Hans Hinrig [??] den ? Decemb:,
 Gefatter, Hans [?], der [?], und [Johann Däher?] zu Peezen.

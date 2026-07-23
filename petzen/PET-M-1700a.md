@@ -6,12 +6,19 @@ The 23 September 1700 marriage of Heinrich Arendt Vahlsing to
 Anna Elisabeth Becker is on {ref}`image 25 <image25>` of the Petzen
 "Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
-## Marriage Image
 ```{figure} images/petzen-band1b-img25.png
 :class: image-override
 ```
 
 ## Transliteration
+
+```{important}
+The dates are Julian dates. They are therefore 10 days earlier than our
+current calendar. Schaumburg-Lippe adopted the Gregorian calendar in 1700,
+when February 18, 1700, was followed my March 1, 1700, skipping the dates
+of February 19 through February 28.
+```
+
 
 ```{div} doc-text
 Hinrich Arent Vahlsing [Sheper] [aus] dem Höckersau und [Anna]

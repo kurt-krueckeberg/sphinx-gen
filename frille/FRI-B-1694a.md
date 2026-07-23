@@ -12,23 +12,27 @@ Deaths) 1664-1757.
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration 
 
-Transliteration
+```{important}
+The dates are Julian dates. They are therefore 10 days earlier than our
+current calendar. Schaumburg-Lippe adopted the Gregorian calendar in 1700,
+when February 18, 1700, was followed my March 1, 1700, skipping the dates
+of February 19 through February 28.
+```
 
 ```{code-block} text
-
 15 Dom: Jub: den 29 Apr: hat der Schäfer in Papinghausen, Johann
 Vahlsing, seines Söhnlein Johann Heinrich taufen lassen
 ```
 
-Translation
+## Translation
 
 ```{code-block} text
-
 15. On Jubilate Sunday, the 29th of April, the shepherd in Papinghausen,
 Johann Vahlsing, had his little son Johann Heinrich baptized.
 ```
+
 
 ## Citation
 
