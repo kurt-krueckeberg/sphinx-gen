@@ -66,9 +66,15 @@ starting in 1670 on image 87 were reviewed.
 * - Image Number
   - Year
   - Name
-* -
-  -
-  -
+* - 93 
+  - March 20, 1674
+  - Hans Weilandt
+* - RESUME at 97
+  - 
+  - 
+* - 
+  - 
+  - 
 ```
 
 ## Review of Petzen Baptisms 1700-1784
