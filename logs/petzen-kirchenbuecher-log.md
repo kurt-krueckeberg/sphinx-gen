@@ -158,7 +158,7 @@ FamilySearch tree.
   - 1718
   -
   -
-  - Hans Henrich Weiland aus Berenbusch **<--Appears to be a new person**
+  - **Appears to be a new person-->** Hans Henrich Weiland aus Berenbusch 
 * - 128 
   -
   -
