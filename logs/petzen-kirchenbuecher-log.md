@@ -69,10 +69,10 @@ starting in 1670 on image 87 were reviewed.
 * - 93 
   - March 20, 1674
   - Hans Weilandt
-* - RESUME at 97
+* - 99 
   - 
-  - 
-* - 
+  - Son of Wolter Weilandt at Peeten
+* - Reumse at 100
   - 
   - 
 ```
