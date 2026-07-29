@@ -11,11 +11,6 @@ chapters:
     - file: root/nachträge.md
       sections:
         - file: root/significance-of-nachträge.md
-    - file: hofname/hofname-explained
-      sections:
-        - file: hofname/hofname-in-church-registers
-        - file: hofname/suranems-nonimmutable.md
-        - file: hofname/hofname-vs-surname.md
     - file: calendar/1700-calendar-switch
     - file: petzen/becker
       sections:
