@@ -24,6 +24,8 @@ Below is the actual example from the Petzen parish *Verzeichnis der Getauften un
  
 ```{figure} images/hofname-petzen-band1a-img113.jpg
 :class: image-override
+
+1708 Baptism Record
 ```
 
 The transliteration of the text in the image is
@@ -46,6 +48,8 @@ Below is another example found one image 109 of the same volume.[^2]
 
 ```{figure} images/hofname-example-petzen-band1a-img109.jpg
 :class: image-override
+
+1706 Baptism Record
 ```
 
 The first line reads "den 2. Juli Gerckens Meyer alias Henrich Bornman".
