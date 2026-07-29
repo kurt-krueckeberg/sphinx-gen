@@ -100,25 +100,25 @@ FamilySearch tree.
   - Johann Tönnies Weiland 
   -
 * - 102
-  -
+  - 1702
   - On gen.krueckeberg.org
   - 
   - Hans Hinrich Weiland
 * - 105
-  -
+  - 1704
   - Skipped
   -
   - Tönnis Kuhlmann
 * - 106  
-  -
+  - 1705
   - **On gen.kru.org??**
   -
-  - Henrich Weiland
+  - Henrich Weiland's son Hans Hermann Weiland **<-- 
 * - 112
-  -
+  - 1708
   - On FamilySearch
-  - Johann Henrich Weiland
-  - Johann Tönnies Weiland 
+  - illegitimate Johann Henrich Weiland
+  - Johann Weiland 
 * - 118 
   - 1710
   - On FamilySearch
