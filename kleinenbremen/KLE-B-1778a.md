@@ -6,8 +6,6 @@ The birth of Catharine Elisabeth Drinkuht is on {ref}`image 62,
 pages 192-193 <KLE-B-1778a>` of the Kleinenbremen parish volume "Trauungen 1763-1807,
 Taufen 1763-1807, Beerdigungen 1763-1807, Konfirmationen 1763-1803 Band 2".
 
-## Image, Transliteration and Translation
-
 ```{figure} images/kleinenbremen-11-aug-1778.jpg
 :class: image-override
 ```
