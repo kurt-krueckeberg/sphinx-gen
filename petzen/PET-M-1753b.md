@@ -34,7 +34,7 @@ Mönchhhofs von Jägerstatte zu Evesen copuliert
 
 ```{div} doc-text
 On 7 June, Jobst Henrich Weiland from Berenbusch was married to Anna Ilse
-Margaretha Mönchhof of Jäger's holding at Evesen.
+Margaretha Mönchhof of Jäger's place/holding at Evesen.
 ```
 
 ## Citation

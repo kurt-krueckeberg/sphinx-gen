@@ -29,7 +29,7 @@ When Johann Heinrich Krückeberg marries on 11 April 1802, he is a **Leibzüchte
 - Johann Heinrich **previously held Stätte Nr. 10 as principal holder**
 - By 1802, he had **already stepped back** from active control
 - He retained residence and livelihood rights (*Leibzucht*)
-- The holding number (**10**) remains attached to him administratively
+- The site/holding number (**10**) remains attached to him administratively
 
 This is exactly what is expected after an **inter vivos Übergabe** (handover during lifetime).
 

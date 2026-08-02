@@ -131,7 +131,7 @@ no. 11 Evesen. We know this because their
 things: his trade (tailor) and his social/tenurial position (Einlieger). An
 Einlieger in early-19th-century rural Germany was typically a lodger or
 subtenant without a full farm or house place of their own—part of the
-unterbäuerliche (sub-peasant) strata who lived “in” an existing holding rather
+unterbäuerliche (sub-peasant) strata who lived “in” an existing palce/holding rather
 than as the recognized holder of it.
 
 So “Einlieger in Nr. 14” very strongly suggests that Carl Friedrich Gottlieb

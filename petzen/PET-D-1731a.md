@@ -35,7 +35,7 @@ A precise breakdown:
 - **Hochgräflich(en)** — Literally “high-comital.” This denotes ownership by the **reigning Graf
 (Count)** of Schaumburg-Lippe. In parish records, this adjective signals
 **sovereign or comital domain property**, not a private noble or peasant
-holding.
+place.
 - **Vorwerde / Vorwerk** — An **outlying estate or farm** administratively
 attached to a main manor or domain (often supplying grain, livestock, or
 labor). Vorwerke were commonly staffed by shepherds, farmhands, and

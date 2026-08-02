@@ -24,7 +24,7 @@
   - Fact
 * - Friederich Wilhelm Weiland
   - Einlieger, a lodger without a
-    holding
+    place of his/her own.
 ```
 
 ```{important}

@@ -61,7 +61,7 @@ entry for a Johann Henrich Krückeberg has been found.
 The term **„Leibzüchter“** is an old and regionally specific German term,
 particularly used in areas like Schaumburg-Lippe, that refers to a retired
 farmer who retains a life estate on a farm—​someone who has passed the
-working operation of the holding to a successor (usually a son) but continues
+working operation of the site to a successor (usually a son) but continues
 to live on the farm with guaranteed rights.
 
 In traditional German rural inheritance customs, especially under Anerbenrecht,
