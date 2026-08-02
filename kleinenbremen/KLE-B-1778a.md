@@ -27,7 +27,6 @@ Taufen 1763-1807, Beerdigungen 1763-1807, Konfirmationen 1763-1803 Band 2".
   - Johann Henrich Drinkuth Niederhahne
   - Catharina Elisabet
   - Ilsa Margretha Harting
-    
     Diekmann[sche?] zu Ha[nna]
 ```
 
@@ -44,7 +43,6 @@ Taufen 1763-1807, Beerdigungen 1763-1807, Konfirmationen 1763-1803 Band 2".
   - Johann Henrich Drinkuth Niederhahne
   - Catharina Elisabet
   - Ilsa Margretha Harting
-    
     Diekmann[sche?] zu Ha[nna]
 ```
 
