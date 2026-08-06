@@ -70,7 +70,7 @@ starting in 1670 on image 87 were reviewed.
   - March 20, 1674
   - Hans Weilandt
 * - 99 
-  - 
+  - 18 June 1679 
   - Son of Wolter Weilandt at Peeten
 * - Reumse at 100
   - 
