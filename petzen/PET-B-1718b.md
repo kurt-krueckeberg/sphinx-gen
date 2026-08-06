@@ -14,7 +14,7 @@ Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 Transliteration
 
 ```{div} doc-text
-den 1 Maÿ ist Hanß Henrich Weÿlandts auß Berenbusch filius
+den 1 Maÿ ist Hanß Henrich Weÿlandts auß Berenbusch fili[g/y] [= filius?]
 posthumus getaufft und von Henrich Borman auß Peetzen Henrich
 genandt worden.
 ```
