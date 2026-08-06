@@ -10,6 +10,13 @@ Getrauten und Gestorbenen 1641-1784".
 :class: image-override
 ```
 
+```{important}
+Adjacent dead-and-burial records show a number of individuals died of 
+dysentery ("der weisen Ruhr") 
+```
+
+**TODO:** Count how many.
+
 ## Transliteration
 
 ```{div} doc-text
