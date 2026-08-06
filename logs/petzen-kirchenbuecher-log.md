@@ -60,6 +60,11 @@ Marriages starting in 1680 on image number 17 were reviewed.
 Deaths recorded in **Verzeichnis der Getrauten und Gestorbenen 1641-1784**
 starting in 1670 on image 87 were reviewed.
 
+```{important}
+When Henrich Weilandt is born on 1 May 1718, his father is already dead.
+We need to find his burial record.
+```
+
 ```{list-table}
 :header-rows: 1
 
