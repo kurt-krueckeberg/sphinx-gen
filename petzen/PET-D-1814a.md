@@ -23,6 +23,7 @@ images of the Petzen Kirchenbuch volume "Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ## Burial Image
+
 ```{figure} images/petzen-band2-img285.jpg
 :class: image-override
 ```
