@@ -8,9 +8,14 @@ The 1670 baptism entry is found on {ref}`image 47 <WIED-B-1670a>`, the first ent
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration 
 
-Transliteration
+```{important}
+The dates are Julian dates. They are therefore 10 days earlier than our
+current calendar. Schaumburg-Lippe adopted the Gregorian calendar in 1700,
+when February 18, 1700, was followed my March 1, 1700, skipping the dates
+of February 19 through February 28.
+```
 
 ```{div} doc-text
 Johan Vahlsing den 6 Februar, ein Kind getauft so Heinrich Arends genant
@@ -21,7 +26,7 @@ dieser Gefatter ist gewesen Heinrich [Pa.?] Harm ⟨terminal flourish⟩
 In **„ein Kind getauft“** → **“baptized a child”**, the pastor is implied as the subject.
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 
