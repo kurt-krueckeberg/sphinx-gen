@@ -8,6 +8,13 @@
 
 ## Transliteration
 
+```{important}
+The dates are Julian dates. They are therefore 10 days earlier than our
+current calendar. Schaumburg-Lippe adopted the Gregorian calendar in 1700,
+when February 18, 1700, was followed my March 1, 1700, skipping the dates
+of February 19 through February 28.
+```
+
 ```{div} doc-text
 Wolter Weilandt zu Peeten, Sohn, 16 Wochen alt den
 18 Junÿ begraben.
