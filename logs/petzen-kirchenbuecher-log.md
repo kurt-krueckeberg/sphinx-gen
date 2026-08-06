@@ -154,10 +154,10 @@ FamilySearch tree.
   - On FamilySearch
   - Catherina Maria Weiland aus Nammen
   - Johann Weiland aus Nammen
-* - 125 **<-- Resume**
-  - 1718
-  -
-  -
+* - 126 
+  - 1 May 1718
+  - Henrich Weilandt
+  - Hans Henrich Weilandt, deceased
   - **Appears to be a new person-->** Hans Henrich Weiland aus Berenbusch 
 * - 128 
   -
