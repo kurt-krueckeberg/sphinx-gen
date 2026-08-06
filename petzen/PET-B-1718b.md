@@ -5,7 +5,7 @@
 The baptism of Henrich Weilandt is on {ref}`image 126 <PET-B-1718b>` of the
 Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
-```{figure} images/petzen-band1a-img125.png
+```{figure} images/petzen-band1a-img126-weilandt.png
 :class: image-override
 ```
 
