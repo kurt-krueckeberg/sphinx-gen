@@ -8,7 +8,6 @@ Hans Weilandt den 20 Martii begraben
 
 ## Translation
 
-
 ```{div} doc-text
 Hans Weilandt buried on the 20th of March 
 ```
