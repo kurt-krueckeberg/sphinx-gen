@@ -77,8 +77,10 @@ We need to find his burial record.
 * - 99 
   - 18 June 1679 
   - Son of Wolter Weilandt at Peeten
-* - **Resume at 101 and go up to 134**\
-    135 has been checked 
+* - **Reviewed 100 thru 105**
+  -
+  -
+* - 135 has been checked 
   - 
   - 
 * - 136
