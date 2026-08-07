@@ -33,5 +33,5 @@ Anna Elisabeth Weilands buried on 31 May
 with images, *Archion* (<https://www.archion.de/p/16283572b4/> : 7 August 2026),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getrauten und Gestorbenen 1641-1784, image 108<F8><F7> of 239
+Verzeichnis der Getrauten und Gestorbenen 1641-1784, image 108 of 239
 
