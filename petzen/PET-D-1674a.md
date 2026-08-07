@@ -1,5 +1,11 @@
 # 1674 Hans Weilandt Buried
 
+## Record
+
+```{figure} images/petzen-band1b-img93.png
+:class: image-override
+```
+
 ## Transliteration
 
 ```{div} doc-text
