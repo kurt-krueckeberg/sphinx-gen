@@ -68,18 +68,8 @@ We need to find his burial record.
 ```{list-table}
 :header-rows: 1
 
-* - Image Number
-  - Year
-  - Name
-* - 93 
-  - March 20, 1674
-  - Hans Weilandt
-* - 99 
-  - 18 June 1679 
-  - Son of Wolter Weilandt at Peeten
-* - **Reviewed 100 thru 147**
-  -
-  -
+* - Images Reviewed
+* - **93 thru 147**
 ```
 
 ## Review of Petzen Baptisms 1700-1784
