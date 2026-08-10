@@ -12,7 +12,7 @@ und Konfirmierten 1641-1784".
 
 ## Transliteration
 
-```{not}
+```{note}
 It is unclear what preciesly what  **"no."** stand for, but it evidently names the
 apprentice as being **"Johann Georg Dahm"**.
 ```
