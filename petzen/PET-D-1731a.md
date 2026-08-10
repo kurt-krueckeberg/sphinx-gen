@@ -1,4 +1,4 @@
-# 1731 Heinrich Arend Vahlsing Death
+# 1731 Heinrich Vahlsing Death
 
 ## Record
 
