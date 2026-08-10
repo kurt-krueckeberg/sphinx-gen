@@ -77,15 +77,9 @@ We need to find his burial record.
 * - 99 
   - 18 June 1679 
   - Son of Wolter Weilandt at Peeten
-* - **Reviewed 100 thru 116**
+* - **Reviewed 100 thru 137**
   -
   -
-* - 135 has been checked 
-  - 
-  - 
-* - 136
-  - 12 Nov. 1717
-  - Hille Pov[???], wife of Hans Weÿlandt aus Evesen
 ```
 
 ## Review of Petzen Baptisms 1700-1784
