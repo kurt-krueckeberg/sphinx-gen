@@ -6,7 +6,7 @@ The baptism of  is on {doc}`image 117 <PET-B-1710a>`, left-hand
 page, 3nd entry from the top, of the Petzen "Verzeichnis der Getauften
 und Konfirmierten 1641-1784".
 
-```{figure} images/petzen-band1a-img
+```{figure} images/petzen-band1a-img118.jpg
 :class: image-override
 ```
 
