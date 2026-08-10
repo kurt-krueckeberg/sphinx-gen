@@ -57,7 +57,7 @@ Marriages starting in 1680 on image number 17 were reviewed.
 
 ## Review of Deaths 1641-1784
 
-Deaths recorded in **Verzeichnis der Getrauten und Gestorbenen 1641-1784**
+Deaths recorded in [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.archion.de/de/viewer/churchRegister/329074?coords=2867%2C3103&degree=0&pageId=46233839&zoom=9&cHash=ec75f91f5aac73eb584b722079fa7e13)
 starting in 1670 on image 87 were reviewed.
 
 ```{important}
