@@ -69,7 +69,7 @@ We need to find his burial record.
 :header-rows: 1
 
 * - Images Reviewed
-* - **93 thru 147**
+* - **93 thru 149**
 ```
 
 ## Review of Petzen Baptisms 1700-1784
