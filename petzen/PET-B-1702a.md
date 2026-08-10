@@ -27,7 +27,7 @@ Getauften und Konfirmierten 1641-1784".
 ## Transliteration
 
 ```{div} doc-text
-Hans Hinrich Weilandt im Berenbusche, Söhnlein, Jungst
+Hans Hinrich Weilandt im Berenbusche, Söhnlein, [J?unst]
 Hinrich getaufft, den 27 Oct: gevatter, Diderig Sander Sohn
 ```
 
