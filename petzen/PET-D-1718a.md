@@ -6,7 +6,7 @@ The 13 February 1718 burial record of Hille Po[w?]k, wife of Hans Weÿland
 is {ref}`image 1367 <PET-D-1718a>` of the Petzen Kirchenbuch "Verzeichnis der
 Getrauten und Gestorbenen 1641-1784".
 
-```{figure} images/petzen-band1b-img136-left.png
+```{figure} images/petzen-band1b-img136-fith.jpg
 :class: image-override
 ```
 
