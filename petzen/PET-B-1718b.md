@@ -1,47 +1,42 @@
-# 1718 Henrich Weilandt Baptism 
+# 1718 Anna Ilhabe Bleeck Baptism
 
 ## Record
 
-The baptism of Henrich Weilandt is on {ref}`image 126 <PET-B-1718b>` of the
-Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784".
+The baptism of Anna Ilhabe Bleeck is on {ref}`image 126 <image126>`, right-hand
+page, last entry, of the Petzen "Verzeichnis der Getauften und
+Konfirmierten 1641-1784".
 
-```{figure} images/petzen-band1a-img126-weilandt.png
+## Baptism Image
+```{figure} images/petzen-band1a-img126-bleeck.jpg
 :class: image-override
 ```
 
-## Transliteration 
+## Transliteration and Translation
 
 Transliteration
 
 ```{div} doc-text
-den 1 Maÿ ist Hanß Henrich Weÿlandts auß Berenbusch fili[g/y] [= filius?]
-posthumus getaufft und von Henrich Borman auß Peetzen Henrich
-genandt worden.
+23 Eodem ist Henirch Bleeck aus Evesen Töchterlein Anna Ilhabe getauft\
+Gev. Daniel Bruns, [uncertain: Heinrich?] Hartmans aus Evesen, [uncertain]\
+Bleeck aus Meißen Ehefrauens
 ```
 
-```{note}
-*Filius posthumus* is Latin for “posthumous son.” *Filius* means “son,” and
-*posthumus* means “posthumous.” Both words are nominative masculine
-singular, so their matching grammatical forms show that *posthumus*
-modifies *filius*. The phrase indicates that the child was born after his
-father’s death.
-```
-
-## Translation
+Translation
 
 ```{div} doc-text
-On 1 May, Hanß Henrich Weÿlandt’s posthumous son from Berenbusch was
-baptized and was named Henrich by Henrich Borman from Peetzen.
+23 On the same day [9th October] was Henirch Bleeck[e]'s daughter from Evesen Anna Ilhabe getauft
+Godmothers. wives of Daniel Bruns, [uncertain] Hartmans aus Evesen, [uncertain]
+Bleeck from Meißen.
 ```
 
 ## Citation
 
-(PET-B-1718b)=
+(image126)=
 
-"Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* (<https://www.archion.de/p/5e256bb6a1/> : 6 August
-2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
-der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+"Archion Protestant Kirchenbücher Portal", database with images,
+Archion (<https://www.archion.de/p/0034963201/> : 18 May 2025), path:
+Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
+Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 126 of 322,
-left hand page, 3rd entry from top.
+right hand page, last entry.
 
