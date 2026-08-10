@@ -27,15 +27,18 @@ The June 28, 1761, marriage of Friedrich Wilhelm Weiland to Anna Ilsabei
 Deierberg on {ref}`image 52 <PET-M-1761b>`, the bottom of theright-hand page, of the
 Petzen " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
-## Image of Marriage Record
-
 ```{figure} images/petzen-band1b-img52-weiland.jpg
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
-Transliteration
+```{important}
+**Sandkuhle**--sand pit (or sand excavation site)--also occurs in the
+[1727 burial record for Hans Henirch Weÿland](PET-D-1727a.md).
+```
+
+## Transliteration
 
 ```{div} doc-text
 d. 28ten Juni Friedrich Wilhelm Weiland aus Ephesen [Evesen] bei der Sandkuhle mit Anna Ilsabei Deierbergs
