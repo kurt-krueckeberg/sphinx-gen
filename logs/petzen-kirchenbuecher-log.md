@@ -18,7 +18,7 @@ We know by 1745 that no. 1 Berenbusch was the holding of {external+nla:doc}`Jobs
 ## Review of Marriages 1641-1784
 
 Below is a list of the marriage images reviewed in the Petzen Kirchenbuch
-**Verzeichnis der Getrauten und Gestorbenen 1641-1784** on [Archion.de](https://archion.de).
+[Verzeichnis der Getrauten und Gestorbenen 1641-1784(https://www.archion.de/de/viewer/churchRegister/329074?cHash=7d4de5d86cdc37d46ca50b1a9a9b1ad8)
 
 Marriages starting in 1680 on image number 17 were reviewed.
 
@@ -74,7 +74,7 @@ We need to find his burial record.
 
 ## Review of Petzen Baptisms 1700-1784
 
-Petzen baptisms recorded in  **Verzeichnis der Getauften und Konfirmierten 1641-1784** starting
+Petzen baptisms recorded in  [Verzeichnis der Getauften und Konfirmierten 1641-1784](https://www.archion.de/de/viewer/churchRegister/329073?cHash=ee9bc62188bd7cf69b7164aff9106ac3) starting
 in 1700 on image 96 were reviewed.
 
 **TODO:** Add the ? ? Weiland that lives in Nammen as a new person in the
