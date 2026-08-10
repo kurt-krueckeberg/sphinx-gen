@@ -14,7 +14,7 @@ Getrauten und Gestorbenen 1641-1784".
 
 ```{important}
 **Sandkuhle**--sand pit (or sand excavation site)--also occurs in the
-1761 Weiland marriage record for the marriage of [Friedirch Wilhelm Weiland to Anna Ulsabeir Deirberg](PET-M1761b.md).
+1761 Weiland marriage record for the marriage of [Friedirch Wilhelm Weiland to Anna Ulsabeir Deirberg](PET-M-1761b.md).
 ```
 
 ```{div} doc-text
