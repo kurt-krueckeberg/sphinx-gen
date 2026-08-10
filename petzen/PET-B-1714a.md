@@ -1,4 +1,4 @@
-# 1714 Johann Henrich Weiland Baptized
+# 1714 Johann Henrich Weÿland Baptized
 
 ## Family and Other Facts
 
