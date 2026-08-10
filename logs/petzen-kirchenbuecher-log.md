@@ -18,7 +18,7 @@ We know by 1745 that no. 1 Berenbusch was the holding of {external+nla:doc}`Jobs
 ## Review of Marriages 1641-1784
 
 Below is a list of the marriage images reviewed in the Petzen Kirchenbuch
-[Verzeichnis der Getrauten und Gestorbenen 1641-1784(https://www.archion.de/de/viewer/churchRegister/329074?cHash=7d4de5d86cdc37d46ca50b1a9a9b1ad8)
+[Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.archion.de/de/viewer/churchRegister/329074?cHash=7d4de5d86cdc37d46ca50b1a9a9b1ad8)
 
 Marriages starting in 1680 on image number 17 were reviewed.
 
