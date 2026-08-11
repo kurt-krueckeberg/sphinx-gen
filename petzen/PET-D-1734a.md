@@ -79,11 +79,9 @@ von Rocke begrab[en] lasß\
 On the 14th:
 Wilhelm Rödemeister from Rocke had a little daughter buried.
 
-[Same day]:\
-H. Krückeberg from Berenbusch had a little daughter buried.
+[Same day]: H. Krückeberg from Berenbusch had a little daughter buried.
 
-[Same day]:\
-H. Sickmann from Nammen had a little daughter buried.
+[Same day]: H. Sickmann from Nammen had a little daughter buried.
 ```
 
 ## Citation
