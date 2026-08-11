@@ -23,7 +23,7 @@ but he was born under the Julian calendar, he would have been born on
 December 23, 1680. 
 
 In fact, a **Hans Henrig Weiland** was born in December of 1680. The
-precise day cannot be deciphered. [See the 1680 baptism record](PET-B-1680a.md)
+precise day cannot be deciphered. See Hans Henrig Weiland's [1680 baptism record](PET-B-1680a.md)
 ```
 
 ## Translation
