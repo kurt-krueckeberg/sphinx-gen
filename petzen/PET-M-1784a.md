@@ -26,6 +26,23 @@ Kirchenbuch volume * Verzeichnis der Getrauten und Gestorbenen 1641-1784*.
 
 ### Transliteration 
 
+Certainly. I would revise it this way:
+
+``{note}
+The use of the surnames **Weiland** and **Bünte** in this record may
+reflect a *Hausname*. In the groom’s name, *Bünte* was written above
+*Weiland*, and in the identification of his father, *Weilands* was struck
+through and replaced by *Büntens*. One possible explanation is that the
+family had become associated with a Bünte household or farm in Nammen and
+that *Bünte* was therefore being used as a *Hausname* in addition to, or in
+place of, the hereditary surname *Weiland*. This remains a hypothesis. A
+potentially relevant earlier record is the 1745 marriage of Heinrich
+Weiland to Sophia Elisabeth Bünte, née Rüser, the widow of a Bünte of
+Nammen, but it has not yet been established that the couple subsequently
+lived at the Bünte property or that the groom in this 1784 record was their
+son.
+```
+
 ```{div} doc-text
 2) d. 25t Jul: ist Johann Friderich Wilhelm Bünte/Weiland
 des Johan Heinrich ~~Weilands~~ Büntens aus Nammen No 30
