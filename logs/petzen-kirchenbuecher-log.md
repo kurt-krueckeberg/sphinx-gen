@@ -35,7 +35,7 @@ Marriages starting in 1680 on image number 17 were reviewed.
   - 1770
   - Johann Christian Weiland aus Nordholtz and Chritina Ilsabei Steding aus
     Berenbusch
-* - 61
+* - 61 (right page)
   - 1774
   - Johann heinrich Weiland aus Nordholz and Anna Margaretha Ruft aus
     Peezen No. 6
