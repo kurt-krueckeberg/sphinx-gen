@@ -17,6 +17,15 @@ d. 13. Febr: Nachmittags ist Hanß Henrich Weÿland auß Bernebusch beerdiget
 seines alters 37 Jahr 6 Wochen.
 ```
 
+```{important}
+Since he died at age 37 years and six weeks under the Gregorian calendar,
+but he was born under the Julian calendar, he would have been born on
+December 23, 1680. 
+
+In fact, a **Hans Henrig Weiland** was born in December of 1680. The
+precise day cannot be deciphered. [See the 1680 baptism record](PET-B-1680a.md)
+```
+
 ## Translation
 
 ```{div} doc-text
