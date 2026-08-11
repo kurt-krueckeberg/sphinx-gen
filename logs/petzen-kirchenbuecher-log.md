@@ -47,10 +47,10 @@ Marriages starting in 1680 on image number 17 were reviewed.
   - 1779
   - Johann Heinrich Weiland, Einlieger in Berenbusch and Anna Catharina Elisabeth Bornemann 
 * - 66
-  - 1781
+  - 1781 **Not on website**
   - Heinrich Ludowig Weiland in Evesen and Dorothee Steding aus Peezen
 * - 67
-  - 1784
+  - 1784  **Not on website**
   - Johann Friderich Wilhelm Weiland/Bünte aus Nammen No. 30?--is Bünte the Hausname?--and Prange 
     aus Meisen
 ```
