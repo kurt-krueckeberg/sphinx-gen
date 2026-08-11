@@ -20,7 +20,7 @@
 This marriage entry is on the {ref}`image 67 <PET-M-1784a>` of Petzen
 Kirchenbuch volume * Verzeichnis der Getrauten und Gestorbenen 1641-1784*. 
 
-```{figure} images/petzen--band1b-img67.jpg
+```{figure} images/petzen-band1b-img67.jpg
 :class: image-override
 ```
 
