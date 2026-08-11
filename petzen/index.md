@@ -2,7 +2,8 @@
 
 ## Volumes
 
-The Petzen volumes reside at the Bückeburg regional department of the Lower Saxony state archives. Digital images of their pages are available on
+The Petzen volumes reside at the Bückeburg regional department of the Lower
+Saxony state archives. Digital images of their pages are available on
 [archion.de](https://www.archion.de), the Protestant Kirchenbücher portal:
 
 - Verzeichnis der Getauften und Konfirmierten 1641-1784
@@ -13,8 +14,9 @@ Kirchenbücher after 1827 are presently only available on microfilm in the Bück
 
 ## Table of Contents
 
-This is an unofficial table of contents for the Archion digital images of the "Verzeichnis der Getauften, Konfirmierten,
-Getrauten und Gestorbenen 1785-1827":
+This is an unofficial table of contents for the Archion digital images of
+the "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827":
 
 ```{list-table} Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827
 :header-rows: 1

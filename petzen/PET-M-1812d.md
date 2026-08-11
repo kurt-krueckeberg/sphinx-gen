@@ -54,7 +54,7 @@
 
 The marriage record is on {ref}`image 27, on pages 48 and 49 <PET-M-1812d>` of
 Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und
-Gestorbenen 1785-1827" found on [Archion.de](https://archion.de).
+Gestorbenen 1785-1827".
 
 ## Marriage Image
 ```{figure} images/petzen-band2-img27-vogt.jpg

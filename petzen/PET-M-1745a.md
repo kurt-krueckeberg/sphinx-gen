@@ -34,7 +34,7 @@ copulirt.
 
 ```{div} doc-text
 In the year 1745, on February 14, Henrich Weiland of Berenbusch married
-Sophia Elisabeth Bünte, geb. Rüser, a widow from Nammen.
+Sophia Elisabeth Bünte, born Rüser, a widow from Nammen.
 ```
 
 ## Citation

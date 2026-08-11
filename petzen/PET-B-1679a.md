@@ -22,7 +22,6 @@ of February 19 through February 28.
 ## Translation
 
 ```{div} doc-text
-
 Cuhman [?????], Sohn, Johann Tonnis, getauft, den 30 April
 Gefattern, Tonnis Jäger, Hi[nrig] Vogt zu Namnen, [?] der [Müller]
 zu Nammen
@@ -31,7 +30,6 @@ zu Nammen
 Translation
 
 ```{div} doc-text
-
 Cuhman [?????], son, Johann Tonnis, baptized, on the 30 April
 Baptism Sponsors, Tonnis Jäger, Hi[nrig] Vogt at Namnen, [?] the miller
 at Nammen.
