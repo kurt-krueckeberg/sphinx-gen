@@ -31,7 +31,7 @@ Marriages starting in 1680 on image number 17 were reviewed.
 * - 20
   - 1689
   - Johann Fridirch Cuhlmann marriage to Anna Catherina [Dinges?].
-* - 58
+* - 58 thru 67
   - 1770
   - Johann Christian Weiland aus Nordholtz and Chritina Ilsabei Steding aus
     Berenbusch
@@ -50,7 +50,7 @@ Marriages starting in 1680 on image number 17 were reviewed.
   - 1781 
   - Heinrich Ludowig Weiland in Evesen and Dorothee Steding aus Peezen
 * - 67
-  - 1784  **Not on website**
+  - 1784 
   - Johann Friderich Wilhelm Weiland/Bünte aus Nammen No. 30?--is Bünte the Hausname?--and Prange 
     aus Meisen
 ```
