@@ -25,9 +25,13 @@
 :header-rows: 1
 
 * - Fact
-* - Groom's father: Wilhelm Weiland of Nordholz
-* - Groom's was born illegitimate
-* - Bride is likely pregnant at time of marriage.
+  - Details
+* - Groom's father
+  - Wilhelm Weiland of Nordholz
+* - Groom's birth
+  - illegitimate
+* - Bride's status at marriage
+  - likely pregnant at time of marriage (see note).
 ```
 
 ```{note}
@@ -72,4 +76,3 @@ impregnated).
 with images, *Archion* (<https://www.archion.de/p/90c4f44cfe/>: 11 August 2026) , path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
 Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 58 of 239
-
