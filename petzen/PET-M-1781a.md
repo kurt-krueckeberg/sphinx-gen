@@ -29,6 +29,12 @@ Getrauten und Gestorbenen 1641-1784*.
 
 ### Transliteration 
 
+```{note}
+The phrase **„der von ihm geschwächten“** literally uses *schwächen* (“to weaken”), but in 18th-century church
+records it is a euphemism indicating that the man had **had premarital sexual relations with the woman**. It
+can sometimes imply pregnancy, but the wording itself does **not prove that she was pregnant**.
+```
+
 ```{div} doc-text
 4) d 4t Novbr ist copulirt Heinrich Ludawig Weilandt ein Knecht in Evesen
 mit der von ihm geschwächten Dorothea Stedingen aus Peezen
