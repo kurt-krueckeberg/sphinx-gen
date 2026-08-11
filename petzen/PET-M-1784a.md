@@ -28,7 +28,7 @@ Kirchenbuch volume * Verzeichnis der Getrauten und Gestorbenen 1641-1784*.
 
 Certainly. I would revise it this way:
 
-``{note}
+```{note}
 The use of the surnames **Weiland** and **Bünte** in this record may
 reflect a *Hausname*. In the groom’s name, *Bünte* was written above
 *Weiland*, and in the identification of his father, *Weilands* was struck
