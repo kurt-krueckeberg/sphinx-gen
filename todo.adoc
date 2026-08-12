@@ -1,5 +1,7 @@
 = Review Transliterations/Translations
 
+== Review Remaing Petzen Baptims Reocrds 
+
 == PET-D-1819a.md
 
 This is death of Philippine Dorothea Beuke who married Johann Heinrich
@@ -12,6 +14,8 @@ Krückeberg's children. Perhaps that is why he is an "Einlieger" there and
 not a "Leizüchter".
 
 == Hans Hermann Weiland is Soldat Weiland
+
+**TODO:** Add this to pertinent markdown pgaes involving Soldat Weiland.
 
 See the Hans Herman Weiland who married Ilse Maria Vahlsing in 1730,
 PET-M-1730a.md; he was a Granadier at the Schloss in Bückeburg. 
@@ -28,7 +32,6 @@ TODO:
   of their children?
 - Email Eberhardt.
 I added his marraige in 1730 to Ilse Maria/Margarethe Vahlsing to
-
 
 == Seeger/Säger Family Tree
 
