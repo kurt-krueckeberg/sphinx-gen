@@ -22,7 +22,7 @@ The baptism of Catharina Maria Weÿlandt is on {ref}`image 125 <PET-B-1718c>`, o
 Getauften und Konfirmierten 1641-1784".
 
 
-```{figure} images/petzen-band1a-img125-right.jpg
+```{figure} images/petzen-band1a-img125.jpg
 :class: image-override
 ```
 
