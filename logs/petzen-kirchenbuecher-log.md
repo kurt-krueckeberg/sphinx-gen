@@ -17,10 +17,10 @@ We know by 1745 that no. 1 Berenbusch was the holder of {external+nla:doc}`Jobst
 
 ## Review of Marriages 1641-1784
 
-Below is a list of the marriage images reviewed in the Petzen Kirchenbuch
+List of the marriage images reviewed in the Petzen Kirchenbuch
 [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.archion.de/de/viewer/churchRegister/329074?cHash=7d4de5d86cdc37d46ca50b1a9a9b1ad8)
 
-Marriages starting in 1680 on image number 17 were reviewed.
+Review start with image 17, year 1680:
 
 ```{list-table}
 :header-rows: 1
@@ -35,8 +35,8 @@ Image 20 contains a Kuhlman marraige.
 
 ## Review of Deaths 1641-1784
 
-Deaths recorded in [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.archion.de/de/viewer/churchRegister/329074?coords=2867%2C3103&degree=0&pageId=46233839&zoom=9&cHash=ec75f91f5aac73eb584b722079fa7e13)
-starting in 1670 on image 87 were reviewed.
+Deaths in [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.archion.de/de/viewer/churchRegister/329074?coords=2867%2C3103&degree=0&pageId=46233839&zoom=9&cHash=ec75f91f5aac73eb584b722079fa7e13).
+Start with image 87, year 1670.
 
 ```{important}
 When Henrich Weilandt is born on 1 May 1718, his father is already dead.
@@ -52,8 +52,8 @@ We need to find his burial record.
 
 ## Review of Petzen Baptisms 1700-1784
 
-Petzen baptisms recorded in  [Verzeichnis der Getauften und Konfirmierten 1641-1784](https://www.archion.de/de/viewer/churchRegister/329073?cHash=ee9bc62188bd7cf69b7164aff9106ac3) starting
-in 1700 on image 96 were reviewed.
+Petzen baptisms in  [Verzeichnis der Getauften und Konfirmierten 1641-1784](https://www.archion.de/de/viewer/churchRegister/329073?cHash=ee9bc62188bd7cf69b7164aff9106ac3).
+Review started with image 97, year 1700.
 
 **TODO:** Add the ? ? Weiland that lives in Nammen as a new person in the
 FamilySearch tree.
