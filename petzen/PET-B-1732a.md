@@ -34,13 +34,14 @@ of the Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784" from the
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration 
 
 ```{div} doc-text
 den 1t May ist Jobst Heinrich Vahlsings Schäfers aus der Höckersau Söhnlein
 Johann Heinrich getauft. Gevatter ist gewesen Hans Hermann Weÿland
 Schloß-Soldat zu Bückeburg.
 ```
+## Translation
 
 ```{div} doc-text
 On 1 May, Johann Heinrich, the little son of Jobst Heinrich Vahlsing,

@@ -33,12 +33,14 @@ of the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration 
 
 ```{div} doc-text
 den 7t Maÿ ist Jobst Heinrich Weÿlandt aus Berenbusch Söhnlein Jobst
 Heinrich getauft. Gevatter ist gewesen der Großvater.
 ```
+
+## Translation
 
 ```{div} doc-text
 On May 7th, Jobst Heinrich Weÿlandt, son of Jobst Heinrich Weÿlandt of
