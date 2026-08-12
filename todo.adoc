@@ -1,5 +1,7 @@
 = Review Transliterations/Translations
 
+== Finsih PET-B-1732d.md
+
 == PET-D-1819a.md
 
 This is death of Philippine Dorothea Beuke who married Johann Heinrich
