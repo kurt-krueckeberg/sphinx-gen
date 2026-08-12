@@ -112,13 +112,13 @@ FamilySearch tree.
     - On FamilySearch
   - Johann Hinrich Weiland
   - Johann Weiland. 
-* - 123  **on website**
+* - 123 
   - 1715
   - - **on website**
     - On FamilySearch
   - Wilhelm Weiland
   - Hans Henirch Weiland aus Berebusch
-* - 124  **on website**
+* - 124
   - 1716
   - On FamilySearch
   - Johann Wilhelm Vahlsing
