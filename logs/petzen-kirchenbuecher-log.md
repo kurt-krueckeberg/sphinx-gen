@@ -146,8 +146,8 @@ FamilySearch tree.
   - Henirch Vahlsing Schäfer 
 * - 142
   - 1730
-  -
-  -
+  - **on website**
+  - Margaretha Elisabeth Weiland
   - Hans Herman Weiland.
 * - 144
   - 1731
