@@ -6,7 +6,7 @@ The 25 April 1725  February 1718 burial record of the little son of Hans
 Heinrich Weÿlanadt is {ref}`image 141 <PET-D-1725a>` of the Petzen Kirchenbuch "Verzeichnis der
 Getrauten und Gestorbenen 1641-1784".
 
-```{figure} images/petzen-band1b-img141.png
+```{figure} images/petzen-band1b-img141.jpg
 :class: image-override
 ```
 
