@@ -20,7 +20,7 @@
 The baptism of Henrich Weÿland is on {ref}`image 131 <citation-image131>`
 of the "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
-```{figure} images/petzen-band1a-img131.png
+```{figure} images/petzen-band1a-img131.jpg
 :class: image-override
 ```
 
