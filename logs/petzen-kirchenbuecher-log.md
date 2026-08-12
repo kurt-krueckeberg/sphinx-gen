@@ -163,9 +163,26 @@ FamilySearch tree.
   - Anna Ilsabe Weiland
   - Hermann Henrich Weiland 
 * - 146
-  -
+  - Years are: 1731-1732
   -
   - Johann Henrig Vahlsing
   - Jobst Henrich Vahlsing 
+* - Images: 147 - 294
+  - Years: 1732 to 1784
+  -
+  -
+  -
 ```
 
+## Review of Confirmations 1700-1784
+
+```{list-table}
+:header-rows: 1
+:widths: 1 2 5 5 5
+
+* - Image Number
+  - Year
+* - 295
+  - 1706 (start of volume)
+* - 322
+  - 1784 (end of volume)
