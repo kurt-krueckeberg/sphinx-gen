@@ -171,6 +171,7 @@ FamilySearch tree.
 
 ```{list-table} Remaining Image and Year Range
 :header-rows: 1
+:widths: 1 2 4
 
 * - 
   - Image Number
