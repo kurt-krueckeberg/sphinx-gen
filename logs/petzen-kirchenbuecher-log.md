@@ -167,11 +167,24 @@ FamilySearch tree.
   -
   - Johann Henrig Vahlsing
   - Jobst Henrich Vahlsing 
+```
+
 * - Images: 147 - 294
   - Years: 1732 to 1784
   -
   -
   -
+```
+
+```{list-table} Remaining images/years
+:header-rows: 1
+
+* - 
+  - Year
+* - Start image: 147
+  - 1732
+* - End image: 294
+  - 1784
 ```
 
 ## Review of Confirmations 1700-1784
