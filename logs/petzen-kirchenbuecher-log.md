@@ -67,7 +67,7 @@ FamilySearch tree.
   - Father
 * - 67 
   - 1684
-  -  On FamilySearch
+  - On FamilySearch
   - Johann Tönnies Weiland 
   -
 * - 102
@@ -101,26 +101,26 @@ FamilySearch tree.
   - Ilse Margaretha Weiland
   - Hans Hinrich Weiland aus Berenbusch. 
 * - 120 
-  - 1712
+  - 1712 **on website**
   - On both my site and familysearch
   -
   - Henrich Arend Vahlsing
-* - 122
+* - 122 **on website**
   -
   - On FamilySearch
   - Johann Hinrich Weiland
   - Johann Weiland. 
-* - 123 
+* - 123  **on website**
   - 1715
   - On FamilySearch
   - Wilhelm Weiland
   - Hans Henirch Weiland aus Berebusch
-* - 124 
+* - 124  **on website**
   - 1716
   - On FamilySearch
   - Johann Wilhelm Vahlsing
   - Vahlsing, Schäfter auf der Höckersau 
-* - 125 
+* - 125  **on website**
   - 1717
   - On FamilySearch
   - Catherina Maria Weiland aus Nammen
