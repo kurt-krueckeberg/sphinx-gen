@@ -169,21 +169,17 @@ FamilySearch tree.
   - Jobst Henrich Vahlsing 
 ```
 
-* - Images: 147 - 294
-  - Years: 1732 to 1784
-  -
-  -
-  -
-```
-
-```{list-table} Remaining images/years
+```{list-table} Remaining Image and Year Range
 :header-rows: 1
 
 * - 
+  - Image Number
   - Year
-* - Start image: 147
+* - **Start Range:** 
+  - 147
   - 1732
-* - End image: 294
+* - **End Range:** 
+  - 294
   - 1784
 ```
 
