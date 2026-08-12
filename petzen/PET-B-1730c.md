@@ -31,7 +31,7 @@ The 7 February 1730 baptism of Margarthe Elisabet Weiland is found on
 {ref}`image 142 <PET-B-1730c>`, the left page, of the "Verzeichnis der
 Getauften und Konfirmierten 1641-1784".
 
-```{figure} images/petzen-band1a-img142.png
+```{figure} images/petzen-band1a-img142.jpg
 :class: image-override
 ```
 
