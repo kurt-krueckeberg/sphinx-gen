@@ -178,7 +178,6 @@ FamilySearch tree.
 
 ```{list-table}
 :header-rows: 1
-:widths: 1 2 5 5 5
 
 * - Image Number
   - Year
