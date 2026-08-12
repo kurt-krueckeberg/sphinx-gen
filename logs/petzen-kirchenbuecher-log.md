@@ -131,9 +131,9 @@ FamilySearch tree.
   - Johann Weiland aus Nammen
 * - 125 
   - 1 May 1718
-  - Henrich Weilandt
+  - - **on website**
+  - Henirch We
   - Hans Henrich Weilandt, deceased
-  - **Appears to be a new person-->** Hans Henrich Weiland aus Berenbusch 
 * - 128 
   -
   -
