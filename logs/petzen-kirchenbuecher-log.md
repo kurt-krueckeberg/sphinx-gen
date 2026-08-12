@@ -134,11 +134,6 @@ FamilySearch tree.
   - - **on website**
   - Henirch We
   - Hans Henrich Weilandt, deceased
-* - 128 
-  -
-  -
-  - Hans Henrich [M/W]ailand 
-  - Hans Henrich [M/W]ailand 
 * - 128
   - 
   - 
