@@ -29,7 +29,7 @@
 The baptism of Anna Ilsabe Weÿlandt of Evesen is on {ref}`image 145 <PET-B-1731b>`
 of the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
-```{figure} images/petzen-band1a-img131.png
+```{figure} images/petzen-band1a-img145.png
 :class: image-override
 ```
 
