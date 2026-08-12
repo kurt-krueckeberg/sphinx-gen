@@ -17,7 +17,7 @@
 
 ## Record
 
-The baptism of from is on {ref}`image 123 <PET-B-1715a>`
+The baptism of Wilhelm Weÿlandt of Berenbusch is on {ref}`image 123 <PET-B-1715a>`
 of the Petzen church register *Verzeichnis der Getaufen und Konfirmierten
 1641-1784*.
 
