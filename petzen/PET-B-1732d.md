@@ -1,4 +1,4 @@
-# 1732 ?? Weÿlandt of Berenbusch Baptism
+# 1732 Rudolphina Maria Weÿlandt Baptism
 
 ## Family Relationships and Other Facts
 
@@ -9,10 +9,10 @@
   - Father
   - Baptism Date
   - Residence
-* - 
-  - 
-  - 
-  - 
+* - Rudolphina Maria Weÿlandt 
+  - Han Hermann Weÿlandt 
+  - 2 Nov. 1732 
+  - not given
 ```
 
 ```{list-table} Sponsors
@@ -20,13 +20,15 @@
 
 * - Name
   - From
-* - 
-  - 
+* - wife of the shepherd at Höckersau 
+  - not given
+* - wife of Jobst Henrich Weÿlandt 
+  - not given
 ```
 
 ## Record
 
-The baptism of ?? Weÿlandt of ?? is on {ref}`image 147 <PET-B-1732d>`, 
+The baptism of Rudolphina Maria Weÿlandt is on {ref}`image 147 <PET-B-1732d>`, 
 of the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ```{figure} images/petzen-band1a-img147-right.jpg
