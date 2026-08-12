@@ -45,8 +45,10 @@ We need to find his burial record.
 ```{list-table} Review started with image 87, year 1670.
 :header-rows: 1
 
-* - Images Reviewed
-* - **93 thru 152**
+* - Images Ranged Reviews
+  - Corresponding Years Range
+* - 93 — 152
+  - 1674 — 1735, first half
 ```
 
 ## Review of Petzen Baptisms 1700-1784
