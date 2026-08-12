@@ -13,7 +13,7 @@
   - Nammen 
   - Catherina Maria Weÿlandt 
   - - [middle?] daughter of Johann Brandt of Nammen
-    - eldest daughter of the late Hands Hartman of Nammen 
+    - eldest daughter of the late Hans Hartman of Nammen 
 ```
 
 ## Record
