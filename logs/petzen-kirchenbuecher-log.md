@@ -26,7 +26,7 @@ Marriages starting in 1680 on image number 17 were reviewed.
 :header-rows: 1
 
 * - Images Reviewed for Weiland/Krückeberg
-* - 58 thru 67
+* - 58 thru 67 reviewed. All Weiland's found were put on gen.krueckeberg.org.
 ```
 
 ```{note}
