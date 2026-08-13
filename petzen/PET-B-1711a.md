@@ -1,4 +1,4 @@
-# 1711 Ilse Margaretha Weiland Baptism
+# 1711 Ilse Margaretha Weiland of Berenbusch Baptism
 
 ## Family and Other Facts
 
