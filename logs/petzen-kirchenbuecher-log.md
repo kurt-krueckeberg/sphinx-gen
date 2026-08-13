@@ -170,17 +170,22 @@ FamilySearch tree.
 
 ```{list-table} Images from range 155—294
 :header-rows: 1
-:widths: 1 2 4
 
 * - Image Number
   - Year
   - Comments
-* - 155, bottom right
+* - 155, only on bottom right
   - Weiland from Evesen?
   - image is very smudgey
 * - 157-158 
   - 
   - no entries found
+* - 159
+  - 1740
+  - - Weiland auf Ostermeier Stäte von Nordholz\
+      Date: 21 Feb. 1740
+    - Weiland in Evesen\
+      Date 27 April 1740 (bottom entry)
 ```
 
 ## Review of Confirmations 1700-1784
