@@ -1,4 +1,4 @@
-# 1710 Johann Wilhelm Weÿland Baptized
+# 1710 Johann Wilhelm Weÿland of Peezen Baptized
 
 ## Record
 
