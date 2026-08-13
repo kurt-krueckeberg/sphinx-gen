@@ -174,7 +174,7 @@ FamilySearch tree.
 * - Image Number
   - Year
   - Comments
-* - 155, only on bottom right
+* - 155 (penultimate entry on right page).
   - Weiland from Evesen?
   - image is very smudgey
 * - 157-158 
