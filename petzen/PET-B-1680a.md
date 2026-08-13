@@ -37,14 +37,14 @@ of February 19 through February 28.
 
 
 ```{div} doc-text
-[Wolter?] Weilandt of Peezen ein Söhnlein Hans Hinrig [??] den ? Decemb:,
+[Wolter?] Weilandt [zu?] Peezen ein Söhnlein Hans Hinrig [??] den ? Decemb:,
 Gefatter, Hans [?], der [?], und [Johann Däher?] zu Peezen.
 ```
 
 ## Translation
 
 ```{div} doc-text
-[Wolter?] Weilandt of Peezen, a little son, Hans Hinrig [??], on the ? of Decembber.
+[Wolter?] Weilandt of Peezen, a little son, Hans Hinrig [??], on the ? of December.
 Godfathers: Hans [?], der [?], und [Johann Däher?] zu Peezen.
 ```
 

@@ -1,4 +1,4 @@
-# 1702 [Just?] Hinrich Weilandt Baptism
+# 1702 [Just?] Hinrich Weilandt of Bernbusch Baptism
 
 ## Family Relationship and Other Facts
 
