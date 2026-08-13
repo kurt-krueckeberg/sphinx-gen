@@ -168,7 +168,7 @@ FamilySearch tree.
   - Jobst Henrich Vahlsing 
 ```
 
-```{list-table} Images from range 155—294
+```{list-table} Images from range 155—294 (**Note:** Legibility improves at image 175)
 :header-rows: 1
 
 * - Image Number
