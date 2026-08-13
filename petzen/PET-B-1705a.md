@@ -1,4 +1,4 @@
-# 1705 Hans Hermann Weiland Baptism
+# 1705 Hans Hermann Weiland of Berenbusch Baptism
 
 ## Family and Other Facts
 
