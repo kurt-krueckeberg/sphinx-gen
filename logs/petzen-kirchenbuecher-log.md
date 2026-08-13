@@ -168,19 +168,19 @@ FamilySearch tree.
   - Jobst Henrich Vahlsing 
 ```
 
-```{list-table} Remaining Image and Year Range
+```{list-table} Images from range 155—294
 :header-rows: 1
 :widths: 1 2 4
 
-* - 
-  - Image Number
+* - Image Number
   - Year
-* - **Start Range:** 
-  - 155
-  - 1738
-* - **End Range:** 
-  - 294
-  - 1784
+  - Comments
+* - 155, bottom right
+  - Weiland from Evesen?
+  - image is very smudgey
+* - 157-158 
+  - 
+  - no entries found
 ```
 
 ## Review of Confirmations 1700-1784
