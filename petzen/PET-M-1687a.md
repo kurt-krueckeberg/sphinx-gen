@@ -1,4 +1,4 @@
-# 1687 Hans Weiland Marriage
+# 1687 Hans Weiland of Meinsen Marriage
 
 ## Record
 
