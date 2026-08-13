@@ -16,7 +16,6 @@ Konfirmierten 1641-1784" on [Archion.de](https://archion.de).
 Transliteration
 
 ```{div} doc-text
-
 Anna Ilsabey Möllers aus Peetzen
 Anna Ilse Margaretha Mönchhofs Pichtsmeiers Evesen.
 Philippina Maria Hofs aus Röcke
@@ -25,9 +24,8 @@ Philippina Maria Hofs aus Röcke
 Translation
 
 ```{div} doc-text
-
 Anna Ilsabey (Elisabeth) Möllers from Peetzen
-Anna Ilse Margaretha Mönchhofs Pichtsmeiers Evesen.
+Anna Ilse Margaretha Mönchhof, Pichtsmeier [house], Evesen
 Philippina Maria Hofs aus Röcke
 ```
 
