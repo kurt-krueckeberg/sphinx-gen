@@ -26,14 +26,14 @@ The baptism of Henirch Wilhelm Weiland occurred 25 October 1737 and is
 
 ```{div} doc-text
 d 25tn dito Weiland im BehrenBusch ein Söhnlein
-tauffen laßen [wie?] Heinrich Wilhelm. Sein Bruder Gevatter und [Fe...?] Pichtsmeyers Sohn v. Evesen
+tauffen laßen [noie?] Heinrich Wilhelm. Sein Bruder Gevatter und [Fe...?] Pichtsmeyers Sohn v. Evesen
 ```
 
 ## Translation
 
 ```{div} doc-text
 On the 25th of the same month [of October], Weiland in Berenbusch had a little son
-baptized [as?] Heinrich Wilhelm. His brother was godfather, and [Fe…?],
+baptized named Heinrich Wilhelm. His brother was godfather, and [Fe…?],
 Pichtsmeier’s son from Evesen.
 ```
 
