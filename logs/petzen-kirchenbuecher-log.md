@@ -153,9 +153,18 @@ FamilySearch tree.
 * - 161
   - 17 May  
   - right page: Weiland from Evesen
-* - 163-164
+* - 163-165
   -
   - No Entries
+* - 168 **not on website**
+  - 1744
+  - left page, 3rd record from the bottom
+* - 169 is a duplicat of 168
+  -
+  -
+* - 170
+  - 1745
+  - left page, penultimate entry, smudgey
 ```
 
 
