@@ -22,7 +22,7 @@ entry at the bottom of the right-hand page (the pages are unnumbered). The
 year 1739 appears in the middle of the right page.
 
 
-```{figure} images/petzen-band1a-img159-bottom.png
+```{figure} images/petzen-band1a-img159-weiland-right-bottom.jpg
 :class: image-override
 ```
 
