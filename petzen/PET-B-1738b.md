@@ -11,8 +11,6 @@
 * - 
   - 
   - 
-    
-    
 ```
 
 ## Baptism Record
@@ -22,6 +20,13 @@ The baptism of Sophia Margareta Weiland of Evesen occurred 27 May, 1738, and is 
 
 ```{figure} images/petzen-band1a-img155-weiland2.png
 :class: image-override
+```
+
+```{important}
+This records is so badly smudged that despite its "improved" appearance
+done using a image editor, its syntax is uncertain. The name of the infant
+has been inferred by comparing baptism records that proceed it, where the
+infant name immediatly follows *tauffen laßen*.
 ```
 
 ## Transliteration
