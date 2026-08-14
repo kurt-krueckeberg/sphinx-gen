@@ -1,4 +1,4 @@
-# 1740 ?? ?? Weiland Baptized
+# 1740 Hans Henrich Weiland Baptized
 
 ## Family Relationship and Other Facts
 
