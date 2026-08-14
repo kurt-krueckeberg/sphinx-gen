@@ -10,7 +10,7 @@
   - Godfathers
 * - 21 February 1740
   - Ostermeier's place in Nordholz (as lodgers?)
-  - wife of Bormann's from Peetzen
+  - Bormann's wife, Peetzen
 ```
 
 ## Record
