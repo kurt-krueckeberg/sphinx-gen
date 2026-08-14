@@ -7,20 +7,18 @@
 
 * - Baptism Date
   - Residence/Locality
-  - Godfather
-* - 
-  - 
-  - 
+  - Godmother
+* - 27 April 1740
+  - Evesen
+  - Gerd Henrich Bormann of Peetzen
 ```
 
 ## Baptism Record
 
-The baptism of a  ?? ?? ?? occurred ?? ?? ??.
+The baptism of Hans Henrich Weiland in Evesen occurred on 27 April 1740. 
 
-The baptism entry is found on {doc}`image 159 <PET-B-1740b>`. It is the last
-entry at the bottom of the right-hand page (the pages are unnumbered). The
-year 1739 appears in the middle of the right page.
-
+The baptism entry is found on {doc}`image 159 <PET-B-1740b>` of the *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
+It is the last entry at the bottom of the right-hand page.
 
 ```{figure} images/petzen-band1a-img159-weiland-right-bottom.jpg
 :class: image-override
@@ -29,15 +27,17 @@ year 1739 appears in the middle of the right page.
 ## Transliteration
 
 ```{div} doc-text
-d. 27 dito Weiland in Evesen beÿ der Sandkuhle
-ein Söhnlein Hanß Henrich tauffen [und nennen laßen]
-durch Gerd Henrich Bormann in Peetzen
+d. 27 dito Weiland in Evesen beÿ der Sandkuhle ein Söhnlein Hanß Henrich
+tauffen und [nennen?] laßen durch Gerd Henrich Bormann in Peetzen
 ```
 
 
 Translation
 
 ```{div} doc-text
+On the 27th of the same month, Weiland in Evesen by the Sandkuhle had a
+little son baptized and [named?] Hans Heinrich by Gerd Heinrich Bormann in
+Petzen.
 ```
 
 ## Citation
@@ -46,5 +46,5 @@ Translation
 
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/61161ab79e/> : 13 Aug. 2026),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
- Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784 > Image 159 of 322, bottom enty on the right-hand page.
+Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784 > Image 159 of 322, bottom enty on the right-hand page.
 
