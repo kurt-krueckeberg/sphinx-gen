@@ -165,6 +165,10 @@ FamilySearch tree.
 * - 170
   - 1745
   - left page, penultimate entry, smudgey
+    **NOTE:** This record greatly resembles the smudgey record at the bottom
+    of image 155!
+
+    It seems to have the same first line almost word for word!!
 ```
 
 
