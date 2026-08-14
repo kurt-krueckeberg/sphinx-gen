@@ -31,7 +31,7 @@ year 1739 appears in the middle of the right page.
 ```{div} doc-text
 d. 27 dito Weiland in Evesen beÿ der Sandkuhle
 ein Söhnlein Hanß Henrich tauffen [und meinen Lang?]
-durch Gerd Henrich Bemann in Peetzen
+durch Gerd Henrich Bormann in Peetzen
 ```
 
 
