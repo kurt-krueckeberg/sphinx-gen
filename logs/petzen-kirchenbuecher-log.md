@@ -182,9 +182,9 @@ FamilySearch tree.
   - no entries found
 * - 159
   - 1740
-  - - Weiland auf Ostermeier Stäte von Nordholz\
+  - - PET-B-1740a.md: Weiland auf Ostermeier Stäte von Nordholz\
       Date: 21 Feb. 1740
-    - Weiland in Evesen\
+    - PET-B-1740b.md: Weiland in Evesen\
       Date 27 April 1740 (bottom entry)
 * - 160
   - 
