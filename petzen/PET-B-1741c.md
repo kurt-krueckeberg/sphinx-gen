@@ -1,0 +1,38 @@
+# 1741 Anna Catharina Möller Baptism
+
+## Baptism Record
+
+The baptism entry is found on {ref}`image 163 <PET-B-1741c>` on
+[Archion.de](https://archion.de) of the images of the "Verzeichnis der
+Getauften und Konfirmierten 1641-1784".
+
+```{figure} images/petzen-band1a-img163-möller.jpg
+:class: image-override
+```
+
+## Transliteration 
+
+```{div} doc-text
+21 dito Möller Vogd in [N./H.] ein Töchterlein taufen
+laßen Anna Catharina Gevattnen d Mutter [hies.] von Meissen
+```
+
+## Translation
+
+```{div} doc-text
+21 dito[meaning: October] Möller village official in [N./H.] a newborn
+little daugher was baptized [named] Anna Catharina Baptismal sponsor the
+mother [recently?] from Meissen
+```
+
+## Citation
+
+(PET-B-1741c)=
+
+"Archion Protestant Kirchenbücher Portal", database
+with images, *Archion* (<https://www.archion.de/p/dacf09edc0/> : 1 Feb.
+2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten, 1641-1784 > Image 163 of 322,
+left hand page.
+

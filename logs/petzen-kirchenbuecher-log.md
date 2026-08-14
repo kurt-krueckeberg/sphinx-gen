@@ -186,9 +186,9 @@ FamilySearch tree.
       Date: 21 Feb. 1740
     - PET-B-1740b.md: Weiland in Evesen\
       Date 27 April 1740 (bottom entry)
-* - 160
-  - 
-  - no entries
+* - 161
+  - 17 May  
+  - right page: Weiland from Evesen
 ```
 
 ## Review of Confirmations 1700-1784

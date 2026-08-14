@@ -8,7 +8,7 @@ Werkmeister the next year: {doc}`PET-M-1780a`.
 This timeline shows Anna Catharina Maria Elisabeth Möller's life events, including her two marriages, the Bleke children born to her first
 marriage, and the sole child born to born to her second marriage.
 
-- {doc}`PET-B-1741b`
+- {doc}`PET-B-1741c`
 - {doc}`PET-C-1754a`
 - {doc}`Her marriage to Johann Heinrich Bleke <PET-M-1770a>`
   - Children:
