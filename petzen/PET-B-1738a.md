@@ -18,7 +18,7 @@
 ## Baptism Record
 
 The baptism of Friderich Wilhelm Weiland of Nordholz occurred 15 May, 1738, and is 
-{doc}`image 155 <PET-B-1738a>` of the * Verzeichnis der Getauften und Konfirmierten 1641-1784*.
+{doc}`image 155 <PET-B-1738a>` of the *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ```{figure} images/petzen-band1a-img154.jpg
 :class: image-override
