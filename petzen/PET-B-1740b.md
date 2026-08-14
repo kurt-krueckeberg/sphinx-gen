@@ -13,7 +13,7 @@
   - Gerd Henrich Bormann of Peetzen
 ```
 
-## Baptism Record
+## Record
 
 The baptism of Hans Henrich Weiland in Evesen occurred on 27 April 1740. 
 
