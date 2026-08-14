@@ -189,6 +189,9 @@ FamilySearch tree.
 * - 161
   - 17 May  
   - right page: Weiland from Evesen
+* - 163
+  -
+  - No Entries
 ```
 
 ## Review of Confirmations 1700-1784
