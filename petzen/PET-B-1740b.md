@@ -31,8 +31,7 @@ d. 27 dito Weiland in Evesen beÿ der Sandkuhle ein Söhnlein Hanß Henrich
 tauffen und [nennen?] laßen durch Gerd Henrich Bormann in Peetzen
 ```
 
-
-Translation
+## Translation
 
 ```{div} doc-text
 On the 27th of the same month, Weiland in Evesen by the Sandkuhle had a
@@ -47,4 +46,3 @@ Petzen.
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/61161ab79e/> : 13 Aug. 2026),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
 Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784 > Image 159 of 322, bottom enty on the right-hand page.
-
