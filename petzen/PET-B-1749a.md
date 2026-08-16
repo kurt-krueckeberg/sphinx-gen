@@ -12,7 +12,8 @@
   - Herman Henrich Weiland, junior
   - Evesen
   - - Falsing
-    - Busche ?ldag.
+    - Busche
+    - Aldag
 ```
 
 ## Record
@@ -28,14 +29,14 @@ Petzen Parish, 1641-1784".
 
 ```{div} doc-text
 d 15t Julii Johann Henrich Weiland des Herman Henrich Weilands junioris
-Sohn zu Eversen getauft, Gevatt. Fahlsing, Busche ?lday
+Sohn zu Eversen getauft, Gevatt. Fahlsing, Busche Alday
 ```
 
 ## Translation
 
 ```{div} doc-text
 15 July — Johann Henrich Weiland, son of Herman Henrich Weiland junior of Evesen, was baptized. Sponsors:
-Fahlsing, Busche ?ldag.
+Fahlsing, Busche Aldag.
 ```
 
 ## Citation
