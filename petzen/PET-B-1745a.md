@@ -15,7 +15,7 @@
 The April 4, 1745,  baptism of Sophi Margaret Weiland of Peetzen is on {doc}`image 170 <PET-B-1745a>` of
 the *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
-```{figure} images/petzen-band1a-img170.jpg
+```{figure} images/petzen-band1a-img170-weiland-left-page.png
 :class: image-override
 ```
 
