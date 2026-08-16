@@ -29,13 +29,16 @@ of the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 ## Transliteration and Translation
 
 ```{div} doc-text
-d 15t Octobr: Johann Henrich Weiland getauft
-Parens Henrich Weiland Einlieger in Peetzen
-Gevattern Johan Friderich Watermann aus Nordholtz
+d 15t Octobr: Johann Henrich Weiland getauft\
+Parens Henrich Weiland Einlieger in Peetzen\
+Gevattern Johan Friderich Watermann aus Nordholtz\
 und Johan Henrich Rust zu Peetzen.
 ```
 
 ```{div} doc-text
+October 15: Johann Henrich Weiland was baptized.\
+Parent: Henrich Weiland, a tenant/lodger in Peetzen.\
+Sponsors: Johan Friderich Watermann from Nordholtz and Johan Henrich Rust of Peetzen.
 ```
 
 ## Citation
