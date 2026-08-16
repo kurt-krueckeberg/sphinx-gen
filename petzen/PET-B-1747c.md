@@ -1,4 +1,4 @@
-# 1747 Johann henrich Weiland of Petzen Baptism
+# 1747 Johann Henrich Weiland of Petzen Baptism
 
 ## Family Relationships and Other Facts
 
