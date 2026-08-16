@@ -169,9 +169,9 @@ FamilySearch tree.
 * - 171-178
   - 1745-1747
   - Hits put on website
-* - 179
+* - 179, 181, 187
   - 1749
-  - Hit **NOT** on website
+  - Hits **NOT** on website. image 187 has two Weilands
 ```
 
 ## Review of Marriages 1641-1784
