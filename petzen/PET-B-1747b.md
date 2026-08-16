@@ -6,27 +6,22 @@
 :header-rows: 1
 
 * - Child
+  - Baptism date
   - Father
+  - Residence
   - Baptism Date
   - Residence
-* - 
-  - 
-  - 
-  - 
-```
-
-```{list-table} Sponsors
-:header-rows: 1
-
-* - Name
-  - From
-* - 
-  - 
+  - Sponsor
+* - Charolotta Louisa Weiland 
+  - 5 Spr. 1747
+  - Herman Henrich Weiland
+  - Evesen
+  - Philippina Wilhelmina Gaden
 ```
 
 ## Record
 
-The April 5, 1747, baptism of Charlotta Louise Weiland is on {ref}`image 175 <PET-B-1747b>`, 
+The April 5, 1747, baptism of Charlotta Louisa Weiland is on {ref}`image 175 <PET-B-1747b>`, 
 of the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ```{figure} images/petzen-band1a-img146.jpg
@@ -36,13 +31,17 @@ of the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 ## Transliteration and Translation
 
 ```{div} doc-text
-d 5t Apr: Charlotta Louise Weilands getauft
-Parens Herman Henrich Weiland Junior in Evesen
-Gevatterin Jgsr Philippine Wilhelmina Gaden der
-HErrn Conductoris Gadens von Hökersau älteste Tochter 
+d 5t Apr: Charlotta Louisa Weilands getauft
+Parens Herman Henrich Weiland junior in Evesen
+Gevatterin Jgfr Philippina Wilhelmina Gaden des
+Herrn Conductoris Gadens von Hökersau älteste Tochter
 ```
 
 ```{div} doc-text
+On April 5, Charlotta Louisa Weiland was baptized.  Parent: Herman Henrich
+Weiland, junior, in Evesen. Godmother: Miss Philippina Wilhelmina Gaden,
+eldest daughter of Mr. Gaden, the the leaseholder [or estate
+lessee/manager] of Hökersau.
 ```
 
 ## Citation
