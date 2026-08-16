@@ -24,15 +24,17 @@ the *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ## Transliteration
 
+<!--
 ```{div} doc-text
 dito 28t Widdel aus Röcke auf Ößling ein Töchter-
-lein tauffen lßen genant Anna Ilsa Margareta
+lein tauffen laßen genant Anna Ilsa Margareta
 Gevatterin waren Papen seine Fr. auf Ößling [ein/und?]
 Albert [Witen/Witve] Kornis s[eine] Fr. zur Peetzen 3 des Kindes
 Mutter Scwester von Meisen [written above insert line: nomine Catharina Margareta Mollers]
 ```
+-->
 
-```{div} doct-text
+```{div} doc-text
 April d 4t Weiland zu Peeten ersten tochter hat und beÿ denen
 alten in der Leibzucht sich aushält ein töchterlein tauffen lassen
 Sophia Margareta genannt von der Hardtmanschen
