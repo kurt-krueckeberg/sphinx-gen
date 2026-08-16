@@ -11,7 +11,7 @@
   - Residence
   - Sponsor
 * - Charolotta Louisa Weiland 
-  - 5 Spr. 1747
+  - 5 Apr. 1747
   - Herman Henrich Weiland
   - Evesen
   - Philippina Wilhelmina Gaden
