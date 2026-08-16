@@ -3,14 +3,16 @@
 ```{list-table}
 :header-rows: 1
 
-* - Father
+* - Infant
+  - Father
   - Residence
   - Daughter
   - Sponsors
-* - 
-  - 
-  - 
-  - 
+* - Johann Henrich  
+  - Herman Henrich Weiland, junior
+  - Evesen
+  - - Falsing
+    - Busche ?ldag.
 ```
 
 ## Record
@@ -18,7 +20,7 @@
 The baptism of Johann Henrich Weiland is on {ref}`image 178 <PET-B-1749a>` from the "Register of Baptism and Confirmed of the
 Petzen Parish, 1641-1784".
 
-```{figure} images/petzen-band1a-img176.jpg
+```{figure} images/petzen-band1a-img178.jpg
 :class: image-override
 ```
 
@@ -32,7 +34,8 @@ Sohn zu Eversen getauft, Gevatt. Fahlsing, Busche ?lday
 ## Translation
 
 ```{div} doc-text
-15 July — Johann Henrich Weiland, son of Herman Henrich Weiland junior of Evesen, was baptized. Sponsors: Fahlsing, Busche ?ldag.
+15 July — Johann Henrich Weiland, son of Herman Henrich Weiland junior of Evesen, was baptized. Sponsors:
+Fahlsing, Busche ?ldag.
 ```
 
 ## Citation
