@@ -35,7 +35,7 @@ Mutter Scwester von Meisen [written above insert line: nomine Catharina Margaret
 -->
 
 ```{div} doc-text
-April d 4t Weiland zu Peeten ersten tochter hat und beÿ denen
+April d 4t Weiland; zu Peeten rusten tochter hat und beÿ denen
 alten in der Leibzucht sich aushält ein töchterlein tauffen lassen
 Sophia Margareta genannt von der Hardtmanschen
 als der gevattern in Evesen
