@@ -164,18 +164,12 @@ FamilySearch tree.
   -
 * - 170
   - 1745
-  - left page, penultimate entry, smudgey
-    **NOTE:** This record greatly resembles the smudgey record at the bottom
-    of image 155!
-
-    It seems to have the same first line almost word for word! See the
-    pinned chat **"Weiland in Evesen"**.
-
-    See chatgpt pinned chat "Branch Weiland in Evesen", where I plan to
-   compare these two records, from the bottom image 155 and the bottom-left
-   of image 170.
+  - This appears to be the birth to a Weiland daughter still living at
+    home. The father's name is not given.
+* - 171
+  - 1745
+  - Put on website
 ```
-
 
 ## Review of Marriages 1641-1784
 
