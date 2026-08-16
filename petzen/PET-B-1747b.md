@@ -29,16 +29,16 @@ of the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 ## Transliteration and Translation
 
 ```{div} doc-text
-d 5t Apr: Charlotta Louisa Weilands getauft
-Parens Herman Henrich Weiland junior in Evesen
-Gevatterin Jgfr Philippina Wilhelmina Gaden des
+d 5t Apr: Charlotta Louisa Weilands getauft\
+Parens Herman Henrich Weiland junior in Evesen\
+Gevatterin Jgfr Philippina Wilhelmina Gaden des\
 Herrn Conductoris Gadens von Hökersau älteste Tochter
 ```
 
 ```{div} doc-text
-On April 5, Charlotta Louisa Weiland was baptized.  Parent: Herman Henrich
-Weiland, junior, in Evesen. Godmother: Miss Philippina Wilhelmina Gaden,
-eldest daughter of Mr. Gaden, the the leaseholder [or estate
+On April 5, Charlotta Louisa Weiland was baptized.\
+Parent: Herman Henrich Weiland, junior, in Evesen.\
+Godmother: Miss Philippina Wilhelmina Gaden, eldest daughter of Mr. Gaden, the leaseholder [or estate
 lessee/manager] of Hökersau.
 ```
 
