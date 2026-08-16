@@ -5,7 +5,10 @@
 ```{list-table}
 :header-rows: 1
 
-* - 
+* - a
+  - b
+  - c
+* -
   -
   -
 ```
