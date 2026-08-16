@@ -22,13 +22,17 @@
 The ???? baptism of ?? ??  Weiland is on {ref}`image 175 <PET-B-1747c>`, 
 of the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
-```{figure} images/petzen-band1a-img146.jpg
+```{figure} images/petzen-band1a-img175-weiland2.jpg
 :class: image-override
 ```
 
 ## Transliteration and Translation
 
 ```{div} doc-text
+d 15t Octobr: Johann Henrich Weiland getauft
+Parens Henrich Weiland Einlieger in Peetzen
+Gevattern Johan Friderich Watermann aus Nordholtz
+und Johan Henrich Rust zu Peetzen.
 ```
 
 ```{div} doc-text
