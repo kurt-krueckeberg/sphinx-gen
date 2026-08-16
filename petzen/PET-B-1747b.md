@@ -10,8 +10,6 @@
   - Father
   - Residence
   - Baptism Date
-  - Residence
-  - Sponsor
 * - Charolotta Louisa Weiland 
   - 5 Spr. 1747
   - Herman Henrich Weiland
