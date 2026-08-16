@@ -1,4 +1,10 @@
-# 1738 Sophia Margareta Weiland of Evesen Baptized
+# 1738 Sophia Margareta ??? of Evesen Baptized
+
+```{important}
+This does not appear to a child fathered by a Weiland, rather a Weiland
+daughter living in a Weiland household, who had a daughter whose father is
+not given.
+```
 
 ## Family Relationship and Other Facts
 

@@ -1,4 +1,10 @@
-# 1745 Sophia Margareta Weiland of Peetzen Baptism
+# 1745 Sophia Margareta ??? of Peetzen Baptism
+
+```{important}
+This does not appear to a child fathered by a Weiland, rather a Weiland
+daughter living in a Weiland household, who had a daughter whose father is
+not given.
+```
 
 ## Family and Other Facts
 
