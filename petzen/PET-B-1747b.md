@@ -22,7 +22,7 @@
 The April 5, 1747, baptism of Charlotta Louisa Weiland is on {ref}`image 175 <PET-B-1747b>`, 
 of the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
-```{figure} images/petzen-band1a-img
+```{figure} images/petzen-band1a-img175-weiland1.jpg
 :class: image-override
 ```
 

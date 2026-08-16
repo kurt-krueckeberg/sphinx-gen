@@ -1,4 +1,4 @@
-# 1747 ?? ??  Weiland Baptism
+# 1747 Johann henrich Weiland of Petzen Baptism
 
 ## Family Relationships and Other Facts
 
@@ -10,11 +10,12 @@
   - Father
   - Residence
   - Sponsor
-* - 
-  - 
-  - 
-  - 
-  - 
+* - Johann Henirch 
+  - 15 Oct. 1747
+  - Henrich Weiland 
+  - lodger in Peetzen
+  - - Johan Friderich Watermann, Nordholtz
+    - Johan Henrich Rust, Peetzen
 ```
 
 ## Record
@@ -46,7 +47,7 @@ Sponsors: Johan Friderich Watermann from Nordholtz and Johan Henrich Rust of Pee
 (PET-B-1747c)=
 
 “Archion Protestant Kirchenbücher Portal”, database with images,
-(<https://www.archion.de/p/c238890813/> : 16 Aug. 2026), path: Niedersachsen >
+(<https://www.archion.de/p/b582ac08a4/> : 16 Aug. 2026), path: Niedersachsen >
 Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784 > Image 175 of 322
