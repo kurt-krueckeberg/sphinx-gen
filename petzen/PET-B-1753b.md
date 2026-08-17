@@ -29,7 +29,7 @@ The baptism of Friderich Wilhelm Weiland is on {ref}`image 188, left
 page, first entry <PET-B-1753b>` from the "Register of Baptism and Confirmed of the
 Petzen Parish, 1641-1784"
 
-```{figure} images/
+```{figure} images/petzen-band1a-img188-weiland1.jpg
 ```
 
 ## Transliteration 
