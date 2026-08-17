@@ -166,12 +166,12 @@ FamilySearch tree.
   - 1745
   - This appears to be the birth to a Weiland daughter still living at
     home. The father's name is not given.
-* - 171-194
+* - 171-195
   - 1745-1756
   - Hits put on website
-* - 195, 198
-  - 1754
-  - **Hits MIGHT NOT beon website.**. Check first.
+* - 198
+  - 
+  - **Hits MIGHT NOT be on website.**. Check first.
 
     - md page for 179 needs the image and more work.
 
