@@ -1,52 +1,49 @@
-# 1753 Friderich Wilhelm Weiland Baptism
+# 1753 Anna Maria Sophia Elisabeth Weiland of Evesen Baptism
 
 ## Family and Other Relationships
 
 ```{list-table} Family Facts
 :header-rows: 1
 
-* - Father
-  - Father's Residence
-  - Infant
-  - Birthplace
-* - Heinrich Ludowig Weiland
+* - Infant
+  - Father
+  - Residence
+* - Anna Maria Sophia Elisabeth
+  - Herman Henrich Weiland unior
   - Evesen
-  - Friderich Wilhelm Weiland
-  - Steinman's place in Nammen
 ```
 
 ```{list-table} Baptism sponsors
 :header-rows: 1
 
-* - Name
-* - Pichtmeier Mönchhof's son 
-* - Hermen Hinrich Steding of Evesen
+* - Names
+* - - Pichtmeier Monchhofs Tochter aus Evesen
+    - Deerbergs Tocher aus Evesen
+    - Fuhlings Tochter 
+    - Halbkof
 ```
 
 ## Record
 
-The baptism of Friderich Wilhelm Weiland is on {ref}`image 188, left
-page, first entry <PET-B-1753a>` from the "Register of Baptism and Confirmed of the
-Petzen Parish, 1641-1784"
+The baptism of Anna Sophia Elisabeth Weiland is on {ref}`image 188 <PET-B-1753a>` from the
+*Verzeichnis der Getauften und Konfirmierten 1641-1784*.
+
+```{figure} images/
+```
 
 ## Transliteration 
 
 ```{div} doc-text
-d 15t Julii Friderich Wilhelm Weiland
-getauft auf Steinmans Stette zu Nammen geborn.
-Parens Henrich Ludowig Weiland zu Evesen.
-Gev. Pichtmeier Mönchhofs Sohn und Hermen Henrich
-Steding fil[.?] zu Evesen
+d 22t Maii Anna Soph. Elies. Weilands. 
+Herman Henrich Weilands jun. Tochter aus Evesen
+getauft: Gevatt. Pichtsmeier Monchhofs Tochter aus Evesen
+Deerbergs Tochter aus Evesen, Fahlings Tochter, Halb [?of] 
+Hofs Dorothea Elies. und des Vaters halb Schwester.
 ```
 
 ## Translation
 
 ```{div} doc-text
-On 15 July, Friderich Wilhelm Weiland was baptized. He was born
-at Steinman’s place in Nammen.\
-The father was Henrich Ludowig Weiland of Evesen.\
-The godparents were Pichtmeier Mönchhof's son 
-Herman Henrich Steding’s son [?] of Evesen.
 ```
 
 ## Citation
@@ -54,7 +51,7 @@ Herman Henrich Steding’s son [?] of Evesen.
 (PET-B-1753a)=
 
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion*
-(<https://www.archion.de/p/caa1d2f962/> : 30 June 2026), path: Niedersachsen >
+(<https://www.archion.de/p/2b35566619/>: 17 Aug. 2026), path: Niedersachsen >
 Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten
 1641-1784, image 188 of 322

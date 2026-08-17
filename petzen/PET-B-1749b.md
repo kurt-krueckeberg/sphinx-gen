@@ -13,7 +13,7 @@
   - innkeeper/tavern keeper
   - Nammen
   - - Stahlhut, senior
-    - Safferberg
+    - Sassenberg
     - Brand
 ```
 
@@ -32,14 +32,14 @@ Petzen Parish, 1641-1784".
 
 ```{div} doc-text
 d 29 Sept. Johann Henrich Weiland. Johan Herman Weilands Krugers zu Nammen
-Sohn getauft: Gevattern Stahlhut Sen., Safferberg u Brand
+Sohn getauft: Gevattern Stahlhut Sen., Sassenberg u Brand
 ```
 
 ## Translation
 
 ```{div} doc-text
 On Sept. 29, Johann Henrich, son of Johan Henrich Weiland innkeeper/tavern keeper
-at Nammen, was baptized. Godfathers: Stahlhut senrior, Safferberg and Brand.  
+at Nammen, was baptized. Godfathers: Stahlhut senrior, Sassenberg and Brand.  
 ```
 
 ## Citation
