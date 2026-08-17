@@ -1,25 +1,26 @@
 # 1749 Johann Henrich Weiland Baptism
 
-```{list-table}
+```{list-table} 29 September 1749 Baptism of Johann Henrich Weiland
 :header-rows: 1
 
 * - Infant
   - Father
+  - Occupation
   - Residence
   - Daughter
   - Sponsors
-* - 
-  - 
-  - 
-  - 
-  - 
-    
-    
+* - Johann Henrich
+  - Johan Herman Weiland
+  - innkeeper/tavern keeper
+  - Nammen
+  - - Stahlhut, senior
+    - Safferberg
+    - Brand
 ```
 
 ## Record
 
-The baptism of Johann Henrich Weiland is on {ref}`image 179 <PET-B-1749b>` from the "Register of Baptism and Confirmed of the
+The 29 September, 1749, baptism of Johann Henrich Weiland is on {ref}`image 179 <PET-B-1749b>` from the "Register of Baptism and Confirmed of the
 Petzen Parish, 1641-1784".
 
 ```{figure} images/petzen-band1a-img179.jpg
@@ -50,4 +51,3 @@ at Nammen, was baptized. Godfathers: Stahlhut senrior, Safferberg and Brand.
 (<https://www.archion.de/p/deba3d9e2e/> : 8 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
 Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 179 of 322
-
