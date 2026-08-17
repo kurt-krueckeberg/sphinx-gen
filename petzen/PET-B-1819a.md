@@ -1,4 +1,4 @@
-# 1819 Carl Friedrich Enst Weiland Baptism
+# 1819 Carl Friedrich Ernst Weiland Baptism
 
 ## Record
 
