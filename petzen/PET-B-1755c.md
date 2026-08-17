@@ -3,7 +3,7 @@
 ## Record
 
 The Spetember 7, 1755, baptism record of Henrich Wilhelm Weiland is found on
-{doc}`image 192 <PET-B-1755c>` of the * Verzeichnis der Getauften und Konfirmierten 1641-1784*.
+{doc}`image 192 <PET-B-1755c>` of the *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ```{figure} images/petzen-band1a-img192.jpg
 :class: image-override
