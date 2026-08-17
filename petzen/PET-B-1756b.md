@@ -1,4 +1,4 @@
-# 1756 Henrich Ludowig Weiland of Evesen Baptism
+# 1756 Herman Henrich Weiland of Evesen Baptism
 
 ## Record
 
