@@ -1,52 +1,55 @@
-# 1758 Jobst Heinrich Weiland of Evesen Baptism
+# 1758 Twins Jobst Henirch and Hans Henrich Weiland Baptism
 
 ## Family and Other Facts
 
 ```{list-table}
 :header-rows: 1
 
-* - Father
+* - twins
+  - Father
   - Residence
   - Son
   - Sponsor
-* - Ludowig Weiland 
-  - lodger in Evesen
-  - Jobst Heinrich Weiland
-  - 
+* - - Jobst Henrich 
+    - Hans Henrich
+  - Jobst Henrich Weiland
+  - Berenbusch
+  - - Grandfather for oldest
+    - Father's brother for youngest
 ```
 
 ## Record
 
-The baptism of Jobst Heinrich Weiland is on {ref}`image 199, left page, first entry <cite-PET-B-1758a>` from
-the "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784"
+The OCtover 4, 1758, baptism of Jobst Henrich and Hans Henrich Weiland is on {ref}`image 198 <PET-B-1758a>` 
+of the *Verzeichnis der Getauften und Konfirmierten 1641-1784*. 
 
 ## Baptism Image
-```{figure} images/petzen-band1a-img199.jpg
+```{figure} images/petzen-band1a-img198-right.jpg
 :class: image-override
 ```
 
 ## Transliteration and Translation
 
 ```{div} doc-text
-d 10 Dec. Jobst Heinrich Weiland
-   des Einlieger Ludowig Weiland zu Evesen Sohn
-   getauft. Gev Jobst [pHen.] Weiland Sander zu Bernb[abbreviation]
+d 4t Octobris Jobst Henrich und Hans Henrich Weiland Zwillinge des Jobst
+Henrich Weilands zu Berenbusch Söhne getauft. zu dem ältesten wurde der
+Großvater und den jüngeren des Vaters Bruder Gevatter.
 ```
 
 ```{div} doc-text
-d 10 Dec. Jobst Heinrich Weiland
-   des Einlieger Ludowig Weiland zu Evesen Sohn
-   getauft. Gev Jobst [Hen.] Weiland, Sander at Berenb[abbreviation
-   for Berenbusch?]
+On October 4{sup}`th` Jobst Henrich and Hans Henrich Weiland, twins sons of Jobst
+Henrich Weilands of Berenbusch, were baptized. Sponsor of the eldest was
+the grandfathter, and the sponsor of the youngest was the brother of the
+father.
 ```
 
 ## Citation
 
-(cite-PET-B-1758a)=
+(PET-B-1758a)=
 
 "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([<https://www.archion.de/p/8ce93b30e8/>](https://www.archion.de/p/8ce93b30e8/) : 2 November
-2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+with images, *Archion* (<https://www.archion.de/p/47233c8eab/> : 17 Aug. 2026),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784, image 199 of 322
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 198 of 322
 
