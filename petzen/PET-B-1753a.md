@@ -25,7 +25,7 @@
 
 ## Record
 
-The baptism of Anna Sophia Elisabeth Weiland is on {ref}`image 188 <PET-B-1753a>` from the
+The May 22, 1753, baptism of Anna Sophia Elisabeth Weiland is on {ref}`image 188 <PET-B-1753a>` from the
 *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ```{figure} images/petzen-band1a-img188-weiland1.jpg
