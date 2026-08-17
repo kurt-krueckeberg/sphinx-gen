@@ -7,7 +7,6 @@
   - Father
   - Occupation
   - Residence
-  - Daughter
   - Sponsors
 * - Johann Henrich
   - Johan Herman Weiland
