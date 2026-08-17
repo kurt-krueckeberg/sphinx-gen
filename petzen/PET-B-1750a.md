@@ -22,11 +22,6 @@
 * - Fahlsing’s son from Evesen
 ```
 
-```{note}
-Is **Fahlsing's son from Evesen** Jobst Heinrich Vahlsing, who was the son of
-[Arend Heinrich Vahlsing’s](PET-M-1728a.md) (1670-1730)?
-```
-
 ## Baptism Record
 
 The baptism of Carl Philip Krückeberg is on {ref}`image 180 <PET-B-1750a>`,
