@@ -5,10 +5,9 @@
 ```{list-table}
 :header-rows: 1
 
-* - twins
+* - Twins
   - Father
   - Residence
-  - Son
   - Sponsor
 * - - Jobst Henrich 
     - Hans Henrich
