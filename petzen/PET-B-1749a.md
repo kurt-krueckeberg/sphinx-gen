@@ -10,6 +10,7 @@
   - Sponsors
 * - Johann Henrich  
   - Herman Henrich Weiland, junior
+  - Eversen
   - Evesen
   - - Falsing
     - Busche
