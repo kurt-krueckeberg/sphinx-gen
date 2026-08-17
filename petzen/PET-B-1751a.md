@@ -1,4 +1,4 @@
-# 1751 Philippina Margareta Weiland Baptism
+# 1751 Philippina Margareta Weiland of Nordholz Baptism
 
 ## Family Relationship
 

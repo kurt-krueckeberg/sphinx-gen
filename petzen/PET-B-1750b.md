@@ -1,4 +1,4 @@
-# 1750 Philippina Margareta Weiland Baptism
+# 1750 Philippina Margareta Weiland of Evesen Baptism
 
 ## Family Relationship
 

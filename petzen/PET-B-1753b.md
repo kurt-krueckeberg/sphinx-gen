@@ -1,4 +1,4 @@
-# 1753 Friderich Wilhelm Weiland Baptism
+# 1753 Friderich Wilhelm Weiland of Nammen Baptism
 
 ## Family and Other Relationships
 

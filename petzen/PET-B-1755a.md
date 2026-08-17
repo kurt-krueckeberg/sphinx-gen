@@ -1,4 +1,4 @@
-# 1755 Henrich Wilhelm Bleeke Baptism
+# 1755 Henrich Wilhelm Bleeke of Evesen Baptism
 
 ## Record
 

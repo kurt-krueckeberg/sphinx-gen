@@ -1,4 +1,4 @@
-# 1758 Jobst Heinrich Weiland Baptism
+# 1758 Jobst Heinrich Weiland of Evesen Baptism
 
 ## Family and Other Facts
 

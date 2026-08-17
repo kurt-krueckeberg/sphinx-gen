@@ -1,4 +1,4 @@
-# 1750 Carl Philip Krückeberg Baptism
+# 1750 Carl Philip Krückeberg of Bernbusch Baptism
 
 ## Family Relationship
 

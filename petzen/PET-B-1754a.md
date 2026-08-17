@@ -1,4 +1,4 @@
-# 1754 Anna Maria Weiland Baptism
+# 1754 Anna Maria Weiland of Evesen Baptism
 
 ## Family and Other Facts
 

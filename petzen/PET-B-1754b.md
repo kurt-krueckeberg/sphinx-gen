@@ -1,4 +1,4 @@
-# 1754 Anna Ilse Margaret Weiland Baptism
+# 1754 Anna Ilse Margaret Weiland of Berenbusch Baptism
 
 ## Record
 

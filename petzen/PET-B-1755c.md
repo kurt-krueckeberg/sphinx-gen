@@ -1,4 +1,4 @@
-# 1755 Henrich Wilhelm Weiland Baptism
+# 1755 Henrich Wilhelm Weiland of Nordholz Baptism
 
 ## Record
 

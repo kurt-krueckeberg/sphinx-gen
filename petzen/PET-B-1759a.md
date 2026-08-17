@@ -1,4 +1,4 @@
-# 1759 Ilse Margaretha Krückeberg Baptism
+# 1759 Ilse Margaretha Krückeberg of Berenbusch Baptism
 
 ## Family Information
 
@@ -39,9 +39,7 @@ The baptism of Ilse Margaretha Krückeberg is on {ref}`image 200, right page, fi
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 d 16t Sept. Ilse Margaretha Krückebergs
@@ -49,7 +47,7 @@ des Johann Henirch Krückebergs zu Bernbusch
 Tochter getauft. Gav. 3 Mädgens Wiese, Engelking, and [third name omitted in the original].
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 16 Sept. Ilse Margaretha Krückeberg,
