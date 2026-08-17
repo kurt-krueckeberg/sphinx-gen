@@ -2,20 +2,16 @@
 
 ## Record
 
-This is the baptism record of Henrich Wilhelm Bleeke is found on
-[image 191](PET-B-1755d.md), the right page, 3rd entry from top, of the
-"Register of Baptism and Confirmed of the Petzen Parish, 1641-1784".
-
-## Baptism Record
+The March 2, 1755, baptism of Henrich Wilhelm Bleeke is found on
+{ref}`image 191 <PET-B-1755a>` of the *Verzeichnis der Getauften und Konfirmierten 1641-1784*. 
 
 ```{figure} images/petzen-band1a-img191-right-1755.jpg
 :class: image-override
 ```
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
-
 d 2t Martii Henrich Wilhelm Bleeke
      des Bleken Sohn aus Evesen getaift Gevatt.
      Wilhelm Sch[ere] aus Eresen und ein unbekanter
@@ -25,10 +21,9 @@ d 2t Martii Henrich Wilhelm Bleeke
 **Martii** is latin for **März** (March).
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
-
 d 2nd March Henrich Wilhelm Bleeke, the son of the
      Blekes from Evesen, was baptized. Godfathers
      Wilhelm Sch[ere] from evesen and an unknown.
@@ -36,11 +31,11 @@ d 2nd March Henrich Wilhelm Bleeke, the son of the
 
 ## Citation
 
-(PET-B-1755d)=
+(PET-B-1755a)=
 
 "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* (<https://www.archion.de/p/880bdf5c0a/> : 15 May
-2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+with images, *Archion* (<https://www.archion.de/p/880bdf5c0a/> : 15 May 2025),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 191 of 322,
 right page, 3rd entry
