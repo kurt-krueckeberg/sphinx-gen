@@ -166,16 +166,16 @@ FamilySearch tree.
   - 1745
   - This appears to be the birth to a Weiland daughter still living at
     home. The father's name is not given.
-* - 171-179
+* - 171-181
   - 1745-1747
   - Hits put on website
-* - 181, 187, 188, 190, 191, 192, 193, 194, 195, 198, 199
+* - 187, 188, 190, 191, 192, 193, 194, 195, 198, 199
   - 1749
   - **Hits MIGHT NOT beon website.**. Check first.
 
     - md page for 179 needs the image and more work.
 
-    - images 181, 187, 188 and 198 have two Weilands
+    - images 187, 188 and 198 have two Weilands
 ```
 
 ## Review of Marriages 1641-1784
