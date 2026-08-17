@@ -19,6 +19,9 @@
 
 ## Record
 
+The April 29, 1753, marriage of Henrich Ludowig Weiland from Evesen to Anna Sophia Christina Steinman from
+Nammen is found on {ref}`image 48 <PET-M-1753a>` of the *Verzeichnis der Getrauten und Gestorbenen, 1641-1784*.
+
 ```{figure} images/petzen-band1b-img48-1.jpg
 :class: image-override
 ```
@@ -37,7 +40,7 @@ On 29 April Henrich Ludowig Weiland from Evesen married Anna Sophia Christina St
 
 ## Citation
 
-(citation-1755a)=
+(PET-M-1753a)=
 
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/cc769a286b/> : 27 June
