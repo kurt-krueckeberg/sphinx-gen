@@ -44,7 +44,7 @@ at Nammen, was baptized. Godfathers: Stahlhut senrior, Safferberg and Brand.
 
 ## Citation
 
-(PET-B-1749a)=
+(PET-B-1749b)=
 
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion*
 (<https://www.archion.de/p/deba3d9e2e/> : 8 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv >
