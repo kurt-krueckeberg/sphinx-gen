@@ -19,6 +19,10 @@
 
 ## Record
 
+The June 7, 1753, marriage of Jobst Henrich Weiland from Berenbusch was married to Anna Ilse
+Margaretha Mönchhof of Jäger's place at Evesen is found on {ref}`image 48 <PET-M-1753b>` of
+the *Verzeichnis der Getrauten und Gestorbenen, 1641-1784*.
+
 ```{figure} images/petzen-band1b-img48-2.jpg
 :class: image-override
 ```
@@ -34,12 +38,12 @@ Mönchhhofs von Jägerstatte zu Evesen copuliert
 
 ```{div} doc-text
 On 7 June, Jobst Henrich Weiland from Berenbusch was married to Anna Ilse
-Margaretha Mönchhof of Jäger's place/holding at Evesen.
+Margaretha Mönchhof of Jäger's place at Evesen.
 ```
 
 ## Citation
 
-(citation-1755b)=
+(PET-M-1753b)=
 
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/cc769a286b/> : 27 June
