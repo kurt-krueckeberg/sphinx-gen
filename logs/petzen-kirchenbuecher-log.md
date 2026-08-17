@@ -171,8 +171,11 @@ FamilySearch tree.
   - Hits put on website
 * - 179, 181, 187, 188, 190, 191, 192, 193, 194, 195, 198, 199
   - 1749
-  - **Hits MIGHT NOT beon website.**. Check first.\
-    images 187, 188 and 198 have two Weilands
+  - **Hits MIGHT NOT beon website.**. Check first.
+
+    - md page for 179 needs the image and more work.
+
+    - images 187, 188 and 198 have two Weilands
 ```
 
 ## Review of Marriages 1641-1784
