@@ -17,7 +17,7 @@ und Konfirmierten 1641-1784".
 
 ```{div} doc-text
 Das Schepers auf der Hökersau, Töchterlein, Anna
-Elisabeth, getauft den, 1 Maÿ, Gevatter des Schepers [seine?] sschwefter
+Elisabeth, getauft den, 1 Maÿ, Gevatter des Schepers [seine?] [scwester?]
 ```
 
 ## Translation
