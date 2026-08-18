@@ -28,7 +28,7 @@ The September 28, 1760, baptism record of Christina Maria Weiland is on
 {ref}`image 202 <PET-M-1760c>` of the Petzen *Verzeichnis
 der Getauften und Konfirmierten 1641-1784*.
 
-```{figure} images/
+```{figure} images/petzen-band1a-img202-weiland2.jpg
 :class: image-override
 ```
 
