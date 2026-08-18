@@ -1,4 +1,4 @@
-# 1760 Jobst Henrich Weiland of Bernbusch Baptism
+# 1760 Hans Heinrich Wilharm Baptism
 
 ## Family and Other Relationship Facts
 
@@ -9,12 +9,10 @@
   - Father
   - Residence
   - Baptism Date
-  - Sponsors
-* - 
-  - 
-  - 
-  - 
-  -
+* - Hans Heinrich Wilharm
+  - Friedrich Wilharm
+  - Berenbusch
+  - 27 Aug. 1760
 ```
 
 ```{list-table} Sponsor
@@ -36,7 +34,7 @@
 ## Record
 
 The 29 Aug 1760 baptism record for Hans Heinrich Wilharm is on
-{ref}`image 202 <PET-M-1760a>` of the Petzen Kirchenbuch volume " Verzeichnis
+{ref}`image 202 <PET-M-1760b>` of the Petzen Kirchenbuch volume " Verzeichnis
 der Getauften und Konfirmierten 1641-1784".
 
 ## Images of Marriage Record
@@ -70,7 +68,7 @@ Died: 2 May 1843.
 
 ## Citation
 
-(PET-M-1760a)=
+(PET-M-1760b)=
 
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/544eb615a5/> : 12 January

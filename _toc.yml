@@ -343,7 +343,7 @@ chapters:
  
     - file: petzen/wilharm
       sections:
-        - file: petzen/PET-B-1760a
+        - file: petzen/PET-B-1760b
         - file: petzen/PET-M-1796a
         - file: petzen/PET-B-1797a
         - file: petzen/PET-D-1797a
