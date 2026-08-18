@@ -1,7 +1,7 @@
 # 1764 Anna Philippine Sophia Weiland of Berenbusch Baptized
 
 ```{important}
-Althouhg this record lists the family of Philippine Sophia Weiland as
+Although this record lists the family of Philippine Sophia Weiland as
 living in Berenbusch, they do have a Stätte (place, site) of their own. The
 father is an Einlieger, meaning he and is family are lodgers who rent.
 ```
