@@ -1,4 +1,4 @@
-# 1764 Anna Philippine Sophia Weiland of Berenbusch Baptized
+# 1764 Anna Philippina Sophia Weiland of Berenbusch Baptized
 
 ```{important}
 Although this record lists the family of Philippine Sophia Weiland as
@@ -15,7 +15,7 @@ der Getauften und Konfirmierten 1641-1784*.
 ## Transliteration
 
 ```{div} doc-text
-d 26t Febr Anna Philippine Sophia Weilands des Schneider Ludwig
+d 26t Febr Anna Philippina Sophia Weilands des Schneider Ludwig
 Weilands Einliegers in Bärenbusch ehelich Tochter. Gevattern waren Stedings
 aus Evesen, Wobkings aus Röcke, und Mönckhoffs ol: Pichtsmeier aus Evesen
 Ehefrauen.
@@ -24,7 +24,7 @@ Ehefrauen.
 ## Translation
 
 ```{div} doc-text
-On February 26, Anna Philippine Sophia Weiland, the legitimate daughter of
+On February 26, Anna Philippina Sophia Weiland, the legitimate daughter of
 Ludwig Weiland, a tailor and lodger in Bärenbusch, was baptized. The
 sponsors were the wives of Steding of Evesen, Wobking of Röcke, and
 Mönckhoff, formerly Pichtsmeier, of Evesen.
