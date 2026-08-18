@@ -15,8 +15,8 @@ der Getauften und Konfirmierten 1641-1784*.
 ## Transliteration
 
 ```{div} doc-text
-d 26t Febr Anna Philippina Sophia Weilands des Schneider Ludwig
-Weilands Einliegers in Bärenbusch ehelich Tochter. Gevattern waren Stedings
+d 26t Febr Anna Philippina Sophia Weilands des Schneiders Ludwig
+Weilands Einliegers in Bärenbusch eheliche Tochter. Gevattern waren Stedings
 aus Evesen, Wobkings aus Röcke, und Mönckhoffs ol: Pichtsmeier aus Evesen
 Ehefrauen.
 ```

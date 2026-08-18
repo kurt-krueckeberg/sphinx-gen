@@ -16,7 +16,7 @@ und Konfirmierten 1641-1784".
 ## Transliteration
 
 ```{div} doc-text
-das Schepers auf der Höckersau, Töchterlein, Anna
+Das Schepers auf der Höckersau, Töchterlein, Anna
 Elisabeth, getauft den 19 Junÿ, Gevatter [Faust? B??]
 ```
 
