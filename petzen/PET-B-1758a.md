@@ -8,7 +8,7 @@
 * - Twins
   - Father
   - Residence
-  - Sponsor
+  - Sponsors
 * - - Jobst Henrich 
     - Hans Henrich
   - Jobst Henrich Weiland

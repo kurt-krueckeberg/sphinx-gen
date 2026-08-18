@@ -5,13 +5,13 @@
 ```{list-table}
 :header-rows: 1
 
-* - Father
+* - Infant
+  - Father
   - Residence
-  - Son
   - Sponsor
-* - Ludowig Weiland 
+* -  Jobst Heinrich Weiland
   - lodger in Evesen
-  - Jobst Heinrich Weiland
+  - Ludowig Weiland 
   - 
 ```
 
@@ -30,7 +30,7 @@ the "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784"
 ```{div} doc-text
 d 10 Dec. Jobst Heinrich Weiland
    des Einlieger Ludowig Weiland zu Evesen Sohn
-   getauft. Gev Jobst [pHen.] Weiland Sander zu Bernb[abbreviation]
+   getauft. Gev Jobst [Hen.] Weiland Sander zu Bernb[abbreviation]
 ```
 
 ```{div} doc-text
