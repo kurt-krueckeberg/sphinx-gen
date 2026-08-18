@@ -1,4 +1,4 @@
-# 1727 Hans Henrich Weÿland Buried
+# 1727 Hans Henrich Weÿland of Evesen by the Sand Pit Buried
 
 ## Record
 

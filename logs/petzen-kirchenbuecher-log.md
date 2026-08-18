@@ -169,9 +169,6 @@ FamilySearch tree.
 * - 171-199
   - 1745-1758
   - Hits put on website
-* - 202 **Skip adding images for subsequent pages**
-  -
-  - Two Weilands not on site
 * - 204, 208, 210, 212, 213, 222
   - 
   - Weilands

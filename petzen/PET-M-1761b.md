@@ -1,4 +1,4 @@
-# 1761 Friedrich Wilhelm Weiland Marriage
+# 1761 Friedrich Wilhelm Weiland of Evesen by Sand Pit Marriage
 
 ## Family Relationship
 

@@ -1,4 +1,4 @@
-# 1740 Hans Henrich Weiland of Evesen Baptized
+# 1740 Hans Henrich Weiland of Evesen by the Sand Pit Baptized
 
 ## Family Relationship and Other Facts
 
