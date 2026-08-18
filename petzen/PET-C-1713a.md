@@ -33,4 +33,4 @@ Anna Elisabeth Vahlsings from Evesen_____12
 with images, *Archion* (<https://www.archion.de/p/d65adbfcf6/> : 2 Feburary
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784, image 309 of 322
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 299 of 322
