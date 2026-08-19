@@ -1,4 +1,4 @@
-# 1765 Heinrich Ludewig Weiland Marriage
+# 1765 Heinrich Ludwig Weiland Marriage
 
 ## Family Facts
 
@@ -11,7 +11,7 @@
   - Bride's Name
   - Bride's Residence
 * - 7 February 1765
-  - Heinrich Ludewig Weiland
+  - Heinrich Ludwig Weiland
   - lodger in Röcke
   - Anna Christina Nerge
   - Pezen 
@@ -22,9 +22,9 @@
 
 * - Name
   - Fact
-* - Heinrich Ludewig Weiland
+* - Heinrich Ludwig Weiland
   - pig herder
-* - Heinrich Ludewig Weiland
+* - Heinrich Ludwig Weiland
   - lodger who does not hold property
 ```
 
@@ -37,14 +37,14 @@
 ## Transliteration
 
 ```{div} doc-text
-d 7t Febr: Heinrich Ludewig Weiland Schweinhirtens und Einliegers in Röcke
+d 7t Febr: Heinrich Ludwig Weiland Schweinhirtens und Einliegers in Röcke
 mit Anna Christina Nergen aus der dristen [?] in Pezen copuliert
 ```
 
 ## Translation
 
 ```{div} doc-text
-On February 7{sup}`th` Heinrich Ludewig Weiland, pig herder and Einlieger
+On February 7{sup}`th` Heinrich Ludwig Weiland, pig herder and Einlieger
 (lodger) in Röcke married Anna Christina Nerge from the Dristen [?] in Petzen.
 ```
 
