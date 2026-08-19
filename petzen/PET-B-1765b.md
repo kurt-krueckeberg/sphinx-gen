@@ -26,7 +26,7 @@ The February 2, 1765, baptism of Anna Sophia Maria Weilands is on
 {doc}`image 208 <PET-B-1765b>` of the *Verzeichnis der Getauften und Konfirmierten 1641-1784*. 
 
 
-```{figure} images/petzen-band1a-img211-weiland2.jpg
+```{figure} images/petzen-band1a-img208-weiland2.jpg
 :class: image-override
 ```
 
