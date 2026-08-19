@@ -51,5 +51,5 @@ carpenter from Nordholz.
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/77b9ebb255/> : 19 Aug.  2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784, image 208 of 322
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 210 of 322
 
