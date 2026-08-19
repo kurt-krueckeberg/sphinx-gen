@@ -16,13 +16,13 @@ Konfirmierten 1641-1784*.
 Transliteration
 
 ```{div} doc-text
-Anna Elisabeth Weÿland aus Evesen__________13 
+Anna Elisabeth Weÿland aus Evesen__________12 
 ```
 
 Translation
 
 ```{div} doc-text
-Anna Elisabeth Weÿland from Evesen_________13 
+Anna Elisabeth Weÿland from Evesen_________12 
 ```
 
 ## Citation
