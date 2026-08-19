@@ -23,7 +23,7 @@
 ## Record
 
 The February 2, 1765, baptism of Anna Sophia Maria Weilands is on
-{doc}`image 208 <PET-B-1765b>` of the *Verzeichnis der Getauften und Konfirmierten 1641-1784*. 
+{ref}`image 208 <PET-B-1765a>` of the *Verzeichnis der Getauften und Konfirmierten 1641-1784*. 
 
 
 ```{figure} images/petzen-band1a-img208-weiland2.jpg
@@ -50,7 +50,7 @@ and Mönckhoff, formerly Pichtsmeiser, of Evesen.
 
 ## Citation
 
-(PET-B-1765b)=
+(PET-B-1765a)=
 
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/2dcbbfae79/> : 19 Aug.
