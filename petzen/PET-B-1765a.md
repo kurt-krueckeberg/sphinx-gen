@@ -1,4 +1,4 @@
-# 1765 Anna Philippina Sophia  Baptism
+# 1765 Anna Philippina Sophia Weiland Baptism
 
 ## Family Relationship and Other Facts
 
