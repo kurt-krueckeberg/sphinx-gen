@@ -1,4 +1,4 @@
-# 1765 Johann Heinrich Weiland Baptism
+# 1765 Johann Heinrich Weiland of Evesen Baptism
 
 ## Family Relationship and Other Facts
 
