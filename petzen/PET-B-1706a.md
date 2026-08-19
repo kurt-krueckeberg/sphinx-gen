@@ -5,7 +5,7 @@ identity is given as **das Schäfer auf der Höckersau** ("the sheperd at the H�
 
 ## Record
 
-The baptism of Ilse Maria Vahlsing is on {ref}`image 1089 <PET-B-1706a>` of the Petzen "Verzeichnis der Getauften
+The baptism of Ilse Maria Vahlsing is on {ref}`image 108 <PET-B-1706a>` of the Petzen "Verzeichnis der Getauften
 und Konfirmierten 1641-1784".
 
 ```{figure} images/petzen-band1a-img108.jpg
@@ -38,6 +38,6 @@ Höckersau and was named Ilse Maria.
 with images, *Archion* (<https://www.archion.de/p/d1b178b008/>:  : 5 July 
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784, image 99of 322,
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 108 of 322,
 left hand page, 3rd entry.
 
