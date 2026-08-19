@@ -42,7 +42,7 @@ Ehefrauen.
 ## Translation
 
 ```{div} doc-text
-26 February [1765]. Anna Philippina Sophia Weiland, the legitimate daughter
+On 26 February [1765], Anna Philippina Sophia Weiland, the legitimate daughter
 of Ludwig Weiland, a tailor and lodger in Bärenbusch, [was baptized]. The
 baptismal sponsors were the wives of Steding of Evesen, Wobking of Röcke,
 and Mönckhoff, formerly Pichtsmeiser, of Evesen.
