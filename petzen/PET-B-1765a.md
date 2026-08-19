@@ -1,4 +1,4 @@
-# 1765 Jobst Heinrich Krückeberg Baptism
+# 1765 Anna Philippina Sophia  Baptism
 
 ## Family Relationship and Other Facts
 
@@ -7,65 +7,54 @@
 
 * - Child
   - Father
+  - Occupation
   - Residence
-  - Baptism Date
-* - Jobst Heinrich Krückeberg
-  - Johann Heinrich Krückeberg
-  - Berenbusch
-  - March 24, 1765
-```
-
-```{list-table} Godfather
-:header-rows: 1
-
-* - Name
-  - Location
-* - Rösener
-  - Evesen im kurzen Bruche
-    (in the small marshy area of Evesen)
-```
-
-```{important}
-While the mother’s name is not given on the baptism record, we know that on
-on 29 Sep. 1758, [Ilse Margarethe Rösener from
-Evesen married Johann Heinrich Krückeberg from Berenbusch](PET-M-1758a.md). The baptismal
-sponsor is also a **Rösener**.
+  - Sponsors
+* - Anna Philippina Sophia
+  - Ludwig Weiland
+  - tailor
+  - lodger in Bärenbusch
+  -  - Steding wife, Evesen
+     - Wobking wife, Röcke
+     - Mönckhoff, formerly Pichtsmeier\
+       of Evesen  
 ```
 
 ## Record
 
-The March 24, 1765 baptism of Jobst Heinrich Krückeberg is on
-{doc}`image 211 <PET-B-1765a>`, left page, fourth entry from the top, of the
-"Verzeichnis der Getauften und Konfirmierten 1641-1784" (Register of
-Baptism and Confirmed of the Petzen Parish, 1641-1784).
+The February 2, 1765, baptism of Anna Sophia Maria Weilands is on
+{doc}`image 208 <PET-B-1765b>` of the *Verzeichnis der Getauften und Konfirmierten 1641-1784*. 
 
-```{figure} images/petzen-band1a-img211.jpg
+
+```{figure} images/petzen-band1a-img208-weiland2.jpg
 :class: image-override
 ```
 
 ## Transliteration 
 
 ```{div} doc-text
-24 Mar[tz] Jobst Heinrich Krückeberg Johann Heinrich\
-   Krückebergs aus Berenbusch ehelich Sohn getauft\
-   Gevatter war Rösener aus Evesen im kurzen Bruche
+d 26t Febr Anna Philippina Sophia Weilands des Schneiders Ludwig Weilands
+Einliegers in Bärenbusch eheliche Tochter. Gavattern waren Stedings aus
+Evesen, Wobking aus Röcke, und Mönckhoffs ol: Pichtsmeiser aus Evesen
+Ehefrauen.
 ```
 
 ## Translation
 
 ```{div} doc-text
-24 March Jobst Heinrich Krückeberg legitimate son of Johann Heinrich\
-   Krückeberg from Berenbusch baptized\
-   Godfather was Rösener from Evesen in the "kurzen Bruche" [short marshland or thicket]
+26 February [1765]. Anna Philippina Sophia Weiland, the legitimate daughter
+of Ludwig Weiland, a tailor and lodger in Bärenbusch, [wasw baptized]. The
+baptismal sponsors were the wives of Steding of Evesen, Wobking of Röcke,
+and Mönckhoff, formerly Pichtsmeiser, of Evesen.
 ```
 
 ## Citation
 
-(PET-B-1765a)=
+(PET-B-1765b)=
 
 "Archion Protestant Kirchenbücher Portal", database
-  with images, *Archion* (<https://www.archion.de/p/bac0cc3f24/> : 2 November
-2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+with images, *Archion* (<https://www.archion.de/p/2dcbbfae79/> : 19 Aug.
+2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784, image 211 of 322
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 208 of 322
 
