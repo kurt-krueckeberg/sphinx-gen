@@ -169,9 +169,10 @@ FamilySearch tree.
 * - 171-208
   - 1745-1764
   - Hits put on website
-* - Reviewed up thru 213, perhaps up to 221. Hit on 222.
+* - Reviewed 213-221 
   - 
   - Weilands
+* - 222-1,229-2,230-1,232-2, 235-1
 ```
 
 ## Confirmation 1705-1784
