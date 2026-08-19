@@ -19,7 +19,7 @@
 
 ## Record
 
-The , 1765, baptism of Weilands is on
+The February 17, 1765, baptism of Weilands is on
 {ref}`image 210 <PET-B-1765b>` of the *Verzeichnis der Getauften und Konfirmierten 1641-1784*. 
 
 
