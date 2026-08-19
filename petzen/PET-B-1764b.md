@@ -2,7 +2,7 @@
 
 ```{important}
 Although this record lists the family of Philippine Sophia Weiland as
-living in Berenbusch, we know they do have a Stätte (place, site) of their own. The
+living in Berenbusch, we know they do *not* have a Stätte (place, site) of their own. The
 father is an **Einlieger**, meaning he and is family are lodgers who rent.
 ```
 
