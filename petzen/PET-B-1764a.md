@@ -1,9 +1,29 @@
 # 1764 Anna Philippina Sophia Weiland of Berenbusch Baptized
 
+## Family and Other Facts
+
+```{list-table}
+:header_rows: 1
+
+* - Infant
+  - Father
+  - Occupation
+  - Locality
+  - Sponsors
+* - Anna Philippina Sophia 
+  - Ludwig Weiland
+  - tailor
+  - Berenbusch
+  - - Frau Steding of Evesen
+    - Frau Wobking of Röcke
+    - Mönckhoff of Evesen
+```
+
 ```{important}
 Although this record lists the family of Philippine Sophia Weiland as
-living in Berenbusch, we know they do *not* have a Stätte (place, site) of their own. The
-father is an **Einlieger**, meaning he and is family are lodgers who rent.
+living in Berenbusch, we know they do *not* have a place (Stätte)  of their own. The
+father is an **Einlieger**, a lodger who rents on another's holding, where he
+and his family live 
 ```
 
 ## Record
