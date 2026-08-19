@@ -7,7 +7,7 @@ The confirmation of Anna Elisabeth Weÿland is on
 Konfirmierten 1641-1784*. 
 
 ## Confirmation Image
-```{figure} images/petzen-band1a-img298.jpg
+```{figure} images/petzen-band1a-img298-weiland.jpg
 :class: image-override
 ```
 
