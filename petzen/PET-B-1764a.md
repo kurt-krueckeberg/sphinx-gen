@@ -1,28 +1,33 @@
-# 1764 Hans Heinrich Weiland of Berenbusch No. 1 Baptized
+# 1764 Anna Philippina Sophia Weiland of Berenbusch Baptized
+
+```{important}
+Although this record lists the family of Philippine Sophia Weiland as
+living in Berenbusch, we know they do *not* have a Stätte (place, site) of their own. The
+father is an **Einlieger**, meaning he and is family are lodgers who rent.
+```
 
 ## Record
 
-The 22 Aug 1764 baptism record for Hans Heinrich Weiland is on
+The 2 February, 1764, baptism record for Anna Philippine Sophia Weiland is on
 {ref}`image 208 <PET-M-1764a>` of the Petzen *Verzeichnis
 der Getauften und Konfirmierten 1641-1784*.
-
-```{figure} images/petzen-band1a-img208.jpg
-:class: image-override
-```
 
 ## Transliteration
 
 ```{div} doc-text
-d 22{sup|`t` Jan Hans Heinrich Weiland Jobst Heinrich Weilands aus
-Berenbusch No. 1 ehelich Sohn. Gevatter wurde der Mutters Bruder Mönckhoff
-oder Jägers aus Evesen bei der Brücke.
+d 26t Febr Anna Philippina Sophia Weilands des Schneiders Ludwig
+Weilands Einliegers in Bärenbusch eheliche Tochter. Gevattern waren Stedings
+aus Evesen, Wobkings aus Röcke, und Mönckhoffs ol: Pichtsmeier aus Evesen
+Ehefrauen.
 ```
 
 ## Translation
 
 ```{div} doc-text
-On January 22{sup}`nd` Hans Heinrich Weiland, legitimate son of Jobst Heinrich Weiland of Berenbusch No. 1.
-The sponsor was the mother’s brother, Mönckhoff, also called Jägers, from Evesen by the bridge.
+On February 26, Anna Philippina Sophia Weiland, the legitimate daughter of
+Ludwig Weiland, a tailor and lodger in Bärenbusch, was baptized. The
+sponsors were the wives of Steding of Evesen, Wobking of Röcke, and
+Mönckhoff, formerly Pichtsmeier, of Evesen.
 ```
 
 ## Citation
@@ -30,7 +35,7 @@ The sponsor was the mother’s brother, Mönckhoff, also called Jägers, from Ev
 (PET-M-1764a)=
 
 "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* (<https://www.archion.de/p/94819feefd/>: 18 Aug. 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+with images, *Archion* (<https://www.archion.de/p/cc0c20fac1/> : 18 Aug. 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784 1785-1827 > Image 208 of 322
 
