@@ -6,6 +6,10 @@ The 22 Aug 1764 baptism record for Hans Heinrich Weiland is on
 {ref}`image 208 <PET-M-1764a>` of the Petzen *Verzeichnis
 der Getauften und Konfirmierten 1641-1784*.
 
+```{figure} images/petzen-band1a-img208.jpg
+:class: image-override
+```
+
 ## Transliteration
 
 ```{div} doc-text
