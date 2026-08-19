@@ -17,12 +17,14 @@ und Konfirmierten 1641-1784".
 
 ```{div} doc-text
 Das Schepers auf der Hökersau, Töchterlein, Anna
-Elisabeth, getauft den, 1 Maÿ, Gevatter des Schepers [seine?] [scwester?]
+Maria, getauft den, 1 Maÿ, Gevatter das Schepers [seine?] [schwester?]
 ```
 
 ## Translation
 
 ```{div} doc-text
+The little daughter of the shepherd at the Hökersau, Anna Maria, was
+baptized on 1 May. Sponsor: the shepherd's [sister?]
 ```
 
 ## Citation
