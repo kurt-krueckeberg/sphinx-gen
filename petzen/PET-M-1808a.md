@@ -2,13 +2,59 @@
 
 ## Family Relationship and Other Facts
 
-```{list-table} 21 Sept 1808 Marriage of Jobst Heinrich Weiland
+```{list-table} Groom Details
 :header-rows: 1
 
-* - Bride
-  - Groom
-* -
-  -
+* - Name
+  - Age
+  - Marital Status
+  - Residence at Marriage
+  - Household Status
+  - Parentage
+  - Father
+  - Father's Status
+  - Father's Residence
+* - Jobst Heinrich Weiland
+  - 48
+  - Widower
+  - Röcke, No. 28
+  - Householder
+  - Third legitimate son
+  - Johann Heinrich Ludwig Weiland
+  - Deceased; lodger
+  - Evesen, No. 21
+```
+
+```{list-table} Bride's Details
+:header-rows: 1
+
+* - Name
+  - Age
+  - Marital Status
+  - Residence at Marriage
+  - Parentage
+  - Father
+  - Father's Status
+  - Father's Residence
+  - Mother
+  - Mother's Place of Origin
+* - Marie Elisabeth Raulfing
+  - 45
+  - Not stated
+  - Not explicitly stated
+  - Legitimate daughter
+  - Albrecht Heinrich Raulfing
+  - Lodger
+  - Petzen
+  - Charlotte Meier
+  - Schein
+```
+
+```{list-table} Other Facts
+:header-row: 1
+
+* - Facts
+* - The groom father a daughter out of wedlock with the bride 19 years ago, who is named Philippine and is still alive and might be living at no. 27 Röcke (the handwriting is unintelligible on this point).
 ```
 
 ## Record
