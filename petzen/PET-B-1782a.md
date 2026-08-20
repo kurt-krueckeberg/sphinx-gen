@@ -31,37 +31,23 @@ The **"n"** on "Schäkeln" may be a inflected ending appended to the actual name
   - Petzen
 ```
 
-## Reference
+## Record
 
-Johanna Sophie Charlotte Krückeberg’s baptism is on {ref}`image 279, left page, entry no. 2 <PET-B-1782a>` from the
-"database with images (Register of Baptism and Confirmed of the Petzen Parish, 1641-1784)"
-
-## Image of Johanna Sophie Charlotte Krückeberg Baptism 1782
-
-```{note}
-The image immediately below is an overview of the left page. No page numbers are written on either
-the left or right pages.
-```
+The January 13, 1782, baptism of Johanna Sophie Charlotte Krückeberg {ref}`image 279 <PET-B-1782a>` of the
+*Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ```{figure} images/petzen-band1a-img279-entry2.jpg
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 Transliteration of 1782 Baptsim of Johanna Sophie Charolotte Krückeberg
 
 ```{div} doc-text
-
-1781,1782      Getaufte
-
-2) d 13ten Jan[of 1782]: ist getauft Johanna Sophie Charlotte
-Kruckenbergen des Johann Heinrich Krückeberg
-mit seiner Ehefrau Anna Maria Elisabeth
-geb.  Schäkeln erzeugte Tochter. die Gevatter[in]
-waren Johanna Sophie Margdelena
-Wilkeningen von der Hockers Aue u.
-Sophie Charlotte Röseners aus Petzen
+2) d 13ten Jan[of 1782]: ist getauft Johanna Sophie Charlotte Kruckenbergen des Johann Heinrich Krückeberg
+mit seiner Ehefrau Anna Maria Elisabeth geb. Schäkeln erzeugte Tochter. die Gevatter[in]
+waren Johanna Sophie Margdelena Wilkeningen von der Hockers Aue u. Sophie Charlotte Röseners aus Petzen.
 ```
 
 :::{admonition} Meaning of **-aue** Suffix
@@ -77,18 +63,14 @@ it appears as **au**, **Höckersau**.
 
 :::
 
-Translation
+## Translation
 
 ```{div} doc-text
 
 1781,1782      Baptisms
-2) on Jan 13th [of 1782] Johanna Sophie Charlotte
-Krückenberg was baptized, the begotten daughter of
-Johann Heinrich Krückeberg, by his wife Anna Maria
-Elisabeth born Schäkel. The godmothers were
-Johanna Sophie Margdelena Wilkening from the
-Hockers Aue and Sophie Charlotte Rösener
-from Petzen
+2) on Jan 13th [of 1782] Johanna Sophie Charlotte Krückenberg was baptized, the begotten daughter of
+Johann Heinrich Krückeberg, by his wife Anna Maria Elisabeth born Schäkel. The godmothers were Johanna
+Sophie Margdelena Wilkening from the Hockers Aue and Sophie Charlotte Rösener from Petzen.
 ```
 
 ## Citation
