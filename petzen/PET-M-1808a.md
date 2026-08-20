@@ -7,6 +7,9 @@
 
 * - Bride
   - Groom
+* -
+  -
+```
 
 ## Record
 
@@ -43,109 +46,35 @@ The continuation of marriage entry onto page 29:
     Zeungen
   - Bemerkungen
 * - 3.
-  - Jobst Heinrich Weiland
-    Luth Conf ein Witwe
-    und Haus L[ir?] aus No. 28
-    in Röcke und dritter ehelicher
-    Sohn des verstorbenen
-    Johann Heinrich Ludwig
-    Weiland Einlieger aus
-    Nr. 21. in Evesen, jetzt
-    48 Jahr alt.
-  - Marie
-    Elisabeth Raulfing
-    des Albrecht Heinrich
-    Raulfing, Einlieger
-    in Petzen und der Charlotte
-    Meiers aus Schein
-    eheliche Tochter jetzt
-    45 Jahr alt
-  - Sind in der
-    Kirche zu Petzen
-    proclamiert
-    d.6ten 7ten 8ten
-    p.[uncertain]
-  - u. Kopulirt
-    d. 21ten Septbr
-    in der Kirche
-    zu Petzen
-  - von dem
-    zeitigen Pre
-    diger
-  - In Gegenwart der
-    Beichenden
-    u. des Küsters
-    Crömer
-  - der Bräutigam
-    hat [??] 19 Jahren
-    mit der Braut eine
-    uneheliche Tochter
-    gezeugt, Names
-    Phlippine, die
-    noch jetzt am Leben
-    ist. [unclear phrases] Wilkening
-    [??] 27 in Röcke
+  - Jobst Heinrich Weiland, Luth Conf, ein Witwe, und Hausherr aus No. 28 in Röcke und dritter ehelicher Sohn des verstorbenen Johann Heinrich Ludwig Weiland Einlieger aus Nr. 21. in Evesen, jetzt 48 Jahr alt.
+  - Marie Elisabeth Raulfing des Albrecht Heinrich Raulfing, Einlieger in Petzen und der Charlotte Meiers aus Schein eheliche Tochter jetzt 45 Jahr alt
+  - Sind in der Kirche zu Petzen proclamiert d.6ten 7ten 8ten p Trinit[atis].
+  - u. Kopulirt d. 21ten Septbr in der Kirche zu Petzen
+  - von dem zeitigen Prediger
+  - In Gegenwart der Beichenden u. des Küsters Crömer
+  - der Bräutigam hat vor 19 Jahren mit der Braut eine uneheliche Tochter gezeugt, Namens Phlippine, die
+    noch jetzt am Leben ist. [unclear phrases] Wilkening [??] 27 in Röcke
 ```
 
 ```{list-table} column headers and marriage entry No. 3
 :header-rows: 1
 
 * - No.
-  - Name, Religion, Parents
-    of the Groom
-  - Name, Religion
-    Birth and Residence
-    of the Bride
-  - Time and Place
-    of the Proclamtion
-  - Time and Place
-    of the Marriage
-  - The offic-
-    ating Pastor
+  - Name, Religion, Parents of the Groom
+  - Name, Religion Birth and Residence of the Bride
+  - Time and Place of the Proclamtion
+  - Time and Place of the Marriage
+  - The officating Pastor
   - Marriage Witnesses
   - Remarks
 * - 3.
-  - Jobst Heinrich Weiland
-    Luth Conf a widower
-    and [landlord] from No. 28
-    in Röcke und third legitimate
-    son of the deceased
-    Johann Heinrich Ludwig
-    Weiland free farm laborer from
-    Nr. 21. in Evesen, now
-    48 years old
-  - Marie
-    Elisabeth Raulfing 45
-    years old the legitimate
-    daughter of Albrecht
-    Heinrich Raulfing
-    free farm laborer
-    in Petzen and Charlotte
-    Meier
-    from Schein
-  - proclaimed in the
-    church at Petzen
-    the 6th, 7th
-    8th
-    p. [uncertain]
-  - and married
-    the 21th Septbr
-    in the chruch
-    at Petzen
-  - by the current
-    pastor
-  - in the
-    presence of the
-    confessing and
-    the parish clerk
-    Crömer
-  - the groom [at] age 19
-    sired a illegitimate
-    daughter with the bride,
-    named Philippine, who
-    still now is
-    alive. [unclear phrase] Wilkening
-    27 in Röcke
+  -Jobst Heinrich Weiland, of the Lutheran confession, a widower and householder of No. 28 in Röcke, and the third legitimate son of the late Johann Heinrich Ludwig Weiland, a lodger at No. 21 in Evesen, now 48 years old. 
+  - Marie Elisabeth Raulfing, the legitimate daughter of Albrecht Heinrich Raulfing, a lodger in Petzen, and Charlotte Meier from Schein, now 45 years old.
+  - Were proclaimed in the church at Petzen on the 6th, 7th, and 8th Sundays after Trinity.
+  - and married the 21{sup}`th` Septbr in the chruch at Petzen
+  - by the current pastor
+  - in the presence of the confessing and the parish clerk Crömer
+  - The groom fathered an illegitimate daughter with the bride 19 years ago, named Philippine, who is still living. [Unclear phrase] Wilkening, No. 27 in Röcke. 
 ```
 
 ## Citation
