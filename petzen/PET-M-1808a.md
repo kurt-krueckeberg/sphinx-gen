@@ -51,7 +51,7 @@
 ```
 
 ```{list-table} Other Facts
-:header-row: 1
+:header-rows: 1
 
 * - Facts
 * - The groom father a daughter out of wedlock with the bride 19 years ago, who is named Philippine and is still alive and might be living at no. 27 Röcke (the handwriting is unintelligible on this point).
