@@ -1,33 +1,17 @@
 # 1808 Jobst Heinrich Weiland Marriage
 
-```{note}
-Unlike most previous marriage entries, the marriage entries on image 17 have more columns, which are spread across both the left and right page.
-```
+## Family Relationship and Other Facts
 
-In 1804 Jobst Heinrich Weiland married Anna Marie Raulfing (or Raulting). The bride’s last name is written between been crossed out lines.
-What remains is written between them and is quite small.
+```{list-table} 21 Sept 1808 Marriage of Jobst Heinrich Weiland
+:header-rows: 1
 
-## Reference
+* - Bride
+  - Groom
 
-This marriage is on the {ref}`17th image on Archion <PET-M-1808a>` of Petzen Kirchenbuch volume 2.
+## Record
 
-## Jobst Heinrich Weiland 1808
-
-Jobst Heinrich Weiland was married on September 21, 1808.
-
-The complete heading spans acroos both the left and right sides of pages 28 and 29. Below is the heading of page 28 and its column headings
-
-```{figure} images/petzen-band2-img17-top-left.jpg
-:class: image-override
-```
-
-Below are the right hand portion of the page header and its colums headings from page 29:
-
-```{figure} images/petzen-band2-img17-top-right.jpg
-:class: image-override
-```
-
-The marriage is entry three. The page 28 protion:
+The September 21, 1808, marriage of Jobst Heinrich Weiland is on the {ref}`image 17 <PET-M-1808a>` of the Petzen
+*Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827*.
 
 ```{figure} images/petzen-band2-img17-left.jpg
 :class: image-override
@@ -39,31 +23,25 @@ The continuation of marriage entry onto page 29:
 :class: image-override
 ```
 
-Header for pages 28 and 29
-
-28              Copulierte im Kirchspiel Petzen                                   im Jahr 1806                          29
-
-Translation of header for pages 28 and 29
-
-28               Marriages in the Parish Petzen                                   in the Year 1806                     29
 
 ```{list-table} Column headers and marriage entry No. 3
+:header-rows: 1
 
-* - **No.**
-  - **Name, Religion, Eltern
-    des Bräütigams**
-  - **Name, Religion
+* - No.
+  - Name, Religion, Eltern
+    des Bräütigams
+  - Name, Religion
     Geburts u. Wohnort
-    der Braut**
-  - **Zeit u. Ort
-    der Proclamation**
-  - **Zeit u. Ort
-    der Kopulation**
-  - **der  kopuliren-
-    de Pradiger**
-  - **Kopulations
-    Zeungen**
-  - **Bemerkungen**
+    der Braut
+  - Zeit u. Ort
+    der Proclamation
+  - Zeit u. Ort
+    der Kopulation
+  - der kopuliren-
+    de Pradiger
+  - Kopulations
+    Zeungen
+  - Bemerkungen
 * - 3.
   - Jobst Heinrich Weiland
     Luth Conf ein Witwe
@@ -94,8 +72,7 @@ Translation of header for pages 28 and 29
   - von dem
     zeitigen Pre
     diger
-  - In Gegen-
-    wart der
+  - In Gegenwart der
     Beichenden
     u. des Küsters
     Crömer
@@ -111,21 +88,22 @@ Translation of header for pages 28 and 29
 ```
 
 ```{list-table} column headers and marriage entry No. 3
+:header-rows: 1
 
-* - **No.**
-  - **Name, Religion, Parents
-    of the Groom**
-  - **Name, Religion
+* - No.
+  - Name, Religion, Parents
+    of the Groom
+  - Name, Religion
     Birth and Residence
-    of the Bride**
-  - **Time and Place
-    of the Proclamtion**
-  - **Time and Place
-    of the Marriage**
-  - **The offic-
-    ating Pastor**
-  - **Marriage Witnesses**
-  - **Remarks**
+    of the Bride
+  - Time and Place
+    of the Proclamtion
+  - Time and Place
+    of the Marriage
+  - The offic-
+    ating Pastor
+  - Marriage Witnesses
+  - Remarks
 * - 3.
   - Jobst Heinrich Weiland
     Luth Conf a widower
@@ -174,6 +152,6 @@ Translation of header for pages 28 and 29
 
 (PET-M-1808a)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, ([http:.md](http://www.archion.de/p/851f901e19/) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+"Archion Protestant Kirchenbücher Portal", database with images, (<http://www.archion.de/p/851f901e19/>) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 17 of 357
 
