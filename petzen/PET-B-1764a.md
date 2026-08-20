@@ -3,7 +3,7 @@
 ## Family and Other Facts
 
 ```{list-table}
-:header-grows: 1
+:header-rows: 1
 
 * - Infant
   - Father
