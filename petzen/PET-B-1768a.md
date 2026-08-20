@@ -17,7 +17,7 @@
 
 ## Record
 
-The February 24, 1768 baptism of Ludewig Weiland is on {ref}`image 222 adn top of 223 <PET-B-1768a>` of the
+The February 24, 1768 baptism of Ludewig Weiland is on {ref}`image 222 and top of 223 <PET-B-1768a>` of the
 *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ```{figure} images/petzen-band1a-img222-weiland-part1.jpg
