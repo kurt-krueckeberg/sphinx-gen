@@ -43,10 +43,6 @@ The image immediately below is an overview of the left page. No page numbers are
 the left or right pages.
 ```
 
-```{figure} images/petzen-band1a-img279-overview.jpg
-:class: image-override
-```
-
 ```{figure} images/petzen-band1a-img279-entry2.jpg
 :class: image-override
 ```
