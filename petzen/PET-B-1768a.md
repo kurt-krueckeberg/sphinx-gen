@@ -1,18 +1,20 @@
-# 1768 Ludewig Weiland of Röcke Baptism
+# 1768 Johanna Sophia Weiland of Röcke Baptism
 
 ## Family Relationship and Other Facts
 
 ```{list-table} Family Relationship
 :header-rows: 1
 
-* - Child
+* - Infant
   - Father
+  - Mother
   - Residence
-  - Baptism Date
-* - 
-  - 
-  - 
-  - 
+  - Family Status
+* - Johanna Sophia 
+  - Ludewig Weiland
+  - Anna Chrisine née Nergen
+  - Pezerbaum no. 7 (near Röcke)
+  - lodgers
 ```
 
 ## Record
@@ -34,8 +36,9 @@ The February 24, 1768 baptism of Ludewig Weiland is on {ref}`image 222 and top o
 d 24t Febr ist hier getauft Ludewig Weilands aus Röcke Einliegers in
 Pezerbaum No. 7 mit seiner Ehefrau Anna Christina geb. Nergen erzeugtes
 und d 20t huj: abends 4 gebohrnes Töchterlein, welche genennt worden
-Johann Sophia von meiner Ehefrau Johanna Sophia geb Rehren.
+Johanna Sophia von meiner Ehefrau Johanna Sophia geb Rehren.
 ```
+### Notes on Transliteration
 
 ```{note}
 One especially interesting part is **“von meiner Ehefrau Johanna Sophia geb.
