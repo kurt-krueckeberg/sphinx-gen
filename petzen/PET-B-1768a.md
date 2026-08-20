@@ -37,7 +37,7 @@ und d 20t huj: abends 4 gebohrnes Töchterlein, welche genennt worden
 Johann Sophia von meiner Ehefrau Johanna Sophia geb Rehren.
 ```
 
-``{note}
+```{note}
 One especially interesting part is **“von meiner Ehefrau Johanna Sophia geb.
 Rehren”**: meiner Ehefrau means **“my wife.”** The first-person wording therefore
 appears to be the pastor himself saying that his wife, Johanna Sophia née
