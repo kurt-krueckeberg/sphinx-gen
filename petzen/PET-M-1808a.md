@@ -71,7 +71,7 @@ The continuation of marriage entry onto page 29:
   - Jobst Heinrich Weiland, of the Lutheran confession, a widower and householder of No. 28 in Röcke, and the third legitimate son of the late Johann Heinrich Ludwig Weiland, a lodger at No. 21 in Evesen, now 48 years old. 
   - Marie Elisabeth Raulfing, the legitimate daughter of Albrecht Heinrich Raulfing, a lodger in Petzen, and Charlotte Meier from Schein, now 45 years old.
   - Were proclaimed in the church at Petzen on the 6th, 7th, and 8th Sundays after Trinity.
-  - and married the 21{sup}`th` Septbr in the chruch at Petzen
+  - and married the 21{sup}`th` Sept. in the chruch at Petzen
   - by the current pastor
   - in the presence of the confessing and the parish clerk Crömer
   - The groom fathered an illegitimate daughter with the bride 19 years ago, named Philippine, who is still living. [Unclear phrase] Wilkening, No. 27 in Röcke. 
