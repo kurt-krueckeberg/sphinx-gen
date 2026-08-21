@@ -27,7 +27,9 @@
 :widths: 1 2
 
 * - Name
-* - Kruckeberg and Weiland wives from Berenbusch
+  - Locality
+* - Kruckeberg and Weiland wives
+  - Berenbusch
 ```
 
 ## Record
