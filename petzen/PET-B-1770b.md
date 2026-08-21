@@ -31,7 +31,7 @@
 The January 28, 1770, baptism of Johann Heinrich Weiland is on {ref}`image 229 <PET-B-1770b>` of the
 *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
-```{figure} images/petzen-band1a-img231-blecken.jpg
+```{figure} images/petzen-band1a-img229-weiland2.jpg
 :class: image-override
 ```
 
