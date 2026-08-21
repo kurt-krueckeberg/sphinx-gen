@@ -4,7 +4,7 @@
 
 ```{list-table} Heinrich Wilhelm Weiland Baptism Details
 :header-rows: 1
-:widths: 3 3 3 3 3 3 3 3
+:widths: 3 3 3 3 3 3 3
 
 * - Infant
   - Birth
