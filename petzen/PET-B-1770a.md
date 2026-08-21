@@ -25,8 +25,8 @@
 * - Sponsors
 * - - Herman Heinrich Kuhlmann, No. 2 Evesen
     - Hans Harm Mönckhoff, No. 4 in Evesen
-    - Tönnis Landwehr of the Kluß,
-    - Christian Weiland of Petzen. 
+    - Tönnis Landwehr of the Kluß
+    - Christian Weiland of Petzen 
 ```
 
 ```{list-table} Other Facts
