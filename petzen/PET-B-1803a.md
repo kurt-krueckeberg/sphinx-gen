@@ -37,51 +37,13 @@ The birth is recorded on image 81, on pages {ref}`156 and 157 <PET-B-1803a>`, of
 Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen 1785-1827". The birth entries spans across both pages 156 and 157.
 
-## Header for Pages 156 and 157
-
-```{figure} images/petzen-band2-img81-156-header.jpg
-:class: image-override
-```
-
-```{figure} images/petzen-band2-img81-157-header.jpg
-:class: image-override
-```
-
-## Transliteration and Translation of header for pages 156 and 157
-
-:::{admonition} Significance of **Hausherr**
-
-A **Hausherr** did have his own independent house or housing unit.
-He was the head of that household and not a lodger, worker, or dependent.
-The exact landholding class (Kolon, Kötter, Brinksitzer, etc.) is not specified by the term.
-
-:::
-
-Transliteration
-
-```{div} doc-text
-
-156                                           1802 u[nd] 1803                                  1802 u[nd] 1803                       157
-Geborene aus den [im?]gepf[???]ten Schaub: Lipp: Dorfschaften      Geborene aus den [in?] gepf[????]ten Schaumb: Lipp: Dorfschaften
-```
-
-Translation
-
-```{div} doc-text
-
-156                                           1802 and 1803s                                     1802 and 1803                       157
-Births in the [ministered-to?] Schaumb[urg] Lippe villages               Births in the [ministered-to?] Schaumburg Lippe villages
-```
-
-### Birth Entry 4 Page 156
-
 ```{figure} images/petzen-band2-img81-156.jpg
 :class: image-override
 ```
 
-### Birth Entry 4 Page 157
-
+```{note}
 The birth month of **Jan** is written on page 157 above the entries.
+```
 
 ```{figure} images/petzen-band2-img81-157.jpg
 :class: image-override
@@ -135,12 +97,11 @@ applies to her or the person in the entry following.
   - Names of bap. witnesses
 * - 4
   - Sophie Wilhelmine
-  - Jobst Heinr[ich] Krückeberg
+  - Jobst Heinr. Krückeberg
   - Hausherr
   - Berenbusch
   - 10
-  - Christine Ph[ilippine] Techtmeÿer
-         from Meinsen
+  - Christine Ph[ilippine] Techtmeÿer from Meinsen
   - 24
   - 30
   - Ms. Carol[ine] Aldag n. 4 Evesen
@@ -150,7 +111,7 @@ applies to her or the person in the entry following.
 
 (PET-B-1803a)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/1bd2c084c3/>
-: 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche
-Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 71 of 357
-
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/1bd2c084c3/> : 10 October 2023),
+path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche
+Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image
+71 of 357
