@@ -45,13 +45,13 @@ at no. 11 Evesen <146/doc1>` while working as a tailor. However, the Jobst Heinr
 Krückeberg, who mentioned in a petition before the Rentkammer on September
 29, 1808, that he was living as a tenant at the Wilharms in Evesen:
 
-> Up to now I have lived as a tenant with Wilharm No. 11
+> Up to now I have lived as a lodger with Wilharm No. 11
 > in Evesen, but I now wish to establish myself independently.
 
 was, according to a {external+nla:doc}`Report by the Administrative offices of Bückeburg and
 Arensburg <146/doc2>`, born in Evesen. Their report said:
 
-> The tenant Jobst Henrich Krückeberg, as well as his wife, was born
+> The lodger Jobst Henrich Krückeberg, as well as his wife, was born
 > in Evesen. His father later became Ackervogt (agricultural bailiff) at
 > Arensburg…​
 
