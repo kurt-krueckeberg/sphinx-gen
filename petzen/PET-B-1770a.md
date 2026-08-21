@@ -8,11 +8,15 @@
 * - Infant
   - Father
   - Mother
-  - Baptism Date
-* - a 
-  - b
-  - c
-  - d
+  - Birth
+  - Baptism
+  - Residemce
+* - Johann Heinrich 
+  - Jobst Heinrich Weiland
+  - Ilsa Margarethe née Mönckhoff
+  - 25 Jan. 1770
+  - 28 Jan. 1770
+  - No. 1 Berenbusch
 ```
 
 ```{list-table}
