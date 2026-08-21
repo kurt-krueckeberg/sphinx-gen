@@ -7,7 +7,7 @@
 
 * - Child
   - Father
-  - "Stand"
+  - Status
   - Mother
   - Location
   - Child’s Birthdate
@@ -89,7 +89,7 @@ Portion of baptism record on page 159
 * - No.
   - Child’s Name
   - Father’s Name
-  - Occupation[Status]
+  - Status
   - Village
   - Nr
   - Mother’s name
