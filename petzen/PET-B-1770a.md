@@ -1,4 +1,4 @@
-# 1770 Weiland of Berenbsuch Baptism
+# 1770 Hans Heinrich Weiland of nNo. 20 Evesen Baptism
 
 ## Family Relationships and Other Facts
 
@@ -11,19 +11,30 @@
   - Birth
   - Baptism
   - Residence
-* - 
-  - 
-  - 
-  - 
-  - 
-  - 
+* - Hans Heinrich
+  - Wilhelm Friderich Weiland
+  - Anna Marie née Weiland
+  - 21 Jan. 1770 
+  - 28 Jan. 1770
+  - No. 20 Evesen
 ```
 
 ```{list-table}
 :header-rows: 1
 
-* - Sponsor
-* - 
+* - Sponsors
+* - - Herman Heinrich Kuhlmann, No. 2 Evesen
+    - Hans Harm Mönckhoff, No. 4 in Evesen
+    - Tönnis Landwehr of the Kluß,
+    - Christian Weiland of Petzen. 
+```
+
+```{list-table} Other Facts
+:header-rows: 1
+
+* - Fact
+* - The mother is the 2{sup}`nd` wife of the father.
+* - The infant was born 3 month premature
 ```
 
 ## Record
@@ -38,8 +49,8 @@ The , 1770, baptism of Weiland is on {ref}`image 229 <PET-B-1770a>` of the
 ## Transliteration
 
 ```{div} doc-text
-d 28t Jan: ist hieselbst getauft Wilhelm Friderich Weilands aus Evesen No 20 mit seiner 2t Ehefrau Anne Marie geb:
-Weilands erzeugter und d 21t ejusd: um 8 Uhr gebohrner Sohn, welcher benant worden Hans Heinrich von Herman
+d 28{sup}`t` Jan: ist hieselbst getauft Wilhelm Friderich Weilands aus Evesen No 20 mit seiner 2{sup}`t` Ehefrau Anne Marie geb:
+Weilands erzeugter und d 21{sup}`t`t ejusd: um 8 Uhr gebohrner Sohn, welcher benant worden Hans Heinrich von Herman
 Heinrich Kuhlmann aus Evesen No 2, Hans Harm Mönckhoff No 4 Evesen, Tönnis Landwehr von der Kluß und Christian
 Weiland aus Pezen. [3 Monate zu früh ist getauft]
 ```
