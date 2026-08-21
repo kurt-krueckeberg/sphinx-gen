@@ -24,7 +24,7 @@
 
 ```{list-table} Baptism Sponsors
 :header-rows: 1
-:wdiths: 1 2
+:widths: 1 2
 
 * - Name
 * - Kruckeberg and Weiland wives from Berenbusch
