@@ -1,4 +1,4 @@
-# 1770  Baptism
+# 1770 Johann Heinrich Weiland of Berenbsuch Baptism
 
 ## Family Relationships and Other Facts
 
@@ -9,10 +9,10 @@
   - Father
   - Mother
   - Baptism Date
-* - 
-  - 
-  - 
-  - 
+* - a 
+  - b
+  - c
+  - d
 ```
 
 ```{list-table}
@@ -20,50 +20,40 @@
 
 * - Sponsor
   - Locality
+* - a
+  - b
 ```
 
 ## Record
 
-The October 7, 1770, baptism of Johann Heinrich Blecken is on
-{ref}`image 231 <PET-B-1770a>` of the "Verzeichnis der Getauften und
-Konfirmierten 1641-1784" available on the Protestant Kirchenbücher portal
-[Archion.de](https://archion.de).
+The January 28, 1770, baptism of Johann Heinrich Weiland is on {ref}`image 229 <PET-B-1770a>` of the
+*Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
-## Baptism Image
 ```{figure} images/petzen-band1a-img231-blecken.jpg
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
-
-d 7t Octobr hat die h. Tauffe empfangen des Johann Heinrich
-Blecken aus Evesen No 11 mit seiner Ehefrau Anna
-Maria Elisabeth Moellern erzeugtes Söhnlein. Er wurde
-benant Johan Heinrich von dem jünigsten Bleken des
-Kindes Vaters Brüdern.
+Eodem die des Jobst Heinrich Weilands aus Berenbusch No. 1 mit seiner Ehefrau Ilsa Margarethe geb. Mönckhoffs erzeugter und d 25{sup}`t`
+ejusd: um 7 Uhr gebohrner Sohn, welcher Johann Heinrich ist genennet worden von Hans Heinrich Mönckhoff von der Kammer
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
-
-On the 7th of October, the holy baptism was received by the little son
-begotten by Johann Heinrich Bleken of Evesen no. 11 with his wife Anna
-Maria Elisabeth Möller. He was named Johann Heinrich by the youngest
-Bleken, the brother of the child's father.
+On the same day [of Jan. 28{sup}`th`], the son of Jobst Heinrich Weiland of Berenbusch No. 1 and his wife, Ilsa Margarethe née
+Mönckhoff, born to them on the 25th of the same month at 7 o’clock, was named Johann Heinrich by Hans Heinrich
+Mönckhoff of Kammer.
 ```
 
 ## Citation
 
 (PET-B-1770a)=
 
-[PET-B-1770a] "Archion Protestant KirchenbÃ¼cher Portal", database
-with images, *Archion* (<https://www.archion.de/p/cb78f2bd89/> : 2 Feb.
-2026), path: Niedersachsen > NiedersÃ¤chsisches Landesarchiv > KirchenbÃ¼cher
+"Archion Protestant KirchenbÃ¼cher Portal", database with images, *Archion* (<https://www.archion.de/p/7d41b04caf/> : 2 Feb.
+2026), path: Niedersachsen > NiedersÃ¤chsisches Landesarchiv > Kirchenbü¼cher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784, image 231 of 322
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 229 of 322
 
