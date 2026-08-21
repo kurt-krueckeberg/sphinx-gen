@@ -11,19 +11,29 @@
   - Birth
   - Baptism
   - Residence
-* - **TODO** 
-  - 
-  - 
-  - 
-  - 
-  - 
+* - Anna Christina Margaretha 
+  - Heinrich Ludewig Weiland 
+  - Anna Christia Nerge
+  - 2 Apr. 1770
+  - 8 Apr. 1770
+  - lodge in Röcke
 ```
 
 ```{list-table}
 :header-rows: 1
 
-* - Sponsor
-* - 
+* - Sponsors
+* - - Wöbking’s daughter of Röcke No. 7
+    - Koch’s daughter of Nammen
+    - midwife Steinman’s daughter, Nammen.
+```
+
+```{list-table} Other facts
+:header-rows: 1
+
+* - Fact
+* - The mother is the father's 3rd wife.
+* - child was born a Wöbkings holding, where the family lodges
 ```
 
 ## Record
