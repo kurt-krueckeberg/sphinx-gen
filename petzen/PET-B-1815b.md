@@ -2,33 +2,34 @@
 
 ## Family and Other Relationships
 
-```{list-table} Family of Infant Heinrich Wilhelm Weiland
+```{list-table} Heinrich Wilhelm Weiland Baptism Details
 :header-rows: 1
-:widths: 3 3 3 3 4 4 3 4
+:widths: 3 3 3 3 3 3 3 3
 
-* - Child’s Name
-  - Birth Time and Place
-  - Baptism Time and Place
+* - Infant
+  - Birth
+  - Birth Order
+  - Baptism
   - Father
   - Mother
-  - Parentage
-  - Residence of Family
-* - Johanna Sophia Weiland
-  - born February 20, 1768, at 4 p.m.; place not separately stated
-  - baptized February 24, 1768, here
-  - Ludwig Weiland, from Röcke, an Einlieger (lodger)
-  - Anna Christine, née Nergen
-  - legitimate daughter of Ludwig Weiland and his wife Anna Christine, née Nergen
+  - Parents’ Residence
+* - Heinrich Wilhelm Weiland
+  - Dec. 11, 1815, at 7 p.m.
+  - - 6{sup}`th` child
+    - 2{sup}`nd` son
+  - Dec. 17, 1815
+  - Friedrich Wilhelm Weiland
+  - Anne Catharine, née Drinckuths, from No. 1 in Wülpke
+  - No. 20 in Evesen
 ```
 
-```{list-table} Baptism Sponsors
+```{list-table} Baptism Sponsor
 :header-rows: 1
-:widths: 1 1
 
 * - Name
   - Locality
-* - Johanna Sophia, née Rehren, wife of the pastor; the child was named Johanna Sophia by her
-  - Pezerbaum No. 7
+* - Johann Henrich Sieckmann
+  - lodger in Bärenbusch
 ```
 
 ## Record
