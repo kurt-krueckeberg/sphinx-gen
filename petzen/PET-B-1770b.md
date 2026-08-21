@@ -43,14 +43,14 @@ locality called Kammer.
 ```
 
 ```{div} doc-text
-Eodem die des Jobst Heinrich Weilands aus Berenbusch No. 1 mit seiner Ehefrau Ilsa Margarethe geb. Mönckhoffs erzeugter und d 25{sup}`t`
+Eodem die des Jobst Heinrich Weilands aus Berenbusch No. 1 mit seiner Ehefrau Ilsa Margarethe geb. Mönckhoffs erzeugter und d 25t
 ejusd: um 7 Uhr gebohrner Sohn, welcher Johann Heinrich ist genennet worden von Hans Heinrich Mönckhoff von der Kammer.
 ```
 
 ## Translation
 
 ```{div} doc-text
-On the same day [of Jan. 28{sup}`th`], the son of Jobst Heinrich Weiland of Berenbusch No. 1 and his wife, Ilsa Margarethe née
+On the same day [of Jan. 28th], the son of Jobst Heinrich Weiland of Berenbusch No. 1 and his wife, Ilsa Margarethe née
 Mönckhoff, born to them on the 25th of the same month at 7 o’clock, was named Johann Heinrich by Hans Heinrich
 Mönckhoff of/from Kammer.
 ```
