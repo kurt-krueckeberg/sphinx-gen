@@ -1,30 +1,24 @@
 # 1815 Heinrich Wilhelm Weiland Baptism
 
-## FamilySearch Tree Entry
-
-[https:GSW7-L4K](https://www.familysearch.org/en/tree/person/details/GSW7-L4K).
+## Family and Other Relationships
 
 ## Record
 
-The birth and baptism of Heinrich Wilhelm Weiland is entry 37 on {ref}`image 137, pages 266-267 <PET-B-1815b>` of Petzen Kichenbuch volume "Verzeichnis der
-Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
-
-Immediately after entry 31 for Caroline Dorothee Krückeberg is the entry
-for a Weiland baptism.
-
-## Images of Pages 266 and 267
+The December 11, 1815, birth and the December 17, 1815, baptism of Heinrich Wilhelm Weiland is on
+{ref}`image 137, pages 266-267 <PET-B-1815b>` of Petzen *Verzeichnis der Getauften, Konfirmierten,
+Getrauten und Gestorbenen 1785-1827*.
 
 ```{figure} images/petzen-band2-img137.jpg
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{note}
 See discussion of **Einlieger/Einlinger** at [Image 82](PET-B-1803b.md).
 ```
 
-```{list-table} 266 Geboren im Kirchspiele Petzen (births in Petzen church parish) im Jahr (in the year) 1815 267
+```{list-table} December 11, 1815, birth and the December 17, 1815, baptism of Heinrich Wilhelm Weiland
 :header-rows: 1
 :widths: 1 3 3 3 3 3 3 3 3
 
@@ -67,48 +61,31 @@ See discussion of **Einlieger/Einlinger** at [Image 82](PET-B-1803b.md).
     Einlieger in Bärenbusch
 ```
 
-```{list-table} 266 Geboren im Kirchspiele Petzen (births in Petzen church parish) im Jahr (in the year) 1815 267
+## Translation
+
+```{list-table} December 11, 1815, birth and the December 17, 1815, baptism of Heinrich Wilhelm Weiland
 :header-rows: 1
 :widths: 1 3 3 3 3 3 3 3 3
 
 * - Number
   - Child’s Name
   - Number
-  - Birth time
-    and Place
-  - Baptism Time
-    and
-    Place
-  - Name, Job, Religion
-    and Birth place of Father
-  - Name, Religion
-    and Birth Place of
-    Mother
-  - Residence
-    of
-    Parents
+  - Birth time and Place
+  - Baptism Time and Place
+  - Name, Job, Religion and Birth place of Father
+  - Name, Religion and Birth Place of Mother
+  - Residence of Parents
   - Baptism Witnesses
 * - 37
-  - Heinrich Wilehlm
-    Weiland
-  - the 6th child and
-    2nd son
-  - born the
-    11th Dec. at
-    7 p.m. in Evesen
-  - was baptized
-    on 17th Dec. in the church
-  - Friedrich Wilhelm
-    Weiland n. 20 in Evesen
+  - Heinrich Wilehlm Weiland
+  - the 6{sup}`th` child and 2{sup}`nd` son
+  - born the 11th Dec. at 7 p.m. in Evesen
+  - was baptized on 17th Dec. in the church
+  - Friedrich Wilhelm Weiland n. 20 in Evesen,
     Luth. Conf.
-  - Anne Catharine born
-    Drinckuths from n. 1 in
-    Wülpke
-  - live at
-    n. 20
-    in Evesen
-  - Johann Henrich Sieckmann
-    farm laborer in Bärenbusch
+  - Anne Catharine born Drinckuths from n. 1 in Wülpke
+  - live at n. 20 in Evesen
+  - Johann Henrich Sieckmann lodger in Bärenbusch
 ```
 
 ## Citation
