@@ -16,7 +16,7 @@
   - Anna Christia Nerge
   - 2 Apr. 1770
   - 8 Apr. 1770
-  - lodge in Röcke
+  - lodge at No. 7 Röcke
 ```
 
 ```{list-table}
@@ -33,7 +33,7 @@
 
 * - Fact
 * - The mother is the father's 3rd wife.
-* - child was born a Wöbkings holding, where the family lodges
+* - child was born a Wöbkings place, No. 7 Röcke, where family lodges
 ```
 
 ## Record
