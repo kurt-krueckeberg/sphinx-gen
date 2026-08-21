@@ -59,7 +59,7 @@ Mönckhoff of/from Kammer.
 
 (PET-B-1770b)=
 
-"Archion Protestant KirchenbÃ¼cher Portal", database with images, *Archion* (<https://www.archion.de/p/7d41b04caf/> : 2 Feb.
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/7d41b04caf/> : 2 Feb.
 2026), path: Niedersachsen > NiedersÃ¤chsisches Landesarchiv > Kirchenbü¼cher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 229 of 322

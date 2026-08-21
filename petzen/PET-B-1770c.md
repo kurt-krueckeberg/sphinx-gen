@@ -48,7 +48,7 @@ Bleken, the brother of the child's father.
 
 (PET-B-1770c)=
 
-"Archion Protestant KirchenbÃ¼cher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/cb78f2bd89/> : 2 Feb.
 2026), path: Niedersachsen > NiedersÃ¤chsisches Landesarchiv > KirchenbÃ¼cher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

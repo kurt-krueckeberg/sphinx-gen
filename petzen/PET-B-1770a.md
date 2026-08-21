@@ -68,7 +68,7 @@ and Christian Weiland of Petzen. [Born three months prematurely; he was baptized
 
 (PET-B-1770a)=
 
-"Archion Protestant KirchenbÃ¼cher Portal", database with images, *Archion* (<https://www.archion.de/p/e0d21f0f20/> : 21 Aug. 2026),
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/e0d21f0f20/> : 21 Aug. 2026),
 path: Niedersachsen > NiedersÃ¤chsisches Landesarchiv > Kirchenbü¼cher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 229 of 322
