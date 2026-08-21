@@ -12,7 +12,7 @@ marriage, and the sole child born to born to her second marriage.
 - {doc}`PET-C-1754a`
 - {doc}`Her marriage to Johann Heinrich Bleke <PET-M-1770a>`
   - Children:
-    - {doc}`PET-B-1770a`
+    - {doc}`PET-B-1770c`
     - {doc}`PET-B-1773a`
     - {doc}`PET-B-1775a`
     - {doc}`PET-B-1778b`
