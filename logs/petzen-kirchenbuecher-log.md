@@ -171,7 +171,8 @@ FamilySearch tree.
   - Hits put on website
 * - Reviewed 213-221 
   - 
-  - Weilands:
+  - Weilands
+* - - 229-2
     - 230-1
     - 232-2
     - 235-1
