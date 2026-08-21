@@ -15,8 +15,8 @@
   - Parents’ Residence
 * - Heinrich Wilhelm Weiland
   - Dec. 11, 1815, at 7 p.m.
-  - - 6{sup}`th` child
-    - 2{sup}`nd` son
+  - 6{sup}`th` child\
+    2{sup}`nd` son
   - Dec. 17, 1815
   - Friedrich Wilhelm Weiland
   - Anne Catharine, née Drinckuths, from No. 1 in Wülpke
