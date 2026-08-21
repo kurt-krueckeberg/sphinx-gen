@@ -26,7 +26,7 @@
 
 ```{list-table} Baptism Sponsor
 :header-rows: 1
-:widths: 1 6
+:widths: 1 2
 
 * - Name
   - Locality
@@ -99,7 +99,7 @@ See discussion of **Einlieger/Einlinger** at [Image 82](PET-B-1803b.md).
 :header-rows: 1
 :widths: 1 3 3 3 3 3 3 3 3
 
-* - Number
+* - Num.
   - Child’s Name
   - Number
   - Birth time and Place
