@@ -36,55 +36,20 @@ The birth is recorded on {ref}`image 82 <PET-B-1803c>`, entry #40, on pages 158 
 [Archion.de](https://www.archion.de) database of Kirchenbücher digital images. The birth entries spans across
 pages 158 and 159. The birth month **Decbr** is written on page 159 between entries 39 and 40.
 
-## Image of Pages 158 and 159
-
-This is an overview showing the header for pages 158 and 159:
-
-```{figure} images/petzen-band2-img82-overview.jpg
-:class: image-override
-```
-
-```{note}
-By comparing this page with prior pages, it is clear the page header contains
-an abbreviation for Schaumburg-Lippe (in adjective form): **Schaumburg-Lippischen**.
-
-It appeats immediately before **Dortschaften** as **Schumb Lipp**. The word before
-this two-word abbreviation is uncertain. It likely refers to the general area of villages that
-comprised the Petzen parish. Perhaps it is an administrative term, either governmental
-or religious?
-```
-
-## Transliteration and Translation of Page Header for Pages 158 and 159
-
-Transliteration of page header
-
-```{div} doc-text
-
-158                                        1803                                  1803                                           159
-    Geborene aus den [uncertain] Schumb Lipp  Dorfschaften             Geborene aus den im[rest uncertain] Schumb Lipp  Dorfschaften
-```
-
-Translation of page header
-
-```{div} doc-text
-
-158                                        1803                                  1803                                           159
-    Births from the [uncertain] Schaumburg-Lippe Villages               Births from the  [uncertain] Schaumburg-Lippe Villages
-```
-
-## Image of Birth Entry 40, Page 158
 
 ```{figure} images/petzen-band2-img82-entry40-158.jpg
 :class: image-override
-```
 
-## Image of Birth Entry 40, Page 159
+Portion of baptism record on page 158
+```
 
 ```{figure} images/petzen-band2-img82-entry40-159.jpg
 :class: image-override
+
+Portion of baptism record on page 159
 ```
 
-## Transliteration and Translation of Entry 40
+## Transliteration
 
 ```{list-table} birth of Christine Philippine Krückeberg in 1803
 :header-rows: 1
@@ -112,6 +77,8 @@ Translation of page header
     11
   - Fr Kruckeberg u[nd] Weyland aus Berenb[usch].
 ```
+
+## Translation
 
 ```{list-table} birth of Christine Philippine Krückeberg in 1803
 :header-rows: 1
