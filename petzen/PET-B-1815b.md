@@ -26,7 +26,7 @@
 
 ```{list-table} Baptism Sponsor
 :header-rows: 1
-:width: 1 6
+:widths: 1 6
 
 * - Name
   - Locality
