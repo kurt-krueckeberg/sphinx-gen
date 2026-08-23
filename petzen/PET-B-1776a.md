@@ -14,7 +14,7 @@
 * - Johann Heinrich
   - Johann Heinrich Weilandt
   - Sophia Elisabeth, née Aßweh
-  - Evesen, at the sand pit
+  - Evesen, by the sand pit
   - November 10, 1777
 ```
 
