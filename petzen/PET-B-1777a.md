@@ -50,7 +50,7 @@ Transliteration
 2) d 26ten Jan: ist getauft Friderich Wilhelm Weiland
    des Friederich Wilhelm Weiland aus Evesen
    No 20 mit seiner Ehefrau Anna Maria geb.
-   [M/W]eilands erzeugter Sohn. die Gevattern
+   [M/W]eilands erzeugter Sohn. Die Gevattern
    waren Johann Heinrich Weiland aus Nordholz
    und Hans Heinrich Möller aus Heessen
 ```
