@@ -42,7 +42,7 @@ Kirchenbuch: Verzeichnis der Getauften und Konfirmierten 1641-1784.
 ## Transliteration
 
 ```{div} doc-text
-d 17t Mart. hat dhl Taufe empfangen des Friderich Wilhelm Wilands aus Evesen
+d 17t Mart. hat dhl [die heilige] Taufe empfangen des Friderich Wilhelm Wilands aus Evesen
 No. 20 mit seiner Ehefrau Anna Maria geb. Weilands erzeugtes Töchterlein.
 Sie wurde genannt Anna Philippina Maria von des Deerbergs aus Evesen
 Ehefrau und Möllers aus Heßen [Heeßen]Ehefrau wie auch des Bruns Ehefrau aus
