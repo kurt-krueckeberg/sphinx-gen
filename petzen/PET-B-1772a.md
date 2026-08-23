@@ -1,4 +1,4 @@
-# 1772 Ilsa Margaretha Weiland Baptism
+# 1772 Ilsa Margaretha Weiland of Petzen Baptism
 
 ## Family Relationship and and Other Facts
 

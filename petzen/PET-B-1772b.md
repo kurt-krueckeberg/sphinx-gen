@@ -1,4 +1,4 @@
-# 1772 Albrecht Weiland Baptism
+# 1772 Albrecht Weiland of Röcke Baptism
 
 ## Family Relationship and and Other Facts
 
