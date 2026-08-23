@@ -2,7 +2,7 @@
 
 ## Family Relationships and Other Facts
 
-```{list-table} November 10, 1777, baptism of Johann Heinrich Weilandt
+```{list-table} November 10, 1776, baptism of Johann Heinrich Weilandt
 :header-rows: 1
 :widths: 2 3 3 3 3
 
@@ -15,7 +15,7 @@
   - Johann Heinrich Weilandt
   - Sophia Elisabeth, née Aßweh
   - Evesen, by the sand pit
-  - November 10, 1777
+  - November 10, 1776
 ```
 
 ```{list-table} Sponsor
