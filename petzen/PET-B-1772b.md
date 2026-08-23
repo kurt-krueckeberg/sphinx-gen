@@ -1,4 +1,4 @@
-# 1772 Albrecht Weiland Weiland Baptism
+# 1772 Albrecht Weiland Baptism
 
 ## Family Relationship and and Other Facts
 
