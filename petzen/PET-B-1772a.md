@@ -4,7 +4,7 @@
 
 ```{list-table} February 9, 1772, Baptism
 :header-rows: 1
-:widths: 2 3 3 3 3 3 4
+:widths: 2 3 3 3
 
 * - Infant
   - Father
@@ -16,7 +16,7 @@
   - Christina Ilsabei née Steding
 ```
 
-```{div} doc-text Baptism Sponsors
+```{list-table} Baptism Sponsors
 :header-rows: 1
 
 * - Baptism Sponsors
