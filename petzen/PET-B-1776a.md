@@ -5,18 +5,13 @@
 The baptism of Fridrich Wilhelm Bleke, on 26 December 1776, is on {ref}`image 251 <PET-B-1776a>`, right page, entry no. 41, of the  Petzen
 "Verzeichnis der Getaufte und Konfirmirte, 1641-1784".
 
-## Baptism Record
-
 ```{figure} images/petzen-band1a-img251-bleke.jpg
 :class: image-override
 ```
 
-## Trasnliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
-
 41) d 26t[en] Decembr. ist getauft Fridrich Wilhelm Bleke
               des Heinrich Wilhelm Bleken aus Evesen mit seiner
               Ehefrau Anna Philippine Rösenern aus Penzen
@@ -24,10 +19,9 @@ Transliteration
               Evesen No. 5
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
-
 41) The 26th of Decembr. Fridrich Wilhelm Bleke was baptized,
     the legitimate son of Heinrich Wilhelm Bleken from Evesen,
     by his wife Anna Philippine Rösener from Penzen the godfather
