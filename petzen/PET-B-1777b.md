@@ -33,7 +33,7 @@
 
 ## Record
 
-The baptism of Friderich Wilhelm Weiland is on {ref}`image 253 <PET-B-1777b>` of the Petzen Kirchenbuch: Verzeichnis der Getauften und Konfirmierten 1641-1784.
+The baptism of Friderich Wilhelm Weiland is on {ref}`image 256 <PET-B-1777b>` of the Petzen Kirchenbuch: Verzeichnis der Getauften und Konfirmierten 1641-1784.
 
 ```{figure} images/petzen-band1a-img256-weiland.jpg
 :class: image-override
