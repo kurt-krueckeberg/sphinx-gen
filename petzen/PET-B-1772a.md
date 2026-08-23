@@ -4,13 +4,13 @@
 
 ```{list-table} February 9, 1772, Baptism
 :header-rows: 1
-:widths: 2 3 3 3
+:widths: 2 3 2 3
 
 * - Infant
   - Father
   - Father’s Status and Residence
   - Mother
-* - Ilsa Margaretha Weiland
+* - Ilsa Margaretha 
   - Johann Christian Weiland
   - lodger in Petzen
   - Christina Ilsabei née Steding
