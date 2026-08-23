@@ -20,11 +20,8 @@
 :header-rows: 1
 
 * - Name
-  - Residence
-* - the wife of Weiland
-  - Nordholtz
-* - Altarmann Hartmann's wife
-  - Evesen
+* - the wife of Weiland from Nordholtz
+* - the wife of Altarmann Hartmann from Evesen
 ```
 
 ## Record
