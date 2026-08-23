@@ -26,7 +26,7 @@
 
 ## Record
 
-The February 9, 1772, baptism of Ilsa Margaretha Weiland is on `{ref} image 235 <PET-B-1772a>`
+The February 9, 1772, baptism of Ilsa Margaretha Weiland is on {ref}`image 235 <PET-B-1772a>`
 of the *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ```{figure} images/petzen-band1a-img235-weiland.jpg
