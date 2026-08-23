@@ -1,4 +1,4 @@
-# 1775 Johann Christoph Ludewig Weiland of Baptism
+# 1775 Johann Christoph Ludewig Weiland Baptism
 
 ## Family Relationship and Other Facts
 
