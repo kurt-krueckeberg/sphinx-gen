@@ -71,4 +71,3 @@ Heisterberg of Röcke. [Born] prematurely.
 with images, *Archion* (<https://www.archion.de/p/0c8f88c171/> : 23 Aug. 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 251 of 322
-
