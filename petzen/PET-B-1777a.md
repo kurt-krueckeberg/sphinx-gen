@@ -2,9 +2,6 @@
 
 ## Family Relationship and Other Facts
 
-FamilySearch Tree id:
-[GLLW-KGQ](https://www.familysearch.org/en/tree/pedigree/portrait/GSBH-MC5)
-
 ```{list-table} Family Relationship
 :header-rows: 1
 
@@ -33,9 +30,8 @@ FamilySearch Tree id:
 
 ## Record
 
-The baptism of Friderich Wilhelm Weiland is on {ref}`image 253 <PET-B-1777a>` of the Petzen Kirchenbuch: Verzeichnis der Getauften und Konfirmierten 1641-1784.
+The baptism of Friderich Wilhelm Weiland is on {ref}`image 253 <PET-B-1777b>` of the Petzen Kirchenbuch: Verzeichnis der Getauften und Konfirmierten 1641-1784.
 
-## Baptism Image
 The baptismal record is shown below:
 
 ```{figure} images/petzen-band1a-img253.jpg
@@ -47,12 +43,9 @@ The baptismal record is shown below:
 Transliteration
 
 ```{div} doc-text
-2) d 26ten Jan: ist getauft Friderich Wilhelm Weiland
-   des Friederich Wilhelm Weiland aus Evesen
-   No 20 mit seiner Ehefrau Anna Maria geb.
-   [M/W]eilands erzeugter Sohn. Die Gevattern
-   waren Johann Heinrich Weiland aus Nordholz
-   und Hans Heinrich Möller aus Heessen
+2) d 26ten Jan: ist getauft Friderich Wilhelm Weiland des Friederich Wilhelm Weiland aus Evesen
+   No 20 mit seiner Ehefrau Anna Maria geb. Weilands erzeugter Sohn. Die Gevattern
+   waren Johann Heinrich Weiland aus Nordholz und Hans Heinrich Möller aus Heessen
 ```
 
 Translation
@@ -60,13 +53,13 @@ Translation
 ```{div} doc-text
 On 26 January, Friedrich Wilhelm Weiland was baptized, the son begotten by
 Friedrich Wilhelm Weiland of Evesen, No. 20, with his wife Anna Maria, geb.
-[M/W]eiland. The baptismal sponsors were Johann Heinrich Weiland of Nordholz
+Weiland. The baptismal sponsors were Johann Heinrich Weiland of Nordholz
 and Hans Heinrich Möller of Heeßen.
 ```
 
 ## Citation
 
-(PET-B-1777a)=
+(PET-B-1777b)=
 
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/9269143a62/> : 22 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784 > Image 253 of 322
 
