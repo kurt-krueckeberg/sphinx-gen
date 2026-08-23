@@ -32,7 +32,7 @@
 The August 28, 1774, baptism record of Christina Eleonora Weiland for appears on {ref}`image 242 <PET-B-1774b>` of the Petzen *Verzeichnis der Getauften und Konfirmierten
 1641-1784*.
 
-```{figure} images/petzen-band1a-img239-weiland.jpg
+```{figure} images/petzen-band1a-img242-weiland.jpg
 :class: image-override
 ```
 
