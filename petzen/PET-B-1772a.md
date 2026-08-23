@@ -10,7 +10,6 @@
   - Father
   - Father’s Status and Residence
   - Mother
-  - Sponsors
 * - Ilsa Margaretha Weiland
   - Johann Christian Weiland
   - lodger in Petzen
