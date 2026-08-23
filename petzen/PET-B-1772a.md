@@ -52,6 +52,7 @@ daughter from Petzen and Steding’s daughter from Berenbusch.
 ```
 
 ## Citation
+(PET-B-1772a)=
 
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/5e94042032/>: 21 Aug.  2026),
 path: Niedersachsen > NiedersÃ¤chsisches Landesarchiv > Kirchenbü¼cher
