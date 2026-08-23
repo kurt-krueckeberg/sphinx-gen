@@ -2,7 +2,7 @@
 
 ## Record
 
-The baptism of Fridrich Wilhelm Bleke, on 26 December 1776, is on {ref}`image 251 <PET-B-1776a>`, right page, entry no. 41, of the  Petzen
+The baptism of Fridrich Wilhelm Bleke, on 26 December 1776, is on {ref}`image 251 <PET-B-1776b>`, right page, entry no. 41, of the  Petzen
 "Verzeichnis der Getaufte und Konfirmirte, 1641-1784".
 
 ```{figure} images/petzen-band1a-img251-bleke.jpg
@@ -30,7 +30,7 @@ The baptism of Fridrich Wilhelm Bleke, on 26 December 1776, is on {ref}`image 25
 
 ## Citation
 
-(PET-B-1776a)=
+(PET-B-1776b)=
 
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/0619fcd07c/> : 15 May
