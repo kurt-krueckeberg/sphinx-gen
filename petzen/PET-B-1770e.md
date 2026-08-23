@@ -72,4 +72,4 @@ Petzen.
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/0f4766ddbd/> : 21 Aug.  2026),
 path: Niedersachsen > NiedersÃ¤chsisches Landesarchiv > Kirchenbü¼cher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784, image 230 of 322
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 232 of 322
