@@ -1,4 +1,4 @@
-# 1776 Johann Heinrich Weilandt from Evesen Marriage
+# 1776 Johann Heinrich Weiland from Evesen Marriage
 
 ## Record
 
