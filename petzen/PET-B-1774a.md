@@ -4,7 +4,7 @@
 
 ```{list-table} August 28, 1774, baptism of Christina Eleonora Weiland
 :header-rows: 1
-:widths: 3 3 4 1
+:widths: 2 3 4 1
 
 * - Infant
   - Father
