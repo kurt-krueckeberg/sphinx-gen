@@ -1,4 +1,4 @@
-# 1770 Hans Heinrich Weiland of nNo. 20 Evesen Baptism
+# 1770 Hans Heinrich Weiland of No. 20 Evesen Baptism
 
 ## Family Relationships and Other Facts
 
