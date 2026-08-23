@@ -1,38 +1,27 @@
-# 1770 Christina Mararetha Weiland of Baptism
+# 1770 Christina Mararetha Weiland of Evesen Baptism
 
 ## Family Relationships and Other Facts
 
-```{list-table}
+```{list-table} December 16, 1770, baptism of Christina Margaretha Weiland
 :header-rows: 1
 
 * - Infant
   - Father
+  - Residence/Status
   - Mother
-  - Birth
-  - Baptism
-  - Residence
-* - 
-  - 
-  - 
-  - 
-  - 
-  - 
+* - Christina Margaretha
+  - Christian Weiland
+  - lodger in Evesen
+  - Christina née Steding
 ```
 
 ```{list-table}
 :header-rows: 1
 
 * - Sponsors
-* - - 
-    - 
-    - 
-```
-
-```{list-table} Other facts
-:header-rows: 1
-
-* - Fact
-* - 
+* - wife of young Röbke
+* - the wife of Ahldag, formerly Busche, of Evesen
+* - the wife of master builder Altmeier of Petzen - 
 ```
 
 ## Record
