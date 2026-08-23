@@ -23,7 +23,7 @@
 
 * - Sponsors
 * - Johann Tönnis Kuhlmann of Evesen
-* - Conrad Alfmeier, village leader in Petzen
+* - Conrad Alfmeier,Village supervisor in Petzen
 * - district officer Heisterberg of Röcke
 ```
 
@@ -59,7 +59,7 @@ Amtsdiener Heisterberg aus Röcke. zu früh
 27) On 10 November, Johann Heinrich Weilandt was baptized, the son of Johann
 Heinrich Weilandt of Evesen, at the sand pit, and his present wife Sophia
 Elisabeth, née Aßweh. The sponsors were Johann Tönnis Kuhlmann of Evesen,
-Conrad Alfmeier, mayor [Bauermeister] in Petzen, and the court official
+Conrad Alfmeier, village supervisor [Bauermeister] in Petzen, and the magistrate's official
 Heisterberg of Röcke. [Born] prematurely.
 ```
 
