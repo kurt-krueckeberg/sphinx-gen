@@ -1,9 +1,13 @@
-# 1783 Sophia Christina of Nammen Baptism
+# 1783 Sophia Christina Weiland of Peezen Baptism
+
+## Family Relationships and Other Facts
+ 
+**TODO:**
 
 ## Record
 
-The , 1783, baptism record for 
-{ref}`image 284 <PET-B-1783a>`, of the Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784".
+The March 2, 1783, baptism record of Sophia Christina Weiland is on  
+{ref}`image 284 <PET-B-1783a>`, of the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ## Baptism Record
 
@@ -22,6 +26,10 @@ war Bornemans Ehefrau Peezen No.  5
 ## Translation
 
 ```{div} doc-text
+4) On March 2nd, Sophia Christina Weiland was baptized, the begotton
+daughter of Johan Christian Weiland, a lodger in Peezen, and his wife
+Christina Ilsabei née Steding. The sponsor was the wife of Borneman at
+Peezen No. 5
 ```
 
 ## Citation

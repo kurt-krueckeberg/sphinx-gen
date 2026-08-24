@@ -2,8 +2,8 @@
 
 ## Record
 
-The , 1783, baptism record for 
-{ref}`image 284 <PET-B-1783b>`, of the Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784".
+The March 23 1783, baptism record for Hans Heinrich Weiland of Evesen No.
+21 is on {ref}`image 284 <PET-B-1783b>` of the Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 ## Baptism Record
 
@@ -17,13 +17,17 @@ The , 1783, baptism record for
 
 ```{div} doc-text
 6) d 23t Mart: ist Hans Heinrich Weilandt des Johann Heinrich Weilandts aus Evesen No. 21 mit
-seiner Ehefrau Catharina Elisabeth geb. Bornemanns erzeugter Sohn getauft. De Gevattern waren 
+seiner Ehefrau Catharina Elisabeth geb. Bornemanns erzeugter Sohn getauft. Der Gevattern waren 
 Carl Anton Bornemann aus Peezen No. 5 und Johan Heinrich Schultze [al/ol]: Edlern aus [?]eesen
 ```
 
 ## Translation
 
 ```{div} doc-text
+6) On March 23, Hans Heinrich Weiland was baptized, the begotton son of Johann Heinrich
+Weiland of Evesen No. 21 and his wife Catharain Elisabeth née Bornemanns.
+The sponsors were Carl Anton Bornemann of Peezen No. 5, and Johan Heinrich Schultze formerly Edlern
+of [?]eesen
 ```
 
 ## Citation
