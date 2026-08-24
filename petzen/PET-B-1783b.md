@@ -1,5 +1,29 @@
 # 1783 Hans Heinrich Weiland of Evesen No. 21 Baptism
 
+## Family Relationships and Other Facts
+ 
+```{list-table} Baptism of Hans Heinrich Weiland on March 23, 1783
+:header-rows: 1
+
+* - Infant
+  - Father
+  - Mother
+  - Residence
+* - Hans Heinrich 
+  - Johann Heinrich Weiland
+  - Catharina Elisbeth née  Bornemann
+  - Evesen No. 21
+```
+
+```{list-table} Baptism Sponsor 
+:header-rows: 1
+
+* - Name
+  - Locality
+* - Johann Heinrich SChultze, formerly Edlern
+  - Peezen
+```
+
 ## Record
 
 The March 23 1783, baptism record for Hans Heinrich Weiland of Evesen No.
