@@ -26,8 +26,6 @@ Kirchenbuch volume * Verzeichnis der Getrauten und Gestorbenen 1641-1784*.
 
 ### Transliteration 
 
-Certainly. I would revise it this way:
-
 ```{note}
 The use of the surnames **Weiland** and **Bünte** in this record may
 reflect a *Hausname* (house name used as a surname). In the groom’s name,
