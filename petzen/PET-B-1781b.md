@@ -1,8 +1,8 @@
-# 1781 Ernestine Lowisa Weiland of Evesen No. 20 Baptism
+# 1781 Anna Philippina Weiland of 20 Baptism
 
 ## Family Relationship and Other Facts
 
-```{list-table} Ernestine Lowisa Weiland baptized March 6, 1780
+```{list-table} Anna Philippina Weiland baptized October 7, 1781
 :header-rows: 1
 :widths: 1 2 2 1 
 
@@ -10,10 +10,10 @@
   - Father
   - Mother
   - Residence
-* - Ernestine Lowisa 
-  - Friederich Wilhelm Weiland 
-  - Anna Maria née Weiland.
-  - Evesen No. 20 
+* - 
+  - 
+  - 
+  - 
 ```
 
 ```{list-table} Sponsors
@@ -22,39 +22,39 @@
 
 * - Name
   - Residence
-* - Anna Philippine Margaretha Deerberg
-  - Evesen
+* - 
+  - 
 ```
 
 ## Baptism Record
 
-The March 6, 1781, baptism of Weiland is on {ref}`image 274 <PET-B-1781a>` of the Petzen
+The October 7, 1781, baptism of Anna Philippina Weiland is on {ref}`image 277 <PET-B-1781b>` of the Petzen
 *Verzeichnis der Getauften und Konfirmierten 1641-1784*. 
 
-```{figure} images/petzen-band1a-img274-weiland.jpg
+```{figure} images/petzen-band1a-img277-weiland.jpg
 :class: image-override
 ```
 
 ## Transliteration
 
 ```{div} doc-text
-14) d 6t Mart ist getauft Ernestina Lowisa Weilandts des Friederich Wilhelm Weilandts aus Evesen No 20 mit seiner
-Ehefrau Anna Maria geb. Weilandts erzeugte Tochter. Die Gevatterin war Anna Philippinea Margaretha Deerbergs aus
-Evesen.
+`+` 43) d 7t Octobr ist Anna Philippina Weilandts des Christian Weilandts Einliegers in Peezen
+mit seiner Ehefrau Christina geb. Steding erzeugte Tochter getaufft. Die Gevatterin
+war Anna Maria Elisabeth geb. Steding aus Berenbusch.
 ```
 ## Translation
 
 ```{div} doc-text
-14) On March 6th, Ernestina Lowisa Weiland was baptized, the begotten daughter of Friederich Wilhelm Weiland of Evesen No. 20
-and his wife Anna Maria Weiland. Sponsor was Anna Philippine Margaretha Deerberg of Evesen.
+`+` 43) On October 7th, Anna Philippina Weiland, the daughter of Christian Weiland, a lodger in Petzen, and his
+wife Christina née Steding, was baptized. The godmother was Anna Maria Elisabeth née Steding of Berenbusch.
 ```
 
 ## Citation
 
-(PET-B-1781a)=
+(PET-B-1781b)=
 
 "Archion Protestant Kirchenbücher Portal", database with
-images, *Archion* (<https://www.archion.de/p/1be4f916c5/> : 24 Aug. 2026),
+images, *Archion* (<https://www.archion.de/p/3f37b76497/>: 24 Aug. 2026),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis
-der Getauften und Konfirmierten 1641-1784, image 274 of 322
+der Getauften und Konfirmierten 1641-1784, image 277 of 322

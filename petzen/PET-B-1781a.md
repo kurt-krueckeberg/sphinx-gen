@@ -2,7 +2,7 @@
 
 ## Family Relationship and Other Facts
 
-```{list-table} Ernestine Lowisa Weiland baptized March 6, 1780
+```{list-table} Ernestine Lowisa Weiland baptized March 6, 1781
 :header-rows: 1
 :widths: 1 2 2 1 
 
