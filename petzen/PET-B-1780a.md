@@ -48,7 +48,7 @@ Wilharm aus Peezen auf Bornemanns Stätte.
 23) On July 30th, Herman Heinrich Weilandt was baptized, the son of Johann
 Heinrich Weilandt of Evesen and his present wife, Anna Cathrina Elisabeth
 née Borneman. The godfather was the mother’s stepfather, Wilharm of Petzen,
-at Bornemann’s Place.
+at Bornemann’s place.
 ```
 
 ## Citation
