@@ -18,7 +18,7 @@ The March 23 1783, baptism record for Hans Heinrich Weiland of Evesen No.
 ```{div} doc-text
 6) d 23t Mart: ist Hans Heinrich Weilandt des Johann Heinrich Weilandts aus Evesen No. 21 mit
 seiner Ehefrau Catharina Elisabeth geb. Bornemanns erzeugter Sohn getauft. Der Gevattern waren 
-Carl Anton Bornemann aus Peezen No. 5 und Johan Heinrich Schultze [al/ol]: Edlern aus [?]eesen
+Carl Anton Bornemann aus Peezen No. 5 und Johan Heinrich Schultze ol: Edlern aus [?]eesen
 ```
 
 ## Translation
