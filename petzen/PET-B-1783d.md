@@ -53,6 +53,6 @@ Weiland. The godfather was Johann Heinrich Bornemann from Nammen.
 
 (PET-B-1783d)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, Archion (https://www.archion.de/p/a4bfa5146c/<> : 24 Aug. 2026),
+"Archion Protestant Kirchenbücher Portal", database with images, Archion (<https://www.archion.de/p/a4bfa5146c/> : 24 Aug. 2026),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 286
