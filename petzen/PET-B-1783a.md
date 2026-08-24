@@ -2,7 +2,27 @@
 
 ## Family Relationships and Other Facts
  
-**TODO:**
+```{list-table} Baptism of Sophia Christina Weiland on March 2, 1783
+:header-rows: 1
+
+* - Infant
+  - Father
+  - Mother
+  - Residence
+* - Sophia Christina
+  - Johan Christian Weiland, lodger
+  - Christina Ilsabei née Steding
+  - lodge/rent in Peezen
+```
+
+```{list-table} Baptism Sponsor 
+:header-rows: 1
+
+* - Name
+  - Locality
+* - Bornemann's wife
+  - Peezen No.  5
+```
 
 ## Record
 
