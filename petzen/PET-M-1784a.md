@@ -35,7 +35,7 @@ possible explanation is that the family had become associated with a Bünte
 household or farm in Nammen and that *Bünte* was therefore being used as a
 *Hausname* in addition to, or in place of, the hereditary surname
 *Weiland*. This remains a hypothesis. A potentially relevant earlier record
-is the {doc}`1745 marriage <PET-B-1783a>`of Heinrich Weiland to Sophia Elisabeth Bünte, née
+is the {doc}`1745 marriage <PET-B-1783a>` of Heinrich Weiland to Sophia Elisabeth Bünte, née
 Rüser, the widow of a Bünte of Nammen, but it has not yet been established
 that the couple subsequently lived at the Bünte property or that the groom
 in this 1784 record was their son.
