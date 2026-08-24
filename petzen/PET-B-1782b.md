@@ -41,7 +41,7 @@ Einliegers in Peezen mit seiner Ehefrau Dorothea Elisabeth geb. Stedingen
 erzeugter Sohn getaufft. Der Gavatter war Friederich Weiland Knecht in
 Evesen. 
 
-[This appears in left margin opposite the text above:]\
+**Marginal addendum:**\
 cop 22.4.04\
 [gest?] 11.4.48
 ```
