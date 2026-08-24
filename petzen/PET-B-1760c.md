@@ -2,24 +2,28 @@
 
 ## Family and Other Relationship Facts
 
-```{list-table}
+```{list-table} Christina Maria Weiland baptized Sept 28, 1760
 :header-rows: 1
+:widths: 2 3 2 1 
 
-* - Child
+* - Infant
   - Father
+  - Mother
   - Residence
-  - Baptism Date
-* - 
-  - 
-  - 
-  - 
+* - Christina Maria
+  - Harm Henrich Weiland
+  - Not named
+  - Evesen
 ```
 
-```{list-table} Sponsor
+```{list-table} Sponsors
 :header-rows: 1
 
 * - Name
-* - 
+* - wife of Kuhlman
+  - wife of Busche
+  - wife of Deerberg
+  - wife of Johan Steding junior
 ```
 
 ## Record
