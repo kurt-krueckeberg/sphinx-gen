@@ -1,4 +1,4 @@
-# 1780 Herman Heinrich Weiland Baptism
+# 1780 Herman Heinrich Weiland of Evesen Baptism
 
 ## Family Relationship and Other Facts
 
