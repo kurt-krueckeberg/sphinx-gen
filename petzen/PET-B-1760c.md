@@ -21,9 +21,9 @@
 
 * - Name
 * - wife of Kuhlman
-  - wife of Busche
-  - wife of Deerberg
-  - wife of Johan Steding junior
+* - wife of Busche
+* - wife of Deerberg
+* - wife of Johan Steding junior
 ```
 
 ## Record
