@@ -1,53 +1,54 @@
-# 1779 Herman Heinrich Weiland Baptism
+# 1780 Herman Heinrich Weiland Baptism
 
 ## Family Relationship and Other Facts
 
-```{list-table} 
+```{list-table} Herman Heinrich Weiland baptized July 30, 1780
 :header-rows: 1
+:widths: 20 20 25 15 20
 
 * - Infant
   - Father
   - Mother
   - Residence
-* - 
-  - 
-  - 
-  - 
+* - Herman Heinrich 
+  - Johann Heinrich Weiland 
+  - Anna Cathrina Elisabeth née Borneman
+  - Evesen 
 ```
 
-```{list-table} Godfather
+```{list-table} Sponsors
 :header-rows: 1
 
 * - Name
-  - Occupation
   - Residence
-* - 
-  - 
-  - 
+* - Wilharm, stepfather of mother
+  - Peezen, at Bornemann's place. 
 ```
 
 ## Baptism Record
 
-The ?? baptism of ??? is on {ref}`image 269 15 <PET-B-1780a>` from the Petzen
+The July 30, 1780, baptism of Herman Heinrich Weiland is on {ref}`image 269 <PET-B-1780a>` of the Petzen
 *Verzeichnis der Getauften und Konfirmierten 1641-1784*. 
 
 ```{figure} images/petzen-band1a-img269-weiland.jpg
 :class: image-override
 ```
 
-
 ## Transliteration
 
 ```{div} doc-text
-23) d 30t Jul: ist getauft Herman Heinrich Weiland des Johann Heinrich
-Weilandts aus Evesen mit seinger jetzigen Ehefrau Anna Cathrina Elisabeth
-geb. Bornemans erzeugter Sohn. Der Gevatter was der Mutter Stief:Vater
+23) d 30t Jul: ist getauft Herman Heinrich Weilandt des Johann Heinrich
+Weilandts aus Evesen mit seiner jetzigen Ehefrau Anna Cathrina Elisabeth
+geb. Bornemans erzeugter Sohn. Der Gevatter war der Mutter Stief:Vater
 Wilharm aus Peezen auf Bornemanns Stätte.
 ```
 ## Translation
 
 ```{div} doc-text
-
+23) On July 30th, Herman Heinrich Weilandt was baptized, the son of Johann
+Heinrich Weilandt of Evesen and his present wife, Anna Cathrina Elisabeth
+née Borneman. The godfather was the mother’s stepfather, Wilharm of Petzen,
+at Bornemann’s Place.
 ```
 
 ## Citation

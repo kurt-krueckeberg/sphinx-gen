@@ -172,8 +172,7 @@ FamilySearch tree.
 * - Reviewed 213-221 
   - 
   - Weilands
-* - - 269-1
-    - 274-1
+* - - 274-1
     - 277-1
     - 280-1
     - 284-2
