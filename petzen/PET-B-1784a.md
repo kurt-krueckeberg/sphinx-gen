@@ -54,7 +54,7 @@ Heinrich Tönnis Rust of Peezen No. 6.
 
 ## Citation
 
-(PET-B-1783d)=
+(PET-B-1784a)=
 
 "Archion Protestant Kirchenbücher Portal", database with images, Archion (<https://www.archion.de/p/1e7892d2ce/>: 24 Aug. 2026),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
