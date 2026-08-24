@@ -37,8 +37,6 @@ The March 23 1783, baptism record for Hans Heinrich Weiland of Evesen No.
 
 ## Transliteration
 
-**TODO:** Check Transkribus version
-
 ```{div} doc-text
 6) d 23t Mart: ist Hans Heinrich Weilandt des Johann Heinrich Weilandts aus Evesen No. 21 mit
 seiner Ehefrau Catharina Elisabeth geb. Bornemanns erzeugter Sohn getauft. Der Gevattern waren 
