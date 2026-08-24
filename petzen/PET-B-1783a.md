@@ -14,6 +14,9 @@ The , 1783, baptism record for
 ## Transliteration
 
 ```{div} doc-text
+4) d 2t Mart: ist Sophia Christina Weilands des Johan Christian Weilands Einliegers in Peezen
+mit seiner Ehefrau Christina Ilsabei geb. Stedingen erzeugte Tochter getafut. Die Gevatterin
+war Bornemans Ehefrau Peezen No.  5
 ```
 
 ## Translation
