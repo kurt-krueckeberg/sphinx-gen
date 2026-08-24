@@ -10,20 +10,27 @@
   - Father
   - Mother
   - Residence
-* - 
-  - 
-  - 
-  - 
+* - Anna Philippina 
+  - Christian Weiland 
+  - Christina née Steding
+  - lodge in Peezen
 ```
 
-```{list-table} Sponsors
+```{list-table} Facts
+:header-rows: 1
+
+* - Fact
+* - Family lodges/rents in Peezen
+```
+
+```{list-table} Sponsor
 :header-rows: 1
 :widths: 2 1 
 
 * - Name
   - Residence
-* - 
-  - 
+* - Anna Maria Elisabeth née Steding
+  - Berenbusch 
 ```
 
 ## Baptism Record
