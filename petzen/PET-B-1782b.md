@@ -61,7 +61,7 @@ Died April 11, 1848.
 
 ## Citation
 
-(PET-B-1782a)=
+(PET-B-1782b)=
 
 "Archion Protestant Kirchenbücher Portal", database with
 images, *Archion* (<https://www.archion.de/p/cf568d4733/>: 24 Agu.  2026),
