@@ -242,7 +242,7 @@ chapters:
     - file: petzen/werkmeister
       sections:
         - file: petzen/PET-M-1780a
-        - file: petzen/PET-B-1783a
+        - file: petzen/PET-B-1783c
         - file: petzen/PET-D-1798a
         - file: petzen/PET-D-1814a
  
@@ -338,6 +338,8 @@ chapters:
         - file: petzen/PET-B-1781b
         - file: petzen/PET-M-1781a
         - file: petzen/PET-B-1782b
+        - file: petzen/PET-B-1783a
+        - file: petzen/PET-B-1783b
         - file: petzen/PET-M-1784a
         - file: petzen/PET-M-1785a
         - file: petzen/PET-B-1785a
