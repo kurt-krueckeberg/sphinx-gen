@@ -30,7 +30,7 @@ The 1783, baptism record for Weiland of is on {ref}`image 284 <PET-B-1783d>` of 
 
 ## Baptism Record
 
-```{figure} images/petzen-band1a-img286-weiland1.jpg
+```{figure} images/petzen-band1a-img286-weiland.jpg
 :class: image-override
 ```
 
