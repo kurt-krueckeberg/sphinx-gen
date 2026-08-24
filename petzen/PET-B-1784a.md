@@ -1,4 +1,6 @@
-# 1784 Weiland of Baptism
+# 1784 Philippine Eleonore Weiland of Peezen Baptism
+
+**TODO:** Complete
 
 ## Family Relationships and Other Facts
 
@@ -35,11 +37,19 @@ The , 1784, baptism record for Weiland of is on {ref}`image 291 <PET-B-1784a>` o
 ## Transliteration
 
 ```{div} doc-text
+11) d 12t Apr: ist Philippine Eleonore Weilandts des Heinrich Weilands
+Knechts in Peezen mit Maria Elisabeth Raulfings in Unzucht erzeugtes
+Töchterlein getaufft. Die Gevatterin war des Heinrich Tönnis Rusts aus
+Peezen No. 6 Ehefrau.
 ```
 
 ## Translation
 
 ```{div} doc-text
+11) On April 12th, Philippine Eleonore Weiland was baptized, the little
+daughter begotten in fornication by Heinrich Weiland, a farm servant in
+Peezen, with Maria Elisabeth Raulfing. The godmother was the wife of
+Heinrich Tönnis Rust of Peezen No. 6.
 ```
 
 ## Citation
