@@ -47,7 +47,6 @@ Wilharm aus Peezen auf Bornemanns Stätte.
 ## Translation
 
 ```{div} doc-text
-:header-rows: 1
 
 ```
 
