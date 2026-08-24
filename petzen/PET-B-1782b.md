@@ -41,9 +41,9 @@ Einliegers in Peezen mit seiner Ehefrau Dorothea Elisabeth geb. Stedingen
 erzeugter Sohn getaufft. Der Gavatter war Friederich Weiland Knecht in
 Evesen. 
 
-[This appears in left margin opposite the text above:]
-`cop 22.4.04`
-`[gest?] 11.4.48`
+[This appears in left margin opposite the text above:]\
+cop 22.4.04\
+[gest?] 11.4.48
 ```
 
 ## Translation
@@ -54,8 +54,8 @@ Weiland, an Einlieger in Petzen, and his wife Dorothea Elisabeth, née
 Steding, was baptized. The godfather was Friederich Weiland, a servant in
 Evesen.
 
-**Marginal notes:**
-Married April 22, 1807.
+**Marginal notes:**\
+Married April 22, 1807.\
 Died April 11, 1848.
 ```
 
