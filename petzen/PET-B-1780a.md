@@ -4,7 +4,7 @@
 
 ```{list-table} Herman Heinrich Weiland baptized July 30, 1780
 :header-rows: 1
-:widths: 20 20 25 15 20
+:widths: 1 2 3 1 
 
 * - Infant
   - Father
