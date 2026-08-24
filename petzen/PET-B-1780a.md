@@ -31,7 +31,7 @@
 The ?? baptism of ??? is on {ref}`image 269 15 <PET-B-1780a>` from the Petzen
 *Verzeichnis der Getauften und Konfirmierten 1641-1784*. 
 
-```{figure} images/petzen-band1a-img264.jpg
+```{figure} images/petzen-band1a-img269-weiland.jpg
 :class: image-override
 ```
 
