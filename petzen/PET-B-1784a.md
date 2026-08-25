@@ -4,26 +4,34 @@
 
 ## Family Relationships and Other Facts
 
-```{list-table}
+```{list-table} April 12, 1784, baptism of Philippine Eleonore Weiland of Peezen 
 :header-rows: 1
 
 * - Infant
   - Father
+  - Father's Residence
   - Mother
-  - Residence
-* - 
-  - 
-  - 
-  - 
+* - Philippine Eleonore 
+  - Heinrich Weiland
+  - Peezen 
+  - Maria Elisabeth Raulfing 
 ``` 
+
+```{list-table} Facts
+:header-rows: 1
+
+* - Fact
+* - daughter begotten in fornication
+* - Father: Knecht: servant; farmhand; laborer; apprenctice
+```
 
 ```{list-table} Baptism Sponsor 
 :header-rows: 1
 
 * - Name
   - Locality
-* - 
-  -
+* - wife of Heinrich Tönnis Rust 
+  - Peezen No. 6 
 ```
 
 ## Record
