@@ -16,7 +16,7 @@
 ## Baptism Record
 
 The baptism of Henirch Wilhelm Weiland occurred 25 October 1737 and is 
-{doc}`image 154 <PET-B-1737a>` of the * Verzeichnis der Getauften und Konfirmierten 1641-1784*.
+{ref}`image 154 <PET-B-1737a>` of the * Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ```{figure} images/petzen-band1a-img154.jpg
 :class: image-override
