@@ -18,7 +18,7 @@
 The April 11, 1725, burial of the wife of Henrich Valhsing, shepherd at Häckersau, was bureid. The burial
 is on  {ref}`image 141 <PET-D-1725b>` of the Petzen *Verzeichnis der Getrauten und Gestorbenen 1641-1784*.
 
-```{figure} images/petzen-band1b-img141?????.jpg
+```{figure} images/petzen-band1b-img141-anna-elisabeth-vahlsing-burial.jpg
 :class: image-override
 ```
 
