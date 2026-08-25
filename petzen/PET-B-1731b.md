@@ -24,7 +24,7 @@
 
 ## Record
 
-The Marhc 15, 1731, baptism of Ilse Margaretha Vahlsing is on {ref}`image 144 <PET-B-1731c>`
+The March 15, 1731, baptism of Ilse Margaretha Vahlsing is on {ref}`image 144 <PET-B-1731c>`
 of the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ```{figure} images/petzen-band1a-img144-vahlsing.jpg
