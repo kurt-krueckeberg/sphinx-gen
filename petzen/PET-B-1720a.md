@@ -20,7 +20,7 @@ The August 25, 1720, baptism of Dorothea Elisabeth Vahlsing is on {ref}`image 12
 left-hand page, 3nd entry from the top, of the Petzen *Verzeichnis der
 Getauften und Konfirmierten 1641-1784*.
 
-```{figure} images/petzen-band1a-img129.png
+```{figure} images/petzen-band1a-img129-vahlsing.jpg
 :class: image-override
 ```
 
