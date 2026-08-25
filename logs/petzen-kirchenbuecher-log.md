@@ -31,12 +31,30 @@ list-table of relationships and facts.
 * - Image Number
   - Year
   - Family name
+* - 297
+  - 1707 
+  - Hans Heinrich Weyland, age 13
+* - 298 
+  - 1711
+  - Anna Elisabeth Weyland aus Evesen, age 13
 * - 298
   - 1711
   - Anna Elisabeth Weÿland aus Evesen, age 12
 * - 299 
   - 1713
   - Anna Elisabeth Vahlsing aus Evesen, age 12 **on website**
+* - RESUME at 299
+  - 
+  -
+* - 
+  - 
+  -
+* - 
+  - 
+  -
+* - 
+  - 
+  -
 * - 
   - 
   - 
