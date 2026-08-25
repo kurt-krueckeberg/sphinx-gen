@@ -33,7 +33,7 @@
 The October 17, 1745, baptism of Johann Henirch Weiland of Peetzen is on {doc}`image 170 <PET-B-1745a>` of
 the *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
-```{figure} images/petzen-band1a-img171.jpg
+```{figure} images/petzen-band1a-img171-weiland.jpg
 :class: image-override
 ```
 
