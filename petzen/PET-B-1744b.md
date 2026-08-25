@@ -3,7 +3,7 @@
 ## Family Relationship and Other Facts
 
 ```{list-table} December 13, 1744, baptism of Catharina Margareta Weiland 
-:headere-rows: 1
+:header-rows: 1
 
 * - Infant
   - Family
@@ -14,7 +14,7 @@
 ```
 
 ```{list-table} Sponsors
-:headeer-rows: 1
+:header-rows: 1
 
 * - Name
   - Locality
