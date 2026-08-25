@@ -2,7 +2,7 @@
 
 ## Record
 
-```{figure} omages/petzen-band1a-img67-weiland.png
+```{figure} images/petzen-band1a-img67-weiland.png
 :class: image-override
 ```
 
