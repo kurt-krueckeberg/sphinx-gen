@@ -2,7 +2,9 @@
 
 ## Record
 
-
+```{figure} omages/petzen-band1a-img67-weiland.png
+:class: image-override
+```
 
 ## Transliteration
 
