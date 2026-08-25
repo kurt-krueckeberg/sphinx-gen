@@ -3,7 +3,7 @@
 
 ## Family Relationships and Other Facts
 
-```{hlist-table{ August 25, 1720, baptism of Dorothea Elisabeth Vahlsing
+```{list-table} August 25, 1720, baptism of Dorothea Elisabeth Vahlsing
 :header-rows: 1
 
 * - Infant
