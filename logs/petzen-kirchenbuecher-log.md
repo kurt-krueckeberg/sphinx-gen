@@ -19,35 +19,9 @@ We know by 1745 that no. 1 Berenbusch was the holder of {external+nla:doc}`Jobst
 
 Petzen baptisms in  [Verzeichnis der Getauften und Konfirmierten 1641-1784](https://www.archion.de/de/viewer/churchRegister/329073?cHash=ee9bc62188bd7cf69b7164aff9106ac3).
 
-**TODO:** Add the ? ? Weiland that lives in Nammen as a new person in the
-FamilySearch tree.
+Some pages are missing in the H1 header the locality. Some are missing the
+list-table of relationships and facts.
 
-```{list-table} Review started with image 97, year 1700.
-:header-rows: 1
-:widths: 1 2 5 5 5
-
-* - Image Number
-  - Year
-  - Notes
-  - Child
-  - Father
-* - 105
-  - 1704
-  - **Skipped**
-  -
-  - Tönnis Kuhlmann
-```
-
-```{list-table} Images from range 155—294 (**Note:** Legibility improves at image 175)
-:header-rows: 1
-
-* - Image Number
-  - Year
-  - Comments
-* - 155 (penultimate entry on right page) <-- **Not on webiste**
-  - Weiland from Evesen?
-  - image is very smudgey
-```
 
 ## Confirmation 1705-1784
 
