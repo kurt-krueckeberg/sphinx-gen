@@ -2,17 +2,17 @@
 
 ## Family Relationships and Other Facts
 
-```{list-table}
+```{list-table} October 12, 1784, bpatism of Lowisa Charlotta Weiland
 :header-rows: 1
 
 * - Infant
   - Father
   - Mother
   - Residence
-* - 
-  - 
-  - 
-  - 
+* - Lowisa Charlotta 
+  - Johann Heinrich Weiland 
+  - Dorothea née Steding
+  - lodge in Peezen
 ``` 
 
 ```{list-table} Baptism Sponsor 
@@ -20,8 +20,15 @@
 
 * - Name
   - Locality
-* - 
-  -
+* - Eleonora Lowisa Gaden
+  - Peezen
+```
+
+```{list-table} Other Facts
+:header-rows: 1
+
+* - Fact
+* - Dorothea Möller of Peezen stood in for Eleonora Lowisa Gaden 
 ```
 
 ## Record
@@ -44,9 +51,9 @@ Peezen, deren Stelle Dorothea Möllern aus Peezen vertreten
 ## Translation
 
 ```{div} doc-text
-28) On the same day, Lowisa Charlotta Weilandt, the daughter of Johann
+28) On the same day [Oct. 12th], Lowisa Charlotta Weilandt, the daughter of Johann
 Heinrich Weiland, a lodger in Peezen, and his wife Dorothea née Steding,
-was baptized. The godmother was Mademoiselle Eleonora Lowisa Gade of
+was baptized. The godmother was Mademoiselle Eleonora Lowisa Gaden of
 Peezen, in whose place Dorothea Möller of Peezen acted as proxy.
 ```
 
