@@ -51,11 +51,6 @@ FamilySearch tree.
   - **On gen.kru.org??**
   -
   - Henrich Weiland's son Hans Hermann Weiland **<-- 
-* - 129
-  - 
-  - 
-  - 
-  - Henirch Vahlsing Schäfer 
 * - 144
   - 1731
   -

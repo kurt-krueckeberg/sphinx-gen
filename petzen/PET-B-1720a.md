@@ -1,5 +1,19 @@
 # 1720 Dorothea Elisabeth Vahlsing Baptism
 
+
+## Family Relationships and Other Facts
+
+```{hlist-table{ August 25, 1720, baptism of Dorothea Elisabeth Vahlsing
+:header-rows: 1
+
+* - Infant
+  - Father
+  - Sponsor
+* - Dorothea Elisabeth
+  - Henrich Vahlsing, shepherd at Höckersau
+  - Meier's wife from Höckersau
+```
+
 ## Record
 
 The August 25, 1720, baptism of Dorothea Elisabeth Vahlsing is on {ref}`image 129 <PET-B-1720a>`,
@@ -13,13 +27,16 @@ Getauften und Konfirmierten 1641-1784*.
 ## Transliteration
 
 ```{div} doc-text
-16 d 25 August: ist Henirch Vahlsing Schäfers auf der Höckersau
+16 d 25 August: ist Henrich Vahlsings Schäfers auf der Höckersau
 Töchterl[ein] Dorothea Elisabeth getaufft. Gev. die Meÿersche von Höckersau. 
 ```
 
 ## Translation
 
 ```{div} doc-text
+On August 25th, Dorothea Elisabeth, the little daughter of Henrich
+Vahlsing, shepherd at the Höckersau, was baptized. The godmother was the
+wife of Meyer from Höckersau.
 ```
 
 ## Citation
