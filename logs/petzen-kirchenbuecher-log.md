@@ -31,31 +31,16 @@ FamilySearch tree.
   - Notes
   - Child
   - Father
-* - 67 
+* - 67  <-- **Finish**
   - 1684
   - On FamilySearch
   - Johann Tönnies Weiland 
   -
-* - 102
-  - 1702
-  - On gen.krueckeberg.org
-  - 
-  - Hans Hinrich Weiland
 * - 105
   - 1704
   - Skipped
   -
   - Tönnis Kuhlmann
-* - 106  
-  - 1705
-  - **On gen.kru.org??**
-  -
-  - Henrich Weiland's son Hans Hermann Weiland **<-- 
-* - 144
-  - 1731
-  -
-  - Ilse Margaretha Vahlsing
-  - Vahlsing 
 ```
 
 ```{list-table} Images from range 155—294 (**Note:** Legibility improves at image 175)
