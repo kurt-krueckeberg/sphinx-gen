@@ -1,6 +1,5 @@
 # 1680 Hans Henrig Weiland Baptism
 
-
 ## Family Relationships and Other Facts
 
 ```{list-table}

@@ -31,14 +31,9 @@ FamilySearch tree.
   - Notes
   - Child
   - Father
-* - 67  <-- **Finish**
-  - 1684
-  - On FamilySearch
-  - Johann Tönnies Weiland 
-  -
 * - 105
   - 1704
-  - Skipped
+  - **Skipped**
   -
   - Tönnis Kuhlmann
 ```
