@@ -6,14 +6,26 @@
 :header-rows: 1
 
 * - Infant
-  - Father, Residence
+  - Father
+  - Locaility
   - Occupation
-  - Sponsors
-* - Johann Henrich Weiland
-  - Hermann Henrich, Evesen
-  - - Johann Henrich Ahldag of Evesen, Jobst Henrich Vahlsing of Evesen, and Wilhelm Rödemeister of Nordholz. 
-    - Jobst Henrich Vahlsing of Evesen
-    - Wilhelm Rödemeister of Nordholz. 
+* - Johann Henrich
+  - Hermann Henrich Weiland
+  - Evesen
+  - Master carpenter
+```
+
+```{list-table} Sponsors
+:header-rows: 1
+
+* - Name
+  - Locality
+* - Johann Henrich Ahldag
+  - Evesen
+* - Jobst Henrich Vahlsing 
+  - Evesen
+* - Wilhelm Rödemeister 
+  - Nordholz
 ```
 
 ## Record
