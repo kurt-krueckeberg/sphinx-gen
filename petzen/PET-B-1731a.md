@@ -32,9 +32,8 @@
 
 ## Record
 
-The baptism of Rudolphina Margaretha Elisabeth Krückeberg is on {ref}`image 144 <PET-B-1731a>`, left-hand page,
-last entry on the page, of the Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784" from the
-[Archion.de](https://www.aarchion.de) database of Protestent Kirchenbücher digital images.
+The January 13, 1731, baptism of Rudolphina Margaretha Elisabeth Krückeberg is on {ref}`image 144 <PET-B-1731a>`, left-hand page,
+last entry on the page, of the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ## Image 144
 
@@ -42,7 +41,7 @@ last entry on the page, of the Petzen "Verzeichnis der Getauften und Konfirmiert
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 13 Januarÿ ist Johann Heinrich Krückeberg aus Berenbusch Töchterl[ein]:
@@ -50,6 +49,8 @@ Rudolphina Margaretha Elisabeth getafut. Gevatterin sind gewesen Rudolpha
 Mönhkhoffs, Margaretha Elisabeth Bormanns, Anna Elisabeth Weÿland, und
 Anna Margareth Stedings aus Berenbusch
 ```
+
+## Translation
 
 ```{div} doc-text
 On 13 January Johann Heinrich Krückeberg from Berenbusch's little
