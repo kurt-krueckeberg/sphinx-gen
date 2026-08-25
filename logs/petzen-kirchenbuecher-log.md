@@ -159,9 +159,6 @@ FamilySearch tree.
 * - 168 **not on website**
   - 1744
   - left page, 3rd record from the bottom
-* - 169 is a duplicat of 168
-  -
-  -
 * - 170
   - 1745
   - This appears to be the birth to a Weiland daughter still living at

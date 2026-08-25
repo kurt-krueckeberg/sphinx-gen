@@ -29,10 +29,10 @@ mentioned.
 
 :::
 
-## Baptism Record
+## Record
 
-The baptism entry is found on {ref}`image 167, year 1744, fourth entry for
-January <PET-B-1744a>`.
+The January 19, 1744, baptism entry of Johann Henrich Krückeberg is found on {ref}`image 167, year 1744, fourth entry for
+January <PET-B-1744a>` of the Petzen *Verzeichnis der Getauften und Konfirmierten, 1641-1784*.
 
 ```{figure} images/petzen-band1a-img167.jpg
 :class: image-override
