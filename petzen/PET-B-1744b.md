@@ -59,7 +59,7 @@ child was named Catharina Margareta
 
 ## Citation
 
-(PET-B-177a)=
+(PET-B-1774b)=
 
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/9564a75f9e/> : 25 Aug.
