@@ -1,4 +1,4 @@
-# 1745 Sophia Margareta ??? of Peetzen Baptism
+# 1745 Sophia Margareta Weiland of Peetzen Baptism
 
 ```{important}
 This does not appear to a child fathered by a Weiland, rather a Weiland
@@ -30,22 +30,16 @@ the *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ## Transliteration
 
-<!--
-```{div} doc-text
-dito 28t Widdel aus Röcke auf Ößling ein Töchter-
-lein tauffen laßen genant Anna Ilsa Margareta
-Gevatterin waren Papen seine Fr. auf Ößling [ein/und?]
-Albert [Witen/Witve] Kornis s[eine] Fr. zur Peetzen 3 des Kindes
-Mutter Scwester von Meisen [written above insert line: nomine Catharina Margareta Mollers]
-```
--->
-
 ```{div} doc-text
 April d 4t Weiland; zu Peeten rusten tochter hat und beÿ denen
 alten in der Leibzucht sich aushält ein töchterlein tauffen lassen
 Sophia Margareta genannt von der Hardtmanschen
 als der gevattern in Evesen
 ```
+
+## Translation
+
+
 
 ## Citation
 

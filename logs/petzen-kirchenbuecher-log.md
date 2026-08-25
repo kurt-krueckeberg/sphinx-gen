@@ -156,22 +156,13 @@ FamilySearch tree.
 * - 163-165
   -
   - No Entries
-* - 168 **not on website**
-  - 1744
-  - left page, 3rd record from the bottom
 * - 170
   - 1745
   - This appears to be the birth to a Weiland daughter still living at
     home. The father's name is not given.
-* - 171-208
-  - 1745-1764
-  - Hits put on website
 * - Reviewed 213-221 
   - 
   - Weilands
-* - - 294-1
-  - 
-  -
 ```
 
 ## Confirmation 1705-1784

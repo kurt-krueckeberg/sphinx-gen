@@ -18,7 +18,7 @@
 
 ## Record
 
-The April 4, 1745,  baptism of Sophi Margaret Weiland of Peetzen is on {doc}`image 170 <PET-B-1745a>` of
+The October 17, 1745, baptism of Johann Henirch Weiland of Peetzen is on {doc}`image 170 <PET-B-1745a>` of
 the *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ```{figure} images/petzen-band1a-img171.jpg
@@ -38,7 +38,7 @@ aus Nordholz
 ## Translation
 
 ```{div} doc-text
-On October 17 — Hermann Henrich Weiland, master carpenter in Evesen, had a
+On October 17, Hermann Henrich Weiland, master carpenter in Evesen, had a
 little son baptized, named Johann Henrich. The sponsors were Johann Henrich
 Ahldag of Evesen, Jobst Henrich Vahlsing of Evesen, and Wilhelm Rödemeister
 of Nordholz.
