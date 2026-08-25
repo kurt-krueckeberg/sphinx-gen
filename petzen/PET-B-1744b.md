@@ -28,8 +28,8 @@
 
 ## Record
 
-The December 13, 1744, baptism of Catharina Margareta Weiland is found on {ref}`image 168, year 1744, fourth entry for
-January <PET-B-1744b>` of the Petzen *Verzeichnis der Getauften und Konfirmierten, 1641-1784*.
+The December 13, 1744, baptism of Catharina Margareta Weiland is found on {ref}`image 168 <PET-B-1744b>` of the Petzen
+*Verzeichnis der Getauften und Konfirmierten, 1641-1784*.
 
 ```{figure} images/petzen-band1a-img168-weiland.jpg
 :class: image-override
@@ -59,11 +59,10 @@ child was named Catharina Margareta
 
 ## Citation
 
-(PET-B-1774b)=
+(PET-B-1744b)=
 
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/9564a75f9e/> : 25 Aug.
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten, 1641-1784 > Image 168 of 322
-
