@@ -2,7 +2,7 @@
 
 ## Family and Other Facts
 
-```{list-table}
+```{list-table} July 25, 1784, marriage of Johann Friderich Wilhelmn Bünte-Weiland 
 :header-rows: 1
 
 * - Groom
