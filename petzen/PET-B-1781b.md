@@ -1,4 +1,4 @@
-# 1781 Anna Philippina Weiland of 20 Baptism
+# 1781 Anna Philippina Weiland of Peezen Baptism
 
 ## Family Relationship and Other Facts
 
