@@ -22,7 +22,7 @@
 
 * - Fact
 * - daughter begotten in fornication
-* - Father: Knecht: servant; farmhand; laborer; apprenctice
+* - Father: Knecht = servant; farmhand; laborer; apprenctice
 ```
 
 ```{list-table} Baptism Sponsor 
