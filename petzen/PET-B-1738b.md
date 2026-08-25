@@ -22,7 +22,7 @@ not given.
 ## Baptism Record
 
 The baptism of Sophia Margareta Weiland of Evesen occurred 27 May, 1738, and is on
-{doc}`image 155 <PET-B-1738b>` of the *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
+{ref}`image 155 <PET-B-1738b>` of the *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ```{figure} images/petzen-band1a-img155-weiland2.png
 :class: image-override
