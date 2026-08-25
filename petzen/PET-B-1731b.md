@@ -40,8 +40,7 @@ den 8t April ist Hermann Henrich Weÿlandt aus Evesen Töchterl. Anna Ilsabe
 getauft Gev. Johann Stedings aus Evesen Ehefrau.
 ```
 
-## Translate
-
+## Translatation
 
 ```{div} doc-text
 On April 8th, Anna Ilsabe, daughter of Hermann Henrich Weÿlandt of Evesen,
