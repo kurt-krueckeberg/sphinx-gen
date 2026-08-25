@@ -138,31 +138,9 @@ FamilySearch tree.
 * - Image Number
   - Year
   - Comments
-* - 155 (penultimate entry on right page).
+* - 155 (penultimate entry on right page) <-- **Not on webiste**
   - Weiland from Evesen?
   - image is very smudgey
-* - 157-158 
-  - 
-  - no entries found
-* - 159
-  - 1740
-  - - PET-B-1740a.md: Weiland auf Ostermeier Stäte von Nordholz\
-      Date: 21 Feb. 1740
-    - PET-B-1740b.md: Weiland in Evesen\
-      Date 27 April 1740 (bottom entry)
-* - 161
-  - 17 May  
-  - right page: Weiland from Evesen
-* - 163-165
-  -
-  - No Entries
-* - 170
-  - 1745
-  - This appears to be the birth to a Weiland daughter still living at
-    home. The father's name is not given.
-* - Reviewed 213-221 
-  - 
-  - Weilands
 ```
 
 ## Confirmation 1705-1784
