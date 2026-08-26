@@ -69,7 +69,7 @@ confirmed:
     locality: "Ev:"
     vdate: 26 August 2026
     url: https://www.archion.de/p/8adf84b739/
-    trans: "Weiland Ev:"
+    trans: Weiland Ev:
 
   - name: Weiland 
     image: 303
@@ -78,7 +78,7 @@ confirmed:
     locality: N.
     vdate: 26 August 2026
     url: https://www.archion.de/p/330c163617/
-    trans: "Weiland N."
+    trans: Weiland N.
 
   - name: Weiland
     image: 303
@@ -87,7 +87,7 @@ confirmed:
     locality: Behrebusch
     vdate: 26 August 2026
     url: https://www.archion.de/p/c2e455cf48/
-    trans: "Weiland Behrebusch" 
+    trans: Weiland Behrebusch
 
   - name: Johann Heinrich Fahlsing
     image: 303
@@ -98,39 +98,139 @@ confirmed:
     url: https://www.archion.de/p/61c7e65298/
     trans: Johann Heinrich Fahlsing aus Evesem 
 
-  - name:
-    image:
-    year:
-    age:
-    locality:
-    vdate:
-    url:
-    trans:
+  - name: Anna Christina Weiland
+    image: 304
+    year: 1746
+    age: 
+    locality: Evesen
+    vdate: 26 August 2026
+    url: https://www.archion.de/p/c7513c70ad/
+    trans: Anna Christina Weilands aus Evesen.
 
-  - name:
-    image:
-    year:
+  - name: Hans Henrich Weiland 
+    image: 303
+    year: 1748
     age:
-    locality:
-    vdate:
-    url:
-    trans:
+    locality: Berenbusch
+    vdate: 26 August 2026
+    url: https://www.archion.de/p/9da2dc81a0/
+    trans: Hans Henrich Weiland aus Berenbusch
 
-  - name:
-    image:
-    year:
+  - name: Jobst Henrich Weiland
+    image: 305
+    year: 1750
     age:
-    locality:
-    vdate:
-    url:
-    trans:
+    locality: Evesen
+    vdate: 26 August 2026
+    url: https://www.archion.de/p/09aca539e3/
+    trans: Jobst Henrich Weiland aus Evesen
 
-  - name:
-    image:
-    year:
+  - name: Anna Ilse Margaretha Fahlsings
+    image: 307
+    year: 1749
     age:
     locality:
-    vdate:
-    url:
-    trans:
+    vdate: 26 August 2026
+    url: https://www.archion.de/p/1300f945be/
+    trans: 12) Anna Ilse Margaretha Fahlsings 
+
+  - name: Jobst Henrich Weiland
+    image: 307
+    year: 1750 
+    age: 
+    locality: Evesen
+    vdate:  26 August 2026
+    url: https://www.archion.de/p/91b6620e5c/
+    trans: Jobst Henrich Weiland aus Evesen 
+
+  - name: Friederich Wilhelm Weiland
+    image: 308
+    year: 1751
+    age: 
+    locality: Nordholz
+    vdate: 26 August 2026
+    url: https://www.archion.de/p/43f1621379/
+    trans: Friederich Wilhelm Weiland aus Nordholz
+
+  - name: Hans Henrich Weiland
+    image: 309
+    year: 1753
+    age: 
+    locality: Evesen
+    vdate: 26 August 2026
+    url: https://www.archion.de/p/c1c9046458/
+    trans: Hans Henrich Weiland aus Evesen
+
+  - name: Sophia Elisabeth Weilands 
+    image: 309
+    year: 1753
+    age: 
+    locality: Nordholtz
+    vdate: 26 August 2026
+    url: https://www.archion.de/p/3a0883155f/ 
+    trans:  Sophia Elisabeth Weilands aus Nordholtz  
+
+  - name: 
+    image: 
+    year: 
+    age: 
+    locality: 
+    vdate: 
+    url: 
+    trans: 
+
+  - name: 
+    image: 
+    year: 
+    age: 
+    locality: 
+    vdate: 
+    url: 
+    trans: 
+
+  - name: 
+    image: 
+    year: 
+    age: 
+    locality: 
+    vdate: 
+    url: 
+    trans: 
+
+  - name: 
+    image: 
+    year: 
+    age: 
+    locality: 
+    vdate: 
+    url: 
+    trans: 
+
+  - name: 
+    image: 
+    year: 
+    age: 
+    locality: 
+    vdate: 
+    url: 
+    trans: 
+
+  - name: 
+    image: 
+    year: 
+    age: 
+    locality: 
+    vdate: 
+    url: 
+    trans: 
+
+  - name: 
+    image: 
+    year: 
+    age: 
+    locality: 
+    vdate: 
+    url: 
+    trans: 
+
 

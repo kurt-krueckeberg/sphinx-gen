@@ -26,7 +26,7 @@
 The baptism entry is found on {doc}`image 161 <PET-B-1741b>` of the *Verzeichnis der Getauften und Konfirmierten 1641-1784*. It is on 
 the right page.
 
-```{figure} images/petzen-band1a-img163.jpg
+```{figure} images/petzen-band1a-img161-weiland.jpg
 :class: image-override
 ```
 
