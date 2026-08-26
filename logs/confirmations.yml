@@ -260,23 +260,23 @@ confirmed:
     url: https://www.archion.de/p/88fcbde3e9/
     trans: Friederich Wilhelm Weiland aus Berenbusch 
 
-  - name: 
-    image: 
-    year: 
+  - name: Heinrich Wilhelm Weiland
+    image: 316
+    year: 1769
     age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
+    locality: Nordholz
+    vdate: 26 August 2026
+    url: https://www.archion.de/p/b798d91460/ 
+    trans: Heinrich Wilhelm Weiland Nordholz
 
-  - name: 
-    image: 
-    year: 
+  - name: Heinrich Ludewig Weiland
+    image: 316
+    year: 1769
     age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
+    locality: Röcke
+    vdate: 26 August 2026
+    url: https://www.archion.de/p/b798d91460/ 
+    trans: Heinrich Ludewig Weiland Röcke 
 
   - name: 
     image: 
