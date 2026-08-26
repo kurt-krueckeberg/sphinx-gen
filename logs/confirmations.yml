@@ -1,28 +1,136 @@
 confirmed:
-  - name: Hans Heinrich Weyland 
-      image: 297
-      year: 1707
-      age: 13
-      locality: 
-      vdate: 25 August 2026
-      url: https://www.archion.de/p/da82da13db/
-      trans: Hans Heinrich Weland____13
-  - name:
-      image: 298
-      year: 1711
-      age: 12
-      locality: Evesen 
-      vdate: 25 August 2026
-      url: https://www.archion.de/p/e6b0295fb0/
-      trans: Anna Elisabeth Weÿlandts aus Evesen____12
+  - name: Hans Heinrich Weyland
+    image: 297
+    year: 1707
+    age: 13
+    locality:
+    vdate: 25 August 2026
+    url: https://www.archion.de/p/da82da13db/
+    trans: Hans Heinrich Weland____13
+
+  - name: ???????????????????
+    image: 298
+    year: 1711
+    age: 12
+    locality: Evesen
+    vdate: 25 August 2026
+    url: https://www.archion.de/p/e6b0295fb0/
+    trans: Anna Elisabeth Weÿlandts aus Evesen____12
+
   - name: Anna Elisabeth Vahlsing
-      image: 299
-      year: 1713
-      age: 12 
-      locality: 
-      vdate: 25 August 2026
-      url: https://www.archion.de/p/b7ee044bb4/ 
-      trans: Anna Elisabeth Vahlsings aus Evesen____12 
+    image: 299
+    year: 1713
+    age: 12
+    locality:
+    vdate: 25 August 2026
+    url: https://www.archion.de/p/b7ee044bb4/
+    trans: Anna Elisabeth Vahlsings aus Evesen____12
 
+  - name: Jobst Henrich Weÿland
+    image: 299
+    year: 1716
+    age: 14
+    locality: Berenbusch
+    vdate: 26 August 2026
+    url: https://www.archion.de/p/cff80d274e/
+    trans: Jobst Henrich Weÿland aus Berenbusch____14
 
+  - name: Anna Maria Vahlsing
+    image: 299
+    year: 1716
+    age: 13
+    locality: Evesen
+    vdate: 26 August 2026
+    url: https://www.archion.de/p/cff80d274e/
+    trans: Anna Maria Vahlsing aus Evesen____13
+
+  - name: Weiland TODO Grouping
+    image: 301
+    year: 1736
+    age: 
+    locality: 
+    vdate: 26 August 2026
+    url: https://www.archion.de/p/cc8d263b27/
+    trans:
+
+  - name: Weiland TODO Grouping
+    image: 301
+    year: 1737
+    age:
+    locality: N = Nordholz?
+    vdate: 26 August 2026
+    url: https://www.archion.de/p/cc8d263b27/
+    trans: Weiland  N
+
+  - name: Weiland Ev[esen]
+    image: 302
+    year: 1740
+    age: 
+    locality: "Ev:"
+    vdate: 26 August 2026
+    url: https://www.archion.de/p/8adf84b739/
+    trans: "Weiland Ev:"
+
+  - name: Weiland 
+    image: 303
+    year: 1743
+    age: 
+    locality: N.
+    vdate: 26 August 2026
+    url: https://www.archion.de/p/330c163617/
+    trans: "Weiland N."
+
+  - name: Weiland
+    image: 303
+    year: 1745
+    age:
+    locality: Behrebusch
+    vdate: 26 August 2026
+    url: https://www.archion.de/p/c2e455cf48/
+    trans: "Weiland Behrebusch" 
+
+  - name: Johann Heinrich Fahlsing
+    image: 303
+    year: 1746
+    age:
+    locality: Evesen
+    vdate: 26 August 2026
+    url: https://www.archion.de/p/61c7e65298/
+    trans: Johann Heinrich Fahlsing aus Evesem 
+
+  - name:
+    image:
+    year:
+    age:
+    locality:
+    vdate:
+    url:
+    trans:
+
+  - name:
+    image:
+    year:
+    age:
+    locality:
+    vdate:
+    url:
+    trans:
+
+  - name:
+    image:
+    year:
+    age:
+    locality:
+    vdate:
+    url:
+    trans:
+
+  - name:
+    image:
+    year:
+    age:
+    locality:
+    vdate:
+    url:
+    trans:
 
