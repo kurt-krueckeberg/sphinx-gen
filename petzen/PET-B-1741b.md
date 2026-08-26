@@ -1,4 +1,4 @@
-# 1741 Diterich Wilhelm Weiland of Evesen  Baptized
+# 1741 Diterich Wilhelm Weiland of Evesen Baptized
 
 ## Family Relationship and Other Facts
 
