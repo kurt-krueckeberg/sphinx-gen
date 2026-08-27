@@ -1,7 +1,7 @@
 file_extension: md
 marriages:
   file_format: PET-B-%year%
-  volume_name: Verzeichnis der Getauften und Konfirmierten 1641-1784
+  volume_name: Verzeichnis der Getrauten und Gestorbenen 1641-1784
   citation: >-
     "Archion Protestant Kirchenbücher Portal", database with images, Archion
     (<%url%> : %vdate%), path: Niedersachsen > Niedersächsisches Landesarchiv >
@@ -9,11 +9,90 @@ marriages:
     Petzen > %volume_name%,
     image %image% of 322
   married:
+    - name: Weiland
+      image: 15
+      date: 12 November or December 1675
+      vdate: 27 August 2026
+      url: https://www.archion.de/p/810b859f6a/
+      trans: "[unclear] Weilandt Elisabeth Rödemeisters zu Petyen den 12 [either Nov. or Dec.] copuliret"
+
+    - name: Hans Hinrich Weiland
+      image: 26
+      date: 2 March 1702
+      vdate: 27 August 2026
+      url: https://www.archion.de/p/6e4a60e49b/ 
+      trans: Hans Hinrich Weilandt von Petzen und Anna Margaretha Sanders auf den Berenbusch den 2 Martij copuliret 
+
     - name:
-      image:   
+      image:
+      date: 
+      vdate: 27 August 2026
+      url: https://www.archion.de/p/889f4e199b/
+      trans: den 28. 8br [sint] copuliret Johan Tonnis Weyland aus Peezen mitt Annen Jlsabey Brandts aus Nammen, mitt Welcher er schon vorhin ein Fuhr Kind gezeugt
+
+    - name:
+      image:
+      date:
       vdate:
-      url:  
-      trans: 
+      url:
+      trans:
+
+    - name:
+      image:
+      date:
+      vdate:
+      url:
+      trans:
+
+    - name:
+      image:
+      date:
+      vdate:
+      url:
+      trans:
+
+    - name:
+      image:
+      date:
+      vdate:
+      url:
+      trans:
+
+    - name:
+      image:
+      date:
+      vdate:
+      url:
+      trans:
+
+    - name:
+      image:
+      date:
+      vdate:
+      url:
+      trans:
+
+    - name:
+      image:
+      date:
+      vdate:
+      url:
+      trans:
+
+    - name:
+      image:
+      date:
+      vdate:
+      url:
+      trans:
+
+    - name:
+      image:
+      date:
+      vdate:
+      url:
+      trans:
+
 
 confirmations:
   file_format: PET-B-%year%
