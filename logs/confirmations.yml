@@ -1,3 +1,11 @@
+volume_name: Verzeichnis der Getauften und Konfirmierten 1641-1784
+citation: >-
+  "Archion Protestant Kirchenbücher Portal", database with images, Archion
+  (<%url%> : %vdate%), path: Niedersachsen > Niedersächsisches Landesarchiv >
+  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
+  Petzen > %volume_name%,
+  image %image% of 322
+
 confirmed:
   - name: Hans Heinrich Weyland
     image: 297
@@ -8,7 +16,7 @@ confirmed:
     url: https://www.archion.de/p/da82da13db/
     trans: Hans Heinrich Weland____13
 
-  - name: ???????????????????
+  - name: Anna Elisabeth Weÿland
     image: 298
     year: 1711
     age: 12
@@ -69,7 +77,7 @@ confirmed:
     locality: "Ev:"
     vdate: 26 August 2026
     url: https://www.archion.de/p/8adf84b739/
-    trans: Weiland Ev:
+    trans: "Weiland Ev:"
 
   - name: Weiland 
     image: 303
@@ -323,182 +331,29 @@ confirmed:
     url: https://www.archion.de/p/d765ab3370/
     trans: Heinrich Ludowig Weiland Peezen 
 
-  - name: TODO
+  - name: Anna Ilsabei Vahlsing
     image: 320
-    year: 
+    year: 1782
     age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
+    locality: Evesen
+    vdate: 27 August 2026
+    url: https://www.archion.de/p/94f6b8c73d/
+    trans: Anna Ilsabei Vahlsing aus Evesen 
 
-  - name: 
-    image: 
-    year: 
+  - name: Johann Heinrich Weiland 
+    image: 321 
+    year: 1783 
     age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
+    locality: Nordholtz Berenbusch 
+    vdate: 27 August 2026
+    url: https://www.archion.de/p/f433693d9a/
+    trans: Johann Heinrich Weiland aus Nordholtz Berenbusch 
 
-  - name: 
-    image: 
-    year: 
+  - name: Anna Philippina Weiland 
+    image: 322
+    year: 1784
     age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
-
-  - name: 
-    image: 
-    year: 
-    age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
-
-  - name: 
-    image: 
-    year: 
-    age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
-
-  - name: 
-    image: 
-    year: 
-    age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
-
-  - name: 
-    image: 
-    year: 
-    age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
-
-  - name: 
-    image: 
-    year: 
-    age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
-
-  - name: 
-    image: 
-    year: 
-    age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
-
-  - name: 
-    image: 
-    year: 
-    age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
-
-  - name: 
-    image: 
-    year: 
-    age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
-
-  - name: 
-    image: 
-    year: 
-    age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
-
-  - name: 
-    image: 
-    year: 
-    age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
-
-  - name: 
-    image: 
-    year: 
-    age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
-
-  - name: 
-    image: 
-    year: 
-    age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
-
-  - name: 
-    image: 
-    year: 
-    age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
-
-  - name: 
-    image: 
-    year: 
-    age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
-
-  - name: 
-    image: 
-    year: 
-    age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
-
-  - name: 
-    image: 
-    year: 
-    age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
-
-  - name: 
-    image: 
-    year: 
-    age:  
-    locality: 
-    vdate: 
-    url: 
-    trans: 
+    locality: Evesen
+    vdate: 27 August 2026
+    url: https://www.archion.de/p/69538680ea/
+    trans: Anna Philippina Weilands aus Evesen
