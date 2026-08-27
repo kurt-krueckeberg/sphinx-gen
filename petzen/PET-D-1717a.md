@@ -1,4 +1,4 @@
-# 1717 Hille Po[w?]cks, wife of Hans Weÿland of Evesen, Burial
+# 1717 Hille Poock, wife of Hans Weÿland, of Evesen, Burial
 
 ## Record
 
