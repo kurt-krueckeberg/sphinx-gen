@@ -41,29 +41,32 @@ marriages:
       trans: "Den 19 8br ist Hans Weÿlandt auß Evesen mit Hille Poocks copuliret."
       lation: "On October 19, Hans Weÿlandt of Evesen was married to Hille Poock."
 
-    - name:
-      image:
-      date:
-      vdate:
-      url:
-      trans:
+    - name: Hans Weÿland 
+      image: 32
+      date: 28 August
+      vdate: 27 August 2026
+      url: https://www.archion.de/p/e7498ba239/
+      trans: "den 28t August: ist Hans Weÿland auß Evesen mit Sophia Marlena Engelkings auß Cammer copuliret." 
+      lation: "On August 28, Hans Weÿland of Evesen was married to Sophia Marlena Engelking of Cammer."
+
+    - name: Herman Henrich Weÿland 
+      image: 33
+      date: 5 September 1720 
+      vdate: 27 August 2026
+      url: https://www.archion.de/p/86a2e44c1c/
+      trans: "den 5 Septembr ist Herman Henrich Weÿland von Evesen mit Anna Catharina Piels auß Berenbusch copuliret"
+      lation: "On September 5, Herman Henrich Weÿland of Evesen was married to Anna Catharina Piel of Berenbusch."
+
+    - name: Hanß Henrich Weÿland 
+      image: 35
+      date: 14 November 1723
+      vdate: 27 August 2026
+      url: https://www.archion.de/p/61953005ab/
+      trans: "den 14. Novembr ist Hanß Henrich Weÿland auß Evesen, mit Ilsabe [Perte?] getrauet."
+      lation: "On November 14, Hans Henrich Weiland of Evesen was married to Ilsabe [Perte?]."  
 
     - name:
-      image:
-      date:
-      vdate:
-      url:
-      trans:
-
-    - name:
-      image:
-      date:
-      vdate:
-      url:
-      trans:
-
-    - name:
-      image:
+      image: 1st review image 35 right page, then continue
       date:
       vdate:
       url:
