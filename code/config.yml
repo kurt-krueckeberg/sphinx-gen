@@ -117,24 +117,26 @@ marriages:
       trans: "Ao 1745 Februarÿ d. 14 Henrich Weiland von Behrenbusch mit Sophia Elisabeth [Rösner?] verwitwet Bünten copuliret."
       lation: "in the year 1745, on February 14, Henrich Weiland of Behrenbusch married Sophia Elisabeth [Rösner?] widow of Bünte."
 
-    - name:
-      image: 
-      ifile: 
-      date:
-      vdate:
-      url:
-      trans:
+    - name: Herman Henrich Weiland
+      image: 45
+      ifile: petzen-band1b-img45-weiland.png
+      date: 3 November 1746
+      vdate: 27 Aguust 2026
+      url: https://www.archion.de/p/ec0fc42b7b/
+      trans: "d 3 Novembr ist Herman Henrich Weiland aus Evesen mit Anna Sabina Breiners aus Warber copuliret worden."
+      lation: "On November 3, Herman Henrich Weiland of Evesen was married to Anna Sabina Breiner of Warber."
+
+    - name: Johann Henrich Weiland 
+      image: 46
+      ifile: petzen-band1b-img46-weiland
+      date: 17 October 1748
+      vdate: 27 August 2026
+      url: https://www.archion.de/p/e4313feebe/
+      trans:  "d 17t octobr. Johann Henrich Weiland von Nammen mit Catharina Mysings sel. Joh. Bünten Witwe copuliret"
+      lation: "On 17 October, Johann Henrich Weiland of Nammen was married to Catharina Mysing, widow of the late Johann Bünte."
 
     - name:
-      image: 
-      ifile: 
-      date:
-      vdate:
-      url:
-      trans:
-
-    - name:
-      image: 
+      image: resume with image 47 
       ifile: 
       date:
       vdate:
