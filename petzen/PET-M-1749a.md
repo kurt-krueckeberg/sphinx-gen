@@ -21,7 +21,6 @@ The final quoted statement was therefore meant to prevent anyone from later
 arguing that, because the marriage had been performed at Lerbeck, the Krug
 at Nammen—the inn or tavern holding associated with Johann Herman
 Weiland—belonged ecclesiastically to Lerbeck rather than to Petzen.
-```
 
 ## Transliteration
 
