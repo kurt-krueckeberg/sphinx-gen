@@ -15,27 +15,31 @@ marriages:
       vdate: 27 August 2026
       url: https://www.archion.de/p/810b859f6a/
       trans: "[unclear] Weilandt Elisabeth Rödemeisters zu Petyen den 12 [either Nov. or Dec.] copuliret"
+      lation: "[unclear] Weilandt and Elisabeth Rödemeister of Petzen were married on the 12th of [November or December]."
 
     - name: Hans Hinrich Weiland
       image: 26
       date: 2 March 1702
       vdate: 27 August 2026
       url: https://www.archion.de/p/6e4a60e49b/ 
-      trans: Hans Hinrich Weilandt von Petzen und Anna Margaretha Sanders auf den Berenbusch den 2 Martij copuliret 
+      trans: "Hans Hinrich Weilandt von Petzen und Anna Margaretha Sanders auf den Berenbusch den 2 Martij copuliret"
+      lation: "Hans Hinrich Weilandt of Petzen and Anna Margaretha Sanders at Berenbusch were married on March 2." 
 
-    - name:
-      image:
-      date: 
+    - name: Johan Tonnis Weyland 
+      image: 29
+      date: 28 October 1708 
       vdate: 27 August 2026
-      url: https://www.archion.de/p/889f4e199b/
-      trans: den 28. 8br [sint] copuliret Johan Tonnis Weyland aus Peezen mitt Annen Jlsabey Brandts aus Nammen, mitt Welcher er schon vorhin ein Fuhr Kind gezeugt
+      url: 
+      trans: "den 28. 8br [sint] copuliret Johan Tonnis Weyland aus Peezen mitt Annen Jlsabey Brandts aus Nammen, mitt Welcher er schon vorhin ein Fuhr Kind gezeugt"
+      lation: "On October 28, Johan Tonnis Weyland of Peezen was married to Anna Ilsabey Brandt of Nammen, with whom he had already previously fathered an illegitimate child."
 
-    - name:
-      image:
-      date:
-      vdate:
-      url:
-      trans:
+    - name: Hans Weÿlandt 
+      image: 30
+      date: 27 August 2027
+      vdate: 19 October 1712
+      url: https://www.archion.de/p/d50e7390f3/
+      trans: "Den 19 8br ist Hans Weÿlandt auß Evesen mit Hille Poocks copuliret."
+      lation: "On October 19, Hans Weÿlandt of Evesen was married to Hille Poock."
 
     - name:
       image:
