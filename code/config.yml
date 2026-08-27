@@ -65,15 +65,16 @@ marriages:
       trans: "den 14. Novembr ist Hanß Henrich Weÿland auß Evesen, mit Ilsabe [Perte?] getrauet."
       lation: "On November 14, Hans Henrich Weiland of Evesen was married to Ilsabe [Perte?]."  
 
-    - name:
-      image: 1st review image 35 right page, then continue
-      date:
-      vdate:
-      url:
-      trans:
+    - name: Herman Henrich Weÿland 
+      image: 37 
+      date: 24 November 1728
+      vdate: 27 August 2026
+      url: https://www.archion.de/p/7281702721/
+      trans: "den 24t Novemb ist Herman Henrich Weÿland auß Evesen mit Anna Catharina Steinmeÿers auß [Frille/Grille]" 
+      lation: "On November 24, Herman Henrich Weÿland of Evesen was married to Anna Catharina Steinmeÿer of [Frille/Grille]" 
 
     - name:
-      image:
+      image: resume 38
       date:
       vdate:
       url:
