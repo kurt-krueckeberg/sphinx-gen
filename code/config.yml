@@ -90,15 +90,100 @@ marriages:
       trans: "den 13t Septemb ist Jobst Henirch Weÿland auß Berenbusch mit Rudolphina Mönckhofs auß Evesen copuliret worden"
       lation: "On September 13, Jobst Henirch Weÿland of Berenbusch was married to Rudolphina Mönckhof of Evesen"
 
+    - name: Johann Friderich Weiland  
+      image: 40
+      ifile: petzen-band1b-img40-weiland2.png
+      date: 7 October 1734
+      vdate: 27 August 2026
+      url: https://www.archion.de/p/29cf0c5d43/
+      trans: "Octobr d 7t Johann Friderich Weiland v. Berenbusch mit Anna Maria Elisabeth Cohmiers v. Eves[en]"
+      lation: "On October 7: Johann Friderich Weiland of Berenbusch, with Anna Maria Elisabeth Cohmiers of Evesen"
+
+    - name: Johann Friderich Wilhelm Weiland 
+      image: 41
+      ifile: petzen-band1b-img41-weiland
+      date: 24 November 1737
+      vdate: 27 August 2026 
+      url: https://www.archion.de/p/afd3b9e513/
+      trans: "d 24t Johann Friderich Wilhelm Weiland von Nammen mit Anna Sophia Maria Ostermeiers von Northolt copuliret."
+      lation: "On November 24, Johann Friderich Wilhelm Weiland of Nammen married Anna Sophia Maria Ostermeiers of Nordholz." 
+
+    - name: Henrich Weiland 
+      image: 43
+      ifile: petzen-band1b-img43-weiland.png
+      date: 14 February 1745
+      vdate: 27 Aguust 2026
+      url: https://www.archion.de/p/42b90e6dee/
+      trans: "Ao 1745 Februarÿ d. 14 Henrich Weiland von Behrenbusch mit Sophia Elisabeth [Rösner?] verwitwet Bünten copuliret."
+      lation: "in the year 1745, on February 14, Henrich Weiland of Behrenbusch married Sophia Elisabeth [Rösner?] widow of Bünte."
+
     - name:
-      image: resume with 39
+      image: 
+      ifile: 
       date:
       vdate:
       url:
       trans:
 
     - name:
-      image:
+      image: 
+      ifile: 
+      date:
+      vdate:
+      url:
+      trans:
+
+    - name:
+      image: 
+      ifile: 
+      date:
+      vdate:
+      url:
+      trans:
+
+    - name:
+      image: 
+      ifile: 
+      date:
+      vdate:
+      url:
+      trans:
+
+    - name:
+      image: 
+      ifile: 
+      date:
+      vdate:
+      url:
+      trans:
+
+    - name:
+      image: 
+      ifile: 
+      date:
+      vdate:
+      url:
+      trans:
+
+    - name:
+      image: 
+      ifile: 
+      date:
+      vdate:
+      url:
+      trans:
+
+    - name:
+      image: 
+      ifile: 
+      date:
+      vdate:
+      url:
+      trans:
+
+    - name:
+      image: 
+      ifile: 
       date:
       vdate:
       url:
