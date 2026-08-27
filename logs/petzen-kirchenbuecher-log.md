@@ -25,46 +25,7 @@ list-table of relationships and facts.
 
 ## Confirmation 1705-1784
 
-```{list-table} Images from range 295-322
-:header-rows: 1
-
-* - Image Number
-  - Year
-  - Family name
-* - 297
-  - 1707 
-  - Hans Heinrich Weyland, age 13
-* - 298 
-  - 1711
-  - Anna Elisabeth Weyland aus Evesen, age 13
-* - 298
-  - 1711
-  - Anna Elisabeth Weÿland aus Evesen, age 12
-* - 299 
-  - 1713
-  - Anna Elisabeth Vahlsing aus Evesen, age 12 **on website**
-* - RESUME at 299
-  - 
-  -
-* - 
-  - 
-  -
-* - 
-  - 
-  -
-* - 
-  - 
-  -
-* - 
-  - 
-  - 
-* - 
-  - 
-  - 
-* - 
-  - 
-  - 
-```
+**DONE**
 
 ## Review of Marriages 1641-1784
 
@@ -76,6 +37,7 @@ List of the marriage images reviewed in the Petzen Kirchenbuch
 :header-rows: 1
 
 * - Images Reviewed for Weiland/Krückeberg
+* - 17-30 reviewed.
 * - 58 thru 67 reviewed. All Weiland's found were put on gen.krueckeberg.org.
 ```
 
