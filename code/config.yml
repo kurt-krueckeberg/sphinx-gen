@@ -11,6 +11,7 @@ marriages:
   married:
     - name: Weiland
       image: 15
+      ifile: 
       date: 12 November or December 1675
       vdate: 27 August 2026
       url: https://www.archion.de/p/810b859f6a/
@@ -19,6 +20,7 @@ marriages:
 
     - name: Hans Hinrich Weiland
       image: 26
+      ifile: petzen-band1b-img26-weiland.png
       date: 2 March 1702
       vdate: 27 August 2026
       url: https://www.archion.de/p/6e4a60e49b/ 
@@ -27,6 +29,7 @@ marriages:
 
     - name: Johan Tonnis Weyland 
       image: 29
+      ifile: petzen-band1b-img29-weiland.png 
       date: 28 October 1708 
       vdate: 27 August 2026
       url: 
@@ -35,6 +38,7 @@ marriages:
 
     - name: Hans Weÿlandt 
       image: 30
+      ifile: petzen-band1b-img30-weiland.png 
       date: 27 August 2027
       vdate: 19 October 1712
       url: https://www.archion.de/p/d50e7390f3/
@@ -43,6 +47,7 @@ marriages:
 
     - name: Hans Weÿland 
       image: 32
+      ifile: petzen-band1b-img32-weiland.png
       date: 28 August
       vdate: 27 August 2026
       url: https://www.archion.de/p/e7498ba239/
@@ -51,6 +56,7 @@ marriages:
 
     - name: Herman Henrich Weÿland 
       image: 33
+      ifile: petzen-band1b-img33-weiland.png
       date: 5 September 1720 
       vdate: 27 August 2026
       url: https://www.archion.de/p/86a2e44c1c/
@@ -59,6 +65,7 @@ marriages:
 
     - name: Hanß Henrich Weÿland 
       image: 35
+      ifile: petzen-band1b-img35-weiland.png
       date: 14 November 1723
       vdate: 27 August 2026
       url: https://www.archion.de/p/61953005ab/
@@ -67,28 +74,24 @@ marriages:
 
     - name: Herman Henrich Weÿland 
       image: 37 
+      ifile: petzen-band1b-img37-weiland.png
       date: 24 November 1728
       vdate: 27 August 2026
       url: https://www.archion.de/p/7281702721/
       trans: "den 24t Novemb ist Herman Henrich Weÿland auß Evesen mit Anna Catharina Steinmeÿers auß [Frille/Grille]" 
       lation: "On November 24, Herman Henrich Weÿland of Evesen was married to Anna Catharina Steinmeÿer of [Frille/Grille]" 
 
-    - name:
-      image: resume 38
+    - name: Jobst Henirch Weÿland 
+      image: 38 
+      ifile: petzen-band1b-img38-weiland2.png
       date: 13 September 1731
-      vdate: 27 August 2026
-      url: https://www.archion.de/p/7ce434cfd8/
-      trans:
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/55ef75b9fc/
+      trans: "den 13t Septemb ist Jobst Henirch Weÿland auß Berenbusch mit Rudolphina Mönckhofs auß Evesen copuliret worden"
+      lation: "On September 13, Jobst Henirch Weÿland of Berenbusch was married to Rudolphina Mönckhof of Evesen"
 
     - name:
-      image: Resume at 39
-      date:
-      vdate:
-      url:
-      trans:
-
-    - name:
-      image:
+      image: resume with 39
       date:
       vdate:
       url:
