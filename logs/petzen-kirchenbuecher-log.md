@@ -37,7 +37,7 @@ List of the marriage images reviewed in the Petzen Kirchenbuch
 :header-rows: 1
 
 * - Images Reviewed for Weiland/Krückeberg
-* - 17-35 reviewed.
+* - 17-38 reviewed.
 * - 58 thru 67 reviewed. All Weiland's found were put on gen.krueckeberg.org.
 ```
 
