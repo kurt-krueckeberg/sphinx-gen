@@ -128,7 +128,7 @@ marriages:
 
     - name: Johann Henrich Weiland 
       image: 46
-      ifile: petzen-band1b-img46-weiland
+      ifile: petzen-band1b-img46-weiland1.png
       date: 17 October 1748
       vdate: 27 August 2026
       url: https://www.archion.de/p/e4313feebe/
@@ -141,7 +141,13 @@ marriages:
       date:
       vdate:
       url:
-      trans:
+      trans: >-
+        d 23 febr. Johann Herman Weiland Krüger zu Nammen wurde mit Catharina
+        Maria Röbken Witwe Schnaken zu Nammen von dem H. Insp: Cramer zu Lerbeck unbefugter weise co
+        puliret, weil man alhier Königl. Verordnung zufolge der Frau intra annum luctus keinen Mann geben
+        wollen. Worauf wir sofort bey dem H. Insp. Cramer gegen diesen Eingriff in hiesige Parochie protestiret,
+        und ausgemacht, daß in dortiges Kirchen Buch dabey notiret werden solle, ,,es können daraus keine Folgerungen
+        gemacht werden, als gehöre der Krug zu Nammen nach Lerbek,,
 
     - name:
       image: 

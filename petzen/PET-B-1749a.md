@@ -1,6 +1,6 @@
 # 1749 Johann Henrich Weiland Baptism
 
-```{list-table}
+```{list-table} July 15, 1749 baptism of Johann Henrich Weiland
 :header-rows: 1
 
 * - Infant
@@ -19,7 +19,7 @@
 
 ## Record
 
-The baptism of Johann Henrich Weiland is on {ref}`image 178 <PET-B-1749a>` from the "Register of Baptism and Confirmed of the
+The July 15, 1749 baptism of Johann Henrich Weiland baptism of Johann Henrich Weiland is on {ref}`image 178 <PET-B-1749a>` from the "Register of Baptism and Confirmed of the
 Petzen Parish, 1641-1784".
 
 ```{figure} images/petzen-band1a-img178.jpg
