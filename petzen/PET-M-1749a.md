@@ -32,7 +32,7 @@ annum luctus keinen Mann geben wollen. Worauf wir sofort bey dem H. Insp.
 Cramer gegen diesen Eingriff in hiesige Parochie protestiret, und ausgemacht,
 daß in dortiges Kirchen Buch dabey notiret werden solle,
 
-> „es können daraus keine Folgerungen gemacht werden, als gehöre der Krug zu Nammen nach Lerbek"
+> »es können daraus keine Folgerungen gemacht werden, als gehöre der Krug zu Nammen nach Lerbek«
 ```
 
 ## Translation
