@@ -1,0 +1,378 @@
+file_extension: md
+marriages:
+  file_format: PET-B-%year%
+  volume_name: Verzeichnis der Getauften und Konfirmierten 1641-1784
+  citation: >-
+    "Archion Protestant Kirchenbücher Portal", database with images, Archion
+    (<%url%> : %vdate%), path: Niedersachsen > Niedersächsisches Landesarchiv >
+    Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
+    Petzen > %volume_name%,
+    image %image% of 322
+  married:
+    - name:
+      image:   
+      vdate:
+      url:  
+      trans: 
+
+confirmations:
+  file_format: PET-B-%year%
+  volume_name: Verzeichnis der Getauften und Konfirmierten 1641-1784
+  citation: >-
+    "Archion Protestant Kirchenbücher Portal", database with images, Archion
+    (<%url%> : %vdate%), path: Niedersachsen > Niedersächsisches Landesarchiv >
+    Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
+    Petzen > %volume_name%,
+    image %image% of 322
+  
+  confirmed:
+    - name: Hans Heinrich Weyland
+      image: 297
+      year: 1707
+      age: 13
+      locality:
+      vdate: 25 August 2026
+      url: https://www.archion.de/p/da82da13db/
+      trans: Hans Heinrich Weland____13
+  
+    - name: Anna Elisabeth Weÿland
+      image: 298
+      year: 1711
+      age: 12
+      locality: Evesen
+      vdate: 25 August 2026
+      url: https://www.archion.de/p/e6b0295fb0/
+      trans: Anna Elisabeth Weÿlandts aus Evesen____12
+  
+    - name: Anna Elisabeth Vahlsing
+      image: 299
+      year: 1713
+      age: 12
+      locality:
+      vdate: 25 August 2026
+      url: https://www.archion.de/p/b7ee044bb4/
+      trans: Anna Elisabeth Vahlsings aus Evesen____12
+  
+    - name: Jobst Henrich Weÿland
+      image: 299
+      year: 1716
+      age: 14
+      locality: Berenbusch
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/cff80d274e/
+      trans: Jobst Henrich Weÿland aus Berenbusch____14
+  
+    - name: Anna Maria Vahlsing
+      image: 299
+      year: 1716
+      age: 13
+      locality: Evesen
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/cff80d274e/
+      trans: Anna Maria Vahlsing aus Evesen____13
+  
+    - name: Weiland TODO Grouping
+      image: 301
+      year: 1736
+      age: 
+      locality: 
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/cc8d263b27/
+      trans:
+  
+    - name: Weiland TODO Grouping
+      image: 301
+      year: 1737
+      age:
+      locality: N = Nordholz?
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/cc8d263b27/
+      trans: Weiland  N
+  
+    - name: Weiland Ev[esen]
+      image: 302
+      year: 1740
+      age: 
+      locality: "Ev:"
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/8adf84b739/
+      trans: "Weiland Ev:"
+  
+    - name: Weiland 
+      image: 303
+      year: 1743
+      age: 
+      locality: N.
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/330c163617/
+      trans: Weiland N.
+  
+    - name: Weiland
+      image: 303
+      year: 1745
+      age:
+      locality: Behrebusch
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/c2e455cf48/
+      trans: Weiland Behrebusch
+  
+    - name: Johann Heinrich Fahlsing
+      image: 303
+      year: 1746
+      age:
+      locality: Evesen
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/61c7e65298/
+      trans: Johann Heinrich Fahlsing aus Evesem 
+  
+    - name: Anna Christina Weiland
+      image: 304
+      year: 1746
+      age: 
+      locality: Evesen
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/c7513c70ad/
+      trans: Anna Christina Weilands aus Evesen.
+  
+    - name: Hans Henrich Weiland 
+      image: 303
+      year: 1748
+      age:
+      locality: Berenbusch
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/9da2dc81a0/
+      trans: Hans Henrich Weiland aus Berenbusch
+  
+    - name: Jobst Henrich Weiland
+      image: 305
+      year: 1750
+      age:
+      locality: Evesen
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/09aca539e3/
+      trans: Jobst Henrich Weiland aus Evesen
+  
+    - name: Anna Ilse Margaretha Fahlsings
+      image: 307
+      year: 1749
+      age:
+      locality:
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/1300f945be/
+      trans: 12) Anna Ilse Margaretha Fahlsings 
+  
+    - name: Jobst Henrich Weiland
+      image: 307
+      year: 1750 
+      age: 
+      locality: Evesen
+      vdate:  26 August 2026
+      url: https://www.archion.de/p/91b6620e5c/
+      trans: Jobst Henrich Weiland aus Evesen 
+  
+    - name: Friederich Wilhelm Weiland
+      image: 308
+      year: 1751
+      age: 
+      locality: Nordholz
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/43f1621379/
+      trans: Friederich Wilhelm Weiland aus Nordholz
+  
+    - name: Hans Henrich Weiland
+      image: 309
+      year: 1753
+      age: 
+      locality: Evesen
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/c1c9046458/
+      trans: Hans Henrich Weiland aus Evesen
+  
+    - name: Sophia Elisabeth Weilands 
+      image: 309
+      year: 1753
+      age: 
+      locality: Nordholtz
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/3a0883155f/ 
+      trans:  Sophia Elisabeth Weilands aus Nordholtz  
+  
+    - name: Friederich Wilhelm Weiland (Hofmeiers) Evesen 
+      image: 309
+      year: 1754
+      age: 
+      locality: Evesem
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/99783df0c2/
+      trans: Friederich Wilhelm Weiland (Hofmeiers) Evesen  
+  
+    - name: Anna Margaretha Weiland 
+      image: 310 
+      year: 1757
+      age: 
+      locality: Nordholtz
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/07617bfa91/
+      trans: Anna Margaretha Weilands aus Nordholtz
+  
+    - name: Carl Fried. Fahlsing
+      image: 
+      year: 1758
+      age: 
+      locality: Evesen 
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/405713c11f/
+      trans: Carl Fried. Fahlsing aus Evesen 
+  
+    - name: Anna Philippina Fahlsings
+      image: 312
+      year: 1760
+      age: 
+      locality: Evesen 
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/42667cb769/ 
+      trans: Anna Philippina Fahlsings aus Evesen 
+  
+    - name: Anna Maria Weilandt
+      image: 312
+      year: 1760
+      age: 
+      locality: Nordholtz
+      vdate: 26 Aguust 2026
+      url: https://www.archion.de/p/42667cb769/
+      trans:  Anna Maria Weilandt aus Nordholtz 
+  
+    - name: Johann Heinrich Weiland
+      image: 313 
+      year: 1763
+      age: 
+      locality: Evesen
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/1fdc86eeb3/ 
+      trans: Johann Heinrich Weiland aus Evesen 
+  
+    - name: Philippina Weiland
+      image: 313
+      year: 1764
+      age: 
+      locality: Evesen
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/a50f43c12e/
+      trans: Philippina Weilands aus Evesen
+  
+    - name: Sophia Elisabeth Weilands
+      image: 314 
+      year: 1766
+      age:  
+      locality: Evesen No. 21 
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/ce7131f5a0/
+      trans: Sophia Elisabeth Weilands aus Evesen No. 21 
+  
+    - name: Friederich Wilhelm Weiland
+      image: 315 
+      year: 1767
+      age:  
+      locality: Röcke 
+      vdate: 26 Aguust 2026
+      url: https://www.archion.de/p/44838bec83/
+      trans: Friederich Wilhelm Weiland aus Röcke Einlieger 
+  
+    - name: Ilse Margaretha Weilands 
+      image: 315
+      year: 1768
+      age:  
+      locality: Berenbusch
+      vdate: 26 August
+      url: https://www.archion.de/p/88fcbde3e9/
+      trans: Friederich Wilhelm Weiland aus Berenbusch 
+  
+    - name: Heinrich Wilhelm Weiland
+      image: 316
+      year: 1769
+      age:  
+      locality: Nordholz
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/b798d91460/ 
+      trans: Heinrich Wilhelm Weiland Nordholz
+  
+    - name: Heinrich Ludewig Weiland
+      image: 316
+      year: 1769
+      age:  
+      locality: Röcke
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/b798d91460/ 
+      trans: Heinrich Ludewig Weiland Röcke 
+  
+    - name: Jobst Heinrich Weiland 
+      image: 317 
+      year: 1772
+      age:  
+      locality: Röcke
+      vdate: 26 August 2026 
+      url: https://www.archion.de/p/7b50caa5f3/
+      trans: Jobst Heinrich Weiland aus Röcke 
+  
+    - name: Jost Heinrich Weiland 
+      image: 317
+      year: 1774
+      age:  
+      locality: Berenbusch
+      vdate: 26 August 2026 
+      url: https://www.archion.de/p/e88a5aaef1/
+      trans: Jobst Heinrich Weiland____Berembusch
+  
+    - name: Christina Weiland
+      image: 317 
+      year: 1774
+      age:  
+      locality: Evesen
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/a60d42480c/
+      trans: Christina Weilands____Evesen
+  
+    - name: Hans Heinrich Weiland  
+      image: 318
+      year: 1777 
+      age:  
+      locality: Berenbusch
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/4e469274f3/
+      trans: Hans Heinrich Weiland aus Berenbusch
+  
+    - name: Heinrich Ludowig Weiland 
+      image: 319
+      year: 1779
+      age:  
+      locality: Peezen
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/d765ab3370/
+      trans: Heinrich Ludowig Weiland Peezen 
+  
+    - name: Anna Ilsabei Vahlsing
+      image: 320
+      year: 1782
+      age:  
+      locality: Evesen
+      vdate: 27 August 2026
+      url: https://www.archion.de/p/94f6b8c73d/
+      trans: Anna Ilsabei Vahlsing aus Evesen 
+  
+    - name: Johann Heinrich Weiland 
+      image: 321 
+      year: 1783 
+      age:  
+      locality: Nordholtz Berenbusch 
+      vdate: 27 August 2026
+      url: https://www.archion.de/p/f433693d9a/
+      trans: Johann Heinrich Weiland aus Nordholtz Berenbusch 
+  
+    - name: Anna Philippina Weiland 
+      image: 322
+      year: 1784
+      age:  
+      locality: Evesen
+      vdate: 27 August 2026
+      url: https://www.archion.de/p/69538680ea/
+      trans: Anna Philippina Weilands aus Evesen
