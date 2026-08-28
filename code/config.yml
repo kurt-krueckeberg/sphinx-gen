@@ -135,16 +135,17 @@ marriages:
       trans:  "d 17t octobr. Johann Henrich Weiland von Nammen mit Catharina Mysings sel. Joh. Bünten Witwe copuliret"
       lation: "On 17 October, Johann Henrich Weiland of Nammen was married to Catharina Mysing, widow of the late Johann Bünte."
 
-    - name:
-      image: RESUME with 47 
-      ifile: 
-      date:
-      vdate:
-      url:
-      trans:
+    - name: Jobst Henrich Weiland
+      image: 48 
+      ifile: petzen-band1b-img48-weiland2.png
+      date: 7 June 1753
+      vdate: 27 August 2026
+      url: https://www.archion.de/p/bf5657d55f/
+      trans: "d 7tJunii Jobst Henrich Weiland aus Bernbusch mit Anna Ilsa Margarathe Mönchhofs von Jägers Stette zu Evesen copulirt"
+      lation: "On 7 June, Jobst Henrich Weiland of Bernbusch was married to Anna Ilsa Margaretha Mönchhof, from Jäger’s place in Evesen."
 
     - name:
-      image: 
+      image: RESUME at 49 
       ifile: 
       date:
       vdate:
