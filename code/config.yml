@@ -144,16 +144,17 @@ marriages:
       trans: "d 7tJunii Jobst Henrich Weiland aus Bernbusch mit Anna Ilsa Margarathe Mönchhofs von Jägers Stette zu Evesen copulirt"
       lation: "On 7 June, Jobst Henrich Weiland of Bernbusch was married to Anna Ilsa Margaretha Mönchhof, from Jäger’s place in Evesen."
 
-    - name:
-      image: RESUME at 49 
-      ifile: 
-      date:
-      vdate:
-      url:
-      trans:
+    - name: Heinrich Ludewig Weiland
+      image: 56
+      ifile: petzen-band1b-img56-weiland.png
+      date: 7 February 1765
+      vdate: 27 August 2026
+      url: https://www.archion.de/p/4eff94fb92/
+      trans: "d 7t Febr: Heinrich Ludewig Weiland Schweinhirtens und Einliegers in Röcke mit Anna Christina Nergen aus der Driften in Pezen copuliret."
+      lation: "On 7 February, Heinrich Ludewig Weiland, swineherd and lodger in Röcke, was married to Anna Christina Nergen from the Drift in Pezen."
 
     - name:
-      image: 
+      image: start at 57 
       ifile: 
       date:
       vdate:
