@@ -1,13 +1,13 @@
 file_extension: md
 marriages:
-  file_format: PET-B-%year%
+  file_format: PET-M-%year%
   volume_name: Verzeichnis der Getrauten und Gestorbenen 1641-1784
   citation: >-
     "Archion Protestant Kirchenbücher Portal", database with images, Archion
     (<%url%> : %vdate%), path: Niedersachsen > Niedersächsisches Landesarchiv >
     Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
     Petzen > %volume_name%,
-    image %image% of 322
+    image %image% of 239
   married:
     - name: Weiland
       image: 15
@@ -153,8 +153,177 @@ marriages:
       trans: "d 7t Febr: Heinrich Ludewig Weiland Schweinhirtens und Einliegers in Röcke mit Anna Christina Nergen aus der Driften in Pezen copuliret."
       lation: "On 7 February, Heinrich Ludewig Weiland, swineherd and lodger in Röcke, was married to Anna Christina Nergen from the Drift in Pezen."
 
+burials:
+  file_format: PET-D-%year%
+  volume_name: Verzeichnis der Getrauten und Gestorbenen 1641-1784
+  citation: >-
+    "Archion Protestant Kirchenbücher Portal", database with images, Archion
+    (<%url%> : %vdate%), path: Niedersachsen > Niedersächsisches Landesarchiv >
+    Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
+    Petzen > %volume_name%,
+    image %image% of 239
+  buried:
+    - name: 
+      image:
+      ifile:
+      date:
+      vdate:
+      url:
+      trans:
+      lation:
+
+    - name: 
+      image:
+      ifile:
+      date:
+      vdate:
+      url:
+      trans:
+      lation:
+
+    - name: 
+      image:
+      ifile:
+      date:
+      vdate:
+      url:
+      trans:
+      lation:
+
+    - name: 
+      image:
+      ifile:
+      date:
+      vdate:
+      url:
+      trans:
+      lation:
+
+    - name: 
+      image:
+      ifile:
+      date:
+      vdate:
+      url:
+      trans:
+      lation:
+
+    - name: 
+      image:
+      ifile:
+      date:
+      vdate:
+      url:
+      trans:
+      lation:
+
+    - name: 
+      image:
+      ifile:
+      date:
+      vdate:
+      url:
+      trans:
+      lation:
+
+    - name: 
+      image:
+      ifile:
+      date:
+      vdate:
+      url:
+      trans:
+      lation:
+
+
+    - name: 
+      image:
+      ifile:
+      date:
+      vdate:
+      url:
+      trans:
+      lation:
+
+
+    - name: 
+      image:
+      ifile:
+      date:
+      vdate:
+      url:
+      trans:
+      lation:
+
+
+    - name: 
+      image:
+      ifile:
+      date:
+      vdate:
+      url:
+      trans:
+      lation:
+
+
+    - name: 
+      image:
+      ifile:
+      date:
+      vdate:
+      url:
+      trans:
+      lation:
+
+
+    - name: 
+      image:
+      ifile:
+      date:
+      vdate:
+      url:
+      trans:
+      lation:
+
+
+    - name: 
+      image:
+      ifile:
+      date:
+      vdate:
+      url:
+      trans:
+      lation:
+
+
+    - name: 
+      image:
+      ifile:
+      date:
+      vdate:
+      url:
+      trans:
+      lation:
+
+
+    - name: 
+      image:
+      ifile:
+      date:
+      vdate:
+      url:
+      trans:
+      lation:
+
+
+
+
+
+
+
+
 confirmations:
-  file_format: PET-B-%year%
+  file_format: PET-C-%year%
   volume_name: Verzeichnis der Getauften und Konfirmierten 1641-1784
   citation: >-
     "Archion Protestant Kirchenbücher Portal", database with images, Archion
@@ -514,3 +683,4 @@ confirmations:
       vdate: 27 August 2026
       url: https://www.archion.de/p/69538680ea/
       trans: Anna Philippina Weilands aus Evesen
+

@@ -22,14 +22,15 @@ Petzen baptisms in  [Verzeichnis der Getauften und Konfirmierten 1641-1784](http
 Some pages are missing in the H1 header the locality. Some are missing the
 list-table of relationships and facts.
 
-
 ## Confirmation 1705-1784
 
 **DONE**
 
 ## Review of Marriages 1641-1784
 
-List of the marriage images reviewed in the Petzen Kirchenbuch
+**DONE**
+
+Marriage images reviewed in the Petzen Kirchenbuch
 [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.archion.de/de/viewer/churchRegister/329074?cHash=7d4de5d86cdc37d46ca50b1a9a9b1ad8)
 
 Marriages from image 17 through **image 68**, the last marriage image in the **1641-1784 volume** were reviewed
@@ -40,10 +41,7 @@ for Weiland and KRückeberg.
 Deaths in [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.archion.de/de/viewer/churchRegister/329074?coords=2867%2C3103&degree=0&pageId=46233839&zoom=9&cHash=ec75f91f5aac73eb584b722079fa7e13).
 
 
-```{important}
-When Henrich Weilandt is born on 1 May 1718, his father is already dead.
-We need to find his burial record.
-```
+TODO: Review image 83/year 1666 to 93.
 
 ```{list-table} Review started with image 87, year 1670.
 :header-rows: 1
@@ -53,14 +51,17 @@ We need to find his burial record.
 * - 93 — 152
   - 1674 — 1735, first half
 ```
-## Review of Confirmations 1700-1784
 
-```{list-table}
+## Review of Confirmations 1705-1784
+
+**Done**. There is a gap where there are no confirmation records. 
+The confirmation records in the **Verzeichnis der Getauften und Konfirmierten 1641-1784**
+begin in 1705. They also contain a **gap from 1717-1733**.
+
+```{list-table} Confirmation records
 :header-rows: 1
 
-* - Image Number
-  - Year
-* - 295
-  - 1706 (start of volume)
-* - 322
-  - 1784 (end of volume)
+* - Range of Years with Confirmation Records
+* - 1705  — 1716
+* - 1734  — 1784
+```
