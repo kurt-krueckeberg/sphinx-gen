@@ -190,17 +190,17 @@ burials:
       trans: "Wolter Weilandt zu Peeten, Sohn, 16 Wochen alt den 18 Junij begraben."
       lation: "The son of Wolter Weilandt of Peeten, 16 weeks old, buried on June 18."
 
-    - name: 
-      image: RESUME at 100
-      ifile:
-      date:
-      vdate:
-      url:
-      trans:
-      lation:
+    - name: "Elderly Weiland woman of Petzen"
+      image: 104
+      ifile: petzen-band1b-img104-weiland.png
+      date: 25 March 1683
+      vdate: 28 August 2026
+      url: https://www.archion.de/p/07c4c14084/
+      trans: "Die alte Weiland:sche zu Peten den 25 Martij begraben."
+      lation: "“The elderly Weiland woman of Petzen was buried on 25 March."
 
     - name: 
-      image:
+      image: 111
       ifile:
       date:
       vdate:
