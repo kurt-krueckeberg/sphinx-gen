@@ -172,26 +172,26 @@ burials:
       trans: "[unclear] Wilandts Mätigen zu Petzen den 8 Decemb. begraben"
       lation: "[unclear] Wilandts daughter at Petzen den 8 Decemb buried."
 
-    - name: 
-      image: resume at 97
+    - name: not given
+      image: 98, left page, fifth from bottom 
       ifile:
-      date:
-      vdate:
-      url:
-      trans:
+      date: 24 February 1678
+      vdate: 28 August 2026
+      url: https://www.archion.de/p/56be28256d/
+      trans: 
       lation:
 
-    - name: 
-      image:
-      ifile:
-      date:
-      vdate:
-      url:
-      trans:
-      lation:
+    - name: Son of Wolter Weilandt of Peeten
+      image: 99
+      ifile: petzen-band1b-img99-weiland.p[ng
+      date: 18 June 1679
+      vdate: 28 August 2026
+      url: https://www.archion.de/p/8b89636f40/
+      trans: "Wolter Weilandt zu Peeten, Sohn, 16 Wochen alt den 18 Junij begraben."
+      lation: "The son of Wolter Weilandt of Peeten, 16 weeks old, buried on June 18."
 
     - name: 
-      image:
+      image: RESUME at 100
       ifile:
       date:
       vdate:
