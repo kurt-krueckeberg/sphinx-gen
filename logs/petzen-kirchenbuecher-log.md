@@ -32,21 +32,8 @@ list-table of relationships and facts.
 List of the marriage images reviewed in the Petzen Kirchenbuch
 [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.archion.de/de/viewer/churchRegister/329074?cHash=7d4de5d86cdc37d46ca50b1a9a9b1ad8)
 
-Marriages end at **image 68.**
-
-
-```{list-table} Review started with image 17, year 1680
-:header-rows: 1
-
-* - Images Reviewed for Weiland/Krückeberg
-* - 17-56 reviewed.
-* - 58 thru 67 reviewed. All Weiland's found were put on gen.krueckeberg.org.
-* - **TODO** re-review 57-68.
-```
-
-```{note}
-Image 20 contains a Kuhlman marraige.
-```
+Marriages from image 17 through **image 68**, the last marriage image in the **1641-1784 volume** were reviewed
+for Weiland and KRückeberg.
 
 ## Review of Deaths 1641-1784
 
