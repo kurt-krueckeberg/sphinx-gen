@@ -163,17 +163,17 @@ burials:
     Petzen > %volume_name%,
     image %image% of 239
   buried:
-    - name: 
-      image: 90
-      ifile:
-      date:
-      vdate: 
-      url:
-      trans:
-      lation:
+    - name: Wilandt's of Petzen daughter
+      image: 96
+      ifile: petzen-band1b-img96-weiland-burial.png
+      date: 8 December 1676
+      vdate: 28 August 2026 
+      url: https://www.archion.de/p/c49ee4a701/
+      trans: "[unclear] Wilandts Mätigen zu Petzen den 8 Decemb. begraben"
+      lation: "[unclear] Wilandts daughter at Petzen den 8 Decemb buried."
 
     - name: 
-      image:
+      image: resume at 97
       ifile:
       date:
       vdate:
