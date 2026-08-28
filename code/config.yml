@@ -153,38 +153,6 @@ marriages:
       trans: "d 7t Febr: Heinrich Ludewig Weiland Schweinhirtens und Einliegers in Röcke mit Anna Christina Nergen aus der Driften in Pezen copuliret."
       lation: "On 7 February, Heinrich Ludewig Weiland, swineherd and lodger in Röcke, was married to Anna Christina Nergen from the Drift in Pezen."
 
-    - name:
-      image: start at 57 
-      ifile: 
-      date:
-      vdate:
-      url:
-      trans:
-
-    - name:
-      image: 
-      ifile: 
-      date:
-      vdate:
-      url:
-      trans:
-
-    - name:
-      image: 
-      ifile: 
-      date:
-      vdate:
-      url:
-      trans:
-
-    - name:
-      image: 
-      ifile: 
-      date:
-      vdate:
-      url:
-      trans:
-
 confirmations:
   file_format: PET-B-%year%
   volume_name: Verzeichnis der Getauften und Konfirmierten 1641-1784
