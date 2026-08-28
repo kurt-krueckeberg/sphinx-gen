@@ -226,102 +226,6 @@ burials:
       trans:
       lation:
 
-    - name: 
-      image:
-      ifile:
-      date:
-      vdate:
-      url:
-      trans:
-      lation:
-
-
-    - name: 
-      image:
-      ifile:
-      date:
-      vdate:
-      url:
-      trans:
-      lation:
-
-
-    - name: 
-      image:
-      ifile:
-      date:
-      vdate:
-      url:
-      trans:
-      lation:
-
-
-    - name: 
-      image:
-      ifile:
-      date:
-      vdate:
-      url:
-      trans:
-      lation:
-
-
-    - name: 
-      image:
-      ifile:
-      date:
-      vdate:
-      url:
-      trans:
-      lation:
-
-
-    - name: 
-      image:
-      ifile:
-      date:
-      vdate:
-      url:
-      trans:
-      lation:
-
-
-    - name: 
-      image:
-      ifile:
-      date:
-      vdate:
-      url:
-      trans:
-      lation:
-
-
-    - name: 
-      image:
-      ifile:
-      date:
-      vdate:
-      url:
-      trans:
-      lation:
-
-
-    - name: 
-      image:
-      ifile:
-      date:
-      vdate:
-      url:
-      trans:
-      lation:
-
-
-
-
-
-
-
-
 confirmations:
   file_format: PET-C-%year%
   volume_name: Verzeichnis der Getauften und Konfirmierten 1641-1784
@@ -684,3 +588,32 @@ confirmations:
       url: https://www.archion.de/p/69538680ea/
       trans: Anna Philippina Weilands aus Evesen
 
+baptisms:
+ file_format: PET-B-%year%
+  volume_name: Verzeichnis der Getauften und Konfirmierten 1641-1784
+  citation: >-
+    "Archion Protestant Kirchenbücher Portal", database with images, Archion
+    (<%url%> : %vdate%), path: Niedersachsen > Niedersächsisches Landesarchiv >
+    Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
+    Petzen > %volume_name%,
+    image %image% of 322
+  baptized:
+    - name: Daughter of Hans Weiland
+      image: 10
+      year: 13 August 1648
+      age: 
+      locality:
+      vdate:
+      url: 
+      trans: 
+
+    - name: Hans Weiland's Daughter
+      image: 12
+      year: 11 April 1651
+      age: 
+      locality:
+      vdate: 
+      url: 
+      trans: 
+   
+  
