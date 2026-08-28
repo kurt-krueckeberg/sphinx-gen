@@ -199,26 +199,26 @@ burials:
       trans: "Die alte Weiland:sche zu Peten den 25 Martij begraben."
       lation: "“The elderly Weiland woman of Petzen was buried on 25 March."
 
-    - name: 
-      image: 111
-      ifile:
-      date:
-      vdate:
-      url:
-      trans:
-      lation:
+    - name: "Wolter Weilandt’s little daughter"
+      image: 113
+      ifile: petzen-band1b-img113-weiland.png
+      date: 17 February 1693
+      vdate: 28 August 2026
+      url: https://www.archion.de/p/04d28f5cdc/
+      trans: "Wolter Weilandt, Töchterlein, den 17 Februar begraben."
+      lation: "Wolter Weilandt’s little daughter, buried 17 February."
+
+    - name: Wolter Weilandt 
+      image: 117
+      ifile: petzen-band1b-img117-weiland.png
+      date: 5 July 1694
+      vdate: 28 Aguust 2026
+      url: https://www.archion.de/p/0f5d7efeab/
+      trans: "Wolter Weilandt zu Petzen den 5 Julij begraben"
+      lation: 
 
     - name: 
-      image:
-      ifile:
-      date:
-      vdate:
-      url:
-      trans:
-      lation:
-
-    - name: 
-      image:
+      image: reusme at 118
       ifile:
       date:
       vdate:
