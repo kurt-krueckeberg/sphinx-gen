@@ -1,3 +1,5 @@
+# edate = event date
+# vdate = view date
 file_extension: md
 marriages:
   file_format: PET-M-%year%
@@ -12,7 +14,7 @@ marriages:
     - name: Weiland
       image: 15
       ifile: 
-      date: 12 November or December 1675
+      edate: 12 November or December 1675
       vdate: 27 August 2026
       url: https://www.archion.de/p/810b859f6a/
       trans: "[unclear] Weilandt Elisabeth Rödemeisters zu Petyen den 12 [either Nov. or Dec.] copuliret"
@@ -21,7 +23,7 @@ marriages:
     - name: Hans Hinrich Weiland
       image: 26
       ifile: petzen-band1b-img26-weiland.png
-      date: 2 March 1702
+      edate: 2 March 1702
       vdate: 27 August 2026
       url: https://www.archion.de/p/6e4a60e49b/ 
       trans: "Hans Hinrich Weilandt von Petzen und Anna Margaretha Sanders auf den Berenbusch den 2 Martij copuliret"
@@ -30,7 +32,7 @@ marriages:
     - name: Johan Tonnis Weyland 
       image: 29
       ifile: petzen-band1b-img29-weiland.png 
-      date: 28 October 1708 
+      edate: 28 October 1708 
       vdate: 27 August 2026
       url: 
       trans: "den 28. 8br [sint] copuliret Johan Tonnis Weyland aus Peezen mitt Annen Jlsabey Brandts aus Nammen, mitt Welcher er schon vorhin ein Fuhr Kind gezeugt"
@@ -39,7 +41,7 @@ marriages:
     - name: Hans Weÿlandt 
       image: 30
       ifile: petzen-band1b-img30-weiland.png 
-      date: 27 August 2027
+      edate: 27 August 2027
       vdate: 19 October 1712
       url: https://www.archion.de/p/d50e7390f3/
       trans: "Den 19 8br ist Hans Weÿlandt auß Evesen mit Hille Poocks copuliret."
@@ -48,7 +50,7 @@ marriages:
     - name: Hans Weÿland 
       image: 32
       ifile: petzen-band1b-img32-weiland.png
-      date: 28 August
+      edate: 28 August
       vdate: 27 August 2026
       url: https://www.archion.de/p/e7498ba239/
       trans: "den 28t August: ist Hans Weÿland auß Evesen mit Sophia Marlena Engelkings auß Cammer copuliret." 
@@ -57,7 +59,7 @@ marriages:
     - name: Herman Henrich Weÿland 
       image: 33
       ifile: petzen-band1b-img33-weiland.png
-      date: 5 September 1720 
+      edate: 5 September 1720 
       vdate: 27 August 2026
       url: https://www.archion.de/p/86a2e44c1c/
       trans: "den 5 Septembr ist Herman Henrich Weÿland von Evesen mit Anna Catharina Piels auß Berenbusch copuliret"
@@ -66,7 +68,7 @@ marriages:
     - name: Hanß Henrich Weÿland 
       image: 35
       ifile: petzen-band1b-img35-weiland.png
-      date: 14 November 1723
+      edate: 14 November 1723
       vdate: 27 August 2026
       url: https://www.archion.de/p/61953005ab/
       trans: "den 14. Novembr ist Hanß Henrich Weÿland auß Evesen, mit Ilsabe [Perte?] getrauet."
@@ -75,7 +77,7 @@ marriages:
     - name: Herman Henrich Weÿland 
       image: 37 
       ifile: petzen-band1b-img37-weiland.png
-      date: 24 November 1728
+      edate: 24 November 1728
       vdate: 27 August 2026
       url: https://www.archion.de/p/7281702721/
       trans: "den 24t Novemb ist Herman Henrich Weÿland auß Evesen mit Anna Catharina Steinmeÿers auß [Frille/Grille]" 
@@ -84,7 +86,7 @@ marriages:
     - name: Jobst Henirch Weÿland 
       image: 38 
       ifile: petzen-band1b-img38-weiland2.png
-      date: 13 September 1731
+      edate: 13 September 1731
       vdate: 26 August 2026
       url: https://www.archion.de/p/55ef75b9fc/
       trans: "den 13t Septemb ist Jobst Henirch Weÿland auß Berenbusch mit Rudolphina Mönckhofs auß Evesen copuliret worden"
@@ -93,7 +95,7 @@ marriages:
     - name: Johann Friderich Weiland  
       image: 40
       ifile: petzen-band1b-img40-weiland2.png
-      date: 7 October 1734
+      edate: 7 October 1734
       vdate: 27 August 2026
       url: https://www.archion.de/p/29cf0c5d43/
       trans: "Octobr d 7t Johann Friderich Weiland v. Berenbusch mit Anna Maria Elisabeth Cohmiers v. Eves[en]"
@@ -102,7 +104,7 @@ marriages:
     - name: Johann Friderich Wilhelm Weiland 
       image: 41
       ifile: petzen-band1b-img41-weiland
-      date: 24 November 1737
+      edate: 24 November 1737
       vdate: 27 August 2026 
       url: https://www.archion.de/p/afd3b9e513/
       trans: "d 24t Johann Friderich Wilhelm Weiland von Nammen mit Anna Sophia Maria Ostermeiers von Northolt copuliret."
@@ -111,7 +113,7 @@ marriages:
     - name: Henrich Weiland 
       image: 43
       ifile: petzen-band1b-img43-weiland.png
-      date: 14 February 1745
+      edate: 14 February 1745
       vdate: 27 Aguust 2026
       url: https://www.archion.de/p/42b90e6dee/
       trans: "Ao 1745 Februarÿ d. 14 Henrich Weiland von Behrenbusch mit Sophia Elisabeth [Rösner?] verwitwet Bünten copuliret."
@@ -120,7 +122,7 @@ marriages:
     - name: Herman Henrich Weiland
       image: 45
       ifile: petzen-band1b-img45-weiland.png
-      date: 3 November 1746
+      edate: 3 November 1746
       vdate: 27 Aguust 2026
       url: https://www.archion.de/p/ec0fc42b7b/
       trans: "d 3 Novembr ist Herman Henrich Weiland aus Evesen mit Anna Sabina Breiners aus Warber copuliret worden."
@@ -129,7 +131,7 @@ marriages:
     - name: Johann Henrich Weiland 
       image: 46
       ifile: petzen-band1b-img46-weiland1.png
-      date: 17 October 1748
+      edate: 17 October 1748
       vdate: 27 August 2026
       url: https://www.archion.de/p/e4313feebe/
       trans:  "d 17t octobr. Johann Henrich Weiland von Nammen mit Catharina Mysings sel. Joh. Bünten Witwe copuliret"
@@ -138,7 +140,7 @@ marriages:
     - name: Jobst Henrich Weiland
       image: 48 
       ifile: petzen-band1b-img48-weiland2.png
-      date: 7 June 1753
+      edate: 7 June 1753
       vdate: 27 August 2026
       url: https://www.archion.de/p/bf5657d55f/
       trans: "d 7tJunii Jobst Henrich Weiland aus Bernbusch mit Anna Ilsa Margarathe Mönchhofs von Jägers Stette zu Evesen copulirt"
@@ -147,7 +149,7 @@ marriages:
     - name: Heinrich Ludewig Weiland
       image: 56
       ifile: petzen-band1b-img56-weiland.png
-      date: 7 February 1765
+      edate: 7 February 1765
       vdate: 27 August 2026
       url: https://www.archion.de/p/4eff94fb92/
       trans: "d 7t Febr: Heinrich Ludewig Weiland Schweinhirtens und Einliegers in Röcke mit Anna Christina Nergen aus der Driften in Pezen copuliret."
@@ -166,7 +168,7 @@ burials:
     - name: Wilandt's of Petzen daughter
       image: 96
       ifile: petzen-band1b-img96-weiland-burial.png
-      date: 8 December 1676
+      edate: 8 December 1676
       vdate: 28 August 2026 
       url: https://www.archion.de/p/c49ee4a701/
       trans: "[unclear] Wilandts Mätigen zu Petzen den 8 Decemb. begraben"
@@ -175,7 +177,7 @@ burials:
     - name: not given
       image: 98, left page, fifth from bottom 
       ifile:
-      date: 24 February 1678
+      edate: 24 February 1678
       vdate: 28 August 2026
       url: https://www.archion.de/p/56be28256d/
       trans: 
@@ -184,7 +186,7 @@ burials:
     - name: Son of Wolter Weilandt of Peeten
       image: 99
       ifile: petzen-band1b-img99-weiland.p[ng
-      date: 18 June 1679
+      edate: 18 June 1679
       vdate: 28 August 2026
       url: https://www.archion.de/p/8b89636f40/
       trans: "Wolter Weilandt zu Peeten, Sohn, 16 Wochen alt den 18 Junij begraben."
@@ -193,7 +195,7 @@ burials:
     - name: "Elderly Weiland woman of Petzen"
       image: 104
       ifile: petzen-band1b-img104-weiland.png
-      date: 25 March 1683
+      edate: 25 March 1683
       vdate: 28 August 2026
       url: https://www.archion.de/p/07c4c14084/
       trans: "Die alte Weiland:sche zu Peten den 25 Martij begraben."
@@ -202,7 +204,7 @@ burials:
     - name: "Wolter Weilandt’s little daughter"
       image: 113
       ifile: petzen-band1b-img113-weiland.png
-      date: 17 February 1693
+      edate: 17 February 1693
       vdate: 28 August 2026
       url: https://www.archion.de/p/04d28f5cdc/
       trans: "Wolter Weilandt, Töchterlein, den 17 Februar begraben."
@@ -211,16 +213,16 @@ burials:
     - name: Wolter Weilandt 
       image: 117
       ifile: petzen-band1b-img117-weiland.png
-      date: 5 July 1694
+      edate: 5 July 1694
       vdate: 28 Aguust 2026
       url: https://www.archion.de/p/0f5d7efeab/
       trans: "Wolter Weilandt zu Petzen den 5 Julij begraben"
       lation: 
 
     - name: 
-      image: reusme at 118
+      image: resume at 118
       ifile:
-      date:
+      edate:
       vdate:
       url:
       trans:
