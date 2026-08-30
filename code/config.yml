@@ -5,14 +5,22 @@ volume-path: >-
   Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe
 file_extension: md
 file-format: PET-%record-symbol%-%year%
+volumes:
+  band1a:
+    name: "Verzeichnis der Getauften und Konfirmierten 1641-1784"
+    total-images: 312
+
+  band1b:
+    name: "Verzeichnis der Getrauten und Gestorbenen 1641-1784"
+    total-images: 239
 citation: >-
     "Archion Protestant Kirchenbücher Portal", database with images, Archion
     (<%url%> : %vdate%), path: %volume-path% > %parish% > %volume-name%,
     image %image-no% of %total-images%
 marriages:
+  volume: band1b
   record-symbol: M
   volume-name: Verzeichnis der Getrauten und Gestorbenen 1641-1784
-  total-images:  TODO????????????????
   records:
   - name: Weiland
     image-no: 15
@@ -159,6 +167,7 @@ marriages:
     trans: "On 7 February, Heinrich Ludewig Weiland, swineherd and lodger in Röcke, was married to Anna Christina Nergen from the Drift in Pezen."
   
 burials: 
+  volume: band1 
   record-symbol: D
   volume-name: Verzeichnis der Getrauten und Gestorbenen 1641-1784
   total-images: 239
@@ -227,6 +236,7 @@ burials:
     trans:
   
 confirmations:
+  volume: band1a 
   record-symbol: C
   file-format: PET-C-%year%
   volume-name: Verzeichnis der Getauften und Konfirmierten 1641-1784
@@ -584,6 +594,7 @@ confirmations:
     literal: Anna Philippina Weilands aus Evesen
   
 baptisms:
+  volume: band1a
   record-symbol: B
   file-format: PET-B-%year%
   volume-name: Verzeichnis der Getauften und Konfirmierten 1641-1784
