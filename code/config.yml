@@ -634,4 +634,47 @@ church-records:
         trans: >-
           Wolter Weiland’s daughter, Anna Catharina Eleonora, was baptized on 27 August. Sponsors were Johan
           Halvekop’s sister and a girl from der [Reisen?] named Anna.  
-     
+    
+      - name: Anna Catharine Eleonora Weiland 
+        image-no: 55 
+        year: 1676
+        edate: 27 August 1676
+        locality: Petzen
+        ifile: petzen-band1a-img55-weiland.png  
+        vdate: 30 August 2026 
+        url: https://www.archion.de/p/6d83b6a5c9/
+        literal: >- 
+          Wolter Weilands zu Petzen Tochter Anna Catharina Eleonora
+          getaufft den 27  Aügusti gefattern Johan Halvekopfs Schwester
+          und ein Mätigen [von ?? Reisen] Nahmens Anna
+        trans: >-
+          Wolter Weiland’s daughter, Anna Catharina Eleonora, was baptized on 27 August. Sponsors were Johan
+          Halvekop’s sister and a girl from der [Reisen?] named Anna.  
+ 
+      - name: Anna Margaretha Weiland
+        image-no: 56
+        year: 1678
+        edate: 20 January 1678
+        locality: Petzen
+        ifile: 
+        vdate: 30 August 2026 
+        url: https://www.archion.de/p/b655e6998b/
+        literal: >- 
+          Wolter Weilandt zu Petzen, Tochter, Anna Margaretha, getaufft
+          den 20 Januarij gefattere die Miersche zu Röcke, Daniel Vogts
+          Frau, u[nd]: des [Rödemiesters?] Frau in Nordholtz
+        trans: >-
+          Wolter Weilandt of Petzen’s daughter, Anna Margaretha, was baptized on 20 January. The godmothers were Mrs. Mier of Röcke, Daniel Vogt’s wife, and the wife of Rödemeister in Nordholtz.
+       
+      - name:
+        image-no: Resume at 57
+        year:
+        edate:
+        locality:
+        ifile:
+        vdate:
+        url:
+        literal:
+        trans:
+       
+      
