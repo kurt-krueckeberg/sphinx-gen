@@ -11,13 +11,14 @@
   - Sponsor
 * - [Wolter?] Weilandt 
   - Peezen (Petzen)
-  - Hans [Hinrig?] Weilandt
-  - Hans [?], der [?], and [Johann Däher?] of Peezen.
+  - Hans Hinrig Weilandt
+  - - Hans [Bradschader?], the furrier
+    - [Johann Däher?] of Peezen.
 ```
 
 ## Record
 
-The baptism of Hans Henrig (Henrich?) from Peezen (Petzen) is on {ref}`image 60 <PET-B-1680a>`
+The baptism of Hans Henrig from Peezen (Petzen) is on {ref}`image 60 <PET-B-1680a>`
 of the Petzen church register *Verzeichnis der Getaufen und Konfirmierten
 1641-1784*.
 
@@ -36,15 +37,16 @@ of February 19 through February 28.
 
 
 ```{div} doc-text
-[Wolter?] Weilandt [zu?] Peezen ein Söhnlein Hans Hinrig [??] den ? Decemb:,
-Gefatter, Hans [?], der [?], und [Johann Däher?] zu Peezen.
+Wolter Weilandt zu Petzen, Söhnlein, Hans Hinrig getauft
+den 21 Decemb:, gefattern, Hans [Bradschader?], der Krüs:er, und Johann Däher zu Petzen
 ```
 
 ## Translation
 
 ```{div} doc-text
-[Wolter?] Weilandt of Peezen, a little son, Hans Hinrig [??], on the ? of December.
-Godfathers: Hans [?], der [?], und [Johann Däher?] zu Peezen.
+Wolter Weilandt of Petzen, [his] little son Hans Hinrig, baptized on 21
+December. Sponsors: Hans [Bradschäder?], the furrier, and Johann Däher of
+Petzen.
 ```
 
 ## Citation
