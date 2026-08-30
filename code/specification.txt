@@ -1,0 +1,11 @@
+The program may create new Markdown files, but it must NEVER overwrite,
+truncate, rename, delete, or modify any existing Markdown file.
+
+Before creating an output file, it must check whether that pathname already
+exists. If the file exists, the program must stop for that file and report
+an error. It must not open an existing file in write mode.
+
+Use an exclusive-create mechanism so that file creation itself fails if the
+file already exists.
+
+
