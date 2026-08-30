@@ -51,8 +51,8 @@ marriages:
   - name: Hans Weÿlandt 
     image-no: 30
     ifile: petzen-band1b-img30-weiland.png 
-    edate: 27 August 2027
-    vdate: 19 October 1712
+    edate: 19 October 1712
+    vdate: 27 August 2026
     url: https://www.archion.de/p/d50e7390f3/
     literal: "Den 19 8br ist Hans Weÿlandt auß Evesen mit Hille Poocks copuliret."
     trans: "On October 19, Hans Weÿlandt of Evesen was married to Hille Poock."
@@ -668,7 +668,7 @@ baptisms:
       baptized on 20 January. The godmothers were Mrs. Mier of Röcke,
       Daniel Vogt’s wife, and the wife of Rödemeister in Nordholtz.
    
-  - name:
+  - name: Cort Hinrig Weilandt 
     image-no: 58
     year: 1679
     edate: 13 February 1679
