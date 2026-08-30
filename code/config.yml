@@ -593,7 +593,8 @@ church-records:
         baptized:
       - name: Daughter of Hans Weiland
         image-no: 10
-        year: 13 August 1648
+        year: 1648
+        edate: 13 August 1648 
         locality:
         ifile: petzen-band1a-img10-weiland.png 
         vdate: 28 August 2026
@@ -609,7 +610,8 @@ church-records:
   
       - name: Hans Weiland's Daughter
         image-no: 12 
-        year: 11 April 1651
+        year: 1651
+        edate: 11 April 1651
         locality:
         ifile: petzen-band1a-img12-weiland.png
         vdate: 30 August 2026 
@@ -617,12 +619,19 @@ church-records:
         literal: "Hans Weilands tochter Ilschen, gf. Ilsche Sandersche im Berenbusche, den 11 Aprilis." 
         trans: "Hans Weiland's daughter Ilschen. Godparent: Ilsche, wife of Sanders, in Berenbusch. On 11 April."
    
-      - name: 
-        image-no: RESUME 41 
-        year:
-        locality:
-        ifile:   
-        vdate: 
-        url: 
-        literal: 
+      - name: Anna Catharine Eleonora Weiland 
+        image-no: 55 
+        year: 1676
+        edate: 27 August 1676
+        locality: Petzen
+        ifile: petzen-band1a-img55-weiland.png  
+        vdate: 30 August 2026 
+        url: https://www.archion.de/p/6d83b6a5c9/
+        literal: >- 
+          Wolter Weilands zu Petzen Tochter Anna Catharina Eleonora
+          getaufft den 27  Aügusti gefattern Johan Halvekopfs Schwester
+          und ein Mätigen [von ?? Reisen] Nahmens Anna
+        trans: >-
+          Wolter Weiland’s daughter, Anna Catharina Eleonora, was baptized on 27 August. Sponsors were Johan
+          Halvekop’s sister and a girl from der [Reisen?] named Anna.  
      
