@@ -4,12 +4,13 @@ volume-path: >-
   Niedersachsen > Niedersächsisches Landesarchiv >
   Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe
 file_extension: md
-file-format: PET-%type%-%year%
+file-format: PET-%record-symbol%-%year%
 citation: >-
     "Archion Protestant Kirchenbücher Portal", database with images, Archion
     (<%url%> : %vdate%), path: %volume-path% > %parish% > %volume-name%,
     image %image-no% of %total-images%
 marriages:
+  record-symbol: M
   volume-name: Verzeichnis der Getrauten und Gestorbenen 1641-1784
   total-images:  TODO????????????????
   records:
@@ -116,7 +117,7 @@ marriages:
     image-no: 43
     ifile: petzen-band1b-img43-weiland.png
     edate: 14 February 1745
-    vdate: 27 Aguust 2026
+    vdate: 27 August 2026
     url: https://www.archion.de/p/42b90e6dee/
     literal: "Ao 1745 Februarÿ d. 14 Henrich Weiland von Behrenbusch mit Sophia Elisabeth [Rösner?] verwitwet Bünten copuliret."
     trans: "in the year 1745, on February 14, Henrich Weiland of Behrenbusch married Sophia Elisabeth [Rösner?] widow of Bünte."
@@ -125,7 +126,7 @@ marriages:
     image-no: 45
     ifile: petzen-band1b-img45-weiland.png
     edate: 3 November 1746
-    vdate: 27 Aguust 2026
+    vdate: 27 August 2026
     url: https://www.archion.de/p/ec0fc42b7b/
     literal: "d 3 Novembr ist Herman Henrich Weiland aus Evesen mit Anna Sabina Breiners aus Warber copuliret worden."
     trans: "On November 3, Herman Henrich Weiland of Evesen was married to Anna Sabina Breiner of Warber."
@@ -157,8 +158,8 @@ marriages:
     literal: "d 7t Febr: Heinrich Ludewig Weiland Schweinhirtens und Einliegers in Röcke mit Anna Christina Nergen aus der Driften in Pezen copuliret."
     trans: "On 7 February, Heinrich Ludewig Weiland, swineherd and lodger in Röcke, was married to Anna Christina Nergen from the Drift in Pezen."
   
-burials:
-  type: D
+burials: 
+  record-symbol: D
   volume-name: Verzeichnis der Getrauten und Gestorbenen 1641-1784
   total-images: 239
   records:
@@ -182,7 +183,7 @@ burials:
 
   - name: Son of Wolter Weilandt of Peeten
     image-no: 99
-    ifile: petzen-band1b-img99-weiland.p[ng
+    ifile: petzen-band1b-img99-weiland.png
     edate: 18 June 1679
     vdate: 28 August 2026
     url: https://www.archion.de/p/8b89636f40/
@@ -211,7 +212,7 @@ burials:
     image-no: 117
     ifile: petzen-band1b-img117-weiland.png
     edate: 5 July 1694
-    vdate: 28 Aguust 2026
+    vdate: 28 August 2026
     url: https://www.archion.de/p/0f5d7efeab/
     literal: "Wolter Weilandt zu Petzen den 5 Julij begraben"
     trans: 
@@ -226,6 +227,7 @@ burials:
     trans:
   
 confirmations:
+  record-symbol: C
   file-format: PET-C-%year%
   volume-name: Verzeichnis der Getauften und Konfirmierten 1641-1784
   total-images:  
@@ -442,7 +444,7 @@ confirmations:
     year: 1760
     age: 
     locality: Nordholtz
-    vdate: 26 Aguust 2026
+    vdate: 26 August 2026
     url: https://www.archion.de/p/42667cb769/
     literal:  Anna Maria Weilandt aus Nordholtz 
   
@@ -478,7 +480,7 @@ confirmations:
     year: 1767
     age:  
     locality: Röcke 
-    vdate: 26 Aguust 2026
+    vdate: 26 August 2026
     url: https://www.archion.de/p/44838bec83/
     literal: Friederich Wilhelm Weiland aus Röcke Einlieger 
   
@@ -582,6 +584,7 @@ confirmations:
     literal: Anna Philippina Weilands aus Evesen
   
 baptisms:
+  record-symbol: B
   file-format: PET-B-%year%
   volume-name: Verzeichnis der Getauften und Konfirmierten 1641-1784
   total-images:
