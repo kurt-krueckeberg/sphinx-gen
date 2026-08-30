@@ -1,12 +1,9 @@
 # edate = event date
 # vdate = view date
 file_extension: md
-record_group:
-  type: marriages
+marriages:
   file_format: PET-M-%year%
   volume_name: Verzeichnis der Getrauten und Gestorbenen 1641-1784
-  volume_path:
-  total_images:  
   citation: >-
     "Archion Protestant Kirchenbücher Portal", database with images, Archion
     (<%url%> : %vdate%), path: Niedersachsen > Niedersächsisches Landesarchiv >
@@ -158,8 +155,7 @@ record_group:
       trans: "d 7t Febr: Heinrich Ludewig Weiland Schweinhirtens und Einliegers in Röcke mit Anna Christina Nergen aus der Driften in Pezen copuliret."
       lation: "On 7 February, Heinrich Ludewig Weiland, swineherd and lodger in Röcke, was married to Anna Christina Nergen from the Drift in Pezen."
 
-record_group:
-  type: D
+burials:
   file_format: PET-D-%year%
   volume_name: Verzeichnis der Getrauten und Gestorbenen 1641-1784
   citation: >-
@@ -232,12 +228,9 @@ record_group:
       trans:
       lation:
 
-record_group:
-  type: confirmations
+confirmations:
   file_format: PET-C-%year%
   volume_name: Verzeichnis der Getauften und Konfirmierten 1641-1784
-  volume_path:
-  total_images:  
   citation: >-
     "Archion Protestant Kirchenbücher Portal", database with images, Archion
     (<%url%> : %vdate%), path: Niedersachsen > Niedersächsisches Landesarchiv >
@@ -597,12 +590,9 @@ record_group:
       url: https://www.archion.de/p/69538680ea/
       trans: Anna Philippina Weilands aus Evesen
 
-record_group:
-  type: baptisms
-  file_format: PET-B-%year%
+baptisms:
+ file_format: PET-B-%year%
   volume_name: Verzeichnis der Getauften und Konfirmierten 1641-1784
-  volume_path:
-  total_images:  
   citation: >-
     "Archion Protestant Kirchenbücher Portal", database with images, Archion
     (<%url%> : %vdate%), path: Niedersachsen > Niedersächsisches Landesarchiv >
