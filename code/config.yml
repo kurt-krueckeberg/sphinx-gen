@@ -16,12 +16,12 @@ record_group:
   married:
     - name: Weiland
       image: 15
-      ifile: 
+      ifile: petzen-band1b-img15-weiland.png 
       edate: 12 November or December 1675
       vdate: 27 August 2026
       url: https://www.archion.de/p/810b859f6a/
-      trans: "[unclear] Weilandt Elisabeth Rödemeisters zu Petyen den 12 [either Nov. or Dec.] copuliret"
-      lation: "[unclear] Weilandt and Elisabeth Rödemeister of Petzen were married on the 12th of [November or December]."
+      trans: "[unclear] Weilandt und lisabeth Rödemeisters zu Petyen den 12 [either Nov. or Dec.] copuliret"
+      lation: "[unclear] Weilandt and lisabeth Rödemeister of Petzen were married on the 12th of [November or December]."
 
     - name: Hans Hinrich Weiland
       image: 26
