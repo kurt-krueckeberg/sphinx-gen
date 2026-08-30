@@ -8,4 +8,5 @@ an error. It must not open an existing file in write mode.
 Use an exclusive-create mechanism so that file creation itself fails if the
 file already exists.
 
-
+Describe the output markdown file and how the YAML keys map to the output.
+Then request a program that does this.
