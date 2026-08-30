@@ -235,7 +235,6 @@ burials:
 confirmations:
   volume: band1a 
   record-symbol: C
-  file-format: PET-C-%year%
   records:
   - name: Hans Heinrich Weyland
     image-no: 297
@@ -591,7 +590,6 @@ confirmations:
 baptisms:
   volume: band1a
   record-symbol: B
-  file-format: PET-B-%year%
   records:
   - name: Daughter of Hans Weiland
     image-no: 10
