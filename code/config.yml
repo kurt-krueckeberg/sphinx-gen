@@ -20,7 +20,6 @@ citation: >-
 marriages:
   volume: band1b
   record-symbol: M
-  volume-name: Verzeichnis der Getrauten und Gestorbenen 1641-1784
   records:
   - name: Weiland
     image-no: 15
@@ -169,8 +168,6 @@ marriages:
 burials: 
   volume: band1 
   record-symbol: D
-  volume-name: Verzeichnis der Getrauten und Gestorbenen 1641-1784
-  total-images: 239
   records:
   - name: Wilandt's of Petzen daughter
     image-no: 96
@@ -239,8 +236,6 @@ confirmations:
   volume: band1a 
   record-symbol: C
   file-format: PET-C-%year%
-  volume-name: Verzeichnis der Getauften und Konfirmierten 1641-1784
-  total-images:  
   records:
   - name: Hans Heinrich Weyland
     image-no: 297
@@ -597,8 +592,6 @@ baptisms:
   volume: band1a
   record-symbol: B
   file-format: PET-B-%year%
-  volume-name: Verzeichnis der Getauften und Konfirmierten 1641-1784
-  total-images:
   records:
   - name: Daughter of Hans Weiland
     image-no: 10
