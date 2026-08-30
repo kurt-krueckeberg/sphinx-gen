@@ -613,10 +613,10 @@ record_group:
     - name: Daughter of Hans Weiland
       image: 10
       year: 13 August 1648
-      age: 
       locality:
-      vdate:
-      url: 
+      ifile: petzen-band1a-img10-weiland.png 
+      vdate: 28 August 2026
+      url: https://www.archion.de/p/e3a8b2db39/ 
       trans: >-
         Hans Weilands tochter Anna Sophia eodem die getaufft
         gefattere: Metta Sophia Crufelers, Anna N., ancilla in praedio
@@ -627,20 +627,20 @@ record_group:
         Godparents: Metta Sophia Crufelers; Anna N., a maidservant on the Bückeburg estate; Anna Maria, wife of Pastor Jacobi in Meinsen; N. Köpper from Achum.
 
     - name: Hans Weiland's Daughter
-      image: 12
+      image: 12 
       year: 11 April 1651
-      age: 
       locality:
-      vdate: 
-      url: 
+      ifile: petzen-band1a-img12-weiland.png
+      vdate: 30 August 2026 
+      url: https://www.archion.de/p/621a0af765/ 
       trans: "Hans Weilands tochter Ilschen, gf. Ilsche Sandersche im Berenbusche, den 11 Aprilis." 
       lation: "Hans Weiland's daughter Ilschen. Godparent: Ilsche, wife of Sanders, in Berenbusch. On 11 April."
  
     - name: 
       image: RESUME 41 
       year:
-      age: 
       locality:
+      ifile:   
       vdate: 
       url: 
       trans: 
