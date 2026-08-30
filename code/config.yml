@@ -617,7 +617,14 @@ record_group:
       locality:
       vdate:
       url: 
-      trans: 
+      trans: >-
+        Hans Weilands tochter Anna Sophia eodem die getaufft
+        gefattere: Metta Sophia Crufelers, Anna N., ancilla in praedio
+        Bückeburgensi. Anna Maria, Jacobi pastörsche in Meinsen, N. Köpper
+        von Achumb.
+      lation: >-
+        Hans Weiland's daughter Anna Sophia, baptized on the same day [as the previous entry, i.e., 13 August 1648].
+        Godparents: Metta Sophia Crufelers; Anna N., a maidservant on the Bückeburg estate; Anna Maria, wife of Pastor Jacobi in Meinsen; N. Köpper from Achum.
 
     - name: Hans Weiland's Daughter
       image: 12
@@ -629,7 +636,7 @@ record_group:
       trans: 
  
     - name: 
-      image: RESUNME 26 
+      image: RESUME 26 
       year:
       age: 
       locality:
