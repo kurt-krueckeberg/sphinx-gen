@@ -52,7 +52,7 @@ the markdown output content.
 
 Here is the ouput template:
 
-```code
+````code
 # %year% %name% %event%
 
 ## Record
@@ -83,5 +83,5 @@ of the Petzen *%volume-name%*.
 "Archion Protestant Kirchenbücher Portal", database 
 with images, *Archion* (<%url%> : %vdate%), path: %path% > %parish% >
 %volume-name%, image %image-no% of %total-images%
-```
+````
 
