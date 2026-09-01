@@ -169,14 +169,14 @@ burials:
   volume: band1b
   record-symbol: D
   records:
-  - name: Wilandt's of Petzen daughter
+  - name: Wilandt's of Petzen little daughter
     image-no: 96
     ifile: petzen-band1b-img96-weiland-burial.png
     edate: 8 December 1676
     vdate: 28 August 2026 
     url: https://www.archion.de/p/c49ee4a701/
-    literal: "[unclear] Wilandts Mätigen zu Petzen den 8 Decemb. begraben"
-    trans: "[unclear] Wilandts daughter at Petzen den 8 Decemb buried."
+    literal: "[unclear] Wilandts kleines Mätigen zu Petzen den 8 Decemb. begraben"
+    trans: "[unclear] Wilandts little daughter at Petzen den 8 Decemb buried."
 
   - name: not given
     image-no: 98
@@ -196,7 +196,7 @@ burials:
     literal: "Wolter Weilandt zu Peeten, Sohn, 16 Wochen alt den 18 Junij begraben."
     trans: "The son of Wolter Weilandt of Peeten, 16 weeks old, buried on June 18."
 
-  - name: "Elderly Weiland woman of Petzen"
+  - name: "Elderly Weiland woman/wife of Petzen"
     image-no: 104
     ifile: petzen-band1b-img104-weiland.png
     edate: 25 March 1683
@@ -214,7 +214,7 @@ burials:
     literal: "Wolter Weilandt, Töchterlein, den 17 Februar begraben."
     trans: "Wolter Weilandt’s little daughter, buried 17 February."
 
-  - name: Wolter Weilandt 
+  - name: Wolter Weilandt of Petzen 
     image-no: 117
     ifile: petzen-band1b-img117-weiland.png
     edate: 5 July 1694
