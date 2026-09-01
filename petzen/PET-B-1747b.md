@@ -1,4 +1,4 @@
-# 1747 Charolotta Louisa Weiland Baptism
+# 1747 Charolotta Louisa Weiland of Evesen Baptism
 
 ## Family Relationships and Other Facts
 
