@@ -1,9 +1,33 @@
-The program may create new Markdown files, but it must NEVER overwrite,
+The program will create new MyST Markdown files with the extension of `.md`, but it must NEVER overwrite,
 truncate, rename, delete, or modify any existing Markdown file.
 
+The program is configuration driven. The configuration file is name
+config.yml and is located in `gens/code/config.yml`. This file's keys and
+values will be used to create new MyST markdown files.
+
+First, the program will read the config.yml file and load it into an array using a
+language that supports such a function.
+
+Using the array, it will then iterate over the sub-keys and their values of these top-level
+keys: marriages, baptims, confirmations, burials.
+
+Under each of these four top-level keys, there will be 
+
+It will create a new MyST file that will have a file name that begins with
+"PET-", which will be followed by the value of the `record-symbol` key, which
+will be followed by a '-', which will be followed by the year, where the
+year is the last of the three strings that are the value of the `vdate`
+key. This example illustrates how this words:
+
+- The top-level `marriages` keys has three immediate subkeys: `volume`,
+  `record-symbol`, and `records`, whose value is a list.
+-  
+
+
+
 Before creating an output file, it must check whether that pathname already
-exists. If the file exists, the program must stop for that file and report
-an error. It must not open an existing file in write mode.
+exists. The format name of the output MyST markdown file is given 
+
 
 Use an exclusive-create mechanism so that file creation itself fails if the
 file already exists.

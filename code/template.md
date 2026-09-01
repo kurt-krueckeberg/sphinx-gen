@@ -1,24 +1,5 @@
 # %year% %name% %event%
 
-## Family Relationships and Other Facts
-
-TODO: Determine how to build this table based on the keys present in the
-YAML file:
-
-```{list-table}
-:header-rows: 1
-
-* - Father
-  - Residence
-  - Son
-  - Sponsor
-* - [Wolter?] Weilandt 
-  - Peezen (Petzen)
-  - Hans Hinrig Weilandt
-  - - Hans [Bradschader?], the furrier
-    - [Johann Däher?] of Peezen.
-```
-
 ## Record
 
 The baptism of Hans Henrig from Peezen (Petzen) is on {ref}`image %image-no% <%file-name%>`
