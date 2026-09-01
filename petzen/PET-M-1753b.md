@@ -1,4 +1,4 @@
-# 1753 Jobst Henrich Weiland Marriage
+# 1753 Jobst Henrich Weiland of Berenbusch Marriage
 
 ## Family Facts
 
