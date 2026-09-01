@@ -1,4 +1,4 @@
-# 1790 Johann Heinrich Weiland Marriage
+# 1790 Johann Heinrich Weiland of No. 21 Evesen Marriage
 
 ## Family and Other Facts
 
@@ -17,8 +17,9 @@
 
 ## Record
 
-The marriage entry for Johann Heinrich Weiland is on the {ref}`image 6, page 6, entry 14 <PET-M-1790d>` of Petzen Kirchenbuch volume
-"Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+The marriage entry for Johann Heinrich Weiland is on the {ref}`image 6,
+page 6, entry 14 <PET-M-1790d>` of Petzen Kirchenbuch volume *Verzeichnis
+der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827*.
 
 The marriage of Johann Heinrich Weiland shown occurred on 17 October 1790:
 
@@ -30,7 +31,7 @@ The marriage of Johann Heinrich Weiland shown occurred on 17 October 1790:
 
 ```{div} doc-text
 14) d[en] 17ten October ist copuliert Johann Heinrich Weiland aus Evesen
-    No. 24 mit Jfr Anna Margarthea Harren aus Meisen No 1
+    No. 21 mit Jfr Anna Margarthea Harren aus Meisen No 1
 ```
 
 ```{note}
@@ -47,7 +48,7 @@ Nevertheless, Meinsen remains the more likely identification because:
 
 ```{div} doc-text
 14) the 17th October Johann Heinrich Weiland from Evesen
-     No. 24 was married to maiden Anna Margarthea [H?]arren aus Meissen No. 1
+     No. 21 was married to maiden Anna Margarthea [H?]arren aus Meissen No. 1
 ```
 
 ## Citation
