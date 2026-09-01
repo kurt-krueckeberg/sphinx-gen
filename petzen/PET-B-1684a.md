@@ -1,4 +1,4 @@
-# 1684 Johan Tönnis Weiland of Petzen Baptism
+# 1684 Johan Tönnis Weilandt of Petzen Baptism
 
 ## Family and Other Facts
 
