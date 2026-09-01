@@ -1,4 +1,4 @@
-# 1808 Jobst Heinrich Weiland Marriage
+# 1808 Jobst Heinrich Weiland Widower at No. 28 in Röcke Marriage
 
 ## Family Relationship and Other Facts
 

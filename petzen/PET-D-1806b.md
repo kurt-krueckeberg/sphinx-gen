@@ -1,4 +1,4 @@
-# 1806 Sophie Dorothee Weiland Death
+# 1806 Sophie Dorothee Weiland of No. 28 Röcke Burial
 
 ## Record
 
