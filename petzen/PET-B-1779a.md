@@ -1,4 +1,4 @@
-# 1779 Sophia Margaretha Weiland Baptism
+# 1779 Sophia Margaretha Weiland of No. 20 Evesen Baptism
 
 ## Family Relationship and Other Facts
 
@@ -42,7 +42,7 @@ from the "Verzeichnis der Getaufte und Confirmirte  (Register of Baptims and Con
 ```{div} doc-text
 5) 31th Jan: Sophia Margaretha was baptized, the begotten
    daughter of Friederich Wilhelm Weilands from Evesen No 20
-   and his wife Anna Maria born Weiland.\
+   and his wife Anna Maria born Weiland.
    The godmother was Catharine Korfen from Nammen.
 ```
 
