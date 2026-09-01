@@ -1,4 +1,4 @@
-# 1776 Johann Heinrich Weiland Evesen by the Sand Pit Baptism
+# 1776 Johann Heinrich Weiland of Evesen by the Sand Pit Baptism
 
 ## Family Relationships and Other Facts
 
