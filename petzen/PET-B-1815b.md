@@ -1,4 +1,4 @@
-# 1815 Heinrich Wilhelm Weiland Baptism
+# 1815 Heinrich Wilhelm Weiland of No. 20 Evesen Baptism
 
 ## Family and Other Relationships
 
