@@ -1,4 +1,4 @@
-# 1746 Herman Henrich Weiland Marriage
+# 1746 Herman Henrich Weiland of Evesen Marriage
 
 ## Family and Other Facts
 
