@@ -1,4 +1,4 @@
-# 1804 Fridrich Wilhelm Weyland of Petzen no. 2 Marriage
+# 1804 Fridrich Wilhelm Weyland of Petzen No. 2 Marriage
 
 ## Record
 
