@@ -1,4 +1,4 @@
-# 1736 Hans Henrich Weiland Baptism
+# 1736 Hans Henrich Weiland of Evesen Baptism
 
 ## Family Relationship and Other Facts
 
