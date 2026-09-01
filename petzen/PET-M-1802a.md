@@ -1,4 +1,4 @@
-# 1802 Albrecht Weyland Marriage
+# 1802 Albrecht Weyland of Petzen Marriage
 
 ## Record
 
