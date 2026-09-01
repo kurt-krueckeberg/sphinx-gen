@@ -3,6 +3,11 @@
 ## Family Relationships and Other Facts
 
 ```{list-table}
+:header-rows: 1
+
+* - Test
+* -
+```
 
 ## Record 
 
