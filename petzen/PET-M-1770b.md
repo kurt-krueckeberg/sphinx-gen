@@ -1,4 +1,4 @@
-# 1770 Johann Christian Weiland Married 
+# 1770 Johann Christian Weiland of Notdholz Married 
 
 ## Family Relationship
 
