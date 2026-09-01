@@ -1,4 +1,4 @@
-# 1785 Stillborn son of John Heinrich Weiland
+# 1785 Stillborn son of John Heinrich of No. 21 Evesen Weiland
 
 ## Record
 
