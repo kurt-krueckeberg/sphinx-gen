@@ -1,4 +1,4 @@
-# 1718 Henrich Weÿlandt Baptism 
+# 1718 Henrich Weÿlandt of Berenbusch Baptism 
 
 ## Record
 
