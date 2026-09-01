@@ -1,58 +1,57 @@
-# 1789 Christine Eleonore Weiland Baptism
+# 1789 Christine Maria Weiland of Peezen Baptism
 
-## Family and Other Facts
+## Family Relationship and Other Facts
 
-```{list-table}
+```{list-table} Family Relationship
 :header-rows: 1
 
 * - Infant
   - Father
-  - Occupation
   - Mother
+  - Dwelling
   - Sponsor
-* - Christine Eleonore Weiland
-  - day laborer in Peezen (Petzen)
-  - Jobst Heinrich Weiland
-  - Sophie Dorothee Möller
-  - Christine Eleonore, widow
+* - Christina Maria Weiland
+  - Johann Heinrich Weiland
+  - Catherine Elisabeth geb. Borneman
+  - Evesen No 21
+  - Maria Elisabeth Bornemans from Evesen No. 7
 ```
 
-```{list-table} Other facts
-:header-rows: 1
+## Record 
 
-* - Fact
-* - Christine Eleonore Weiland is the twin sister of [Johann Heinrich Weiland](PET-B-1789a.md).
-* - The twins were conceived out of wedlock
-```
+This baptism of Christine Maria Weiland is on {ref}`image 46 <PET-B-1789a>` of the
+Petzen *Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827*.
 
-## Record
-
-The baptism record is on image 45, [page 85](#cite-PET-B-1789c), entry 7.
-
-```{figure} images/petzen-band2-img45-85.jpg
+```{figure} images/petzen-band2-img46-87.jpg
 :class: image-override
 ```
 
 ## Transliteration 
 
 ```{div} doc-text
-7) d 20ten Feb Christine Eleonore Weiland der oben benannte
-Eltern Tochter. Gevatterin war Frau Christine Eleonore,
-Wittwe Rinne, des Schusters in Peezen Haushalterin zu fünf
+19) d 24zen May: ist getauft Christina Maria Weilands
+    des Johann Heinrich Weiland aus Evesen No 21
+    mit seiner Ehefrau Catherine Elisabeth geb.
+    Bornemans erzeugte Tochter. Gavatterin war Maria
+    Elisabeth Bornemans aus Evesen No. 7
 ```
 
 ## Translation
 
 ```{div} doc-text
-7)  On February 20, Christina Eleonora Weiland, daughter of the above-named parents. The godmother was
-Mrs. Christina Eleonora Rinne, widow, housekeeper to the shoemaker Meyer in Petzen, 
-in a household of five [or: at No. 5]
+19) d 24th May: Christina Maria Weilands was baptized
+    the begotten daughter of Johann Heinrich Weiland
+    from Evesen No 21 and his wife Catherine Elisabeth
+    born Bornemans. Godmother was Maria
+    Elisabeth Bornemans from Evesen No. 7
 ```
 
 ## Citation
 
-(cite-PET-B-1789c)=
+(PET-B-1789b)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<http://www.archion.de/p/ee8298f89e/> :
-22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
-Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 45 of 357
+"Archion Protestant Kirchenbücher Portal", database with images, **Archion**
+([<https://www.archion.de/p/ed0ebd924b/>](https://www.archion.de/p/ed0ebd924b/) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 46 of 357
+
