@@ -1,4 +1,4 @@
-# 1790 Anna Maria Weiland Marriage
+# 1790 Anna Maria Weiland Widow at No. 20 Evesen Marriage
 
 ## Record
 
@@ -10,24 +10,21 @@ The marriage entry for  Anna Maria Weiland is on the [image 6, page 6, entry 8](
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
-```{note}
-**Eod em** means "on the same day" as the prior marriage entry.
+
+```{div} doc-text
+8) Eod em  ist copuliert Hans Heinrich Tellermann ein Wittver
+   und [bisheriger?] Leibzüchter in Eisbergen sub No 14 mit
+   der wittven Anna Maria Weiland aus Evesen sub No 20.
 ```
 
-```text
-8) Eod em [Eod em=on the same day] ist copuliert Hans Heinrich Tellermann ein Wittver
-        und [bisheriger?] Leibzüchter in Eisbergen [Hab?] No 14 mit
-        der wittven Anna Maria Weiland aus Evesen [Hab?] No 20.
-        [???] No 20.
-```
+## Translation
 
 ```text
 8) On the same day[20th Nov.] Hans Heinrich Teller a widower
-       and up to now life annuitant in Eisbergen [property?] No 14 with
-       the window Anna Maria Weiland from Evesen [property ?]
-       No. 20.
+   and up to now life annuitant in Eisbergen  No 14 with
+   the window Anna Maria Weiland from Evesen No. 20.
 ```
 
 ## Citation
