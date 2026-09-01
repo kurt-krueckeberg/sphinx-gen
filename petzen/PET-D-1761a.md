@@ -1,4 +1,4 @@
-# 1761 Jobst Heinrich Weiland Death
+# 1761 Jobst Heinrich Weiland of Berenbusch Burial
 
 ## Family and Other Facts
 
