@@ -1,4 +1,4 @@
-# 1730 Margaretha Elisabeth Weiland Baptised
+# 1730 Margaretha Elisabeth Weiland of Berenbusch Baptised
 
 ## Family and Other Facts
 
