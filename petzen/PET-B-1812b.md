@@ -1,4 +1,4 @@
-# 1812 Ernst Heinrich Weiland Baptism
+# 1812 Ernst Heinrich Weiland of  Baptism
 
 ## Family and Other Information
 
