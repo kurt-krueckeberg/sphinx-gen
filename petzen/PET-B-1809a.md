@@ -1,4 +1,4 @@
-# 1809 Wilhelmine Leonore Weiland Baptism
+# 1809 Wilhelmine Leonore Weiland of No. 31 Röcke Baptism
 
 ## Record
 
