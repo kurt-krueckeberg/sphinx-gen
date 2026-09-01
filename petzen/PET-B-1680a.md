@@ -1,4 +1,4 @@
-# 1680 Hans Henrig Weiland Baptism
+# 1680 Hans Henrig Weiland of Petzen Baptism
 
 ## Family Relationships and Other Facts
 
