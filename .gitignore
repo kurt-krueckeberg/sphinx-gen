@@ -2,6 +2,7 @@
 # Python / virtualenv
 # =========================
 build_errors.txt
+code/vendor
 .venv/
 venv/
 env/
