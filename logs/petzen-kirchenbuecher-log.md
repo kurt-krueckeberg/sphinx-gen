@@ -36,12 +36,17 @@ Marriage images reviewed in the Petzen Kirchenbuch
 
 Deaths in [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.archion.de/de/viewer/churchRegister/329074?coords=2867%2C3103&degree=0&pageId=46233839&zoom=9&cHash=ec75f91f5aac73eb584b722079fa7e13).
 
-Re-review. Completed 83-96. 
+**TODO:**
+
+- Review deaths from image 1 through image 82.
+- Review deaths from image 97-remainder of volume.
+
+**Re-reviewed:** Completed 83-96. 
 
 ```{list-table} Review started with image 87, year 1670.
 :header-rows: 1
 
-* - Images Ranged Reviews
+* - Image Ranges Reviews
   - Corresponding Years Range
 * - 83 — 152
   - 1666 — 1735, first half
