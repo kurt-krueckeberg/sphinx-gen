@@ -1,4 +1,4 @@
-# 1790 Friderich Wilhelm Weiland Confirmation
+# 1790 Friderich Wilhelm Weiland of No. 20 Evesen Confirmation
 
 ## Record
 
