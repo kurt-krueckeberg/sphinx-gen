@@ -85,3 +85,22 @@ with images, *Archion* (<%url%> : %vdate%), path: %path% > %parish% >
 %volume-name%, image %image-no% of %total-images%
 ````
 
+In the template above the variables that are delimited with '%' such as `%url%`
+or `%trans%` represent keys in the config.yml; for example, `%trans%`
+represents the values of the `trans:` key, and `%url%` represent the value
+of the `url:`. The table below shows a more complete list of %-delimited
+variables and the YAML keys they represent:
+
+| key       | variable    |
+|-----------|-------------|
+| event     | %event%     |
+| name:     | %name%      | 
+| image-no: | %image-no%  |
+| ifile:    | %ifile%     |
+| edate:    | %edate%     |
+| vdate:    | %vdate%     |
+| url:      | %url%       |
+| literal:  | %literal%   |
+| trans:    | %trans%     |
+
+Some of the 

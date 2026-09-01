@@ -20,6 +20,7 @@ citation: >-
 marriages:
   volume: band1b
   record-symbol: M
+  event: Marriage
   records:
   - name: "[uncertain name] Weilandt"
     image-no: 15
@@ -168,6 +169,7 @@ marriages:
 burials: 
   volume: band1b
   record-symbol: D
+  event: Burial
   records:
   - name: Wilandt's of Petzen little daughter
     image-no: 96
@@ -235,6 +237,7 @@ burials:
 confirmations:
   volume: band1a 
   record-symbol: C
+  event: Confirmation
   records:
   - name: Hans Heinrich Weyland
     image-no: 297
@@ -589,6 +592,7 @@ confirmations:
   
 baptisms:
   volume: band1a
+  event: Baptism
   record-symbol: B
   records:
   - name: Daughter of Hans Weiland
