@@ -1,4 +1,4 @@
-# 1789 Christine Eleonore Weiland Baptism
+# 1789 Christine Eleonore Weiland of Peezen Baptism
 
 ## Family and Other Facts
 
