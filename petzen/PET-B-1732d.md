@@ -39,7 +39,7 @@ of the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ```{div} doc-text
 den 2t Novembr ist Hans Hermann Weÿlandts [Schloss?]
-Soldat yu Bückeburg Töchterl. Rudolphina
+Soldat zu Bückeburg Töchterl. Rudolphina
 Maria getauft. Gev Schäfers aus der Höckersau
 Ehefrau und Jobst Henrich Weÿlandts aus Berenbusch Ehefrau.
 ```
