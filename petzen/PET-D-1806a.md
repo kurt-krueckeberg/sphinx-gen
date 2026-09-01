@@ -1,4 +1,4 @@
-# 1806 Friedrich Wilhelm Weiland Death
+# 1806 Friedrich Wilhelm Weiland of No. 5 Bärenbusch Death
 
 ## Record
 
@@ -52,7 +52,7 @@ Getrauten und Gestorbenen 1785-1827*.
     Married
   - Survivors
 * - 6
-  - Friedrich Wilhelm Weiland. Luth. Conf. lodger und swine herd at No.
+  - Friedrich Wilhelm Weiland. Luth. Conf. lodger und swineherd at No.
     5 in Bärenbusch, Son of Friedrich Ludwig Weiland of no. 21 in Evesen
   - died 13th March midnight in Bärenbusch, was buried 15th March
     in Petzen
