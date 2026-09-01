@@ -1,4 +1,4 @@
-# 1778 Stillborn son of Johann Christian Weiland
+# 1778 Stillborn son of Johann Christian Weiland of Peezen
 
 ## Record
 
