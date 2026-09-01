@@ -1,4 +1,10 @@
-# 1745 Henrich Weiland Marriage
+# 1745 Henrich Weiland of Berenbusch Marriage
+
+
+```{important}
+At the time of his marriage the groom is "of Berenbusch". We don't know
+that is where he lived after the marriage.
+```
 
 ## Family and Other Facts
 
