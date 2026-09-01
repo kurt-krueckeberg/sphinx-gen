@@ -1,4 +1,4 @@
-# 1774 Johann Heinrich Weilandt Marriage
+# 1774 Johann Heinrich Weilandt of Evesen Marriage
 
 ## Record
 
