@@ -1,4 +1,4 @@
-# 1785 Friderich Weiland Marriage
+# 1785 Friderich Weiland of Evesen Marriage
 
 ## Family and Other Facts
 
