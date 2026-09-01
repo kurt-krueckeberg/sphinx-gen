@@ -1,4 +1,4 @@
-# 1789 Johann Heinrich Weiland Baptism
+# 1789 Johann Heinrich Weiland of Peezen Baptism
 
 ## Family and Other Facts
 
