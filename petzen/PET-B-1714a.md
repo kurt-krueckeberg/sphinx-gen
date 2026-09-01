@@ -1,4 +1,4 @@
-# 1714 Johann Henrich Weÿland Baptized
+# 1714 Johann Henrich Weÿland of NAmmen Baptized
 
 ## Family and Other Facts
 
