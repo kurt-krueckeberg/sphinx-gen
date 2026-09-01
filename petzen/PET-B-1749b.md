@@ -1,4 +1,4 @@
-# 1749 Johann Henrich Weiland Baptism
+# 1749 Johann Henrich Weiland of Nammen Baptism
 
 ```{list-table} 29 September 1749 Baptism of Johann Henrich Weiland
 :header-rows: 1
