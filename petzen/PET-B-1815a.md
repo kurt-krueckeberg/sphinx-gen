@@ -1,4 +1,4 @@
-# 1815 Stillborn daughter of Friedrich Wilhelm Weiland
+# 1815 Stillborn daughter of Friedrich Wilhelm Weiland of No. Evesen 
 
 ## Record
 
