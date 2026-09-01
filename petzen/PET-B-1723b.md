@@ -1,4 +1,4 @@
-# 1723 Herman Henrich Weÿland Baptism 
+# 1723 Herman Henrich Weÿland of Evesen Baptism 
 
 ## Family and Other Facts
 
