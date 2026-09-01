@@ -1,4 +1,4 @@
-# 1805 Philippine Caroline Weiland Baptism
+# 1805 Philippine Caroline Weiland of Evesen Baptism
 
 ## Record
 
