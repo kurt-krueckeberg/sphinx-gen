@@ -1,4 +1,4 @@
-# 1749 Johann Henrich Weiland Baptism
+# 1749 Johann Henrich Weiland of Evesen Baptism
 
 ```{list-table} July 15, 1749 baptism of Johann Henrich Weiland
 :header-rows: 1
