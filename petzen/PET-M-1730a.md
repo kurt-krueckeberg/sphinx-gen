@@ -1,4 +1,4 @@
-# 1730 Hans Hermann Weiland Marriage
+# 1730 Hans Hermann Weiland of Berenbsuch Marriage
 
 ## Family and Other Facts
 
