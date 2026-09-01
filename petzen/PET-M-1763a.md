@@ -1,4 +1,4 @@
-# 1763 Heinrich Ludewig Weiland Marriage
+# 1763 Heinrich Ludewig Weiland of Berenbusch Marriage
 
 ## Family Facts
 
