@@ -1,4 +1,4 @@
-# 1777 Johann Heinrich Wilhelm Wilhelm Weiland Baptism
+# 1777 Johann Heinrich Wilhelm Weiland of Nordholtz Baptism
 
 ## Family Relationship and Other Facts
 
