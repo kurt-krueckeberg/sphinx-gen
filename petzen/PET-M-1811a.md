@@ -2,11 +2,27 @@
 
 ## Family Relationships and Other Facts
 
-```{list-table}
+```{list-table} March 10, 1811, marriage of Phillipine Louise Weiland
 :header-rows: 1
 
-* - Test
-* -
+* - Groom 
+  - age
+  - Bride
+  - age
+* - Carl Mensching
+  - 29  
+  - Philippine Louise Weiland
+  - 25
+```
+
+```{list-table} Other Facts
+:header-rows: 1
+
+* - Fact
+* - Bride is the daughter of the late Friedrich Weiland, a lodger in
+    Bärenbusch
+* - The bride and groom were not virgins, and the bride might have been
+    pregnant.
 ```
 
 ## Record 
@@ -40,11 +56,8 @@ to Carl Mensching is on {ref}`image 26 <PET-M-1811a>` of the Petzen *Verzeichnis
   - Kopulations Zeugen
   - Bemerkungen
 * - 2.
-  - Junggeselle Carl Mensching
-    Sohn des verstorbenen Conrad
-    Mensching, Einliegers in Je
-    tenburg, Luth. Conf. u. jetzt
-    29 Jahr alt
+  - Junggeselle Carl Mensching Sohn des verstorbenen Conrad Mensching, Einliegers in Jetenburg, Luth. Conf.
+     u. jetzt 29 Jahr alt
   - Philippine Louise
      Weilands, Tochter des
      verstorbenen Friedrich
@@ -55,17 +68,14 @@ to Carl Mensching is on {ref}`image 26 <PET-M-1811a>` of the Petzen *Verzeichnis
       Petzen u. zu Bückeburg procalmiert
       d. 17. u. 24
       Febr. u. d. 3 März
-  - u. Kopuliert d. 10
-      März
+  - u. Kopuliert d. 10       März
   - von dem
     zeitigen Prediger
     Stille
   - in Gegenwart
      des zeitigen Küsters
      Crömer u. einiger Konfitenten
-  - Die Braut war von dem
-      Bräutigam vorher geschwächt[to degrade, weak,
-     debilitate/geschwängert=made pregnant?]
+  - Die Braut war von dem Bräutigam vorher geschwächt
 ```
 
 ## Translation
@@ -110,8 +120,7 @@ to Carl Mensching is on {ref}`image 26 <PET-M-1811a>` of the Petzen *Verzeichnis
   - in presence
       of the current parish clerk/sacristan
       Crömer and some of the commuincants
-  - The bride was previously [degraded/or possibly:
-    'made pregnant' by the groom
+  - The bride had previously had relations with the bridegroom.
 ```
 
 ## Citation
