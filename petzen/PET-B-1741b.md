@@ -17,7 +17,7 @@
 :header-rows: 1
 
 * - Facts
-* - Weiland in Evesen is son-in-law of Bodecker
+* - Weiland in Evesen is **son-in-law of Bodecker**
 * - The family has at least on other brother
 ```
 
