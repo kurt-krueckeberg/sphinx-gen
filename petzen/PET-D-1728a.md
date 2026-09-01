@@ -1,4 +1,4 @@
-# 1728 Anna Catharina Piels, wife of Hermann Henrich Weÿlandts, Evesen, Buried 
+# 1728 Anna Catharina Piels, wife of Hermann Henrich Weÿlandt of Evesen, Buried 
 
 ## Record
 
