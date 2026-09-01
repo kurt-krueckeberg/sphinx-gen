@@ -21,16 +21,16 @@ marriages:
   volume: band1b
   record-symbol: M
   records:
-  - name: Weiland
+  - name: "[uncertain name] Weilandt"
     image-no: 15
     ifile: petzen-band1b-img15-weiland.png 
     edate: 12 November or December 1675
     vdate: 27 August 2026
     url: https://www.archion.de/p/810b859f6a/
-    literal: "[unclear] Weilandt und lisabeth Rödemeisters zu Petyen den 12 [either Nov. or Dec.] copuliret"
-    trans: "[unclear] Weilandt and lisabeth Rödemeister of Petzen were married on the 12th of [November or December]."
+    literal: "[unclear] Weilandt und Elisabeth Rödemeisters zu Petyen den 12 [either Nov. or Dec.] copuliret"
+    trans: "[unclear] Weilandt and Elisabeth Rödemeister of Petzen were married on the 12th of [November or December]."
   
-  - name: Hans Hinrich Weiland
+  - name: Hans Hinrich Weilandt of Petzen
     image-no: 26
     ifile: petzen-band1b-img26-weiland.png
     edate: 2 March 1702
@@ -39,7 +39,7 @@ marriages:
     literal: "Hans Hinrich Weilandt von Petzen und Anna Margaretha Sanders auf den Berenbusch den 2 Martij copuliret"
     trans: "Hans Hinrich Weilandt of Petzen and Anna Margaretha Sanders at Berenbusch were married on March 2." 
   
-  - name: Johan Tonnis Weyland 
+  - name: Johan Tonnis Weyland of Peezen 
     image-no: 29
     ifile: petzen-band1b-img29-weiland.png 
     edate: 28 October 1708 
@@ -48,7 +48,7 @@ marriages:
     literal: "den 28. 8br [sint] copuliret Johan Tonnis Weyland aus Peezen mitt Annen Jlsabey Brandts aus Nammen, mitt Welcher er schon vorhin ein Fuhr Kind gezeugt"
     trans: "On October 28, Johan Tonnis Weyland of Peezen was married to Anna Ilsabey Brandt of Nammen, with whom he had already previously fathered an illegitimate child."
   
-  - name: Hans Weÿlandt 
+  - name: Hans Weÿlandt of Evesen 
     image-no: 30
     ifile: petzen-band1b-img30-weiland.png 
     edate: 19 October 1712
@@ -57,7 +57,7 @@ marriages:
     literal: "Den 19 8br ist Hans Weÿlandt auß Evesen mit Hille Poocks copuliret."
     trans: "On October 19, Hans Weÿlandt of Evesen was married to Hille Poock."
   
-  - name: Hans Weÿland 
+  - name: Hans Weÿland of Evesen 
     image-no: 32
     ifile: petzen-band1b-img32-weiland.png
     edate: 28 August
@@ -66,7 +66,7 @@ marriages:
     literal: "den 28t August: ist Hans Weÿland auß Evesen mit Sophia Marlena Engelkings auß Cammer copuliret." 
     trans: "On August 28, Hans Weÿland of Evesen was married to Sophia Marlena Engelking of Cammer."
   
-  - name: Herman Henrich Weÿland 
+  - name: Herman Henrich Weÿland of Evesen 
     image-no: 33
     ifile: petzen-band1b-img33-weiland.png
     edate: 5 September 1720 
@@ -75,7 +75,7 @@ marriages:
     literal: "den 5 Septembr ist Herman Henrich Weÿland von Evesen mit Anna Catharina Piels auß Berenbusch copuliret"
     trans: "On September 5, Herman Henrich Weÿland of Evesen was married to Anna Catharina Piel of Berenbusch."
   
-  - name: Hanß Henrich Weÿland 
+  - name: Hanß Henrich Weÿland of Evesen
     image-no: 35
     ifile: petzen-band1b-img35-weiland.png
     edate: 14 November 1723
@@ -84,7 +84,7 @@ marriages:
     literal: "den 14. Novembr ist Hanß Henrich Weÿland auß Evesen, mit Ilsabe [Perte?] getrauet."
     trans: "On November 14, Hans Henrich Weiland of Evesen was married to Ilsabe [Perte?]."  
   
-  - name: Herman Henrich Weÿland 
+  - name: Herman Henrich Weÿland of Evesen
     image-no: 37 
     ifile: petzen-band1b-img37-weiland.png
     edate: 24 November 1728
@@ -93,7 +93,7 @@ marriages:
     literal: "den 24t Novemb ist Herman Henrich Weÿland auß Evesen mit Anna Catharina Steinmeÿers auß [Frille/Grille]" 
     trans: "On November 24, Herman Henrich Weÿland of Evesen was married to Anna Catharina Steinmeÿer of [Frille/Grille]" 
   
-  - name: Jobst Henirch Weÿland 
+  - name: Jobst Henirch Weÿland of Berenbush 
     image-no: 38 
     ifile: petzen-band1b-img38-weiland2.png
     edate: 13 September 1731
@@ -102,7 +102,7 @@ marriages:
     literal: "den 13t Septemb ist Jobst Henirch Weÿland auß Berenbusch mit Rudolphina Mönckhofs auß Evesen copuliret worden"
     trans: "On September 13, Jobst Henirch Weÿland of Berenbusch was married to Rudolphina Mönckhof of Evesen"
   
-  - name: Johann Friderich Weiland  
+  - name: Johann Friderich Weiland of Berenbush 
     image-no: 40
     ifile: petzen-band1b-img40-weiland2.png
     edate: 7 October 1734
@@ -111,7 +111,7 @@ marriages:
     literal: "Octobr d 7t Johann Friderich Weiland v. Berenbusch mit Anna Maria Elisabeth Cohmiers v. Eves[en]"
     trans: "On October 7: Johann Friderich Weiland of Berenbusch, with Anna Maria Elisabeth Cohmiers of Evesen"
   
-  - name: Johann Friderich Wilhelm Weiland 
+  - name: Johann Friderich Wilhelm Weiland of Nammen
     image-no: 41
     ifile: petzen-band1b-img41-weiland
     edate: 24 November 1737
@@ -120,7 +120,7 @@ marriages:
     literal: "d 24t Johann Friderich Wilhelm Weiland von Nammen mit Anna Sophia Maria Ostermeiers von Northolt copuliret."
     trans: "On November 24, Johann Friderich Wilhelm Weiland of Nammen married Anna Sophia Maria Ostermeiers of Nordholz." 
   
-  - name: Henrich Weiland 
+  - name: Henrich Weiland of Behrenbusch
     image-no: 43
     ifile: petzen-band1b-img43-weiland.png
     edate: 14 February 1745
@@ -129,7 +129,7 @@ marriages:
     literal: "Ao 1745 Februarÿ d. 14 Henrich Weiland von Behrenbusch mit Sophia Elisabeth [Rösner?] verwitwet Bünten copuliret."
     trans: "in the year 1745, on February 14, Henrich Weiland of Behrenbusch married Sophia Elisabeth [Rösner?] widow of Bünte."
   
-  - name: Herman Henrich Weiland
+  - name: Herman Henrich Weiland of Evesen
     image-no: 45
     ifile: petzen-band1b-img45-weiland.png
     edate: 3 November 1746
@@ -138,7 +138,7 @@ marriages:
     literal: "d 3 Novembr ist Herman Henrich Weiland aus Evesen mit Anna Sabina Breiners aus Warber copuliret worden."
     trans: "On November 3, Herman Henrich Weiland of Evesen was married to Anna Sabina Breiner of Warber."
   
-  - name: Johann Henrich Weiland 
+  - name: Johann Henrich Weiland of Nammen 
     image-no: 46
     ifile: petzen-band1b-img46-weiland1.png
     edate: 17 October 1748
@@ -147,7 +147,7 @@ marriages:
     literal:  "d 17t octobr. Johann Henrich Weiland von Nammen mit Catharina Mysings sel. Joh. Bünten Witwe copuliret"
     trans: "On 17 October, Johann Henrich Weiland of Nammen was married to Catharina Mysing, widow of the late Johann Bünte."
   
-  - name: Jobst Henrich Weiland
+  - name: Jobst Henrich Weiland of Bernbusch
     image-no: 48 
     ifile: petzen-band1b-img48-weiland2.png
     edate: 7 June 1753
@@ -156,7 +156,7 @@ marriages:
     literal: "d 7tJunii Jobst Henrich Weiland aus Bernbusch mit Anna Ilsa Margarathe Mönchhofs von Jägers Stette zu Evesen copulirt"
     trans: "On 7 June, Jobst Henrich Weiland of Bernbusch was married to Anna Ilsa Margaretha Mönchhof, from Jäger’s place in Evesen."
   
-  - name: Heinrich Ludewig Weiland
+  - name: Heinrich Ludewig Weiland in Röcke
     image-no: 56
     ifile: petzen-band1b-img56-weiland.png
     edate: 7 February 1765

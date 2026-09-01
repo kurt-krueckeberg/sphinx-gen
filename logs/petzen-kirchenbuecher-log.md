@@ -19,8 +19,7 @@ We know by 1745 that no. 1 Berenbusch was the holder of {external+nla:doc}`Jobst
 
 Petzen baptisms in  [Verzeichnis der Getauften und Konfirmierten 1641-1784](https://www.archion.de/de/viewer/churchRegister/329073?cHash=ee9bc62188bd7cf69b7164aff9106ac3).
 
-Some pages are missing in the H1 header the locality. Some are missing the
-list-table of relationships and facts.
+Some pages don't have the localityin in the H1 header. Some are missing the relationships table.
 
 ## Confirmation 1705-1784
 
@@ -30,9 +29,6 @@ list-table of relationships and facts.
 
 Marriage images reviewed in the Petzen Kirchenbuch
 [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.archion.de/de/viewer/churchRegister/329074?cHash=7d4de5d86cdc37d46ca50b1a9a9b1ad8)
-
-Marriages from image 1 through **image 68**, the last marriage image in the **1641-1784 volume** were reviewed
-for Weiland and KRückeberg.
 
 ## Review of Deaths 1641-1784
 
