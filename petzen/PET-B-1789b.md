@@ -1,4 +1,4 @@
-# 1789 Christine Maria Weiland Baptism
+# 1789 Christine Maria Weiland of Peezen Baptism
 
 ## Family Relationship and Other Facts
 
