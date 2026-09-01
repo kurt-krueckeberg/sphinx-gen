@@ -1,5 +1,9 @@
 # 1811 Philippine Louise Weiland Marriage
 
+## Family Relationships and Other Facts
+
+```{list-table}
+
 ## Record 
 
 The March 10, 1811, marriage of Phillipine Louise Weiland, daughter of the deceased Friedrich Weiland, 
@@ -81,8 +85,7 @@ to Carl Mensching is on {ref}`image 26 <PET-M-1811a>` of the Petzen *Verzeichnis
 * - 2.
   - Bachelor Carl Mensching
     son the late Conrad
-    Mensching, free argicultural labarer in Je-
-    tenburg, Luth. Conf. and now
+    Mensching, lodger in Jetenburg, Luth. Conf. and now
     29 years old
   - Philippine Louise
     Weiland, daughter of the
