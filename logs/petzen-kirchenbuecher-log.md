@@ -17,15 +17,17 @@ We know by 1745 that no. 1 Berenbusch was the holder of {external+nla:doc}`Jobst
 
 ## Review of Petzen Baptisms 1700-1784
 
-Petzen baptisms in  [Verzeichnis der Getauften und Konfirmierten 1641-1784](https://www.archion.de/de/viewer/churchRegister/329073?cHash=ee9bc62188bd7cf69b7164aff9106ac3).
+**Review DONE but markdown not done.**
 
-Some pages don't have the localityin in the H1 header. Some are missing the relationships table.
+Petzen baptisms in  [Verzeichnis der Getauften und Konfirmierten 1641-1784](https://www.archion.de/de/viewer/churchRegister/329073?cHash=ee9bc62188bd7cf69b7164aff9106ac3).
 
 ## Confirmation 1705-1784
 
-**DONE**
+**Review DONE but markdown not done.**
 
 ## Review of Marriages 1641-1784
+
+**Review DONE but markdown not done.**
 
 Marriage images reviewed in the Petzen Kirchenbuch
 [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.archion.de/de/viewer/churchRegister/329074?cHash=7d4de5d86cdc37d46ca50b1a9a9b1ad8)
@@ -47,7 +49,7 @@ Re-review. Completed 83-96.
 
 ## Review of Confirmations 1705-1784
 
-**Done**. There is a gap where there are no confirmation records. 
+**Done but markdown pages not yet created**. There is a gap where there are no confirmation records. 
 The confirmation records in the **Verzeichnis der Getauften und Konfirmierten 1641-1784**
 begin in 1705. They also contain a **gap from 1717-1733**.
 
