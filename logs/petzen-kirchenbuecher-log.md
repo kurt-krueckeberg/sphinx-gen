@@ -28,12 +28,10 @@ list-table of relationships and facts.
 
 ## Review of Marriages 1641-1784
 
-**DONE**
-
 Marriage images reviewed in the Petzen Kirchenbuch
 [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.archion.de/de/viewer/churchRegister/329074?cHash=7d4de5d86cdc37d46ca50b1a9a9b1ad8)
 
-Marriages from image 17 through **image 68**, the last marriage image in the **1641-1784 volume** were reviewed
+Marriages from image 1 through **image 68**, the last marriage image in the **1641-1784 volume** were reviewed
 for Weiland and KRückeberg.
 
 ## Review of Deaths 1641-1784
