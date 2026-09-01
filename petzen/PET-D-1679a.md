@@ -1,4 +1,4 @@
-# 1679 son of Wolter Weilandt Buried
+# 1679 son of Wolter Weilandt of Peeten Buried
 
 ## Record
 
