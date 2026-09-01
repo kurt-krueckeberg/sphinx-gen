@@ -1,7 +1,7 @@
 The program will create new MyST Markdown files with the extension of `.md`, but it must NEVER overwrite,
 truncate, rename, delete, or modify any existing Markdown file.
 
-The program is configuration driven. The configuration file is name
+The program is configuration driven. The configuration file is named
 config.yml and is located in `gens/code/config.yml`. This file's keys and
 values will be used to create new MyST markdown files.
 
