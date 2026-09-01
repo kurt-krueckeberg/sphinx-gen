@@ -1,30 +1,10 @@
 # 1811 Philippine Louise Weiland Marriage
 
-## Citation
+## Record 
 
-The marriage is on {ref}`image 26 from Archion <PET-M-1811a>`.
+The March 10, 1811, marriage of Phillipine Louise Weiland, daughter of the deceased Friedrich Weiland, 
+to Carl Mensching is on {ref}`image 26 <PET-M-1811a>` of the Petzen *Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827*.
 
-## Philippine Louise Weiland 1811
-
-In 1811 Phillipine Louise Weiland, daughter of the deceased Friedrich Weiland, married Carl Mensching.
-
-Her marriage is entry no. 2 and spans both pages:
-
-```{figure} images/petzen-band2-img26-left-1.jpg
-:class: image-override
-```
-
-```{figure} images/petzen-band2-img26-right-1.jpg
-:class: image-override
-```
-
-Transliteration of header for pages 46 and 47
-
-46                Copulierte im Kirchspiel Petzen                  im Jahr 1811                                 47
-
-Translation of header for pages 46 and 47
-
-46                Marrianges in the Petzen Parish                  in the year 1811                              47
 
 ```{figure} images/petzen-band2-img26-left-2.jpg
 :class: image-override
@@ -33,6 +13,8 @@ Translation of header for pages 46 and 47
 ```{figure} images/petzen-band2-img26-right-2.jpg
 :class: image-override
 ```
+
+## Transliteration
 
 ```{list-table} marriage entry 2
 
@@ -76,6 +58,8 @@ Translation of header for pages 46 and 47
       Bräutigam vorher geschwächt[to degrade, weak,
      debilitate/geschwängert=made pregnant?]
 ```
+
+## Translation
 
 ```{list-table} Marriage entry 2
 
