@@ -1,4 +1,4 @@
-# 1777 Friderich Wilhelm Weiland Baptism
+# 1777 Friderich Wilhelm Weiland of No. 20 Evesen Baptism
 
 ## Family Relationship and Other Facts
 
@@ -38,9 +38,7 @@ The baptismal record is shown below:
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 2) d 26ten Jan: ist getauft Friderich Wilhelm Weiland des Friederich Wilhelm Weiland aus Evesen
@@ -48,7 +46,7 @@ Transliteration
    waren Johann Heinrich Weiland aus Nordholz und Hans Heinrich Möller aus Heessen
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 On 26 January, Friedrich Wilhelm Weiland was baptized, the son begotten by
