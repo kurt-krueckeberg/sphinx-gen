@@ -1,8 +1,8 @@
-# 1708 Johann Henrich Weyland Baptism
+# 1708 Johann Henrich Weyland of Peezen Baptism
 
 ## Record
 
-The baptism of Johann Henrich Weyland is on {doc}`image 112 <PET-B-1708a>`, 
+The baptism of Johann Henrich Weyland is on {ref}`image 112 <PET-B-1708a>`, 
 of the Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 ```{figure} images/petzen-band1a-img112.jpg
