@@ -1,4 +1,4 @@
-# 1784 Johann Friderich Wilhelmn Bünte-Weiland Marriage
+# 1784 Johann Friderich Wilhelmn Bünte-Weiland of No. 30 Nammen Marriage
 
 ## Family and Other Facts
 

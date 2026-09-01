@@ -1,4 +1,4 @@
-# 1781 Heinrich Ludawig Weilandt Marriage
+# 1781 Heinrich Ludawig Weilandt of Evesen Marriage
 
 ## Family and Other Facts
 
@@ -12,7 +12,7 @@
   - Bride Locality
 * - Heinrich Ludawig Weilandt
   - Evesen
-  - Knecht  
+  - farmhand/hired hand  
   - Dorothea Steding 
   - Peezen
 ```
@@ -43,7 +43,7 @@ mit der von ihm geschwächten Dorothea Stedingen aus Peezen
 ## Translation
 
 ```{div} doc-text
-4. On November 4, Heinrich Ludawig Weilandt, a farmhand in Evesen, was
+4. On November 4, Heinrich Ludawig Weilandt, a farmhand/hired hand in Evesen, was
 married to Dorothea Stedingen of Petzen, with whom he had had sexual
 relations before marriage.
 ```
