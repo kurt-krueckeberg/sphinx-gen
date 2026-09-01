@@ -5,7 +5,6 @@
 The March 10, 1811, marriage of Phillipine Louise Weiland, daughter of the deceased Friedrich Weiland, 
 to Carl Mensching is on {ref}`image 26 <PET-M-1811a>` of the Petzen *Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827*.
 
-
 ```{figure} images/petzen-band2-img26-left-2.jpg
 :class: image-override
 ```
@@ -16,20 +15,21 @@ to Carl Mensching is on {ref}`image 26 <PET-M-1811a>` of the Petzen *Verzeichnis
 
 ## Transliteration
 
-```{list-table} marriage entry 2
+```{list-table} 
+:header-rows: 1
 
-* - **Zahl**
-  - **Name, Stand, Religion,
-     Eltern des Bräütigams**
-  - **Name, Religion,
-     Geburt u. Wohnort der Braut**
-  - **Zeit u. Ort
-     der Proclamation**
-  - **Zeit u. Ort
-     der Kopulation**
-  - **der kopulirende Prädiger**
-  - **Kopulations Zeugen**
-  - **Bemerkungen**
+* - Zahl
+  - Name, Stand, Religion,
+     Eltern des Bräütigams
+  - Name, Religion,
+     Geburt u. Wohnort der Braut
+  - Zeit u. Ort
+     der Proclamation
+  - Zeit u. Ort
+     der Kopulation
+  - der kopulirende Prädiger
+  - Kopulations Zeugen
+  - Bemerkungen
 * - 2.
   - Junggeselle Carl Mensching
     Sohn des verstorbenen Conrad
@@ -62,21 +62,22 @@ to Carl Mensching is on {ref}`image 26 <PET-M-1811a>` of the Petzen *Verzeichnis
 ## Translation
 
 ```{list-table} Marriage entry 2
+:header-rows: 1
 
-* - **Number**
-  - **Name, Occupation, Religion,
-    Parents of the groom**
-  - **Name, Religion, Birth
+* - Number
+  - Name, Occupation, Religion,
+    Parents of the groom
+  - Name, Religion, Birth
     and Residence
-    of the Bride**
-  - **Time and Place
-    of the Proclamtion**
-  - **Time and Place
-    of the Marriage**
-  - **The offic-
-    ating Minister**
-  - **Marriage Witnesses**
-  - **Remarks**
+    of the Bride
+  - Time and Place
+    of the Proclamtion
+  - Time and Place
+    of the Marriage
+  - The offic-
+    ating Minister
+  - Marriage Witnesses
+  - Remarks
 * - 2.
   - Bachelor Carl Mensching
     son the late Conrad
@@ -86,7 +87,7 @@ to Carl Mensching is on {ref}`image 26 <PET-M-1811a>` of the Petzen *Verzeichnis
   - Philippine Louise
     Weiland, daughter of the
     deceased Friedrich
-    Weiland, free farm laborer in
+    Weiland, lodger in 
     Bärenbusch. Luth. Conf.
     and now 25 years old
   - Were proclaimed in the church at
