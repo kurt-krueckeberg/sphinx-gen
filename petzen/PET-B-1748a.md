@@ -1,4 +1,4 @@
-# 1748 Anna Maria Weiland Baptism
+# 1748 Anna Maria Weiland of Nordholtz Baptism
 
 ```{list-table}
 :header-rows: 1
