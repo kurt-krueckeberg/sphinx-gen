@@ -1,4 +1,4 @@
-# 1790 Jobst Heinrich Weiland Marriage
+# 1790 Jobst Heinrich Weiland of No. 1 Berenbusch Marriage
 
 ## Family and Other Facts
 
