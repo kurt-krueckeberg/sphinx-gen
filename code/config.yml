@@ -324,7 +324,6 @@ confirmations:
   records:
   - name: Hans Heinrich Weyland
     image-no: 297
-    edate: 1707
     age: 13
     residence:
     vdate: 25 August 2026
@@ -333,7 +332,6 @@ confirmations:
   
   - name: Anna Elisabeth Weÿland
     image-no: 298
-    edate: 1711
     age: 12
     residence: Evesen
     vdate: 25 August 2026
@@ -342,7 +340,6 @@ confirmations:
   
   - name: Anna Elisabeth Vahlsing
     image-no: 299
-    edate: 1713
     age: 12
     residence:
     vdate: 25 August 2026
@@ -351,7 +348,6 @@ confirmations:
   
   - name: Jobst Henrich Weÿland
     image-no: 299
-    edate: 1716
     age: 14
     residence: Berenbusch
     vdate: 26 August 2026
@@ -360,7 +356,6 @@ confirmations:
   
   - name: Anna Maria Vahlsing
     image-no: 299
-    edate: 1716
     age: 13
     residence: Evesen
     vdate: 26 August 2026
@@ -369,7 +364,6 @@ confirmations:
   
   - name: Weiland TODO Grouping
     image-no: 301
-    edate: 1736
     age: 
     residence: 
     vdate: 26 August 2026
@@ -378,7 +372,6 @@ confirmations:
   
   - name: Weiland TODO Grouping
     image-no: 301
-    edate: 1737
     age:
     residence: N = Nordholz?
     vdate: 26 August 2026
@@ -387,7 +380,6 @@ confirmations:
   
   - name: Weiland Ev[esen]
     image-no: 302
-    edate: 1740
     age: 
     residence: "Ev:"
     vdate: 26 August 2026
@@ -396,7 +388,6 @@ confirmations:
   
   - name: Weiland 
     image-no: 303
-    edate: 1743
     age: 
     residence: N.
     vdate: 26 August 2026
@@ -405,7 +396,6 @@ confirmations:
   
   - name: Weiland
     image-no: 303
-    edate: 1745
     age:
     residence: Behrebusch
     vdate: 26 August 2026
@@ -414,7 +404,6 @@ confirmations:
   
   - name: Johann Heinrich Fahlsing
     image-no: 303
-    edate: 1746
     age:
     residence: Evesen
     vdate: 26 August 2026
@@ -423,7 +412,6 @@ confirmations:
   
   - name: Anna Christina Weiland
     image-no: 304
-    edate: 1746
     age: 
     residence: Evesen
     vdate: 26 August 2026
@@ -432,7 +420,6 @@ confirmations:
   
   - name: Hans Henrich Weiland 
     image-no: 303
-    edate: 1748
     age:
     residence: Berenbusch
     vdate: 26 August 2026
@@ -441,7 +428,6 @@ confirmations:
   
   - name: Jobst Henrich Weiland
     image-no: 305
-    edate: 1750
     age:
     residence: Evesen
     vdate: 26 August 2026
@@ -450,7 +436,6 @@ confirmations:
   
   - name: Anna Ilse Margaretha Fahlsings
     image-no: 307
-    edate: 1749
     age:
     residence:
     vdate: 26 August 2026
@@ -459,7 +444,6 @@ confirmations:
   
   - name: Jobst Henrich Weiland
     image-no: 307
-    edate: 1750 
     age: 
     residence: Evesen
     vdate:  26 August 2026
@@ -468,7 +452,6 @@ confirmations:
   
   - name: Friederich Wilhelm Weiland
     image-no: 308
-    edate: 1751
     age: 
     residence: Nordholz
     vdate: 26 August 2026
@@ -477,7 +460,6 @@ confirmations:
   
   - name: Hans Henrich Weiland
     image-no: 309
-    edate: 1753
     age: 
     residence: Evesen
     vdate: 26 August 2026
@@ -486,7 +468,6 @@ confirmations:
   
   - name: Sophia Elisabeth Weilands 
     image-no: 309
-    edate: 1753
     age: 
     residence: Nordholtz
     vdate: 26 August 2026
@@ -495,7 +476,6 @@ confirmations:
   
   - name: Friederich Wilhelm Weiland (Hofmeiers) Evesen 
     image-no: 309
-    edate: 1754
     age: 
     residence: Evesem
     vdate: 26 August 2026
@@ -504,7 +484,6 @@ confirmations:
   
   - name: Anna Margaretha Weiland 
     image-no: 310 
-    edate: 1757
     age: 
     residence: Nordholtz
     vdate: 26 August 2026
@@ -513,7 +492,6 @@ confirmations:
   
   - name: Carl Fried. Fahlsing
     image-no: 
-    edate: 1758
     age: 
     residence: Evesen 
     vdate: 26 August 2026
@@ -522,7 +500,6 @@ confirmations:
   
   - name: Anna Philippina Fahlsings
     image-no: 312
-    edate: 1760
     age: 
     residence: Evesen 
     vdate: 26 August 2026
@@ -531,7 +508,6 @@ confirmations:
   
   - name: Anna Maria Weilandt
     image-no: 312
-    edate: 1760
     age: 
     residence: Nordholtz
     vdate: 26 August 2026
@@ -540,7 +516,6 @@ confirmations:
   
   - name: Johann Heinrich Weiland
     image-no: 313 
-    edate: 1763
     age: 
     residence: Evesen
     vdate: 26 August 2026
@@ -549,7 +524,6 @@ confirmations:
   
   - name: Philippina Weiland
     image-no: 313
-    edate: 1764
     age: 
     residence: Evesen
     vdate: 26 August 2026
@@ -558,7 +532,6 @@ confirmations:
   
   - name: Sophia Elisabeth Weilands
     image-no: 314 
-    edate: 1766
     age:  
     residence: Evesen No. 21 
     vdate: 26 August 2026
@@ -567,7 +540,6 @@ confirmations:
   
   - name: Friederich Wilhelm Weiland
     image-no: 315 
-    edate: 1767
     age:  
     residence: Röcke 
     vdate: 26 August 2026
@@ -576,7 +548,6 @@ confirmations:
   
   - name: Ilse Margaretha Weilands 
     image-no: 315
-    edate: 1768
     age:  
     residence: Berenbusch
     vdate: 26 August
@@ -585,7 +556,6 @@ confirmations:
   
   - name: Heinrich Wilhelm Weiland
     image-no: 316
-    edate: 1769
     age:  
     residence: Nordholz
     vdate: 26 August 2026
@@ -594,7 +564,6 @@ confirmations:
   
   - name: Heinrich Ludewig Weiland
     image-no: 316
-    edate: 1769
     age:  
     residence: Röcke
     vdate: 26 August 2026
@@ -603,7 +572,6 @@ confirmations:
   
   - name: Jobst Heinrich Weiland 
     image-no: 317 
-    edate: 1772
     age:  
     residence: Röcke
     vdate: 26 August 2026 
@@ -612,7 +580,6 @@ confirmations:
   
   - name: Jost Heinrich Weiland 
     image-no: 317
-    edate: 1774
     age:  
     residence: Berenbusch
     vdate: 26 August 2026 
@@ -621,7 +588,6 @@ confirmations:
   
   - name: Christina Weiland
     image-no: 317 
-    edate: 1774
     age:  
     residence: Evesen
     vdate: 26 August 2026
@@ -630,7 +596,6 @@ confirmations:
   
   - name: Hans Heinrich Weiland  
     image-no: 318
-    edate: 1777 
     age:  
     residence: Berenbusch
     vdate: 26 August 2026
@@ -639,7 +604,6 @@ confirmations:
   
   - name: Heinrich Ludowig Weiland 
     image-no: 319
-    edate: 1779
     age:  
     residence: Peezen
     vdate: 26 August 2026
@@ -648,7 +612,6 @@ confirmations:
   
   - name: Anna Ilsabei Vahlsing
     image-no: 320
-    edate: 1782
     age:  
     residence: Evesen
     vdate: 27 August 2026
@@ -657,7 +620,6 @@ confirmations:
   
   - name: Johann Heinrich Weiland 
     image-no: 321 
-    edate: 1783 
     age:  
     residence: Nordholtz Berenbusch 
     vdate: 27 August 2026
@@ -666,7 +628,6 @@ confirmations:
   
   - name: Anna Philippina Weiland 
     image-no: 322
-    edate: 1784
     age:  
     residence: Evesen
     vdate: 27 August 2026
@@ -680,7 +641,6 @@ baptisms:
   records:
   - name: Daughter of Hans Weiland
     image-no: 10
-    edate: 1648
     edate: 13 August 1648 
     residence:
     ifile: petzen-band1a-img10-weiland.png 
@@ -697,7 +657,6 @@ baptisms:
 
   - name: Hans Weiland's Daughter
     image-no: 12 
-    edate: 1651
     edate: 11 April 1651
     residence:
     ifile: petzen-band1a-img12-weiland.png
@@ -708,7 +667,6 @@ baptisms:
  
   - name: Anna Catharine Eleonora Weiland 
     image-no: 55 
-    edate: 1676
     edate: 27 August 1676
     residence: Petzen
     ifile: petzen-band1a-img55-weiland.png  
@@ -724,7 +682,6 @@ baptisms:
   
   - name: Anna Catharine Eleonora Weiland 
     image-no: 55 
-    edate: 1676
     edate: 27 August 1676
     residence: Petzen
     ifile: petzen-band1a-img55-weiland.png  
@@ -740,7 +697,6 @@ baptisms:
 
   - name: Anna Margaretha Weiland
     image-no: 56
-    edate: 1678
     edate: 20 January 1678
     residence: Petzen
     ifile: 
@@ -757,7 +713,6 @@ baptisms:
    
   - name: Cort Hinrig Weilandt 
     image-no: 58
-    edate: 1679
     edate: 13 February 1679
     residence: Petzen
     ifile: petzen-band1a-img58-weiland.png
