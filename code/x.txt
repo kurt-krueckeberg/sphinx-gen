@@ -1,0 +1,987 @@
+Array
+(
+    [parish] => Array
+        (
+            [name] => Petzen
+            [prefix] => PET
+            [volumes] => Array
+                (
+                    [path] => Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe
+                    [band1a] => Array
+                        (
+                            [name] => Verzeichnis der Getauften und Konfirmierten 1641-1784
+                            [total-images] => 312
+                        )
+
+                    [band1b] => Array
+                        (
+                            [name] => Verzeichnis der Getrauten und Gestorbenen 1641-1784
+                            [total-images] => 239
+                        )
+
+                )
+
+        )
+
+    [citation] => "Archion Protestant Kirchenbücher Portal", database with images, Archion (<%url%> : %vdate%), path: %volume-path% > %parish% > %volume-name%, image %image-no% of %total-images%
+    [marriages] => Array
+        (
+            [volume] => band1b
+            [record-symbol] => M
+            [event] => Marriage
+            [records] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => [uncertain name] Weilandt
+                            [residence] => 
+                            [image-no] => 15
+                            [ifile] => petzen-band1b-img15-weiland.png
+                            [edate] => 12 November 1675
+                            [vdate] => 27 August 2026
+                            [url] => https://www.archion.de/p/810b859f6a/
+                            [literal] => [unclear] Weilandt und Elisabeth Rödemeisters zu Petyen den 12 [either Nov. or Dec.] copuliret
+                            [trans] => [unclear] Weilandt and Elisabeth Rödemeister of Petzen were married on the 12th of [November or December].
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => Hans Hinrich Weilandt
+                            [residence] => Petzen
+                            [image-no] => 26
+                            [ifile] => petzen-band1b-img26-weiland.png
+                            [edate] => 2 March 1702
+                            [vdate] => 27 August 2026
+                            [url] => https://www.archion.de/p/6e4a60e49b/
+                            [literal] => Hans Hinrich Weilandt von Petzen und Anna Margaretha Sanders auf den Berenbusch den 2 Martij copuliret
+                            [trans] => Hans Hinrich Weilandt of Petzen and Anna Margaretha Sanders at Berenbusch were married on March 2.
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => Johan Tonnis Weyland
+                            [residence] => Peezen
+                            [image-no] => 29
+                            [ifile] => petzen-band1b-img29-weiland.png
+                            [edate] => 28 October 1708
+                            [vdate] => 27 August 2026
+                            [url] => https://www.archion.de/p/63241c08c4/
+                            [literal] => den 28. 8br [sint] copuliret Johan Tonnis Weyland aus Peezen mitt Annen Jlsabey Brandts aus Nammen, mitt Welcher er schon vorhin ein Fuhr Kind gezeugt
+                            [trans] => On October 28, Johan Tonnis Weyland of Peezen was married to Anna Ilsabey Brandt of Nammen, with whom he had already previously fathered an illegitimate child.
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => Hans Weÿlandt
+                            [residence] => Evesen
+                            [image-no] => 30
+                            [ifile] => petzen-band1b-img30-weiland.png
+                            [edate] => 19 October 1712
+                            [vdate] => 27 August 2026
+                            [url] => https://www.archion.de/p/d50e7390f3/
+                            [literal] => Den 19 8br ist Hans Weÿlandt auß Evesen mit Hille Poocks copuliret.
+                            [trans] => On October 19, Hans Weÿlandt of Evesen was married to Hille Poock.
+                        )
+
+                    [4] => Array
+                        (
+                            [name] => Hans Weÿland
+                            [residence] => Evesen
+                            [image-no] => 32
+                            [ifile] => petzen-band1b-img32-weiland.png
+                            [edate] => 28 August
+                            [vdate] => 27 August 2026
+                            [url] => https://www.archion.de/p/e7498ba239/
+                            [literal] => den 28t August: ist Hans Weÿland auß Evesen mit Sophia Marlena Engelkings auß Cammer copuliret.
+                            [trans] => On August 28, Hans Weÿland of Evesen was married to Sophia Marlena Engelking of Cammer.
+                        )
+
+                    [5] => Array
+                        (
+                            [name] => Herman Henrich Weÿland
+                            [residence] => Evesen
+                            [image-no] => 33
+                            [ifile] => petzen-band1b-img33-weiland.png
+                            [edate] => 5 September 1720
+                            [vdate] => 27 August 2026
+                            [url] => https://www.archion.de/p/86a2e44c1c/
+                            [literal] => den 5 Septembr ist Herman Henrich Weÿland von Evesen mit Anna Catharina Piels auß Berenbusch copuliret
+                            [trans] => On September 5, Herman Henrich Weÿland of Evesen was married to Anna Catharina Piel of Berenbusch.
+                        )
+
+                    [6] => Array
+                        (
+                            [name] => Hanß Henrich Weÿland
+                            [residence] => Evesen
+                            [image-no] => 35
+                            [ifile] => petzen-band1b-img35-weiland.png
+                            [edate] => 14 November 1723
+                            [vdate] => 27 August 2026
+                            [url] => https://www.archion.de/p/61953005ab/
+                            [literal] => den 14. Novembr ist Hanß Henrich Weÿland auß Evesen, mit Ilsabe [Perte?] getrauet.
+                            [trans] => On November 14, Hans Henrich Weiland of Evesen was married to Ilsabe [Perte?].
+                        )
+
+                    [7] => Array
+                        (
+                            [name] => Herman Henrich Weÿland
+                            [residence] => Evesen
+                            [image-no] => 37
+                            [ifile] => petzen-band1b-img37-weiland.png
+                            [edate] => 24 November 1728
+                            [vdate] => 27 August 2026
+                            [url] => https://www.archion.de/p/7281702721/
+                            [literal] => den 24t Novemb ist Herman Henrich Weÿland auß Evesen mit Anna Catharina Steinmeÿers auß [Frille/Grille]
+                            [trans] => On November 24, Herman Henrich Weÿland of Evesen was married to Anna Catharina Steinmeÿer of [Frille/Grille]
+                        )
+
+                    [8] => Array
+                        (
+                            [name] => Jobst Henirch Weÿland
+                            [residence] => Berenbush
+                            [image-no] => 38
+                            [ifile] => petzen-band1b-img38-weiland2.png
+                            [edate] => 13 September 1731
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/55ef75b9fc/
+                            [literal] => den 13t Septemb ist Jobst Henirch Weÿland auß Berenbusch mit Rudolphina Mönckhofs auß Evesen copuliret worden
+                            [trans] => On September 13, Jobst Henirch Weÿland of Berenbusch was married to Rudolphina Mönckhof of Evesen
+                        )
+
+                    [9] => Array
+                        (
+                            [name] => Johann Friderich Weiland
+                            [residence] => Berenbush
+                            [image-no] => 40
+                            [ifile] => petzen-band1b-img40-weiland2.png
+                            [edate] => 7 October 1734
+                            [vdate] => 27 August 2026
+                            [url] => https://www.archion.de/p/29cf0c5d43/
+                            [literal] => Octobr d 7t Johann Friderich Weiland v. Berenbusch mit Anna Maria Elisabeth Cohmiers v. Eves[en]
+                            [trans] => On October 7: Johann Friderich Weiland of Berenbusch, with Anna Maria Elisabeth Cohmiers of Evesen
+                        )
+
+                    [10] => Array
+                        (
+                            [name] => Johann Friderich Wilhelm Weiland
+                            [residence] => Nammen
+                            [image-no] => 41
+                            [ifile] => petzen-band1b-img41-weiland
+                            [edate] => 24 November 1737
+                            [vdate] => 27 August 2026
+                            [url] => https://www.archion.de/p/afd3b9e513/
+                            [literal] => d 24t Johann Friderich Wilhelm Weiland von Nammen mit Anna Sophia Maria Ostermeiers von Northolt copuliret.
+                            [trans] => On November 24, Johann Friderich Wilhelm Weiland of Nammen married Anna Sophia Maria Ostermeiers of Nordholz.
+                        )
+
+                    [11] => Array
+                        (
+                            [name] => Henrich Weiland
+                            [residence] => Behrenbusch
+                            [image-no] => 43
+                            [ifile] => petzen-band1b-img43-weiland.png
+                            [edate] => 14 February 1745
+                            [vdate] => 27 August 2026
+                            [url] => https://www.archion.de/p/42b90e6dee/
+                            [literal] => Ao 1745 Februarÿ d. 14 Henrich Weiland von Behrenbusch mit Sophia Elisabeth [Rösner?] verwitwet Bünten copuliret.
+                            [trans] => in the year 1745, on February 14, Henrich Weiland of Behrenbusch married Sophia Elisabeth [Rösner?] widow of Bünte.
+                        )
+
+                    [12] => Array
+                        (
+                            [name] => Herman Henrich Weiland
+                            [residence] => Evesen
+                            [image-no] => 45
+                            [ifile] => petzen-band1b-img45-weiland.png
+                            [edate] => 3 November 1746
+                            [vdate] => 27 August 2026
+                            [url] => https://www.archion.de/p/ec0fc42b7b/
+                            [literal] => d 3 Novembr ist Herman Henrich Weiland aus Evesen mit Anna Sabina Breiners aus Warber copuliret worden.
+                            [trans] => On November 3, Herman Henrich Weiland of Evesen was married to Anna Sabina Breiner of Warber.
+                        )
+
+                    [13] => Array
+                        (
+                            [name] => Johann Henrich Weiland
+                            [residence] => Nammen
+                            [image-no] => 46
+                            [ifile] => petzen-band1b-img46-weiland1.png
+                            [edate] => 17 October 1748
+                            [vdate] => 27 August 2026
+                            [url] => https://www.archion.de/p/e4313feebe/
+                            [literal] => d 17t octobr. Johann Henrich Weiland von Nammen mit Catharina Mysings sel. Joh. Bünten Witwe copuliret
+                            [trans] => On 17 October, Johann Henrich Weiland of Nammen was married to Catharina Mysing, widow of the late Johann Bünte.
+                        )
+
+                    [14] => Array
+                        (
+                            [name] => Jobst Henrich Weiland
+                            [residence] => Bernbusch
+                            [image-no] => 48
+                            [ifile] => petzen-band1b-img48-weiland2.png
+                            [edate] => 7 June 1753
+                            [vdate] => 27 August 2026
+                            [url] => https://www.archion.de/p/bf5657d55f/
+                            [literal] => d 7tJunii Jobst Henrich Weiland aus Bernbusch mit Anna Ilsa Margarathe Mönchhofs von Jägers Stette zu Evesen copulirt
+                            [trans] => On 7 June, Jobst Henrich Weiland of Bernbusch was married to Anna Ilsa Margaretha Mönchhof, from Jäger’s place in Evesen.
+                        )
+
+                    [15] => Array
+                        (
+                            [name] => Heinrich Ludewig Weiland
+                            [residence] => Röcke
+                            [image-no] => 56
+                            [ifile] => petzen-band1b-img56-weiland.png
+                            [edate] => 7 February 1765
+                            [vdate] => 27 August 2026
+                            [url] => https://www.archion.de/p/4eff94fb92/
+                            [literal] => d 7t Febr: Heinrich Ludewig Weiland Schweinhirtens und Einliegers in Röcke mit Anna Christina Nergen aus der Driften in Pezen copuliret.
+                            [trans] => On 7 February, Heinrich Ludewig Weiland, swineherd and lodger in Röcke, was married to Anna Christina Nergen from the Drift in Pezen.
+                        )
+
+                )
+
+        )
+
+    [burials] => Array
+        (
+            [volume] => band1b
+            [record-symbol] => D
+            [event] => Burial
+            [records] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => Wölkken Weÿlandt
+                            [image-no] => 73
+                            [ifile] => petzen-band1b-img73-weiland.jpg
+                            [edate] => 24 January 1650
+                            [vdate] => 1 September 2026
+                            [url] => https://www.archion.de/p/dd754d963e/
+                            [literal] => Wölkken Weÿlandt Altermann. 24 Jan:
+                            [trans] => Wölkken Weÿlandt, elder. 24 January
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => 
+                            [image-no] => RESUME at 75. Go up to 82
+                            [ifile] => 
+                            [edate] => 
+                            [vdate] => 
+                            [url] => 
+                            [literal] => 
+                            [trans] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => 
+                            [image-no] => 
+                            [ifile] => 
+                            [edate] => 
+                            [vdate] => 
+                            [url] => 
+                            [literal] => 
+                            [trans] => 
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => 
+                            [image-no] => 
+                            [ifile] => 
+                            [edate] => 
+                            [vdate] => 
+                            [url] => 
+                            [literal] => 
+                            [trans] => 
+                        )
+
+                    [4] => Array
+                        (
+                            [name] => 
+                            [image-no] => 
+                            [ifile] => 
+                            [edate] => 
+                            [vdate] => 
+                            [url] => 
+                            [literal] => 
+                            [trans] => 
+                        )
+
+                    [5] => Array
+                        (
+                            [name] => 
+                            [image-no] => 
+                            [ifile] => 
+                            [edate] => 
+                            [vdate] => 
+                            [url] => 
+                            [literal] => 
+                            [trans] => 
+                        )
+
+                    [6] => Array
+                        (
+                            [name] => Wilandt's of Petzen little daughter
+                            [image-no] => 96
+                            [ifile] => petzen-band1b-img96-weiland-burial.png
+                            [edate] => 8 December 1676
+                            [vdate] => 28 August 2026
+                            [url] => https://www.archion.de/p/c49ee4a701/
+                            [literal] => [unclear] Wilandts kleines Mätigen zu Petzen den 8 Decemb. begraben
+                            [trans] => [unclear] Wilandts little daughter at Petzen den 8 Decemb buried.
+                        )
+
+                    [7] => Array
+                        (
+                            [name] => not given
+                            [image-no] => 98
+                            [ifile] => 
+                            [edate] => 24 February 1678
+                            [vdate] => 28 August 2026
+                            [url] => https://www.archion.de/p/56be28256d/
+                            [literal] => 
+                            [trans] => 
+                        )
+
+                    [8] => Array
+                        (
+                            [name] => Son of Wolter Weilandt of Peeten
+                            [image-no] => 99
+                            [ifile] => petzen-band1b-img99-weiland.png
+                            [edate] => 18 June 1679
+                            [vdate] => 28 August 2026
+                            [url] => https://www.archion.de/p/8b89636f40/
+                            [literal] => Wolter Weilandt zu Peeten, Sohn, 16 Wochen alt den 18 Junij begraben.
+                            [trans] => The son of Wolter Weilandt of Peeten, 16 weeks old, buried on June 18.
+                        )
+
+                    [9] => Array
+                        (
+                            [name] => Elderly Weiland woman/wife of Petzen
+                            [image-no] => 104
+                            [ifile] => petzen-band1b-img104-weiland.png
+                            [edate] => 25 March 1683
+                            [vdate] => 28 August 2026
+                            [url] => https://www.archion.de/p/07c4c14084/
+                            [literal] => Die alte Weiland:sche zu Peten den 25 Martij begraben.
+                            [trans] => “The elderly Weiland woman of Petzen was buried on 25 March.
+                        )
+
+                    [10] => Array
+                        (
+                            [name] => Wolter Weilandt’s little daughter
+                            [image-no] => 113
+                            [ifile] => petzen-band1b-img113-weiland.png
+                            [edate] => 17 February 1693
+                            [vdate] => 28 August 2026
+                            [url] => https://www.archion.de/p/04d28f5cdc/
+                            [literal] => Wolter Weilandt, Töchterlein, den 17 Februar begraben.
+                            [trans] => Wolter Weilandt’s little daughter, buried 17 February.
+                        )
+
+                    [11] => Array
+                        (
+                            [name] => Wolter Weilandt of Petzen
+                            [image-no] => 117
+                            [ifile] => petzen-band1b-img117-weiland.png
+                            [edate] => 5 July 1694
+                            [vdate] => 28 August 2026
+                            [url] => https://www.archion.de/p/0f5d7efeab/
+                            [literal] => Wolter Weilandt zu Petzen den 5 Julij begraben
+                            [trans] => 
+                        )
+
+                    [12] => Array
+                        (
+                            [name] => 
+                            [image-no] => resume at 118
+                            [ifile] => 
+                            [edate] => 
+                            [vdate] => 
+                            [url] => 
+                            [literal] => 
+                            [trans] => 
+                        )
+
+                )
+
+        )
+
+    [confirmations] => Array
+        (
+            [volume] => band1a
+            [record-symbol] => C
+            [event] => Confirmation
+            [records] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => Hans Heinrich Weyland
+                            [image-no] => 297
+                            [year] => 1707
+                            [age] => 13
+                            [locality] => 
+                            [vdate] => 25 August 2026
+                            [url] => https://www.archion.de/p/da82da13db/
+                            [literal] => Hans Heinrich Weland____13
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => Anna Elisabeth Weÿland
+                            [image-no] => 298
+                            [year] => 1711
+                            [age] => 12
+                            [locality] => Evesen
+                            [vdate] => 25 August 2026
+                            [url] => https://www.archion.de/p/e6b0295fb0/
+                            [literal] => Anna Elisabeth Weÿlandts aus Evesen____12
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => Anna Elisabeth Vahlsing
+                            [image-no] => 299
+                            [year] => 1713
+                            [age] => 12
+                            [locality] => 
+                            [vdate] => 25 August 2026
+                            [url] => https://www.archion.de/p/b7ee044bb4/
+                            [literal] => Anna Elisabeth Vahlsings aus Evesen____12
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => Jobst Henrich Weÿland
+                            [image-no] => 299
+                            [year] => 1716
+                            [age] => 14
+                            [locality] => Berenbusch
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/cff80d274e/
+                            [literal] => Jobst Henrich Weÿland aus Berenbusch____14
+                        )
+
+                    [4] => Array
+                        (
+                            [name] => Anna Maria Vahlsing
+                            [image-no] => 299
+                            [year] => 1716
+                            [age] => 13
+                            [locality] => Evesen
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/cff80d274e/
+                            [literal] => Anna Maria Vahlsing aus Evesen____13
+                        )
+
+                    [5] => Array
+                        (
+                            [name] => Weiland TODO Grouping
+                            [image-no] => 301
+                            [year] => 1736
+                            [age] => 
+                            [locality] => 
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/cc8d263b27/
+                            [literal] => 
+                        )
+
+                    [6] => Array
+                        (
+                            [name] => Weiland TODO Grouping
+                            [image-no] => 301
+                            [year] => 1737
+                            [age] => 
+                            [locality] => N = Nordholz?
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/cc8d263b27/
+                            [literal] => Weiland  N
+                        )
+
+                    [7] => Array
+                        (
+                            [name] => Weiland Ev[esen]
+                            [image-no] => 302
+                            [year] => 1740
+                            [age] => 
+                            [locality] => Ev:
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/8adf84b739/
+                            [literal] => Weiland Ev:
+                        )
+
+                    [8] => Array
+                        (
+                            [name] => Weiland
+                            [image-no] => 303
+                            [year] => 1743
+                            [age] => 
+                            [locality] => N.
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/330c163617/
+                            [literal] => Weiland N.
+                        )
+
+                    [9] => Array
+                        (
+                            [name] => Weiland
+                            [image-no] => 303
+                            [year] => 1745
+                            [age] => 
+                            [locality] => Behrebusch
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/c2e455cf48/
+                            [literal] => Weiland Behrebusch
+                        )
+
+                    [10] => Array
+                        (
+                            [name] => Johann Heinrich Fahlsing
+                            [image-no] => 303
+                            [year] => 1746
+                            [age] => 
+                            [locality] => Evesen
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/61c7e65298/
+                            [literal] => Johann Heinrich Fahlsing aus Evesem
+                        )
+
+                    [11] => Array
+                        (
+                            [name] => Anna Christina Weiland
+                            [image-no] => 304
+                            [year] => 1746
+                            [age] => 
+                            [locality] => Evesen
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/c7513c70ad/
+                            [literal] => Anna Christina Weilands aus Evesen.
+                        )
+
+                    [12] => Array
+                        (
+                            [name] => Hans Henrich Weiland
+                            [image-no] => 303
+                            [year] => 1748
+                            [age] => 
+                            [locality] => Berenbusch
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/9da2dc81a0/
+                            [literal] => Hans Henrich Weiland aus Berenbusch
+                        )
+
+                    [13] => Array
+                        (
+                            [name] => Jobst Henrich Weiland
+                            [image-no] => 305
+                            [year] => 1750
+                            [age] => 
+                            [locality] => Evesen
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/09aca539e3/
+                            [literal] => Jobst Henrich Weiland aus Evesen
+                        )
+
+                    [14] => Array
+                        (
+                            [name] => Anna Ilse Margaretha Fahlsings
+                            [image-no] => 307
+                            [year] => 1749
+                            [age] => 
+                            [locality] => 
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/1300f945be/
+                            [literal] => 12) Anna Ilse Margaretha Fahlsings
+                        )
+
+                    [15] => Array
+                        (
+                            [name] => Jobst Henrich Weiland
+                            [image-no] => 307
+                            [year] => 1750
+                            [age] => 
+                            [locality] => Evesen
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/91b6620e5c/
+                            [literal] => Jobst Henrich Weiland aus Evesen
+                        )
+
+                    [16] => Array
+                        (
+                            [name] => Friederich Wilhelm Weiland
+                            [image-no] => 308
+                            [year] => 1751
+                            [age] => 
+                            [locality] => Nordholz
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/43f1621379/
+                            [literal] => Friederich Wilhelm Weiland aus Nordholz
+                        )
+
+                    [17] => Array
+                        (
+                            [name] => Hans Henrich Weiland
+                            [image-no] => 309
+                            [year] => 1753
+                            [age] => 
+                            [locality] => Evesen
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/c1c9046458/
+                            [literal] => Hans Henrich Weiland aus Evesen
+                        )
+
+                    [18] => Array
+                        (
+                            [name] => Sophia Elisabeth Weilands
+                            [image-no] => 309
+                            [year] => 1753
+                            [age] => 
+                            [locality] => Nordholtz
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/3a0883155f/
+                            [literal] => Sophia Elisabeth Weilands aus Nordholtz
+                        )
+
+                    [19] => Array
+                        (
+                            [name] => Friederich Wilhelm Weiland (Hofmeiers) Evesen
+                            [image-no] => 309
+                            [year] => 1754
+                            [age] => 
+                            [locality] => Evesem
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/99783df0c2/
+                            [literal] => Friederich Wilhelm Weiland (Hofmeiers) Evesen
+                        )
+
+                    [20] => Array
+                        (
+                            [name] => Anna Margaretha Weiland
+                            [image-no] => 310
+                            [year] => 1757
+                            [age] => 
+                            [locality] => Nordholtz
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/07617bfa91/
+                            [literal] => Anna Margaretha Weilands aus Nordholtz
+                        )
+
+                    [21] => Array
+                        (
+                            [name] => Carl Fried. Fahlsing
+                            [image-no] => 
+                            [year] => 1758
+                            [age] => 
+                            [locality] => Evesen
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/405713c11f/
+                            [literal] => Carl Fried. Fahlsing aus Evesen
+                        )
+
+                    [22] => Array
+                        (
+                            [name] => Anna Philippina Fahlsings
+                            [image-no] => 312
+                            [year] => 1760
+                            [age] => 
+                            [locality] => Evesen
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/42667cb769/
+                            [literal] => Anna Philippina Fahlsings aus Evesen
+                        )
+
+                    [23] => Array
+                        (
+                            [name] => Anna Maria Weilandt
+                            [image-no] => 312
+                            [year] => 1760
+                            [age] => 
+                            [locality] => Nordholtz
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/42667cb769/
+                            [literal] => Anna Maria Weilandt aus Nordholtz
+                        )
+
+                    [24] => Array
+                        (
+                            [name] => Johann Heinrich Weiland
+                            [image-no] => 313
+                            [year] => 1763
+                            [age] => 
+                            [locality] => Evesen
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/1fdc86eeb3/
+                            [literal] => Johann Heinrich Weiland aus Evesen
+                        )
+
+                    [25] => Array
+                        (
+                            [name] => Philippina Weiland
+                            [image-no] => 313
+                            [year] => 1764
+                            [age] => 
+                            [locality] => Evesen
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/a50f43c12e/
+                            [literal] => Philippina Weilands aus Evesen
+                        )
+
+                    [26] => Array
+                        (
+                            [name] => Sophia Elisabeth Weilands
+                            [image-no] => 314
+                            [year] => 1766
+                            [age] => 
+                            [locality] => Evesen No. 21
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/ce7131f5a0/
+                            [literal] => Sophia Elisabeth Weilands aus Evesen No. 21
+                        )
+
+                    [27] => Array
+                        (
+                            [name] => Friederich Wilhelm Weiland
+                            [image-no] => 315
+                            [year] => 1767
+                            [age] => 
+                            [locality] => Röcke
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/44838bec83/
+                            [literal] => Friederich Wilhelm Weiland aus Röcke Einlieger
+                        )
+
+                    [28] => Array
+                        (
+                            [name] => Ilse Margaretha Weilands
+                            [image-no] => 315
+                            [year] => 1768
+                            [age] => 
+                            [locality] => Berenbusch
+                            [vdate] => 26 August
+                            [url] => https://www.archion.de/p/88fcbde3e9/
+                            [literal] => Friederich Wilhelm Weiland aus Berenbusch
+                        )
+
+                    [29] => Array
+                        (
+                            [name] => Heinrich Wilhelm Weiland
+                            [image-no] => 316
+                            [year] => 1769
+                            [age] => 
+                            [locality] => Nordholz
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/b798d91460/
+                            [literal] => Heinrich Wilhelm Weiland Nordholz
+                        )
+
+                    [30] => Array
+                        (
+                            [name] => Heinrich Ludewig Weiland
+                            [image-no] => 316
+                            [year] => 1769
+                            [age] => 
+                            [locality] => Röcke
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/b798d91460/
+                            [literal] => Heinrich Ludewig Weiland Röcke
+                        )
+
+                    [31] => Array
+                        (
+                            [name] => Jobst Heinrich Weiland
+                            [image-no] => 317
+                            [year] => 1772
+                            [age] => 
+                            [locality] => Röcke
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/7b50caa5f3/
+                            [literal] => Jobst Heinrich Weiland aus Röcke
+                        )
+
+                    [32] => Array
+                        (
+                            [name] => Jost Heinrich Weiland
+                            [image-no] => 317
+                            [year] => 1774
+                            [age] => 
+                            [locality] => Berenbusch
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/e88a5aaef1/
+                            [literal] => Jobst Heinrich Weiland____Berembusch
+                        )
+
+                    [33] => Array
+                        (
+                            [name] => Christina Weiland
+                            [image-no] => 317
+                            [year] => 1774
+                            [age] => 
+                            [locality] => Evesen
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/a60d42480c/
+                            [literal] => Christina Weilands____Evesen
+                        )
+
+                    [34] => Array
+                        (
+                            [name] => Hans Heinrich Weiland
+                            [image-no] => 318
+                            [year] => 1777
+                            [age] => 
+                            [locality] => Berenbusch
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/4e469274f3/
+                            [literal] => Hans Heinrich Weiland aus Berenbusch
+                        )
+
+                    [35] => Array
+                        (
+                            [name] => Heinrich Ludowig Weiland
+                            [image-no] => 319
+                            [year] => 1779
+                            [age] => 
+                            [locality] => Peezen
+                            [vdate] => 26 August 2026
+                            [url] => https://www.archion.de/p/d765ab3370/
+                            [literal] => Heinrich Ludowig Weiland Peezen
+                        )
+
+                    [36] => Array
+                        (
+                            [name] => Anna Ilsabei Vahlsing
+                            [image-no] => 320
+                            [year] => 1782
+                            [age] => 
+                            [locality] => Evesen
+                            [vdate] => 27 August 2026
+                            [url] => https://www.archion.de/p/94f6b8c73d/
+                            [literal] => Anna Ilsabei Vahlsing aus Evesen
+                        )
+
+                    [37] => Array
+                        (
+                            [name] => Johann Heinrich Weiland
+                            [image-no] => 321
+                            [year] => 1783
+                            [age] => 
+                            [locality] => Nordholtz Berenbusch
+                            [vdate] => 27 August 2026
+                            [url] => https://www.archion.de/p/f433693d9a/
+                            [literal] => Johann Heinrich Weiland aus Nordholtz Berenbusch
+                        )
+
+                    [38] => Array
+                        (
+                            [name] => Anna Philippina Weiland
+                            [image-no] => 322
+                            [year] => 1784
+                            [age] => 
+                            [locality] => Evesen
+                            [vdate] => 27 August 2026
+                            [url] => https://www.archion.de/p/69538680ea/
+                            [literal] => Anna Philippina Weilands aus Evesen
+                        )
+
+                )
+
+        )
+
+    [baptisms] => Array
+        (
+            [volume] => band1a
+            [event] => Baptism
+            [record-symbol] => B
+            [records] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => Daughter of Hans Weiland
+                            [image-no] => 10
+                            [year] => 1648
+                            [edate] => 13 August 1648
+                            [locality] => 
+                            [ifile] => petzen-band1a-img10-weiland.png
+                            [vdate] => 28 August 2026
+                            [url] => https://www.archion.de/p/e3a8b2db39/
+                            [literal] => Hans Weilands tochter Anna Sophia eodem die getaufft gefattere: Metta Sophia Crufelers, Anna N., ancilla in praedio Bückeburgensi. Anna Maria, Jacobi pastörsche in Meinsen, N. Köpper von Achumb.
+                            [trans] => Hans Weiland's daughter Anna Sophia, baptized on the same day [as the previous entry, i.e., 13 August 1648]. Godparents: Metta Sophia Crufelers; Anna N., a maidservant on the Bückeburg estate; Anna Maria, wife of Pastor Jacobi in Meinsen; N. Köpper from Achum.
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => Hans Weiland's Daughter
+                            [image-no] => 12
+                            [year] => 1651
+                            [edate] => 11 April 1651
+                            [locality] => 
+                            [ifile] => petzen-band1a-img12-weiland.png
+                            [vdate] => 30 August 2026
+                            [url] => https://www.archion.de/p/621a0af765/
+                            [literal] => Hans Weilands tochter Ilschen, gf. Ilsche Sandersche im Berenbusche, den 11 Aprilis.
+                            [trans] => Hans Weiland's daughter Ilschen. Godparent: Ilsche, wife of Sanders, in Berenbusch. On 11 April.
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => Anna Catharine Eleonora Weiland
+                            [image-no] => 55
+                            [year] => 1676
+                            [edate] => 27 August 1676
+                            [locality] => Petzen
+                            [ifile] => petzen-band1a-img55-weiland.png
+                            [vdate] => 30 August 2026
+                            [url] => https://www.archion.de/p/6d83b6a5c9/
+                            [literal] => Wolter Weilands zu Petzen Tochter Anna Catharina Eleonora getaufft den 27  Aügusti gefattern Johan Halvekopfs Schwester und ein Mätigen [von ?? Reisen] Nahmens Anna
+                            [trans] => Wolter Weiland’s daughter, Anna Catharina Eleonora, was baptized on 27 August. Sponsors were Johan Halvekop’s sister and a girl from der [Reisen?] named Anna.  
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => Anna Catharine Eleonora Weiland
+                            [image-no] => 55
+                            [year] => 1676
+                            [edate] => 27 August 1676
+                            [locality] => Petzen
+                            [ifile] => petzen-band1a-img55-weiland.png
+                            [vdate] => 30 August 2026
+                            [url] => https://www.archion.de/p/6d83b6a5c9/
+                            [literal] => Wolter Weilands zu Petzen Tochter Anna Catharina Eleonora getaufft den 27  Aügusti gefattern Johan Halvekopfs Schwester und ein Mätigen [von ?? Reisen] Nahmens Anna
+                            [trans] => Wolter Weiland’s daughter, Anna Catharina Eleonora, was baptized on 27 August. Sponsors were Johan Halvekop’s sister and a girl from der [Reisen?] named Anna.  
+                        )
+
+                    [4] => Array
+                        (
+                            [name] => Anna Margaretha Weiland
+                            [image-no] => 56
+                            [year] => 1678
+                            [edate] => 20 January 1678
+                            [locality] => Petzen
+                            [ifile] => 
+                            [vdate] => 30 August 2026
+                            [url] => https://www.archion.de/p/b655e6998b/
+                            [literal] => Wolter Weilandt zu Petzen, Tochter, Anna Margaretha, getaufft den 20 Januarij gefattere die Miersche zu Röcke, Daniel Vogts Frau, u[nd]: des [Rödemiesters?] Frau in Nordholtz
+                            [trans] => Wolter Weilandt of Petzen’s daughter, Anna Margaretha, was baptized on 20 January. The godmothers were Mrs. Mier of Röcke, Daniel Vogt’s wife, and the wife of Rödemeister in Nordholtz.
+                        )
+
+                    [5] => Array
+                        (
+                            [name] => Cort Hinrig Weilandt
+                            [image-no] => 58
+                            [year] => 1679
+                            [edate] => 13 February 1679
+                            [locality] => Petzen
+                            [ifile] => petzen-band1a-img58-weiland.png
+                            [vdate] => 30 August 2026
+                            [url] => https://www.archion.de/p/f3c5c0d057/
+                            [literal] => Wolter Weilandt zu Petzen Sohn, Cort Hinrig getaufft den 13 Februarij, gefattern der Krüger zu Petzen, [?] Aldags ältester Sohn, und der [Kohlmeister?] auf der [Hökersau?]
+                            [trans] => Wolter Weilandt of Petzen’s son, Cort Hinrig, was baptized on 13 February. The sponsors were the innkeeper of Petzen, [?] Aldag’s eldest son, and the charcoal master at/on the [Hökersau?].
+                        )
+
+                )
+
+        )
+
+)

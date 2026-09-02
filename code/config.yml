@@ -1,18 +1,18 @@
 # edate = event date
-parish: Petzen
-volume-path: >-
-  Niedersachsen > Niedersächsisches Landesarchiv >
-  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe
-file_extension: md
-file-format: PET-%record-symbol%-%year%
-volumes:
-  band1a:
-    name: "Verzeichnis der Getauften und Konfirmierten 1641-1784"
-    total-images: 312
-
-  band1b:
-    name: "Verzeichnis der Getrauten und Gestorbenen 1641-1784"
-    total-images: 239
+parish:
+  name: Petzen
+  prefix: PET
+  volumes:
+    path: >- 
+      Niedersachsen > Niedersächsisches Landesarchiv >
+      Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe
+    band1a:
+      name: "Verzeichnis der Getauften und Konfirmierten 1641-1784"
+      total-images: 312
+  
+    band1b:
+      name: "Verzeichnis der Getrauten und Gestorbenen 1641-1784"
+      total-images: 239
 citation: >-
     "Archion Protestant Kirchenbücher Portal", database with images, Archion
     (<%url%> : %vdate%), path: %volume-path% > %parish% > %volume-name%,
@@ -23,6 +23,7 @@ marriages:
   event: Marriage
   records:
   - name: "[uncertain name] Weilandt"
+    residence:
     image-no: 15
     ifile: petzen-band1b-img15-weiland.png 
     edate: 12 November 1675
@@ -31,7 +32,8 @@ marriages:
     literal: "[unclear] Weilandt und Elisabeth Rödemeisters zu Petyen den 12 [either Nov. or Dec.] copuliret"
     trans: "[unclear] Weilandt and Elisabeth Rödemeister of Petzen were married on the 12th of [November or December]."
   
-  - name: Hans Hinrich Weilandt of Petzen
+  - name: Hans Hinrich Weilandt
+    residence: Petzen
     image-no: 26
     ifile: petzen-band1b-img26-weiland.png
     edate: 2 March 1702
@@ -40,7 +42,8 @@ marriages:
     literal: "Hans Hinrich Weilandt von Petzen und Anna Margaretha Sanders auf den Berenbusch den 2 Martij copuliret"
     trans: "Hans Hinrich Weilandt of Petzen and Anna Margaretha Sanders at Berenbusch were married on March 2." 
   
-  - name: Johan Tonnis Weyland of Peezen 
+  - name: Johan Tonnis Weyland
+    residence: Peezen
     image-no: 29
     ifile: petzen-band1b-img29-weiland.png 
     edate: 28 October 1708 
@@ -49,7 +52,8 @@ marriages:
     literal: "den 28. 8br [sint] copuliret Johan Tonnis Weyland aus Peezen mitt Annen Jlsabey Brandts aus Nammen, mitt Welcher er schon vorhin ein Fuhr Kind gezeugt"
     trans: "On October 28, Johan Tonnis Weyland of Peezen was married to Anna Ilsabey Brandt of Nammen, with whom he had already previously fathered an illegitimate child."
   
-  - name: Hans Weÿlandt of Evesen 
+  - name: Hans Weÿlandt
+    residence: Evesen
     image-no: 30
     ifile: petzen-band1b-img30-weiland.png 
     edate: 19 October 1712
@@ -58,7 +62,8 @@ marriages:
     literal: "Den 19 8br ist Hans Weÿlandt auß Evesen mit Hille Poocks copuliret."
     trans: "On October 19, Hans Weÿlandt of Evesen was married to Hille Poock."
   
-  - name: Hans Weÿland of Evesen 
+  - name: Hans Weÿland
+    residence: Evesen
     image-no: 32
     ifile: petzen-band1b-img32-weiland.png
     edate: 28 August
@@ -67,7 +72,8 @@ marriages:
     literal: "den 28t August: ist Hans Weÿland auß Evesen mit Sophia Marlena Engelkings auß Cammer copuliret." 
     trans: "On August 28, Hans Weÿland of Evesen was married to Sophia Marlena Engelking of Cammer."
   
-  - name: Herman Henrich Weÿland of Evesen 
+  - name: Herman Henrich Weÿland
+    residence: Evesen
     image-no: 33
     ifile: petzen-band1b-img33-weiland.png
     edate: 5 September 1720 
@@ -76,7 +82,8 @@ marriages:
     literal: "den 5 Septembr ist Herman Henrich Weÿland von Evesen mit Anna Catharina Piels auß Berenbusch copuliret"
     trans: "On September 5, Herman Henrich Weÿland of Evesen was married to Anna Catharina Piel of Berenbusch."
   
-  - name: Hanß Henrich Weÿland of Evesen
+  - name: Hanß Henrich Weÿland
+    residence: Evesen
     image-no: 35
     ifile: petzen-band1b-img35-weiland.png
     edate: 14 November 1723
@@ -85,7 +92,8 @@ marriages:
     literal: "den 14. Novembr ist Hanß Henrich Weÿland auß Evesen, mit Ilsabe [Perte?] getrauet."
     trans: "On November 14, Hans Henrich Weiland of Evesen was married to Ilsabe [Perte?]."  
   
-  - name: Herman Henrich Weÿland of Evesen
+  - name: Herman Henrich Weÿland
+    residence: Evesen
     image-no: 37 
     ifile: petzen-band1b-img37-weiland.png
     edate: 24 November 1728
@@ -94,7 +102,8 @@ marriages:
     literal: "den 24t Novemb ist Herman Henrich Weÿland auß Evesen mit Anna Catharina Steinmeÿers auß [Frille/Grille]" 
     trans: "On November 24, Herman Henrich Weÿland of Evesen was married to Anna Catharina Steinmeÿer of [Frille/Grille]" 
   
-  - name: Jobst Henirch Weÿland of Berenbush 
+  - name: Jobst Henirch Weÿland
+    residence: Berenbush
     image-no: 38 
     ifile: petzen-band1b-img38-weiland2.png
     edate: 13 September 1731
@@ -103,7 +112,8 @@ marriages:
     literal: "den 13t Septemb ist Jobst Henirch Weÿland auß Berenbusch mit Rudolphina Mönckhofs auß Evesen copuliret worden"
     trans: "On September 13, Jobst Henirch Weÿland of Berenbusch was married to Rudolphina Mönckhof of Evesen"
   
-  - name: Johann Friderich Weiland of Berenbush 
+  - name: Johann Friderich Weiland
+    residence: Berenbush
     image-no: 40
     ifile: petzen-band1b-img40-weiland2.png
     edate: 7 October 1734
@@ -112,7 +122,8 @@ marriages:
     literal: "Octobr d 7t Johann Friderich Weiland v. Berenbusch mit Anna Maria Elisabeth Cohmiers v. Eves[en]"
     trans: "On October 7: Johann Friderich Weiland of Berenbusch, with Anna Maria Elisabeth Cohmiers of Evesen"
   
-  - name: Johann Friderich Wilhelm Weiland of Nammen
+  - name: Johann Friderich Wilhelm Weiland
+    residence: Nammen
     image-no: 41
     ifile: petzen-band1b-img41-weiland
     edate: 24 November 1737
@@ -121,7 +132,8 @@ marriages:
     literal: "d 24t Johann Friderich Wilhelm Weiland von Nammen mit Anna Sophia Maria Ostermeiers von Northolt copuliret."
     trans: "On November 24, Johann Friderich Wilhelm Weiland of Nammen married Anna Sophia Maria Ostermeiers of Nordholz." 
   
-  - name: Henrich Weiland of Behrenbusch
+  - name: Henrich Weiland
+    residence: Behrenbusch
     image-no: 43
     ifile: petzen-band1b-img43-weiland.png
     edate: 14 February 1745
@@ -130,7 +142,8 @@ marriages:
     literal: "Ao 1745 Februarÿ d. 14 Henrich Weiland von Behrenbusch mit Sophia Elisabeth [Rösner?] verwitwet Bünten copuliret."
     trans: "in the year 1745, on February 14, Henrich Weiland of Behrenbusch married Sophia Elisabeth [Rösner?] widow of Bünte."
   
-  - name: Herman Henrich Weiland of Evesen
+  - name: Herman Henrich Weiland
+    residence: Evesen
     image-no: 45
     ifile: petzen-band1b-img45-weiland.png
     edate: 3 November 1746
@@ -139,7 +152,8 @@ marriages:
     literal: "d 3 Novembr ist Herman Henrich Weiland aus Evesen mit Anna Sabina Breiners aus Warber copuliret worden."
     trans: "On November 3, Herman Henrich Weiland of Evesen was married to Anna Sabina Breiner of Warber."
   
-  - name: Johann Henrich Weiland of Nammen 
+  - name: Johann Henrich Weiland
+    residence: Nammen
     image-no: 46
     ifile: petzen-band1b-img46-weiland1.png
     edate: 17 October 1748
@@ -148,7 +162,8 @@ marriages:
     literal:  "d 17t octobr. Johann Henrich Weiland von Nammen mit Catharina Mysings sel. Joh. Bünten Witwe copuliret"
     trans: "On 17 October, Johann Henrich Weiland of Nammen was married to Catharina Mysing, widow of the late Johann Bünte."
   
-  - name: Jobst Henrich Weiland of Bernbusch
+  - name: Jobst Henrich Weiland
+    residence: Bernbusch
     image-no: 48 
     ifile: petzen-band1b-img48-weiland2.png
     edate: 7 June 1753
@@ -157,7 +172,8 @@ marriages:
     literal: "d 7tJunii Jobst Henrich Weiland aus Bernbusch mit Anna Ilsa Margarathe Mönchhofs von Jägers Stette zu Evesen copulirt"
     trans: "On 7 June, Jobst Henrich Weiland of Bernbusch was married to Anna Ilsa Margaretha Mönchhof, from Jäger’s place in Evesen."
   
-  - name: Heinrich Ludewig Weiland in Röcke
+  - name: Heinrich Ludewig Weiland
+    residence: Röcke
     image-no: 56
     ifile: petzen-band1b-img56-weiland.png
     edate: 7 February 1765
@@ -172,6 +188,7 @@ burials:
   event: Burial
   records:
   - name: Wölkken Weÿlandt 
+    residence:
     image-no: 73
     ifile: petzen-band1b-img73-weiland.jpg
     edate: 24 January 1650
@@ -181,6 +198,7 @@ burials:
     trans: "Wölkken Weÿlandt, elder. 24 January"
 
   - name: 
+    residence:
     image-no: RESUME at 75. Go up to 82
     ifile: 
     edate: 
@@ -190,6 +208,7 @@ burials:
     trans: 
 
   - name: 
+    residence:
     image-no: 
     ifile: 
     edate: 
@@ -199,6 +218,7 @@ burials:
     trans: 
 
   - name: 
+    residence:
     image-no: 
     ifile: 
     edate: 
@@ -208,6 +228,7 @@ burials:
     trans: 
 
   - name: 
+    residence:
     image-no: 
     ifile: 
     edate: 
@@ -217,6 +238,7 @@ burials:
     trans: 
 
   - name: 
+    residence:
     image-no: 
     ifile: 
     edate: 
@@ -225,7 +247,8 @@ burials:
     literal: 
     trans: 
 
-  - name: Wilandt's of Petzen little daughter
+  - name: Wilandt's little daughter
+    residence: Petzen
     image-no: 96
     ifile: petzen-band1b-img96-weiland-burial.png
     edate: 8 December 1676
@@ -235,6 +258,7 @@ burials:
     trans: "[unclear] Wilandts little daughter at Petzen den 8 Decemb buried."
 
   - name: not given
+    residence:
     image-no: 98
     ifile:
     edate: 24 February 1678
@@ -243,7 +267,8 @@ burials:
     literal: 
     trans:
 
-  - name: Son of Wolter Weilandt of Peeten
+  - name: Son of Wolter Weilandt
+    residence: Peeten
     image-no: 99
     ifile: petzen-band1b-img99-weiland.png
     edate: 18 June 1679
@@ -252,7 +277,8 @@ burials:
     literal: "Wolter Weilandt zu Peeten, Sohn, 16 Wochen alt den 18 Junij begraben."
     trans: "The son of Wolter Weilandt of Peeten, 16 weeks old, buried on June 18."
 
-  - name: "Elderly Weiland woman/wife of Petzen"
+  - name: "Elderly Weiland woman/wife"
+    residence: Petzen
     image-no: 104
     ifile: petzen-band1b-img104-weiland.png
     edate: 25 March 1683
@@ -262,6 +288,7 @@ burials:
     trans: "“The elderly Weiland woman of Petzen was buried on 25 March."
 
   - name: "Wolter Weilandt’s little daughter"
+    residence:
     image-no: 113
     ifile: petzen-band1b-img113-weiland.png
     edate: 17 February 1693
@@ -270,7 +297,8 @@ burials:
     literal: "Wolter Weilandt, Töchterlein, den 17 Februar begraben."
     trans: "Wolter Weilandt’s little daughter, buried 17 February."
 
-  - name: Wolter Weilandt of Petzen 
+  - name: Wolter Weilandt
+    residence: Petzen
     image-no: 117
     ifile: petzen-band1b-img117-weiland.png
     edate: 5 July 1694
@@ -280,6 +308,7 @@ burials:
     trans: 
 
   - name: 
+    residence:
     image-no: resume at 118
     ifile:
     edate:
@@ -297,7 +326,7 @@ confirmations:
     image-no: 297
     year: 1707
     age: 13
-    locality:
+    residence:
     vdate: 25 August 2026
     url: https://www.archion.de/p/da82da13db/
     literal: Hans Heinrich Weland____13
@@ -306,7 +335,7 @@ confirmations:
     image-no: 298
     year: 1711
     age: 12
-    locality: Evesen
+    residence: Evesen
     vdate: 25 August 2026
     url: https://www.archion.de/p/e6b0295fb0/
     literal: Anna Elisabeth Weÿlandts aus Evesen____12
@@ -315,7 +344,7 @@ confirmations:
     image-no: 299
     year: 1713
     age: 12
-    locality:
+    residence:
     vdate: 25 August 2026
     url: https://www.archion.de/p/b7ee044bb4/
     literal: Anna Elisabeth Vahlsings aus Evesen____12
@@ -324,7 +353,7 @@ confirmations:
     image-no: 299
     year: 1716
     age: 14
-    locality: Berenbusch
+    residence: Berenbusch
     vdate: 26 August 2026
     url: https://www.archion.de/p/cff80d274e/
     literal: Jobst Henrich Weÿland aus Berenbusch____14
@@ -333,7 +362,7 @@ confirmations:
     image-no: 299
     year: 1716
     age: 13
-    locality: Evesen
+    residence: Evesen
     vdate: 26 August 2026
     url: https://www.archion.de/p/cff80d274e/
     literal: Anna Maria Vahlsing aus Evesen____13
@@ -342,7 +371,7 @@ confirmations:
     image-no: 301
     year: 1736
     age: 
-    locality: 
+    residence: 
     vdate: 26 August 2026
     url: https://www.archion.de/p/cc8d263b27/
     literal:
@@ -351,7 +380,7 @@ confirmations:
     image-no: 301
     year: 1737
     age:
-    locality: N = Nordholz?
+    residence: N = Nordholz?
     vdate: 26 August 2026
     url: https://www.archion.de/p/cc8d263b27/
     literal: Weiland  N
@@ -360,7 +389,7 @@ confirmations:
     image-no: 302
     year: 1740
     age: 
-    locality: "Ev:"
+    residence: "Ev:"
     vdate: 26 August 2026
     url: https://www.archion.de/p/8adf84b739/
     literal: "Weiland Ev:"
@@ -369,7 +398,7 @@ confirmations:
     image-no: 303
     year: 1743
     age: 
-    locality: N.
+    residence: N.
     vdate: 26 August 2026
     url: https://www.archion.de/p/330c163617/
     literal: Weiland N.
@@ -378,7 +407,7 @@ confirmations:
     image-no: 303
     year: 1745
     age:
-    locality: Behrebusch
+    residence: Behrebusch
     vdate: 26 August 2026
     url: https://www.archion.de/p/c2e455cf48/
     literal: Weiland Behrebusch
@@ -387,7 +416,7 @@ confirmations:
     image-no: 303
     year: 1746
     age:
-    locality: Evesen
+    residence: Evesen
     vdate: 26 August 2026
     url: https://www.archion.de/p/61c7e65298/
     literal: Johann Heinrich Fahlsing aus Evesem 
@@ -396,7 +425,7 @@ confirmations:
     image-no: 304
     year: 1746
     age: 
-    locality: Evesen
+    residence: Evesen
     vdate: 26 August 2026
     url: https://www.archion.de/p/c7513c70ad/
     literal: Anna Christina Weilands aus Evesen.
@@ -405,7 +434,7 @@ confirmations:
     image-no: 303
     year: 1748
     age:
-    locality: Berenbusch
+    residence: Berenbusch
     vdate: 26 August 2026
     url: https://www.archion.de/p/9da2dc81a0/
     literal: Hans Henrich Weiland aus Berenbusch
@@ -414,7 +443,7 @@ confirmations:
     image-no: 305
     year: 1750
     age:
-    locality: Evesen
+    residence: Evesen
     vdate: 26 August 2026
     url: https://www.archion.de/p/09aca539e3/
     literal: Jobst Henrich Weiland aus Evesen
@@ -423,7 +452,7 @@ confirmations:
     image-no: 307
     year: 1749
     age:
-    locality:
+    residence:
     vdate: 26 August 2026
     url: https://www.archion.de/p/1300f945be/
     literal: 12) Anna Ilse Margaretha Fahlsings 
@@ -432,7 +461,7 @@ confirmations:
     image-no: 307
     year: 1750 
     age: 
-    locality: Evesen
+    residence: Evesen
     vdate:  26 August 2026
     url: https://www.archion.de/p/91b6620e5c/
     literal: Jobst Henrich Weiland aus Evesen 
@@ -441,7 +470,7 @@ confirmations:
     image-no: 308
     year: 1751
     age: 
-    locality: Nordholz
+    residence: Nordholz
     vdate: 26 August 2026
     url: https://www.archion.de/p/43f1621379/
     literal: Friederich Wilhelm Weiland aus Nordholz
@@ -450,7 +479,7 @@ confirmations:
     image-no: 309
     year: 1753
     age: 
-    locality: Evesen
+    residence: Evesen
     vdate: 26 August 2026
     url: https://www.archion.de/p/c1c9046458/
     literal: Hans Henrich Weiland aus Evesen
@@ -459,7 +488,7 @@ confirmations:
     image-no: 309
     year: 1753
     age: 
-    locality: Nordholtz
+    residence: Nordholtz
     vdate: 26 August 2026
     url: https://www.archion.de/p/3a0883155f/ 
     literal:  Sophia Elisabeth Weilands aus Nordholtz  
@@ -468,7 +497,7 @@ confirmations:
     image-no: 309
     year: 1754
     age: 
-    locality: Evesem
+    residence: Evesem
     vdate: 26 August 2026
     url: https://www.archion.de/p/99783df0c2/
     literal: Friederich Wilhelm Weiland (Hofmeiers) Evesen  
@@ -477,7 +506,7 @@ confirmations:
     image-no: 310 
     year: 1757
     age: 
-    locality: Nordholtz
+    residence: Nordholtz
     vdate: 26 August 2026
     url: https://www.archion.de/p/07617bfa91/
     literal: Anna Margaretha Weilands aus Nordholtz
@@ -486,7 +515,7 @@ confirmations:
     image-no: 
     year: 1758
     age: 
-    locality: Evesen 
+    residence: Evesen 
     vdate: 26 August 2026
     url: https://www.archion.de/p/405713c11f/
     literal: Carl Fried. Fahlsing aus Evesen 
@@ -495,7 +524,7 @@ confirmations:
     image-no: 312
     year: 1760
     age: 
-    locality: Evesen 
+    residence: Evesen 
     vdate: 26 August 2026
     url: https://www.archion.de/p/42667cb769/ 
     literal: Anna Philippina Fahlsings aus Evesen 
@@ -504,7 +533,7 @@ confirmations:
     image-no: 312
     year: 1760
     age: 
-    locality: Nordholtz
+    residence: Nordholtz
     vdate: 26 August 2026
     url: https://www.archion.de/p/42667cb769/
     literal:  Anna Maria Weilandt aus Nordholtz 
@@ -513,7 +542,7 @@ confirmations:
     image-no: 313 
     year: 1763
     age: 
-    locality: Evesen
+    residence: Evesen
     vdate: 26 August 2026
     url: https://www.archion.de/p/1fdc86eeb3/ 
     literal: Johann Heinrich Weiland aus Evesen 
@@ -522,7 +551,7 @@ confirmations:
     image-no: 313
     year: 1764
     age: 
-    locality: Evesen
+    residence: Evesen
     vdate: 26 August 2026
     url: https://www.archion.de/p/a50f43c12e/
     literal: Philippina Weilands aus Evesen
@@ -531,7 +560,7 @@ confirmations:
     image-no: 314 
     year: 1766
     age:  
-    locality: Evesen No. 21 
+    residence: Evesen No. 21 
     vdate: 26 August 2026
     url: https://www.archion.de/p/ce7131f5a0/
     literal: Sophia Elisabeth Weilands aus Evesen No. 21 
@@ -540,7 +569,7 @@ confirmations:
     image-no: 315 
     year: 1767
     age:  
-    locality: Röcke 
+    residence: Röcke 
     vdate: 26 August 2026
     url: https://www.archion.de/p/44838bec83/
     literal: Friederich Wilhelm Weiland aus Röcke Einlieger 
@@ -549,7 +578,7 @@ confirmations:
     image-no: 315
     year: 1768
     age:  
-    locality: Berenbusch
+    residence: Berenbusch
     vdate: 26 August
     url: https://www.archion.de/p/88fcbde3e9/
     literal: Friederich Wilhelm Weiland aus Berenbusch 
@@ -558,7 +587,7 @@ confirmations:
     image-no: 316
     year: 1769
     age:  
-    locality: Nordholz
+    residence: Nordholz
     vdate: 26 August 2026
     url: https://www.archion.de/p/b798d91460/ 
     literal: Heinrich Wilhelm Weiland Nordholz
@@ -567,7 +596,7 @@ confirmations:
     image-no: 316
     year: 1769
     age:  
-    locality: Röcke
+    residence: Röcke
     vdate: 26 August 2026
     url: https://www.archion.de/p/b798d91460/ 
     literal: Heinrich Ludewig Weiland Röcke 
@@ -576,7 +605,7 @@ confirmations:
     image-no: 317 
     year: 1772
     age:  
-    locality: Röcke
+    residence: Röcke
     vdate: 26 August 2026 
     url: https://www.archion.de/p/7b50caa5f3/
     literal: Jobst Heinrich Weiland aus Röcke 
@@ -585,7 +614,7 @@ confirmations:
     image-no: 317
     year: 1774
     age:  
-    locality: Berenbusch
+    residence: Berenbusch
     vdate: 26 August 2026 
     url: https://www.archion.de/p/e88a5aaef1/
     literal: Jobst Heinrich Weiland____Berembusch
@@ -594,7 +623,7 @@ confirmations:
     image-no: 317 
     year: 1774
     age:  
-    locality: Evesen
+    residence: Evesen
     vdate: 26 August 2026
     url: https://www.archion.de/p/a60d42480c/
     literal: Christina Weilands____Evesen
@@ -603,7 +632,7 @@ confirmations:
     image-no: 318
     year: 1777 
     age:  
-    locality: Berenbusch
+    residence: Berenbusch
     vdate: 26 August 2026
     url: https://www.archion.de/p/4e469274f3/
     literal: Hans Heinrich Weiland aus Berenbusch
@@ -612,7 +641,7 @@ confirmations:
     image-no: 319
     year: 1779
     age:  
-    locality: Peezen
+    residence: Peezen
     vdate: 26 August 2026
     url: https://www.archion.de/p/d765ab3370/
     literal: Heinrich Ludowig Weiland Peezen 
@@ -621,7 +650,7 @@ confirmations:
     image-no: 320
     year: 1782
     age:  
-    locality: Evesen
+    residence: Evesen
     vdate: 27 August 2026
     url: https://www.archion.de/p/94f6b8c73d/
     literal: Anna Ilsabei Vahlsing aus Evesen 
@@ -630,7 +659,7 @@ confirmations:
     image-no: 321 
     year: 1783 
     age:  
-    locality: Nordholtz Berenbusch 
+    residence: Nordholtz Berenbusch 
     vdate: 27 August 2026
     url: https://www.archion.de/p/f433693d9a/
     literal: Johann Heinrich Weiland aus Nordholtz Berenbusch 
@@ -639,7 +668,7 @@ confirmations:
     image-no: 322
     year: 1784
     age:  
-    locality: Evesen
+    residence: Evesen
     vdate: 27 August 2026
     url: https://www.archion.de/p/69538680ea/
     literal: Anna Philippina Weilands aus Evesen
@@ -653,7 +682,7 @@ baptisms:
     image-no: 10
     year: 1648
     edate: 13 August 1648 
-    locality:
+    residence:
     ifile: petzen-band1a-img10-weiland.png 
     vdate: 28 August 2026
     url: https://www.archion.de/p/e3a8b2db39/ 
@@ -670,7 +699,7 @@ baptisms:
     image-no: 12 
     year: 1651
     edate: 11 April 1651
-    locality:
+    residence:
     ifile: petzen-band1a-img12-weiland.png
     vdate: 30 August 2026 
     url: https://www.archion.de/p/621a0af765/ 
@@ -681,7 +710,7 @@ baptisms:
     image-no: 55 
     year: 1676
     edate: 27 August 1676
-    locality: Petzen
+    residence: Petzen
     ifile: petzen-band1a-img55-weiland.png  
     vdate: 30 August 2026 
     url: https://www.archion.de/p/6d83b6a5c9/
@@ -697,7 +726,7 @@ baptisms:
     image-no: 55 
     year: 1676
     edate: 27 August 1676
-    locality: Petzen
+    residence: Petzen
     ifile: petzen-band1a-img55-weiland.png  
     vdate: 30 August 2026 
     url: https://www.archion.de/p/6d83b6a5c9/
@@ -713,7 +742,7 @@ baptisms:
     image-no: 56
     year: 1678
     edate: 20 January 1678
-    locality: Petzen
+    residence: Petzen
     ifile: 
     vdate: 30 August 2026 
     url: https://www.archion.de/p/b655e6998b/
@@ -730,7 +759,7 @@ baptisms:
     image-no: 58
     year: 1679
     edate: 13 February 1679
-    locality: Petzen
+    residence: Petzen
     ifile: petzen-band1a-img58-weiland.png
     vdate: 30 August 2026
     url: https://www.archion.de/p/f3c5c0d057/
