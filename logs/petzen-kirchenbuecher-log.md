@@ -43,11 +43,11 @@ Deaths-Burial start on image 70
 - Review deaths from image 70 through image 82.
 - Review deaths from image 97-239
 
-```{list-table} Review starting with image 70
+```{list-table} Reviewed to date, starting with image 70
 :header-rows: 1
 
 * - Image No or Range
-* - 70-74
+* - 70-78
 ```
 
 **Re-reviewed:** Completed 83-96. 
