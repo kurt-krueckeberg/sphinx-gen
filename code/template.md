@@ -1,9 +1,9 @@
-# %year% %name% %event%
+# %year %name @event@
 
 ## Record
 
-The baptism of Hans Henrig from Peezen (Petzen) is on {ref}`image %image-no% <%file-name%>`
-of the Petzen *%volume-name%*.
+The baptism of Hans Henrig from Peezen (Petzen) is on {ref}`image %image-no <&file-name>`
+of the Petzen *@volume-name*.
 
 ```{figure} images/%ifile%
 :class: image-override
@@ -12,19 +12,19 @@ of the Petzen *%volume-name%*.
 ## Transliteration
 
 ```{div} doc-text
-%literal%
+%literal
 ```
 
 ## Translation
 
 ```{div} doc-text
-%trans%
+%trans
 ```
 
 ## Citation
 
-(%file-name%)=
+(&file-name)=
 
 "Archion Protestant Kirchenbücher Portal", database 
-with images, *Archion* (<%url%> : %vdate%), path: %path% > %parish% >
-%volume-name%, image %image-no% of %total-images%
+with images, *Archion* (<%url> : %vdate), path: @path > @parish >
+@volume-name, image %image-no of @total-images
