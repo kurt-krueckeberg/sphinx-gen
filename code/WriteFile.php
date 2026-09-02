@@ -22,14 +22,14 @@ class WriteFile {
 
 	private static $md_template = ...
 
-	public function __construct(array $keyValues) 
+	public function __construct(Config $config) 
 	{
-	   $this->parts = $this->tokenize($self::$md_tempalte);
+	   $this->parts = $this->tokenize($config->get_template);
 	}
 
-	public function __invoke(string $filename, array $yamlRecords) 
+	public function __invoke(string $filename, array $yamlSection) 
 	{
-           $this->key_values = $this->xyz($yamlRecords);
+           $this->yamlSection = $this->???($yamlRecords);
 
            $this->write($filename);  	   
 	}
