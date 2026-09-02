@@ -38,8 +38,17 @@ Deaths in [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.arch
 
 **TODO:**
 
-- Review deaths from image 1 through image 82.
-- Review deaths from image 97-remainder of volume.
+Deaths-Burial start on image 70
+
+- Review deaths from image 70 through image 82.
+- Review deaths from image 97-239
+
+```{list-table} Review starting with image 70
+:header-rows: 1
+
+* - Image No or Range
+* - 70-74
+```
 
 **Re-reviewed:** Completed 83-96. 
 

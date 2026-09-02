@@ -171,6 +171,60 @@ burials:
   record-symbol: D
   event: Burial
   records:
+  - name: Wölkken Weÿlandt 
+    image-no: 73
+    ifile: petzen-band1b-img73-weiland.jpg
+    edate: 24 January 1650
+    vdate: 1 September 2026
+    url: https://www.archion.de/p/dd754d963e/
+    literal: "Wölkken Weÿlandt Altermann. 24 Jan:"
+    trans: "Wölkken Weÿlandt, elder. 24 January"
+
+  - name: 
+    image-no: RESUME at 75. Go up to 82
+    ifile: 
+    edate: 
+    vdate: 
+    url: 
+    literal: 
+    trans: 
+
+  - name: 
+    image-no: 
+    ifile: 
+    edate: 
+    vdate: 
+    url: 
+    literal: 
+    trans: 
+
+  - name: 
+    image-no: 
+    ifile: 
+    edate: 
+    vdate: 
+    url: 
+    literal: 
+    trans: 
+
+  - name: 
+    image-no: 
+    ifile: 
+    edate: 
+    vdate: 
+    url: 
+    literal: 
+    trans: 
+
+  - name: 
+    image-no: 
+    ifile: 
+    edate: 
+    vdate: 
+    url: 
+    literal: 
+    trans: 
+
   - name: Wilandt's of Petzen little daughter
     image-no: 96
     ifile: petzen-band1b-img96-weiland-burial.png
