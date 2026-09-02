@@ -253,6 +253,7 @@ Array
                     [0] => Array
                         (
                             [name] => Wölkken Weÿlandt
+                            [residence] => 
                             [image-no] => 73
                             [ifile] => petzen-band1b-img73-weiland.jpg
                             [edate] => 24 January 1650
@@ -265,6 +266,7 @@ Array
                     [1] => Array
                         (
                             [name] => 
+                            [residence] => 
                             [image-no] => RESUME at 75. Go up to 82
                             [ifile] => 
                             [edate] => 
@@ -277,6 +279,7 @@ Array
                     [2] => Array
                         (
                             [name] => 
+                            [residence] => 
                             [image-no] => 
                             [ifile] => 
                             [edate] => 
@@ -289,6 +292,7 @@ Array
                     [3] => Array
                         (
                             [name] => 
+                            [residence] => 
                             [image-no] => 
                             [ifile] => 
                             [edate] => 
@@ -301,6 +305,7 @@ Array
                     [4] => Array
                         (
                             [name] => 
+                            [residence] => 
                             [image-no] => 
                             [ifile] => 
                             [edate] => 
@@ -313,6 +318,7 @@ Array
                     [5] => Array
                         (
                             [name] => 
+                            [residence] => 
                             [image-no] => 
                             [ifile] => 
                             [edate] => 
@@ -324,7 +330,8 @@ Array
 
                     [6] => Array
                         (
-                            [name] => Wilandt's of Petzen little daughter
+                            [name] => Wilandt's little daughter
+                            [residence] => Petzen
                             [image-no] => 96
                             [ifile] => petzen-band1b-img96-weiland-burial.png
                             [edate] => 8 December 1676
@@ -337,6 +344,7 @@ Array
                     [7] => Array
                         (
                             [name] => not given
+                            [residence] => 
                             [image-no] => 98
                             [ifile] => 
                             [edate] => 24 February 1678
@@ -348,7 +356,8 @@ Array
 
                     [8] => Array
                         (
-                            [name] => Son of Wolter Weilandt of Peeten
+                            [name] => Son of Wolter Weilandt
+                            [residence] => Peeten
                             [image-no] => 99
                             [ifile] => petzen-band1b-img99-weiland.png
                             [edate] => 18 June 1679
@@ -360,7 +369,8 @@ Array
 
                     [9] => Array
                         (
-                            [name] => Elderly Weiland woman/wife of Petzen
+                            [name] => Elderly Weiland woman/wife
+                            [residence] => Petzen
                             [image-no] => 104
                             [ifile] => petzen-band1b-img104-weiland.png
                             [edate] => 25 March 1683
@@ -373,6 +383,7 @@ Array
                     [10] => Array
                         (
                             [name] => Wolter Weilandt’s little daughter
+                            [residence] => 
                             [image-no] => 113
                             [ifile] => petzen-band1b-img113-weiland.png
                             [edate] => 17 February 1693
@@ -384,7 +395,8 @@ Array
 
                     [11] => Array
                         (
-                            [name] => Wolter Weilandt of Petzen
+                            [name] => Wolter Weilandt
+                            [residence] => Petzen
                             [image-no] => 117
                             [ifile] => petzen-band1b-img117-weiland.png
                             [edate] => 5 July 1694
@@ -397,6 +409,7 @@ Array
                     [12] => Array
                         (
                             [name] => 
+                            [residence] => 
                             [image-no] => resume at 118
                             [ifile] => 
                             [edate] => 
@@ -423,7 +436,7 @@ Array
                             [image-no] => 297
                             [year] => 1707
                             [age] => 13
-                            [locality] => 
+                            [residence] => 
                             [vdate] => 25 August 2026
                             [url] => https://www.archion.de/p/da82da13db/
                             [literal] => Hans Heinrich Weland____13
@@ -435,7 +448,7 @@ Array
                             [image-no] => 298
                             [year] => 1711
                             [age] => 12
-                            [locality] => Evesen
+                            [residence] => Evesen
                             [vdate] => 25 August 2026
                             [url] => https://www.archion.de/p/e6b0295fb0/
                             [literal] => Anna Elisabeth Weÿlandts aus Evesen____12
@@ -447,7 +460,7 @@ Array
                             [image-no] => 299
                             [year] => 1713
                             [age] => 12
-                            [locality] => 
+                            [residence] => 
                             [vdate] => 25 August 2026
                             [url] => https://www.archion.de/p/b7ee044bb4/
                             [literal] => Anna Elisabeth Vahlsings aus Evesen____12
@@ -459,7 +472,7 @@ Array
                             [image-no] => 299
                             [year] => 1716
                             [age] => 14
-                            [locality] => Berenbusch
+                            [residence] => Berenbusch
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/cff80d274e/
                             [literal] => Jobst Henrich Weÿland aus Berenbusch____14
@@ -471,7 +484,7 @@ Array
                             [image-no] => 299
                             [year] => 1716
                             [age] => 13
-                            [locality] => Evesen
+                            [residence] => Evesen
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/cff80d274e/
                             [literal] => Anna Maria Vahlsing aus Evesen____13
@@ -483,7 +496,7 @@ Array
                             [image-no] => 301
                             [year] => 1736
                             [age] => 
-                            [locality] => 
+                            [residence] => 
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/cc8d263b27/
                             [literal] => 
@@ -495,7 +508,7 @@ Array
                             [image-no] => 301
                             [year] => 1737
                             [age] => 
-                            [locality] => N = Nordholz?
+                            [residence] => N = Nordholz?
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/cc8d263b27/
                             [literal] => Weiland  N
@@ -507,7 +520,7 @@ Array
                             [image-no] => 302
                             [year] => 1740
                             [age] => 
-                            [locality] => Ev:
+                            [residence] => Ev:
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/8adf84b739/
                             [literal] => Weiland Ev:
@@ -519,7 +532,7 @@ Array
                             [image-no] => 303
                             [year] => 1743
                             [age] => 
-                            [locality] => N.
+                            [residence] => N.
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/330c163617/
                             [literal] => Weiland N.
@@ -531,7 +544,7 @@ Array
                             [image-no] => 303
                             [year] => 1745
                             [age] => 
-                            [locality] => Behrebusch
+                            [residence] => Behrebusch
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/c2e455cf48/
                             [literal] => Weiland Behrebusch
@@ -543,7 +556,7 @@ Array
                             [image-no] => 303
                             [year] => 1746
                             [age] => 
-                            [locality] => Evesen
+                            [residence] => Evesen
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/61c7e65298/
                             [literal] => Johann Heinrich Fahlsing aus Evesem
@@ -555,7 +568,7 @@ Array
                             [image-no] => 304
                             [year] => 1746
                             [age] => 
-                            [locality] => Evesen
+                            [residence] => Evesen
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/c7513c70ad/
                             [literal] => Anna Christina Weilands aus Evesen.
@@ -567,7 +580,7 @@ Array
                             [image-no] => 303
                             [year] => 1748
                             [age] => 
-                            [locality] => Berenbusch
+                            [residence] => Berenbusch
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/9da2dc81a0/
                             [literal] => Hans Henrich Weiland aus Berenbusch
@@ -579,7 +592,7 @@ Array
                             [image-no] => 305
                             [year] => 1750
                             [age] => 
-                            [locality] => Evesen
+                            [residence] => Evesen
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/09aca539e3/
                             [literal] => Jobst Henrich Weiland aus Evesen
@@ -591,7 +604,7 @@ Array
                             [image-no] => 307
                             [year] => 1749
                             [age] => 
-                            [locality] => 
+                            [residence] => 
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/1300f945be/
                             [literal] => 12) Anna Ilse Margaretha Fahlsings
@@ -603,7 +616,7 @@ Array
                             [image-no] => 307
                             [year] => 1750
                             [age] => 
-                            [locality] => Evesen
+                            [residence] => Evesen
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/91b6620e5c/
                             [literal] => Jobst Henrich Weiland aus Evesen
@@ -615,7 +628,7 @@ Array
                             [image-no] => 308
                             [year] => 1751
                             [age] => 
-                            [locality] => Nordholz
+                            [residence] => Nordholz
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/43f1621379/
                             [literal] => Friederich Wilhelm Weiland aus Nordholz
@@ -627,7 +640,7 @@ Array
                             [image-no] => 309
                             [year] => 1753
                             [age] => 
-                            [locality] => Evesen
+                            [residence] => Evesen
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/c1c9046458/
                             [literal] => Hans Henrich Weiland aus Evesen
@@ -639,7 +652,7 @@ Array
                             [image-no] => 309
                             [year] => 1753
                             [age] => 
-                            [locality] => Nordholtz
+                            [residence] => Nordholtz
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/3a0883155f/
                             [literal] => Sophia Elisabeth Weilands aus Nordholtz
@@ -651,7 +664,7 @@ Array
                             [image-no] => 309
                             [year] => 1754
                             [age] => 
-                            [locality] => Evesem
+                            [residence] => Evesem
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/99783df0c2/
                             [literal] => Friederich Wilhelm Weiland (Hofmeiers) Evesen
@@ -663,7 +676,7 @@ Array
                             [image-no] => 310
                             [year] => 1757
                             [age] => 
-                            [locality] => Nordholtz
+                            [residence] => Nordholtz
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/07617bfa91/
                             [literal] => Anna Margaretha Weilands aus Nordholtz
@@ -675,7 +688,7 @@ Array
                             [image-no] => 
                             [year] => 1758
                             [age] => 
-                            [locality] => Evesen
+                            [residence] => Evesen
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/405713c11f/
                             [literal] => Carl Fried. Fahlsing aus Evesen
@@ -687,7 +700,7 @@ Array
                             [image-no] => 312
                             [year] => 1760
                             [age] => 
-                            [locality] => Evesen
+                            [residence] => Evesen
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/42667cb769/
                             [literal] => Anna Philippina Fahlsings aus Evesen
@@ -699,7 +712,7 @@ Array
                             [image-no] => 312
                             [year] => 1760
                             [age] => 
-                            [locality] => Nordholtz
+                            [residence] => Nordholtz
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/42667cb769/
                             [literal] => Anna Maria Weilandt aus Nordholtz
@@ -711,7 +724,7 @@ Array
                             [image-no] => 313
                             [year] => 1763
                             [age] => 
-                            [locality] => Evesen
+                            [residence] => Evesen
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/1fdc86eeb3/
                             [literal] => Johann Heinrich Weiland aus Evesen
@@ -723,7 +736,7 @@ Array
                             [image-no] => 313
                             [year] => 1764
                             [age] => 
-                            [locality] => Evesen
+                            [residence] => Evesen
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/a50f43c12e/
                             [literal] => Philippina Weilands aus Evesen
@@ -735,7 +748,7 @@ Array
                             [image-no] => 314
                             [year] => 1766
                             [age] => 
-                            [locality] => Evesen No. 21
+                            [residence] => Evesen No. 21
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/ce7131f5a0/
                             [literal] => Sophia Elisabeth Weilands aus Evesen No. 21
@@ -747,7 +760,7 @@ Array
                             [image-no] => 315
                             [year] => 1767
                             [age] => 
-                            [locality] => Röcke
+                            [residence] => Röcke
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/44838bec83/
                             [literal] => Friederich Wilhelm Weiland aus Röcke Einlieger
@@ -759,7 +772,7 @@ Array
                             [image-no] => 315
                             [year] => 1768
                             [age] => 
-                            [locality] => Berenbusch
+                            [residence] => Berenbusch
                             [vdate] => 26 August
                             [url] => https://www.archion.de/p/88fcbde3e9/
                             [literal] => Friederich Wilhelm Weiland aus Berenbusch
@@ -771,7 +784,7 @@ Array
                             [image-no] => 316
                             [year] => 1769
                             [age] => 
-                            [locality] => Nordholz
+                            [residence] => Nordholz
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/b798d91460/
                             [literal] => Heinrich Wilhelm Weiland Nordholz
@@ -783,7 +796,7 @@ Array
                             [image-no] => 316
                             [year] => 1769
                             [age] => 
-                            [locality] => Röcke
+                            [residence] => Röcke
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/b798d91460/
                             [literal] => Heinrich Ludewig Weiland Röcke
@@ -795,7 +808,7 @@ Array
                             [image-no] => 317
                             [year] => 1772
                             [age] => 
-                            [locality] => Röcke
+                            [residence] => Röcke
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/7b50caa5f3/
                             [literal] => Jobst Heinrich Weiland aus Röcke
@@ -807,7 +820,7 @@ Array
                             [image-no] => 317
                             [year] => 1774
                             [age] => 
-                            [locality] => Berenbusch
+                            [residence] => Berenbusch
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/e88a5aaef1/
                             [literal] => Jobst Heinrich Weiland____Berembusch
@@ -819,7 +832,7 @@ Array
                             [image-no] => 317
                             [year] => 1774
                             [age] => 
-                            [locality] => Evesen
+                            [residence] => Evesen
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/a60d42480c/
                             [literal] => Christina Weilands____Evesen
@@ -831,7 +844,7 @@ Array
                             [image-no] => 318
                             [year] => 1777
                             [age] => 
-                            [locality] => Berenbusch
+                            [residence] => Berenbusch
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/4e469274f3/
                             [literal] => Hans Heinrich Weiland aus Berenbusch
@@ -843,7 +856,7 @@ Array
                             [image-no] => 319
                             [year] => 1779
                             [age] => 
-                            [locality] => Peezen
+                            [residence] => Peezen
                             [vdate] => 26 August 2026
                             [url] => https://www.archion.de/p/d765ab3370/
                             [literal] => Heinrich Ludowig Weiland Peezen
@@ -855,7 +868,7 @@ Array
                             [image-no] => 320
                             [year] => 1782
                             [age] => 
-                            [locality] => Evesen
+                            [residence] => Evesen
                             [vdate] => 27 August 2026
                             [url] => https://www.archion.de/p/94f6b8c73d/
                             [literal] => Anna Ilsabei Vahlsing aus Evesen
@@ -867,7 +880,7 @@ Array
                             [image-no] => 321
                             [year] => 1783
                             [age] => 
-                            [locality] => Nordholtz Berenbusch
+                            [residence] => Nordholtz Berenbusch
                             [vdate] => 27 August 2026
                             [url] => https://www.archion.de/p/f433693d9a/
                             [literal] => Johann Heinrich Weiland aus Nordholtz Berenbusch
@@ -879,7 +892,7 @@ Array
                             [image-no] => 322
                             [year] => 1784
                             [age] => 
-                            [locality] => Evesen
+                            [residence] => Evesen
                             [vdate] => 27 August 2026
                             [url] => https://www.archion.de/p/69538680ea/
                             [literal] => Anna Philippina Weilands aus Evesen
@@ -902,7 +915,7 @@ Array
                             [image-no] => 10
                             [year] => 1648
                             [edate] => 13 August 1648
-                            [locality] => 
+                            [residence] => 
                             [ifile] => petzen-band1a-img10-weiland.png
                             [vdate] => 28 August 2026
                             [url] => https://www.archion.de/p/e3a8b2db39/
@@ -916,7 +929,7 @@ Array
                             [image-no] => 12
                             [year] => 1651
                             [edate] => 11 April 1651
-                            [locality] => 
+                            [residence] => 
                             [ifile] => petzen-band1a-img12-weiland.png
                             [vdate] => 30 August 2026
                             [url] => https://www.archion.de/p/621a0af765/
@@ -930,7 +943,7 @@ Array
                             [image-no] => 55
                             [year] => 1676
                             [edate] => 27 August 1676
-                            [locality] => Petzen
+                            [residence] => Petzen
                             [ifile] => petzen-band1a-img55-weiland.png
                             [vdate] => 30 August 2026
                             [url] => https://www.archion.de/p/6d83b6a5c9/
@@ -944,7 +957,7 @@ Array
                             [image-no] => 55
                             [year] => 1676
                             [edate] => 27 August 1676
-                            [locality] => Petzen
+                            [residence] => Petzen
                             [ifile] => petzen-band1a-img55-weiland.png
                             [vdate] => 30 August 2026
                             [url] => https://www.archion.de/p/6d83b6a5c9/
@@ -958,7 +971,7 @@ Array
                             [image-no] => 56
                             [year] => 1678
                             [edate] => 20 January 1678
-                            [locality] => Petzen
+                            [residence] => Petzen
                             [ifile] => 
                             [vdate] => 30 August 2026
                             [url] => https://www.archion.de/p/b655e6998b/
@@ -972,7 +985,7 @@ Array
                             [image-no] => 58
                             [year] => 1679
                             [edate] => 13 February 1679
-                            [locality] => Petzen
+                            [residence] => Petzen
                             [ifile] => petzen-band1a-img58-weiland.png
                             [vdate] => 30 August 2026
                             [url] => https://www.archion.de/p/f3c5c0d057/

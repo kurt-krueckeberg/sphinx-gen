@@ -20,11 +20,11 @@ class WriteFile {
           return $parts;
 	}
 
-	private static $md_template = ...
-
-	public function __construct(Config $config) 
+	public function __construct(string $template, array $parish_info) 
 	{
-	   $this->parts = $this->tokenize($config->get_template);
+           $this->parish = $parish;
+
+	   $this->parts = $this->tokenize($template);
 	}
 
 	public function __invoke(string $filename, array $yamlSection) 
