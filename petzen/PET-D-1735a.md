@@ -1,4 +1,4 @@
-# 1734 Margaret Elisabeth Weiland Buried
+# 1735 Margaret Elisabeth Weiland Buried
 
 ## Family Relationships and Other Facts
 
@@ -45,4 +45,3 @@ with images, (<https://www.archion.de/p/4bf7e8ccab/> : 3 Spetember 1735), path:
 Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getrauten und Gestorbenen 1641-1784 > Image 153 of 239
-
