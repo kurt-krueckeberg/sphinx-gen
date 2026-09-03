@@ -38,7 +38,7 @@ Deaths in [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.arch
 
 **TODO:**
 
-Deaths-Burial start on image 70
+Review deaths from range of image 144 thru 186.
 
 **Re-reviewed:** Completed 70-96. 
 
