@@ -47,7 +47,7 @@ Deaths-Burial start on image 70
 :header-rows: 1
 
 * - Image No or Range
-* - 70-78
+* - 70-79
 ```
 
 **Re-reviewed:** Completed 83-96. 
