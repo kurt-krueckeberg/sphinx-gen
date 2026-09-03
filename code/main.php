@@ -1,20 +1,24 @@
 <?php
 declare(strict_types=1);
 
+require_once "Config.php";
+
 use Symfony\Component\Yaml\Yaml;
 
 require __DIR__ . '/vendor/autoload.php';
+
+$citation_str = (Config::get_config())->citation_string;
+
+$md_string = Config::get_config()->md_string;
 
 $yaml = Yaml::parseFile('config.yml');
 
 $parish_settings = array_slice($yaml['parish'], 0, 3);
 
-$citation = file_get_contents("citation.md");
-
 $current_citation = str_replace(array("@path", "@parish-name"),
 	array($parish_settings['volumes']['path'],
               $parish_settings['parish-name']),
-	$citation); 
+	$citation_str); 
 
 $sections = array("marriages", "burials", "confirmations", "baptisms");
 
