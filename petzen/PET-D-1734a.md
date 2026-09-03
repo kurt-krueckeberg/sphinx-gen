@@ -37,33 +37,6 @@ for an unnamed Krückeberg.
 :class: image-override
 ```
 
-## Töchterlein and Söhnlein
-
-In the early to mid 18th century Petzen burial registers, the diminutive
-forms **Söhnlein** (little son) and **Töchterlein** (little daugher) indicate the
-burial of a very young child or infant, whereas Sohn (son) and Tochter
-(daughter) refer to older children or adults.
-
-In baptism entries of this period, Söhnlein and Töchterlein were merely
-stylistics preference used instead of Sohn and Tochter, which later become the
-norm. It was understood, since infant baptism was practiced, that the diminutive
-forms of Söhnlein and Töchterlein meant infants not very young children.
-
-### Töchterlein in the Burial Entry
-
-The Archion.de image from which this image was cropped covers burials from the
-end of December, 1733, to the end of February, 1734. The vast majority of these
-burials are of **Söhnlein** and **Töchterlein**.
-
-In this burial entry, "ein Töchterlein" means a small/young daughter of H.
-Krückeberg from Berenbusch. The pastor does not give her personal name.
-
-In the Petzen church book, stillborn children are usually marked as
-**"todtgeboren"** (born dead) in the baptism/birth section; since that word is
-not used here, this Töchterlein was born alive but died in early childhood.
-Whether she was baptized cannot be told for certain from the burial entry
-alone.
-
 ## Transliteration
 
 ```{div} doc-text
