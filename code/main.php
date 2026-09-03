@@ -25,3 +25,6 @@ echo "\n==================================\n";
 echo "Citation key:\n";
 
 print_r($data['citation']);
+
+// Use str_replace() to replace the citation string with the @xyz
+// variables.
