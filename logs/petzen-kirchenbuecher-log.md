@@ -17,17 +17,17 @@ We know by 1745 that no. 1 Berenbusch was the holder of {external+nla:doc}`Jobst
 
 ## Review of Petzen Baptisms 1700-1784
 
-**Review DONE but markdown not done.**
+**Review DONE but markdown files not yet created.**
 
 Petzen baptisms in  [Verzeichnis der Getauften und Konfirmierten 1641-1784](https://www.archion.de/de/viewer/churchRegister/329073?cHash=ee9bc62188bd7cf69b7164aff9106ac3).
 
 ## Confirmation 1705-1784
 
-**Review DONE but markdown not done.**
+**Review DONE but markdown files not yet created.**
 
 ## Review of Marriages 1641-1784
 
-**Review DONE but markdown not done.**
+**Review DONE but markdown  files not yet created.**
 
 Marriage images reviewed in the Petzen Kirchenbuch
 [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.archion.de/de/viewer/churchRegister/329074?cHash=7d4de5d86cdc37d46ca50b1a9a9b1ad8)
