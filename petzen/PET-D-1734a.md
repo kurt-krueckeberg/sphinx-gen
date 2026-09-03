@@ -25,8 +25,8 @@ and her baptism was either not performed or not recorded.
 
 ## Record
 
-The February 14th 1734 burial records are on {ref}`image 150 <PET-D-1734a>` of the
-"Verzeichnis der Getrauten und Gestorbenen 1641-1784" on [Archion.de](https://www.archion.de).
+The February 14th 1734 burial records are on {ref}`image 150 <PET-D-1734a>` of the Petzen
+*Verzeichnis der Getrauten und Gestorbenen 1641-1784*.
 
 ## Image 150
 
