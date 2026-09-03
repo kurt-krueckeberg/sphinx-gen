@@ -23,7 +23,7 @@ Wolter Weilandt zu Peeten, Sohn, 16 Wochen alt den
 ## Translation
 
 ```{div} doc-text
-Wolter Weilandt of Peeten, son, 16 weeeks old, buriedn 18 June.
+Wolter Weilandt of Peeten, son, 16 weeeks old, buried 18 June.
 ```
 
 ## Citation

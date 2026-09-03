@@ -32,5 +32,5 @@ Hans Weilandt buried on the 20th of March
 with images, *Archion* (<https://www.archion.de/p/7b9e1a4748/> : 6 August 2026),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getrauten und Gestorbenen 1641-1784, image 126 of 239
+Verzeichnis der Getrauten und Gestorbenen 1641-1784, image 93 of 239
 
