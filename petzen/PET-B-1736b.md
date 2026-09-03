@@ -17,7 +17,7 @@
 
 ## Baptism Record
 
-The baptism of Hans Heinrich Weiland is on {ref}`image 1153 <PET-B-1736b>`, left-hand page, third to last
+The Octover 7, 1736, baptism of Hans Heinrich Weiland is on {ref}`image 1153 <PET-B-1736b>`, left-hand page, third to last
 entry, of the "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 ```{figure} images/petzen-band1a-img153-left-page-weiland.jpg
