@@ -1,16 +1,16 @@
-# 1734 Buried
+# 1734 Margaret Elisabeth Weiland Buried
 
 ## Family Relationships and Other Facts
 
 ```{list-table} Burial of 
 :header-rows: 1
 
-* - Burial Date
+* - Name 
   - Father
-  - Residence
-* - 
-  - 
-  - 
+  - Age
+* - Margaret Elisabeth
+  - Hans Harman Weiland
+  - 6 years & 39 weeks
 ```
 
 ## Record
@@ -18,18 +18,22 @@
 The November 4, 1735, burial of ??? is on {ref}`image 153 <PET-D-1735a>` of the
 *Verzeichnis der Getrauten und Gestorbenen 1641-1784*.
 
-```{figure} images/petzen-band1b-img153.png
+```{figure} images/petzen-band1b-img153-weiland.png
 :class: image-override
 ```
 
 ## Transliteration
 
 ```{div} doc-text
+Novemb. d 4t Margareta Elisabeth Weilands Hans
+Harman Weilands militis tochter begraben æt. 6. & 39 [Wochen?]
 ```
 
 ## Translation
 
 ```{div} doc-text
+November the 4th: Margareta Elisabeth, [daughter of] the Hans Harman
+Weiland, soldier, buried, aged 6 [years] and 39 weeks.
 ```
 
 ## Citation
