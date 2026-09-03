@@ -1,11 +1,11 @@
-# %year %name @event@
+# %year %name @event
 
 ## Record
 
 The baptism of Hans Henrig from Peezen (Petzen) is on {ref}`image %image-no <&file-name>`
 of the Petzen *@volume-name*.
 
-```{figure} images/%ifile%
+```{figure} images/%ifile
 :class: image-override
 ```
 

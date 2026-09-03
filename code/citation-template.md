@@ -1,6 +1,6 @@
 ## Citation
 
-(&file-name)=
+(%file-name)=
 
 "Archion Protestant Kirchenbücher Portal", database 
 with images, *Archion* (<%url> : %vdate), path: @path > @parish >
