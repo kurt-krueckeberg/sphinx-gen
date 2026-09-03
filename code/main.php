@@ -6,7 +6,7 @@ require __DIR__ . '/vendor/autoload.php';
 
 $data = Yaml::parseFile('config.yml');
 
-//print_r($data);
+$cite_template = CreateCitationTempalte($data);
 
 print_r($data['parish']);
 
