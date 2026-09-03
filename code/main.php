@@ -1,30 +1,38 @@
 <?php
 declare(strict_types=1);
 
-/*
-function CreateCitationTemplate(array $data)
-{
-   $data['parish']	
-}
- */
-
 use Symfony\Component\Yaml\Yaml;
 
 require __DIR__ . '/vendor/autoload.php';
 
-$data = Yaml::parseFile('config.yml');
+$yaml = Yaml::parseFile('config.yml');
 
-$parish_keys = array_slice($data['parish'], 0, 3);
+$parish_settings = array_slice($yaml['parish'], 0, 3);
 
-echo "Parish top-level keys:\n";
+$citation = file_get_contents("citation.md");
 
-print_r($parish_keys);
+$current_citation = str_replace(array("@path", "@parish-name"),
+	array($parish_settings['volumes']['path'],
+              $parish_settings['parish-name']),
+	$citation); 
 
-echo "\n==================================\n";
+$sections = array("marriages", "burials", "confirmations", "baptisms");
 
-echo "Citation key:\n";
+foreach ($sections as $section_key) {
 
-print_r($data['citation']);
+    $parish_volumes = $yaml['parish']['volumes'];
+        
+    $section = $yaml['parish'][$section_key];
+     
+    foreach ($section['records'] as $record) {
+      
+          print_r($record);
+          
+          echo "\n================\n";
+    }    
+}
 
-// Use str_replace() to replace the citation string with the @xyz
-// variables.
+
+
+
+

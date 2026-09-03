@@ -1,6 +1,7 @@
 # =========================
 # Python / virtualenv
 # =========================
+code/netbeans
 build_errors.txt
 code/vendor
 .venv/

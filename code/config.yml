@@ -1,5 +1,5 @@
 parish:
-  name: Petzen
+  parish-name: Petzen
   prefix: PET
   volumes:
     path: >- 
