@@ -1,106 +1,65 @@
-The program will create new MyST Markdown files with the extension of `.md`, but it must NEVER overwrite,
-truncate, rename, delete, or modify any existing Markdown file.
+Create a program will create new MyST Markdown files with the extension of
+`.md`. It must NEVER overwrite, truncate, rename, delete, or modify any
+existing Myst Markdown file.
 
 The program is configuration driven. A configuration file named
-config.yml contains the input to build the .md files.
+config.yml contains the input to build the output MyST markdown files with
+the ".md" extension.
 
-First, the program will read the config.yml file and load it into an array using a
-programming language that supports such a function.
+The program will read the YAML file config.yml file that is located
+in ~/temp/sphinx-gen/code.
 
-Using the array, it will then iterate these top-level keys:
+It will also read the template.md file into a variable. It will then alter
+this variable by replacing specially designated variables with values found
+in the config.yml. This is how it will do this.
 
-- marriages
-- baptims
-- confirmations
-- burials
+There are three types of variables in the template.md: those that start with
+"%", those that start will "@", and those that start with "&". 
+Here is a list of all the variables:
 
+- %image-no
+- &file-name
+- @volume
+- %image-no 
+- %literal
+- %trans
+- %url 
+- %vdate
+- @path
+- @parish
+- @volume-name
+- @total-images
 
-## How the output ".md" file will be named
+All these variables correspond to keys in the config.yml, except for
+&file-name, which is the name of the markdown file currently being created.
 
-The MyST markdown output file's stem will start with "PET-". This will be
-followed by the value of the `record-symbol:`, which is a single uppercase
-letter; for example, the `record-symbol:` key under  `marriages:` is "M",
-and for burials it is "D". Thus, the marriage MyST markdown files will
-start with "PET-M" and the burial MyST Markdown files will start with
-"PET-D". After these prescribed first five letters will come a "-". This
-will be followed by a four-digit years, which is the last part of the value
-of the "edate:" key. The value of "edate:" consists of a date in the form
-of first the day of the month, followed by the name of the month, followed
-by the four digit year; for example, in this `edate:` example snippet:
+Using PHP as the example programming language, if the config.yml file was read into an
+in-memory array named, say, `$data`, these variables that begin with "@" 
 
-edate: 12 November 1675 
+- @volume
+- @path
+- @parish
+- @volume-name
+- @total-images
 
-the year is 1675. If this "edate:" is a subkey of "marriages:", then the
-output MyST markdown file stem will start with "PET-M-1675". IF it were a
-subkey of "burials:", then the output file stem would start with "PET-D-1675".
+would be replaced with the values of these keys in the config.yml file as
+shown in the markdown table below:  
 
-Finally, after these first 10 characters of the file stem will come a single
-lowercase letter. "a" will be used, if no such file stem exists; otherwise,
-"b" will be used, if not such file stem exists; otherwise, "c" will be
-used, if no such file stem exists. This will continue will the single
-lowercase letter is selected. Let's take the prior example of "PET-M-1675".
-If no file names `PET-M-1675a.md`, exists, this will be the new markdown
-filename. If it does exist, the name will be `PET-M-1675b.md`, if no such
-file exists. This process will continue until an file stem is
-found that does not already exist for the current set of markdown files.
+| Variable | Replacement Values |
+|----------|--------------------|
+| @volume | volume: |
+| @path | path: |
+| @parish | parish: |
+| @volume-name | volume-name: |
+| @total-images | total-images: |
 
-## Createing the Output file
+This will only be done once. 
 
-The template below shows how the basic .md file content. Placeholder
-variables are used to show how the values of the keys in config.yml map to 
-the markdown output content.
+The main processing loop with now commence. The steps are:
 
-Here is the ouput template:
+1. The variable holding the string contenst of the config.yml whose @-prefix variables will
+have been replace with the values of the YAML keys shown in the prior table
+will be copied to another variable.
 
-````code
-# %year% %name% %event%
+2. 
 
-## Record
-
-The baptism of Hans Henrig from Peezen (Petzen) is on {ref}`image %image-no% <%file-name%>`
-of the Petzen *%volume-name%*.
-
-```{figure} images/%ifile%
-:class: image-override
-```
-
-## Transliteration
-
-```{div} doc-text
-%literal%
-```
-
-## Translation
-
-```{div} doc-text
-%trans%
-```
-
-## Citation
-
-(%file-name%)=
-
-"Archion Protestant Kirchenbücher Portal", database 
-with images, *Archion* (<%url%> : %vdate%), path: %path% > %parish% >
-%volume-name%, image %image-no% of %total-images%
-````
-
-In the template above the variables that are delimited with '%' such as `%url%`
-or `%trans%` represent keys in the config.yml; for example, `%trans%`
-represents the values of the `trans:` key, and `%url%` represent the value
-of the `url:`. The table below shows a more complete list of %-delimited
-variables and the YAML keys they represent:
-
-| key       | variable    |
-|-----------|-------------|
-| event     | %event%     |
-| name:     | %name%      | 
-| image-no: | %image-no%  |
-| ifile:    | %ifile%     |
-| edate:    | %edate%     |
-| vdate:    | %vdate%     |
-| url:      | %url%       |
-| literal:  | %literal%   |
-| trans:    | %trans%     |
-
-Some of the 
