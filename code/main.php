@@ -1,15 +1,27 @@
 <?php
 declare(strict_types=1);
+
+/*
+function CreateCitationTemplate(array $data)
+{
+   $data['parish']	
+}
+ */
+
 use Symfony\Component\Yaml\Yaml;
 
 require __DIR__ . '/vendor/autoload.php';
 
 $data = Yaml::parseFile('config.yml');
 
-$cite_template = CreateCitationTempalte($data);
+$parish_keys = array_slice($data['parish'], 0, 3);
 
-print_r($data['parish']);
+echo "Parish top-level keys:\n";
+
+print_r($parish_keys);
 
 echo "\n==================================\n";
 
-print_r($data['baptisms']);
+echo "Citation key:\n";
+
+print_r($data['citation']);
