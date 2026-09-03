@@ -18,7 +18,7 @@
 The November 4, 1735, burial of ??? is on {ref}`image 153 <PET-D-1735a>` of the
 *Verzeichnis der Getrauten und Gestorbenen 1641-1784*.
 
-```{figure} images/petzen-band1b-img153-weiland.png
+```{figure} images/petzen-band1b-img153-weiland.jpg
 :class: image-override
 ```
 
