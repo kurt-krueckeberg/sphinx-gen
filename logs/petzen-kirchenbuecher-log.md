@@ -40,17 +40,7 @@ Deaths in [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.arch
 
 Deaths-Burial start on image 70
 
-- Review deaths from image 70 through image 82.
-- Review deaths from image 97-239
-
-```{list-table} Reviewed to date, starting with image 70
-:header-rows: 1
-
-* - Image No or Range
-* - 70-79
-```
-
-**Re-reviewed:** Completed 83-96. 
+**Re-reviewed:** Completed 70-96. 
 
 ```{list-table} Review started with image 87, year 1670.
 :header-rows: 1
