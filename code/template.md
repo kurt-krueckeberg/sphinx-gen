@@ -2,7 +2,7 @@
 
 ## Record
 
-The %edate baptism of %name from %residence is on {ref}`image %image-no <&file-name>`
+The %edate baptism of %name from %residence is on {ref}`image %image-no <%file-name>`
 of the Petzen *@volume-name*.
 
 ```{figure} images/%ifile
@@ -20,11 +20,3 @@ of the Petzen *@volume-name*.
 ```{div} doc-text
 %trans
 ```
-
-## Citation
-
-(&file-name)=
-
-"Archion Protestant Kirchenbücher Portal", database 
-with images, *Archion* (<%url> : %vdate), path: @path > @parish >
-@volume-name, image %image-no of @total-images
