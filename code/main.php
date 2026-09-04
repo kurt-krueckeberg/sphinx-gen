@@ -2,12 +2,29 @@
 declare(strict_types=1);
 
 require_once "Config.php";
+require_once "variables.php";
 
 use Symfony\Component\Yaml\Yaml;
 
 require __DIR__ . '/vendor/autoload.php';
 
-$citation_str = (Config::get_config())->citation_string;
+function create_filename(string $prefix, string $symbol, string $year) : string
+{
+   $filestem = $prefix . '-' . $symbol . '-' . $year;
+
+   for($i = 0; 1; ++$i) {
+
+       $filename =  $filestem . (char) ('a' + $i)  . "md";
+
+       if (file_exists($filename))
+		   continue;
+
+       return $filestem;
+    }	       
+}
+
+
+$citation_str = Config::get_config()->citation_string;
 
 $md_string = Config::get_config()->md_string;
 
@@ -38,6 +55,8 @@ foreach ($sections as $section_key) {
     foreach ($section['records'] as $record) {
       
           print_r($record);
+
+	  $filename = create_filename($parish_settings['prefix'], $record['edate']['record-symbol'], substr($record['edate'], strrchr($record['edate'], ' ') + 1);
           
           $current_md = str_replace($md_find_array, $record, $current_md);
           
