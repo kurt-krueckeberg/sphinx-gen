@@ -56,7 +56,8 @@ foreach ($sections as $section_key) {
       
           print_r($record);
 
-	  $filename = create_filename($parish_settings['prefix'], $record['edate']['record-symbol'], substr($record['edate'], strrchr($record['edate'], ' ') + 1);
+	  $filename = create_filename($parish_settings['prefix'], $record['edate']['record-symbol'],
+		  substr($record['edate'], strrchr($record['edate'], ' ') + 1));
           
           $current_md = str_replace($md_find_array, $record, $current_md);
           
