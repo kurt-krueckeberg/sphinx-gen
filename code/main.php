@@ -12,7 +12,7 @@ $citation_string = file_get_contents($folder . "/citation.md");
         
 $md_string = file_get_contents($folder . "/template.md");
 
-$kbr = new KirchenbuecherResults($yaml);
+$kbr = new KirchenbuecherResults("/home/kurt/sphinx-gen/code/config.yml");
 
 $parish_settings = $kbr->getParishSettings();
 
