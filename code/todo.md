@@ -1,6 +1,6 @@
 # Implementation Notes
 
-Put this code in main.php
+## Put this code in main.php
 
 ```code
 $folder = "/home/kurt/sphinx-gen/code";
@@ -21,12 +21,4 @@ $citation_string = str_replace(array("@path", "@parish-name"),
 $markdown_template = $md_string . $citation_string;
 ```
 
-in the constructor of KirchenbuecherResults. Then either
-
-- pass the`$markdown_template` that has been properly prepared to the functor
-  `MarkdownCreator`'s constructor, or
-- have `KirchenBuecherResults` create the `MarkdownCreator`, or
-
-
-
-
+## Decide if Section Settings Should be Pass to MarkdownCreator's ctor?
