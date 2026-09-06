@@ -1,6 +1,7 @@
 <?php
 declare(strict_types=1);
 namespace MystMD;
+use Symfony\Yaml;
 
 class KirchenBuecherResults implements \IteratorAggregate {
 
@@ -16,14 +17,19 @@ class KirchenBuecherResults implements \IteratorAggregate {
  	    }
 	}
 
+	public function getParishValues() : array
+	{
+	   return array_slice($this->yaml['parish'], 0, 3);	
+	}
+
 	public function getIterator() : \Traversable 
 	{
 	   return ($this->generator)();	
         }
 
-	public function __construct(array $yaml)
+	public function __construct(string $yaml_file)
 	{
-           $this->yaml = $yaml;
+           $this->yaml = Yaml::parseFile($folder . "/config.yml");
 	}
 }
 

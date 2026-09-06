@@ -12,9 +12,9 @@ $citation_string = file_get_contents($folder . "/citation.md");
         
 $md_string = file_get_contents($folder . "/template.md");
 
-$yaml = Yaml::parseFile($folder . "/config.yml");
+$kbr = new KirchenbuecherResults($yaml);
 
-$parish_settings = array_slice($yaml['parish'], 0, 3);
+$parish_settings = $kbr->getParishSettings();
 
 $citation_string = str_replace(array("@path", "@parish-name"),
 	array($parish_settings['volumes']['path'],
@@ -23,7 +23,6 @@ $citation_string = str_replace(array("@path", "@parish-name"),
 
 $markdown_template = $md_string . $citation_string;
 
-$kbr = new KirchenbuecherResults($yaml);
 
 foreach ($kbr as $ceremony_section) {
 
