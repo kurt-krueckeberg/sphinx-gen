@@ -2,6 +2,7 @@
 declare (strict_types=1);
 namespace myst_gen;
 
+// TODO: Make this a function or functor
 class TemplateBuilder {
 
    public function __construct(array $parish_settings, string $citation_str)
