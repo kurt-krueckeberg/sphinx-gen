@@ -1,24 +1,20 @@
 # Implementation Notes
 
-## Put this code in main.php
+Use this code to replace the variables that are delimited with "{}".
 
 ```code
-$folder = "/home/kurt/sphinx-gen/code";
-
-$citation_string = file_get_contents($folder . "/citation.md");
-        
-$md_string = file_get_contents($folder . "/template.md");
-
-$kbr = new KirchenbuecherResults("/home/kurt/sphinx-gen/code/config.yml");
-
-$parish_settings = $kbr->getParishValues();
-
-$citation_string = str_replace(array("@path", "@parish-name"),
-	array($parish_settings['volumes']['path'],
-              $parish_settings['parish-name']),
-  	      $citation_string); 
-
-$markdown_template = $md_string . $citation_string;
+function subst_variables(string $template, array $key_value_pairs)
+{
+    return preg_replace_callback(
+        '/\{(\w+)\}/',
+        function ($matches) use ($key_value_pairs) {
+            $key = $matches[1];
+            if (!array_key_exists($key, $key_value_pairs)) {
+                throw new InvalidArgumentException("Unknown placeholder: {$key}");
+            }
+            return $key_value_pairs[$key];
+        },
+        $template
+    );
+}
 ```
-
-## Decide if Section Settings Should be Pass to MarkdownCreator's ctor?
