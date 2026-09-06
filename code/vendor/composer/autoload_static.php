@@ -16,6 +16,10 @@ class ComposerStaticInit1d14b066a73960476c178ecf92bed18f
             'Symfony\\Polyfill\\Ctype\\' => 23,
             'Symfony\\Component\\Yaml\\' => 23,
         ),
+        'M' =>
+        array (
+            'MystMD\\' => 7,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
@@ -26,6 +30,10 @@ class ComposerStaticInit1d14b066a73960476c178ecf92bed18f
         'Symfony\\Component\\Yaml\\' =>
         array (
             0 => __DIR__ . '/..' . '/symfony/yaml',
+        ),
+        'MystMD\\' =>
+        array (
+            0 => __DIR__ . '/../..' . '/src/MystMD',
         ),
     );
 
