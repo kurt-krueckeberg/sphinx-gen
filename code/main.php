@@ -26,7 +26,7 @@ $kbr = new KirchenbuecherResults($yaml);
 
 foreach ($kbr as $ceremony_section) {
 
-     $section_settings = $ceremony_section->getSectionSettings);
+     $section_settings = $ceremony_section->getSectionSettings();
 
      foreach ($ceremony_section as $record) {
             
