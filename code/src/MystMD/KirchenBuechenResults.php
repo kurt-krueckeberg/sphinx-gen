@@ -13,7 +13,7 @@ class KirchenBuecherResults implements \IteratorAggregate {
 	{
             foreach ($this->section_keys as $section_key) {
       
-               yield $yaml[$section_key]; // <--  TODO: Return CeremonySection instead!
+               yield new CeremonySection($this->yaml[$section_key]); 
  	    }
 	}
 
