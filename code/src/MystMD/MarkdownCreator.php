@@ -22,20 +22,33 @@ class MarkdownCreator {
         }	       
    }
 
+   private function subst_variables(string $template, array $key_value_pairs)
+   {
+       return preg_replace_callback(
+           '/\{(\w+)\}/',
+           function ($matches) use ($key_value_pairs) {
+               $key = $matches[1];
+               if (!array_key_exists($key, $key_value_pairs)) {
+                   throw new InvalidArgumentException("Unknown placeholder: {$key}");
+               }
+               return $key_value_pairs[$key];
+           },
+           $template
+       );
+   }
+
    public function __invoke(array $record)
    {
        $current_md = $this->md_template;
 
-       $current_md = str_replace($this->find_variables, $record, $current_md);
-               
-       str_replace();
+       $current_md = $this->subst_variables($current_md, $record);
+
+       $this->file->fwrite($current_md);               
    }
 
    public function __construct(string $md_template, string $prefix, string $symbol, string $year)
    {
       $this->md_template = $md_tempalte;
-
-      $this->find_variaables = array(TODO);
 
       $filename =   $this->create_filename($prefix, $symbol, $year);
 
