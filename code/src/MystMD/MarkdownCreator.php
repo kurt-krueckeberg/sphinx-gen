@@ -25,13 +25,13 @@ class MarkdownCreator {
     public function __invoke(array $record)
     {
 
-
+        //++ str_replace();
     }
 
     public function __construct(string $prefix, string $symbol, string $year)
     {
        $filename =   $this->create_filename($prefix, $symbol, $year);
 
-       $this->file = new \SplFileObject(...);
+       $this->file = new \SplFileObject($filename, "w");
     }
 }
