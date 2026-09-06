@@ -21,7 +21,12 @@ class Config {
   private static config_ $c;  
   private static bool $initialized = false;
 
-   static private function get_config(string $folder) : config_
+   static private function get_config() : config_
+   {   
+      return self::$c;
+   }
+
+   static private function create_config(string $folder) : config_
    {
       if (self::$initialized === false) {
        
@@ -32,10 +37,9 @@ class Config {
     
       return self::$c;
    }
-
   public function __construct(string $folder)
   {
-     self::get_config($folder);	  
+     self::create_config($folder);	  
   }
 
   public function get_citation_string() : string

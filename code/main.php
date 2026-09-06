@@ -1,29 +1,27 @@
 <?php
 declare(strict_types=1);
 
-//require_once "Config.php";
-//require_once "variables.php";
-
 use Symfony\Component\Yaml\Yaml;
-use MystMD\{Config, KirchenBuecherResults, CeremonySection, MarkdownCreator, TemplateBuilder};       
+use MystMD\{KirchenBuecherResults, CeremonySection, MarkdownCreator, TemplateBuilder};       
 
 require __DIR__ . '/vendor/autoload.php';
 
-function createMarkdownTemplate() : string
-{
-   $md_string = Config::get_config()->md_string;
+$folder = "/home/kurt/sphinx-gen/code";
 
-   $citation_str = Config::get_config()->citation_string;
+$citation_string = file_get_contents($folder . "/citation.md");
+        
+$md_string = file_get_contents($folder . "/template.md");
 
-   $citation_str = str_replace(array("@path", "@parish-name"),
-	array($parish_settings['volumes']['path'],
-              $parish_settings['parish-name']),
-  	      $citation_str); 
-}
-
-$yaml = Yaml::parseFile("/home/kurt/sphinx-gen/code/config.yml");
+$yaml = Yaml::parseFile($folder . "/config.yml");
 
 $parish_settings = array_slice($yaml['parish'], 0, 3);
+
+$citation_string = str_replace(array("@path", "@parish-name"),
+	array($parish_settings['volumes']['path'],
+              $parish_settings['parish-name']),
+  	      $citation_string); 
+
+$markdown_template = $md_string . $citation_string;
 
 $kbr = new KirchenbuecherResults($yaml);
 
