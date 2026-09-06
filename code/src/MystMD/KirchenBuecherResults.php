@@ -5,7 +5,7 @@ use Symfony\Component\Yaml\Yaml;
 
 class KirchenBuecherResults implements \IteratorAggregate, \ArrayAccess {
 
-	private array $yaml;
+	private readonly array $yaml;
 
         private $section_keys = array('marriages', 'burials', 'confirmations', 'baptisms');
  	
