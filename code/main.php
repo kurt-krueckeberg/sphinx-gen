@@ -1,8 +1,8 @@
 <?php
 declare(strict_types=1);
 
-require_once "Config.php";
-require_once "variables.php";
+//require_once "Config.php";
+//require_once "variables.php";
 
 use Symfony\Component\Yaml\Yaml;
 use MystMD\{Config, KirchenBuechenResults, CeremonySection, MarkdownCreator, TemplateBuilder};       
