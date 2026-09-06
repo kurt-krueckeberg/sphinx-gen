@@ -1,6 +1,6 @@
 <?php
 declare (strict_types=1);
-namespace myst_gen;
+namespace MystMD;
 
 class MarkdownCreator {
 
