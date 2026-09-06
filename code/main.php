@@ -5,7 +5,7 @@ declare(strict_types=1);
 //require_once "variables.php";
 
 use Symfony\Component\Yaml\Yaml;
-use MystMD\{Config, KirchenBuechenResults, CeremonySection, MarkdownCreator, TemplateBuilder};       
+use MystMD\{Config, KirchenBuecherResults, CeremonySection, MarkdownCreator, TemplateBuilder};       
 
 require __DIR__ . '/vendor/autoload.php';
 
