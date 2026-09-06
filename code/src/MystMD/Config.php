@@ -32,4 +32,9 @@ class Config {
     
       return self::$c;
   }
+
+  public function test() : config_
+  {
+      return self::get_config();	  
+  }
 }

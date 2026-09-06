@@ -9,14 +9,17 @@ use MystMD\{Config, KirchenBuechenResults, CeremonySection, MarkdownCreator, Tem
 
 require __DIR__ . '/vendor/autoload.php';
 
-$md_string = Config::get_config()->md_string;
+function createMarkdownTemplate() : string
+{
+   $md_string = Config::get_config()->md_string;
 
-$citation_str = Config::get_config()->citation_string;
+   $citation_str = Config::get_config()->citation_string;
 
-$citation_str = str_replace(array("@path", "@parish-name"),
+   $citation_str = str_replace(array("@path", "@parish-name"),
 	array($parish_settings['volumes']['path'],
               $parish_settings['parish-name']),
-	$citation_str); 
+  	      $citation_str); 
+}
 
 $yaml = Yaml::parseFile("/home/kurt/sphinx-gen/code/config.yml");
 
