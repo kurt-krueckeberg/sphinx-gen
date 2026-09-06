@@ -1,8 +1,31 @@
 # Implementation Notes
 
-use printf or sprintf?
+Put this code in main.php
 
+```code
+$folder = "/home/kurt/sphinx-gen/code";
 
+$citation_string = file_get_contents($folder . "/citation.md");
+        
+$md_string = file_get_contents($folder . "/template.md");
+
+$kbr = new KirchenbuecherResults("/home/kurt/sphinx-gen/code/config.yml");
+
+$parish_settings = $kbr->getParishValues();
+
+$citation_string = str_replace(array("@path", "@parish-name"),
+	array($parish_settings['volumes']['path'],
+              $parish_settings['parish-name']),
+  	      $citation_string); 
+
+$markdown_template = $md_string . $citation_string;
+```
+
+in the constructor of KirchenbuecherResults. Then either
+
+- pass the`$markdown_template` that has been properly prepared to the functor
+  `MarkdownCreator`'s constructor, or
+- have `KirchenBuecherResults` create the `MarkdownCreator`, or
 
 
 

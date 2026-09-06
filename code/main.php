@@ -14,7 +14,7 @@ $md_string = file_get_contents($folder . "/template.md");
 
 $kbr = new KirchenbuecherResults("/home/kurt/sphinx-gen/code/config.yml");
 
-$parish_settings = $kbr->getParishSettings();
+$parish_settings = $kbr->getParishValues();
 
 $citation_string = str_replace(array("@path", "@parish-name"),
 	array($parish_settings['volumes']['path'],
@@ -23,6 +23,7 @@ $citation_string = str_replace(array("@path", "@parish-name"),
 
 $markdown_template = $md_string . $citation_string;
 
+$markdown_writer = new MarkdownCreator($markdown_template);
 
 foreach ($kbr as $ceremony_section) {
 
@@ -30,13 +31,7 @@ foreach ($kbr as $ceremony_section) {
 
      foreach ($ceremony_section as $record) {
             
-          print_r($record);
-                
-          $current_md = str_replace($md_find_array, $record, $current_md);
-                
-          //$current_citation = str_replace(,, $current_citation);
-                
-          echo "\n================\n";
+	  $markdown_writer($record, $section_settings);
      }
 }    
       

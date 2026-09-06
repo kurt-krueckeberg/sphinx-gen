@@ -5,6 +5,7 @@ namespace myst_gen;
 class MarkdownCreator {
 
    private \SpilFileObject $file;	
+   private string $md_template;
 
    private function create_filename(string $prefix, string $event_letter, string $year) : string
    {
@@ -21,17 +22,23 @@ class MarkdownCreator {
         }	       
    }
 
+   public function __invoke(array $record)
+   {
+       $current_md = $this->md_template;
 
-    public function __invoke(array $record)
-    {
+       $current_md = str_replace($this->find_variables, $record, $current_md);
+               
+       str_replace();
+   }
 
-        //++ str_replace();
-    }
+   public function __construct(string $md_template, string $prefix, string $symbol, string $year)
+   {
+      $this->md_template = $md_tempalte;
 
-    public function __construct(string $prefix, string $symbol, string $year)
-    {
-       $filename =   $this->create_filename($prefix, $symbol, $year);
+      $this->find_variaables = array(TODO);
 
-       $this->file = new \SplFileObject($filename, "w");
-    }
+      $filename =   $this->create_filename($prefix, $symbol, $year);
+
+      $this->file = new \SplFileObject($filename, "w");
+   }
 }
