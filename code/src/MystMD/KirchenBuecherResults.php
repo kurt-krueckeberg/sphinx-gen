@@ -1,7 +1,6 @@
 <?php
 declare(strict_types=1);
 namespace MystMD;
-use Symfony\Component\Yaml\Yaml;
 
 class KirchenBuecherResults implements \IteratorAggregate {
 
@@ -24,7 +23,7 @@ class KirchenBuecherResults implements \IteratorAggregate {
 
 	public function __construct(array $yaml)
 	{
-           $this->yaml = $yaml);
+           $this->yaml = $yaml;
 	}
 }
 
