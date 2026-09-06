@@ -10,14 +10,14 @@ $folder = "/home/kurt/sphinx-gen/code";
 
 $kbr = new KirchenbuecherResults("/home/kurt/sphinx-gen/code/config.yml");
 
-$citation = file_get_contents($folder . "citation.txt");
+$citation = file_get_contents($folder . "/" . "citation.txt");
 
 $citation_string = str_replace(array("{path}", "{parish-name}"),
 	array($kbr['parish']['volumes']['path'],
               $kbr['parish']['parish-name']),
 	$citation);
         
-$md_string = file_get_contents($folder . "/template.txt");
+$markdown_template = file_get_contents($folder . "/markdown_template.txt");
 
 $markdown_writer = new MarkdownCreator($markdown_template);
 
