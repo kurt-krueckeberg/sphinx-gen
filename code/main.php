@@ -12,14 +12,14 @@ $kbr = new KirchenbuecherResults("/home/kurt/sphinx-gen/code/config.yml");
 
 $parish_settings = $kbr->getParishValues();
 
-$citation_string = file_get_contents($folder . "/citation.md");
+$citation_string = file_get_contents($folder . "/citation.text");
 
 $citation_string = str_replace(array("@path", "@parish-name"),
 	array($parish_settings['volumes']['path'],
               $parish_settings['parish-name']),
   	      $citation_string); 
         
-$md_string = file_get_contents($folder . "/template.md");
+$md_string = file_get_contents($folder . "/template.txt");
 
 $markdown_writer = new MarkdownCreator($markdown_template);
 

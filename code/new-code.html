@@ -1,0 +1,82 @@
+<h1
+id="demo-code-using-preg_replace_callback-to-replace-deleimited-variables">Demo
+Code using <code>preg_replace_callback()</code> to replace
+<code>{}</code> deleimited variables</h1>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode php"><code class="sourceCode php"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;?php</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="kw">function</span> subst_variables(<span class="dt">string</span> <span class="va">$template</span><span class="ot">,</span> <span class="dt">array</span> <span class="va">$key_value_pairs</span>)</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>{</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> <span class="fu">preg_replace_callback</span>(</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>        <span class="st">&#39;/\{(\w+)\}/&#39;</span><span class="ot">,</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>        <span class="kw">function</span> (<span class="va">$matches</span>) <span class="kw">use</span> (<span class="va">$key_value_pairs</span>) {</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>            <span class="va">$key</span> <span class="op">=</span> <span class="va">$matches</span>[<span class="dv">1</span>]<span class="ot">;</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>            <span class="cf">if</span> (<span class="op">!</span><span class="fu">array_key_exists</span>(<span class="va">$key</span><span class="ot">,</span> <span class="va">$key_value_pairs</span>)) {</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>                <span class="cf">throw</span> <span class="kw">new</span> <span class="bu">InvalidArgumentException</span>(<span class="st">&quot;Unknown placeholder: </span>{<span class="va">$key</span>}<span class="st">&quot;</span>)<span class="ot">;</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>            }</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>            <span class="cf">return</span> <span class="va">$key_value_pairs</span>[<span class="va">$key</span>]<span class="ot">;</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>        }<span class="ot">,</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>        <span class="va">$template</span></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>    )<span class="ot">;</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a><span class="co">// --- Example 1: normal, successful call ---</span></span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a><span class="va">$arr</span> <span class="op">=</span> [</span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>    <span class="st">&#39;volume_name&#39;</span>  =&gt; <span class="st">&quot;Verzeichnis der Getrauten und Gestorbenen 1641-1784&quot;</span><span class="ot">,</span></span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>    <span class="st">&#39;image_no&#39;</span>     =&gt; <span class="dv">44</span><span class="ot">,</span></span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>    <span class="st">&#39;total_images&#39;</span> =&gt; <span class="dv">239</span><span class="ot">,</span></span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>]<span class="ot">;</span></span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a><span class="va">$citation</span> <span class="op">=</span> <span class="st">&#39;{volume_name}, image {image_no} of {total_images}&#39;</span><span class="ot">;</span></span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a><span class="va">$x</span> <span class="op">=</span> subst_variables(<span class="va">$citation</span><span class="ot">,</span> <span class="va">$arr</span>)<span class="ot">;</span></span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a><span class="kw">echo</span> <span class="va">$x</span> <span class="op">.</span> <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span><span class="ot">;</span></span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a><span class="co">// Example 2: a template with a typo&#39;d placeholder ---</span></span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a><span class="co">// Note: {image_number} doesn&#39;t exist in $arr (the key is actually &#39;image_no&#39;)</span></span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a><span class="va">$bad_citation</span> <span class="op">=</span> <span class="st">&#39;{volume_name}, image {image_number} of {total_images}&#39;</span><span class="ot">;</span></span>
+<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a><span class="cf">try</span> {</span>
+<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a>    <span class="va">$y</span> <span class="op">=</span> subst_variables(<span class="va">$bad_citation</span><span class="ot">,</span> <span class="va">$arr</span>)<span class="ot">;</span></span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a>    <span class="kw">echo</span> <span class="va">$y</span> <span class="op">.</span> <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span><span class="ot">;</span></span>
+<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a>} <span class="cf">catch</span> (<span class="bu">InvalidArgumentException</span> <span class="va">$e</span>) {</span>
+<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a>    <span class="kw">echo</span> <span class="st">&quot;Error: &quot;</span> <span class="op">.</span> <span class="va">$e</span>-&gt;getMessage() <span class="op">.</span> <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span><span class="ot">;</span></span>
+<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div>
+<p><strong>Output:</strong></p>
+<pre><code>Verzeichnis der Getrauten und Gestorbenen 1641-1784, image 44 of 239
+Error: Unknown placeholder: image_number</code></pre>
+<h2 id="whats-happening-step-by-step">What’s happening, step by
+step</h2>
+<ol type="1">
+<li><code>subst_variables()</code> calls
+<code>preg_replace_callback()</code>, passing it the regex
+<code>/\{(\w+)\}/</code>, an anonymous callback function, and the
+template string.</li>
+<li><code>preg_replace_callback()</code> scans <code>$template</code>
+for every substring matching that pattern — a <code>{</code>, followed
+by one or more “word” characters (letters/digits/underscore), followed
+by <code>}</code>.</li>
+<li>For <strong>each match found</strong>, it calls your anonymous
+callback function once, passing in <code>$matches</code> — an array
+where <code>$matches[0]</code> is the whole match
+(e.g. <code>{volume_name}</code>) and <code>$matches[1]</code> is just
+the captured group inside the parentheses
+(e.g. <code>volume_name</code>).</li>
+<li>Your callback checks whether that key exists in
+<code>$key_value_pairs</code>. If it does, it returns the corresponding
+value, and <code>preg_replace_callback()</code> substitutes that value
+back into the string in place of the matched placeholder. If the key
+doesn’t exist, it throws an exception instead of silently leaving broken
+text in your output.</li>
+<li>This repeats for every placeholder found, and the fully-substituted
+string is returned.</li>
+</ol>
+<p>This is why it’s called “more robust” — with <code>strtr()</code> or
+<code>str_replace()</code>, a typo like <code>{image_number}</code>
+would just be silently left in your output as literal text, which you
+might not notice until you’re staring at a broken citation later. Here,
+it fails loudly and immediately, telling you exactly which placeholder
+was the problem.</p>
