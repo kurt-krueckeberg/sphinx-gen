@@ -5,9 +5,9 @@ require_once "Config.php";
 require_once "variables.php";
 
 use Symfony\Component\Yaml\Yaml;
+use MystMD\{Config, ...};
 
 require __DIR__ . '/vendor/autoload.php';
-
 
 $md_string = Config::get_config()->md_string;
 
