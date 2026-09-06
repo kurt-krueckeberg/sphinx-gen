@@ -3,7 +3,7 @@ declare(strict_types=1);
 namespace MystMD;
 use Symfony\Component\Yaml\Yaml;
 
-class KirchenBuecherResults implements \IteratorAggregate {
+class KirchenBuecherResults implements \IteratorAggregate, \ArrayAccess {
 
 	private array $yaml;
 
@@ -31,5 +31,32 @@ class KirchenBuecherResults implements \IteratorAggregate {
 	{
            $this->yaml = Yaml::parseFile($file);
 	}
+	
+	public function offsetSet($offset, $value): void
+       	{
+           if (is_null($offset)) {
+
+	      $this->yaml[] = $value;
+
+	   } else {
+
+              $this->yaml[$offset] = $value;
+           }
+        }
+
+	public function offsetExists($offset): bool
+       	{
+           return isset($this->yaml[$offset]);
+        }
+
+	public function offsetUnset($offset): void 
+	{
+          unset($this->yaml[$offset]);
+        }
+
+        public function offsetGet($offset): mixed 
+	{
+          return isset($this->yaml[$offset]) ? $this->yaml[$offset] : null;
+        }
 }
 
