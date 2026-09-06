@@ -17,19 +17,14 @@ class KirchenBuecherResults implements \IteratorAggregate {
  	    }
 	}
 
-	public function getParishSettings() : array
-	{
-           return array_slice($yaml['parish'], 0, 3);
-	}	
-
 	public function getIterator() : \Traversable 
 	{
 	   return ($this->generator)();	
         }
 
-	public function __construct(string $yaml_file)
+	public function __construct(array $yaml)
 	{
-           $this->yaml = Yaml::parseFile($yaml_file);
+           $this->yaml = $yaml);
 	}
 }
 

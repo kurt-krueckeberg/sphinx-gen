@@ -5,7 +5,7 @@ require_once "Config.php";
 require_once "variables.php";
 
 use Symfony\Component\Yaml\Yaml;
-use MystMD\{Config, ...};
+use MystMD\{Config, KirchenBuechenResults, CeremonySection, MarkdownCreator, TemplateBuilder};       
 
 require __DIR__ . '/vendor/autoload.php';
 
@@ -18,21 +18,29 @@ $citation_str = str_replace(array("@path", "@parish-name"),
               $parish_settings['parish-name']),
 	$citation_str); 
 
+$yaml = Yaml::parseFile("/home/kurt/sphinx-gen/code/config.yml");
 
+$parish_settings = array_slice($yaml['parish'], 0, 3);
 
-$ceremony_section = 
-foreach ($ceremony_section as $record) {
-      
-    print_r($record);
-          
-    $current_md = str_replace($md_find_array, $record, $current_md);
-          
-    //$current_citation = str_replace(,, $current_citation);
-          
-    echo "\n================\n";
+$kbr = new KirchenbuecherResults($yaml);
+
+foreach ($kbr as $ceremony_section) {
+
+     $section_settings = $ceremony_section->getSectionSettings);
+
+     foreach ($ceremony_section as $record) {
+            
+          print_r($record);
+                
+          $current_md = str_replace($md_find_array, $record, $current_md);
+                
+          //$current_citation = str_replace(,, $current_citation);
+                
+          echo "\n================\n";
+     }
 }    
-
-
-
-
-
+      
+      
+      
+      
+      

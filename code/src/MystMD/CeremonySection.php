@@ -17,12 +17,6 @@ class CeremonySection implements \IteratorAggregate {
 	  }
 	} 
 
-        /* Return these three key-value pairs are come berofe the list of
-	    record; for example, for the marraiges:
-            volume: band1b
-            record-symbol: M
-            event: Marriage
-	 */ 
 	public function getSectionSettings() : array
 	{
            return array_slice($this->section, 0, 3);
