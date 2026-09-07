@@ -8,13 +8,12 @@ require __DIR__ . '/vendor/autoload.php';
 
 $folder = "/home/kurt/sphinx-gen/code";
 
-$kbr = new KirchenbuecherResults("/home/kurt/sphinx-gen/code/config.yml");
+$kbr = new KirchenbuecherResults(Config::getConfig()->yaml_file);
 
 $citation_string = str_replace(array("{path}", "{parish-name}"),
 	array($kbr['parish']['volumes']['path'],
               $kbr['parish']['parish-name']),
 	Config::getConfig()->citation_template);
-        //file_get_contents($folder . "/" . "citation.txt"));
 
 $make_array = function (CeremonySection $ceremony_section, KirchenbuecherResults $kbr) : array
 {

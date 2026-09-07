@@ -10,6 +10,7 @@ class Config {
 
   public readonly string $citation_template;
   public readonly string $markdown_template;
+  public readonly string $yaml_file;
 
   static public function getConfig() 
   {
@@ -28,5 +29,7 @@ class Config {
      $this->citation_template = file_get_contents(self::$folder . "/" . "citation_template.txt");
         
      $this->markdown_template = file_get_contents(self::$folder . "/". "markdown_template.txt");
+
+     $this->yaml_file = "/home/kurt/sphinx-gen/code/config.yml";
   }
 }
