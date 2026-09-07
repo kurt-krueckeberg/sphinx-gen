@@ -6,6 +6,9 @@ class MarkdownCreator {
 
    private \SpilFileObject $file;	
    private string $md_template;
+   
+   private string $prefix;
+   private string $symbol;
 
    private function create_filename(string $prefix, string $event_letter, string $year) : string
    {
@@ -39,19 +42,24 @@ class MarkdownCreator {
 
    public function __invoke(array $record)
    {
-       $current_md = $this->md_template;
-
-       $current_md = $this->subst_variables($current_md, $record);
-
-       $this->file->fwrite($current_md);               
-   }
-
-   public function __construct(string $md_template, string $prefix, string $symbol, string $year)
-   {
-      $this->md_template = $md_tempalte;
-
-      $filename =   $this->create_filename($prefix, $symbol, $year);
+       $markdown = $this->subst_variables($this->md_template, $record);
+       
+       $year = substr ($record['edate'], strrchr((string) $record['edate'], ' ') + 1);
+       
+       $filename =   $this->create_filename($this->prefix, $this->symbol, $year);
 
       $this->file = new \SplFileObject($filename, "w");
+
+       $this->file->fwrite($markdown);               
+   }
+
+   public function __construct(string $md_template, string $prefix, string $symbol)           
+   {
+      $this->md_template = $md_tempalte;
+      
+      $this->prefix = $prefix;
+      
+      $this->symbol = $symbol;
+
    }
 }

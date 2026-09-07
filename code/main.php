@@ -17,8 +17,6 @@ $citation_string = str_replace(array("{path}", "{parish-name}"),
         
 $markdown_template = file_get_contents($folder . "/markdown_template.txt");
 
-$markdown_writer = new MarkdownCreator($markdown_template);
-
 $make_array = function (CeremonySection $ceremony_section, KirchenbuecherResults $kbr) : array
 {
     $result = array();
@@ -41,7 +39,10 @@ foreach ($kbr as $ceremony_section) {
 	     $citation_string);
      
      $markdown_template = $md_string . $citation_string;
-      
+     
+     $markdown_writer = new MarkdownCreator($markdown_template, $bkr['prefix'], $ceremony['record-symbol'], );
+
+     
      foreach ($ceremony_section as $record) {
          
           $markdown = $markdown_template;
