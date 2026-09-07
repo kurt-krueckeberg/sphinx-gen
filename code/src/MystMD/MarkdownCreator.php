@@ -21,7 +21,7 @@ class MarkdownCreator {
            if (file_exists($filename))
     	           continue;
     
-           return $filestem;
+           return $filename;
         }	       
    }
 
@@ -45,17 +45,17 @@ class MarkdownCreator {
        $markdown = $this->subst_variables($this->md_template, $record);
        
        $year = substr ($record['edate'], strrchr((string) $record['edate'], ' ') + 1);
-       
-       $filename =   $this->create_filename($this->prefix, $this->symbol, $year);
+              
+       $filename = $this->create_filename($this->prefix, $this->symbol, $year);
+            
+       $file = new \SplFileObject($filename, "w");
 
-      $this->file = new \SplFileObject($filename, "w");
-
-       $this->file->fwrite($markdown);               
+       $file->fwrite($markdown);               
    }
 
-   public function __construct(string $md_template, string $prefix, string $symbol)           
+   public function __construct(string $markdown_template, string $prefix, string $symbol)           
    {
-      $this->md_template = $md_tempalte;
+      $this->md_template = $markdown_template;
       
       $this->prefix = $prefix;
       
