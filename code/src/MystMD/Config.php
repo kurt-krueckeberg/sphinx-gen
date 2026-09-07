@@ -8,7 +8,7 @@ class Config {
   private static bool $initialized = false;
   private static $folder = "/home/kurt/sphinx-gen/code"; 
 
-  public readonly array $config;
+  public readonly \ArrayObject $config;
 
   static public function getConfig() : Config 
   {
@@ -24,10 +24,12 @@ class Config {
 
   private function __construct()
   {
-     $this->config['citation_template'] = file_get_contents(self::$folder . "/" . "citation_template.txt");
+     $c['citation_template'] = file_get_contents(self::$folder . "/" . "citation_template.txt");
         
-     $this->config['markdown_template'] = file_get_contents(self::$folder . "/". "markdown_template.txt");
+     $c['markdown_template'] = file_get_contents(self::$folder . "/". "markdown_template.txt");
 
-     $this->config['yaml_file'] = "/home/kurt/sphinx-gen/code/config.yml";
+     $c['yaml_file'] = "/home/kurt/sphinx-gen/code/config.yml";
+     
+     $this->config = new \ArrayObject($c);
   }
 }
