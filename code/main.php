@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 use Symfony\Component\Yaml\Yaml;
-use MystMD\{KirchenBuecherResults, CeremonySection, MarkdownCreator, TemplateBuilder};       
+use MystMD\{KirchenBuecherResults, Config, CeremonySection, MarkdownCreator, TemplateBuilder};       
 
 require __DIR__ . '/vendor/autoload.php';
 
@@ -13,7 +13,8 @@ $kbr = new KirchenbuecherResults("/home/kurt/sphinx-gen/code/config.yml");
 $citation_string = str_replace(array("{path}", "{parish-name}"),
 	array($kbr['parish']['volumes']['path'],
               $kbr['parish']['parish-name']),
-	file_get_contents($folder . "/" . "citation.txt"));
+	Config::getConfig()->citation_template);
+        //file_get_contents($folder . "/" . "citation.txt"));
 
 $make_array = function (CeremonySection $ceremony_section, KirchenbuecherResults $kbr) : array
 {
@@ -30,7 +31,7 @@ $make_array = function (CeremonySection $ceremony_section, KirchenbuecherResults
     return $result;
 };
         
-$markdown_string = file_get_contents($folder . "/markdown_template.txt");
+$markdown_string = Config::getConfig()->markdown_template;
 
 foreach ($kbr as $ceremony_section) {
 
