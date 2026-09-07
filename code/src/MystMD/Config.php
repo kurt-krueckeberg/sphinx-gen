@@ -13,6 +13,9 @@ class config_ {
         $this->citation_string = file_get_contents($folder . "/citation.md");
         
         $this->md_string = file_get_contents($folder . "/template.md");
+	
+        $this->paths = array('output-images' => "???",
+			'input-images' => "???",);	
     }
 }
 
