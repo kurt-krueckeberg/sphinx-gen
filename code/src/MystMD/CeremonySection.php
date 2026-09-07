@@ -4,7 +4,7 @@ namespace MystMD;
 
 class CeremonySection implements \IteratorAggregate { 
 
-	private array $section;
+	public readonly array $section;
 
 	/* 
 	 * returns each successive record in the 'records:' list.
@@ -16,11 +16,6 @@ class CeremonySection implements \IteratorAggregate {
               yield $record;
 	  }
 	} 
-
-	public function getSectionSettings() : array
-	{
-           return array_slice($this->section, 0, 3);
-	}
 
 	public function getIterator() : \Traversable 
 	{
