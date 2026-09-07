@@ -16,7 +16,7 @@ class MarkdownCreator {
     
        for($i = 0; 1; ++$i) {
     
-           $filename =  $filestem . (char) ('a' + $i)  . "md";
+           $filename =  $filestem . chr(ord('a') + $i)  . ".md";
     
            /*
             * TODO: Must check if file exits in ~/gens/petzen!!!
@@ -51,26 +51,23 @@ class MarkdownCreator {
 
    public function __invoke(array $record)
    {
-       $year = strrchr($record['edate'], ' ') + 1;
+       $year = substr(strrchr($record['edate'], ' '), 1);
+       
+       $this->filename = $this->create_filename($this->prefix, $this->symbol, $year);
        
        try {
-         /* BUGS
-          * We have to these add key-value pairs to supply value for %file-name% and %year%:
-          * 
-          */
            $record['year'] = $year;
-           $record['file-name'] = substr($this->filename, strpos())
+           
+           $record['file-name'] = substr($this->filename, 0, strpos($this->filename, "."));
            
            $markdown = $this->subst_variables($this->md_template, $record);
            
        } catch (\InvalidArgumentException $e) {
            
-           echo $e->getMessage();    
+           echo $e->getMessage();
+           throw $e;
        }
        
-         
-       $this->filename = $this->create_filename($this->prefix, $this->symbol, $year);
-            
        $file = new \SplFileObject($this->filename, "w");
 
        $file->fwrite($markdown);               
@@ -83,6 +80,5 @@ class MarkdownCreator {
       $this->prefix = $prefix;
       
       $this->symbol = $symbol;
-
    }
 }
