@@ -41,8 +41,8 @@ foreach ($kbr as $ceremony_section) {
                     $citation_string);
 
      $markdown_template = $markdown_string . $citation_string; 
-     
-     $markdown_writer = new MarkdownCreator($markdown_template, $kbr['prefix'], $ceremony_section['section']['record-symbol'], );
+          
+     $markdown_writer = new MarkdownCreator($markdown_template, $kbr['parish']['prefix'], $ceremony_section['record-symbol']);
      
      foreach ($ceremony_section as $record) {
          

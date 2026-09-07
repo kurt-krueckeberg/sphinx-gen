@@ -1,4 +1,4 @@
-# %year% %name% @event@
+# %year% %name% %event%
 
 ## Record
 

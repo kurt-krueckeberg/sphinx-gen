@@ -34,11 +34,14 @@ class MarkdownCreator {
    private function subst_variables(string $template, array $key_value_pairs)
    {
        return preg_replace_callback(
-           '/\{(\w+)\}/',
+           '/%(\w+)%/',
            function ($matches) use ($key_value_pairs) {
+               
                $key = $matches[1];
+               
                if (!array_key_exists($key, $key_value_pairs)) {
-                   throw new InvalidArgumentException("Unknown placeholder: {$key}");
+                   
+                   throw new \InvalidArgumentException("Unknown placeholder: {$key} in this string:\n $template\n");
                }
                return $key_value_pairs[$key];
            },
@@ -48,13 +51,27 @@ class MarkdownCreator {
 
    public function __invoke(array $record)
    {
-       $markdown = $this->subst_variables($this->md_template, $record);
+       $year = strrchr($record['edate'], ' ') + 1;
        
-       $year = substr ($record['edate'], strrchr((string) $record['edate'], ' ') + 1);
-              
-       $filename = $this->create_filename($this->prefix, $this->symbol, $year);
+       try {
+         /* BUGS
+          * We have to these add key-value pairs to supply value for %file-name% and %year%:
+          * 
+          */
+           $record['year'] = $year;
+           $record['file-name'] = substr($this->filename, strpos())
+           
+           $markdown = $this->subst_variables($this->md_template, $record);
+           
+       } catch (\InvalidArgumentException $e) {
+           
+           echo $e->getMessage();    
+       }
+       
+         
+       $this->filename = $this->create_filename($this->prefix, $this->symbol, $year);
             
-       $file = new \SplFileObject($filename, "w");
+       $file = new \SplFileObject($this->filename, "w");
 
        $file->fwrite($markdown);               
    }

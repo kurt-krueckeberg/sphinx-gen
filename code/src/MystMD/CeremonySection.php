@@ -19,7 +19,7 @@ class CeremonySection implements \IteratorAggregate, \ArrayAccess {
 
 	public function getIterator() : \Traversable 
 	{
-	   return ($this->generator)();	
+	   return $this->generator();	
         }
 
 	public function __construct(array $section)
@@ -55,7 +55,7 @@ class CeremonySection implements \IteratorAggregate, \ArrayAccess {
         #[\Override]
         public function offsetGet($offset): mixed 
 	{
-          return isset($this->section[$offset]) ? $this->yaml[$offset] : null;
+          return isset($this->section[$offset]) ? $this->section[$offset] : null;
         }
 }
 
