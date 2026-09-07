@@ -8,12 +8,12 @@ require __DIR__ . '/vendor/autoload.php';
 
 $folder = "/home/kurt/sphinx-gen/code";
 
-$kbr = new KirchenbuecherResults(Config::getConfig()->yaml_file);
+$kbr = new KirchenbuecherResults(Config::getConfig()->config['yaml_file']);
 
 $citation_string = str_replace(array("{path}", "{parish-name}"),
 	array($kbr['parish']['volumes']['path'],
               $kbr['parish']['parish-name']),
-	Config::getConfig()->citation_template);
+	Config::getConfig()->config['citation_template']);
 
 function make_array(CeremonySection $ceremony_section, KirchenbuecherResults $kbr) : array
 {
@@ -30,7 +30,7 @@ function make_array(CeremonySection $ceremony_section, KirchenbuecherResults $kb
     return $result;
 };
         
-$markdown_string = Config::getConfig()->markdown_template;
+$markdown_string = Config::getConfig()->config['markdown_template'];
 
 foreach ($kbr as $ceremony_section) {
 

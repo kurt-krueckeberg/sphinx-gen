@@ -8,11 +8,9 @@ class Config {
   private static bool $initialized = false;
   private static $folder = "/home/kurt/sphinx-gen/code"; 
 
-  public readonly string $citation_template;
-  public readonly string $markdown_template;
-  public readonly string $yaml_file;
+  public readonly array $config;
 
-  static public function getConfig() 
+  static public function getConfig() : Config 
   {
       if (self::$initialized === false) {
        
@@ -26,10 +24,10 @@ class Config {
 
   private function __construct()
   {
-     $this->citation_template = file_get_contents(self::$folder . "/" . "citation_template.txt");
+     $this->config['citation_template'] = file_get_contents(self::$folder . "/" . "citation_template.txt");
         
-     $this->markdown_template = file_get_contents(self::$folder . "/". "markdown_template.txt");
+     $this->config['markdown_template'] = file_get_contents(self::$folder . "/". "markdown_template.txt");
 
-     $this->yaml_file = "/home/kurt/sphinx-gen/code/config.yml";
+     $this->config['yaml_file'] = "/home/kurt/sphinx-gen/code/config.yml";
   }
 }
