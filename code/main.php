@@ -15,7 +15,7 @@ $citation_string = str_replace(array("{path}", "{parish-name}"),
               $kbr['parish']['parish-name']),
 	Config::getConfig()->citation_template);
 
-$make_array = function (CeremonySection $ceremony_section, KirchenbuecherResults $kbr) : array
+function make_array(CeremonySection $ceremony_section, KirchenbuecherResults $kbr) : array
 {
     $result = array();
 
@@ -35,7 +35,7 @@ $markdown_string = Config::getConfig()->markdown_template;
 foreach ($kbr as $ceremony_section) {
 
      $citation_string = str_replace(array('%volume-name%', '%total-images%'),
-                    $make_array($ceremony_section, $kbr),
+                    make_array($ceremony_section, $kbr),
                     $citation_string);
 
      $markdown_template = $markdown_string . $citation_string; 
