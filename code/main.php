@@ -10,7 +10,7 @@ $folder = "/home/kurt/sphinx-gen/code";
 
 $config = Config::getConfig()->settings;
 
-$kbr = new KirchenbuecherResults($config['result_file']);
+$kbr = new KirchenbuecherResults($config['results_file']);
 
 $citation_string = str_replace(array("{path}", "{parish-name}"),
 	array($kbr['parish']['volumes']['path'],
@@ -32,7 +32,7 @@ function make_array(CeremonySection $ceremony_section, KirchenbuecherResults $kb
     return $result;
 };
         
-$markdown_string = file_get_contenst($config['markdown_template']);
+$markdown_string = file_get_contents($config['markdown_template']);
 
 foreach ($kbr as $ceremony_section) {
 
@@ -42,7 +42,7 @@ foreach ($kbr as $ceremony_section) {
 
      $markdown_template = $markdown_string . $citation_string; 
      
-     $markdown_writer = new MarkdownCreator($markdown_template, $bkr['prefix'], $ceremony['record-symbol'], );
+     $markdown_writer = new MarkdownCreator($markdown_template, $kdr['prefix'], $ceremony['record-symbol'], );
      
      foreach ($ceremony_section as $record) {
          
