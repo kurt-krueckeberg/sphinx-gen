@@ -46,8 +46,7 @@ foreach ($kbr as $ceremony_section) {
          
           $markdown = $markdown_template;
           
-	  $markdown_writer($record,
-		           array_slice($ceremony_section->section, 0, 3));
+	  $markdown_writer($record, array_slice($ceremony_section->section, 0, 3));
      }
 }    
       
