@@ -21,7 +21,8 @@ class KirchenBuecherResults implements \IteratorAggregate, \ArrayAccess {
 	{
 	   return array_slice($this->yaml['parish'], 0, 3);	
 	}
-
+        
+        #[\Override]
 	public function getIterator() : \Traversable 
 	{
 	   return ($this->generator)();	
@@ -31,7 +32,8 @@ class KirchenBuecherResults implements \IteratorAggregate, \ArrayAccess {
 	{
            $this->yaml = Yaml::parseFile($file);
 	}
-	
+        
+	#[\Override]
 	public function offsetSet($offset, $value): void
        	{
            if (is_null($offset)) {
@@ -43,20 +45,22 @@ class KirchenBuecherResults implements \IteratorAggregate, \ArrayAccess {
               $this->yaml[$offset] = $value;
            }
         }
-
+        
+        #[\Override]
 	public function offsetExists($offset): bool
        	{
            return isset($this->yaml[$offset]);
         }
 
+        #[\Override]
 	public function offsetUnset($offset): void 
 	{
           unset($this->yaml[$offset]);
         }
-
+        
+        #[\Override]
         public function offsetGet($offset): mixed 
 	{
           return isset($this->yaml[$offset]) ? $this->yaml[$offset] : null;
         }
 }
-

@@ -10,7 +10,7 @@ class MarkdownCreator {
    private string $prefix;
    private string $symbol;
 
-   private function create_filename(string $prefix, string $event_letter, string $year) : string
+   private function create_filename(string $prefix, string $symbol, string $year) : string
    {
        $filestem = $prefix . '-' . $symbol . '-' . $year;
     
@@ -22,8 +22,10 @@ class MarkdownCreator {
             * TODO: Must check if file exits in ~/gens/petzen!!!
             */
                
-           if (file_exists($filename))
+           if (file_exists($filename)) {
+               
     	           continue;
+           }
     
            return $filename;
         }	       

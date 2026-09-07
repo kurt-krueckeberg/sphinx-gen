@@ -2,7 +2,7 @@
 declare(strict_types=1);
 namespace MystMD;
 
-class CeremonySection implements \IteratorAggregate { 
+class CeremonySection implements \IteratorAggregate, \ArrayAccess { 
 
 	public readonly array $section;
 
@@ -11,7 +11,7 @@ class CeremonySection implements \IteratorAggregate {
 	 */ 
 	private function generator() 
 	{
-   	  foreach ($section['records'] as $record) {
+   	  foreach ($this->section['records'] as $record) {
 
               yield $record;
 	  }
@@ -26,5 +26,36 @@ class CeremonySection implements \IteratorAggregate {
 	{
            $this->section = $section; 
 	}
+         
+	#[\Override]
+	public function offsetSet($offset, $value): void
+       	{
+           if (is_null($offset)) {
+
+	      $this->section[] = $value;
+
+	   } else {
+
+              $this->section[$offset] = $value;
+           }
+        }
+        
+        #[\Override]
+	public function offsetExists($offset): bool
+       	{
+           return isset($this->section[$offset]);
+        }
+
+        #[\Override]
+	public function offsetUnset($offset): void 
+	{
+          unset($this->section[$offset]);
+        }
+        
+        #[\Override]
+        public function offsetGet($offset): mixed 
+	{
+          return isset($this->section[$offset]) ? $this->yaml[$offset] : null;
+        }
 }
 
