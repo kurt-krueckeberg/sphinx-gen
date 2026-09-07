@@ -18,6 +18,10 @@ class MarkdownCreator {
     
            $filename =  $filestem . (char) ('a' + $i)  . "md";
     
+           /*
+            * TODO: Must check if file exits in ~/gens/petzen!!!
+            */
+               
            if (file_exists($filename))
     	           continue;
     
