@@ -18,7 +18,7 @@ class config_ {
 			'input-images' => "???",);	
     }
 }
-
+// TODO: Create Singleon without a nested class.
 class Config {
     
   private static config_ $c;  
