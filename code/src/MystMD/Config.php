@@ -1,58 +1,31 @@
 <?php
 declare(strict_types=1);
-namespace MystMD;
 
-class config_ {
-    
-    public readonly string $citaion_string;
-    
-    public readonly string $md_string;
-    
-    public function __construct(string $folder)
-    {
-        $this->citation_string = file_get_contents($folder . "/citation.md");
-        
-        $this->md_string = file_get_contents($folder . "/template.md");
-	
-        $this->paths = array('output-images' => "???",
-			'input-images' => "???",);	
-    }
-}
-// TODO: Create Singleon without a nested class.
 class Config {
     
-  private static config_ $c;  
+  private static Config $c;  
   private static bool $initialized = false;
+  private static $folder = "/home/kurt/sphinx-gen/code"; 
 
-   static private function get_config() : config_
-   {   
-      return self::$c;
-   }
+  public readonly string $citation_template;
+  public readonly string $markdown_template;
 
-   static private function create_config(string $folder) : config_
-   {
+  static public function getConfig() 
+  {
       if (self::$initialized === false) {
        
-          self::$c = new config_($folder);
+          self::$c = new Config();
      
           self::$initialized = true;
       }
     
       return self::$c;
    }
-  public function __construct(string $folder)
-  {
-     self::create_config($folder);	  
-  }
 
-  public function get_citation_string() : string
+  private function __construct()
   {
-      return self::get_config()->citation_string;	  
+     $this->citation_template = file_get_contents(self::$folder . "/" . "citation_template.txt");
+        
+     $this->markdown_template = file_get_contents(self::$folder . "/". "markdown_template.txt");
   }
-
-  public function get_markdown_string() : string
-  {
-      return self::get_config()->md_string;	  
-  }
-
 }
