@@ -13,7 +13,7 @@ class KirchenBuecherResults implements \IteratorAggregate, \ArrayAccess {
 	{
             foreach ($this->section_keys as $section_key) {
       
-               yield new CeremonySection($this->yaml[$section_key]); 
+               yield new CeremonySection($this->yaml['parish'][$section_key]); 
  	    }
 	}
 
@@ -25,7 +25,7 @@ class KirchenBuecherResults implements \IteratorAggregate, \ArrayAccess {
         #[\Override]
 	public function getIterator() : \Traversable 
 	{
-	   return ($this->generator)();	
+	   return $this->generator();	
         }
 
 	public function __construct(string $file)
