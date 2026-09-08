@@ -7,11 +7,11 @@ parish:
       Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe
     band1a:
       name: "Verzeichnis der Getauften und Konfirmierten 1641-1784"
-      total-images: 312
+      total_images: 312
   
     band1b:
       name: "Verzeichnis der Getrauten und Gestorbenen 1641-1784"
-      total-images: 239
+      total_images: 239
   output-folder: /home/kurt/sphinx-gen/petzen    
   Marriage:
     volume: band1b
@@ -20,7 +20,7 @@ parish:
     records:
     - name: "[uncertain name] Weilandt"
       residence:
-      image-no: 15
+      image_no: 15
       ifile: petzen-band1b-img15-weiland.png 
       edate: 12 November 1675
       vdate: 27 August 2026
@@ -30,7 +30,7 @@ parish:
     
     - name: Hans Hinrich Weilandt
       residence: Petzen
-      image-no: 26
+      image_no: 26
       ifile: petzen-band1b-img26-weiland.png
       edate: 2 March 1702
       vdate: 27 August 2026
@@ -40,7 +40,7 @@ parish:
     
     - name: Johan Tonnis Weyland
       residence: Peezen
-      image-no: 29
+      image_no: 29
       ifile: petzen-band1b-img29-weiland.png 
       edate: 28 October 1708 
       vdate: 27 August 2026
@@ -50,7 +50,7 @@ parish:
     
     - name: Hans Weÿlandt
       residence: Evesen
-      image-no: 30
+      image_no: 30
       ifile: petzen-band1b-img30-weiland.png 
       edate: 19 October 1712
       vdate: 27 August 2026
@@ -60,7 +60,7 @@ parish:
     
     - name: Hans Weÿland
       residence: Evesen
-      image-no: 32
+      image_no: 32
       ifile: petzen-band1b-img32-weiland.png
       edate: 28 August
       vdate: 27 August 2026
@@ -70,7 +70,7 @@ parish:
     
     - name: Herman Henrich Weÿland
       residence: Evesen
-      image-no: 33
+      image_no: 33
       ifile: petzen-band1b-img33-weiland.png
       edate: 5 September 1720 
       vdate: 27 August 2026
@@ -80,7 +80,7 @@ parish:
     
     - name: Hanß Henrich Weÿland
       residence: Evesen
-      image-no: 35
+      image_no: 35
       ifile: petzen-band1b-img35-weiland.png
       edate: 14 November 1723
       vdate: 27 August 2026
@@ -90,7 +90,7 @@ parish:
     
     - name: Herman Henrich Weÿland
       residence: Evesen
-      image-no: 37 
+      image_no: 37 
       ifile: petzen-band1b-img37-weiland.png
       edate: 24 November 1728
       vdate: 27 August 2026
@@ -100,7 +100,7 @@ parish:
     
     - name: Jobst Henirch Weÿland
       residence: Berenbush
-      image-no: 38 
+      image_no: 38 
       ifile: petzen-band1b-img38-weiland2.png
       edate: 13 September 1731
       vdate: 26 August 2026
@@ -110,7 +110,7 @@ parish:
     
     - name: Johann Friderich Weiland
       residence: Berenbush
-      image-no: 40
+      image_no: 40
       ifile: petzen-band1b-img40-weiland2.png
       edate: 7 October 1734
       vdate: 27 August 2026
@@ -120,7 +120,7 @@ parish:
     
     - name: Johann Friderich Wilhelm Weiland
       residence: Nammen
-      image-no: 41
+      image_no: 41
       ifile: petzen-band1b-img41-weiland
       edate: 24 November 1737
       vdate: 27 August 2026 
@@ -130,7 +130,7 @@ parish:
     
     - name: Henrich Weiland
       residence: Behrenbusch
-      image-no: 43
+      image_no: 43
       ifile: petzen-band1b-img43-weiland.png
       edate: 14 February 1745
       vdate: 27 August 2026
@@ -140,7 +140,7 @@ parish:
     
     - name: Herman Henrich Weiland
       residence: Evesen
-      image-no: 45
+      image_no: 45
       ifile: petzen-band1b-img45-weiland.png
       edate: 3 November 1746
       vdate: 27 August 2026
@@ -150,7 +150,7 @@ parish:
     
     - name: Johann Henrich Weiland
       residence: Nammen
-      image-no: 46
+      image_no: 46
       ifile: petzen-band1b-img46-weiland1.png
       edate: 17 October 1748
       vdate: 27 August 2026
@@ -160,7 +160,7 @@ parish:
     
     - name: Jobst Henrich Weiland
       residence: Bernbusch
-      image-no: 48 
+      image_no: 48 
       ifile: petzen-band1b-img48-weiland2.png
       edate: 7 June 1753
       vdate: 27 August 2026
@@ -170,7 +170,7 @@ parish:
     
     - name: Heinrich Ludewig Weiland
       residence: Röcke
-      image-no: 56
+      image_no: 56
       ifile: petzen-band1b-img56-weiland.png
       edate: 7 February 1765
       vdate: 27 August 2026
@@ -185,7 +185,7 @@ parish:
     records:
     - name: Wölkken Weÿlandt 
       residence:
-      image-no: 73
+      image_no: 73
       ifile: petzen-band1b-img73-weiland.jpg
       edate: 24 January 1650
       vdate: 1 September 2026
@@ -195,7 +195,7 @@ parish:
   
     - name: 
       residence:
-      image-no: RESUME at 88 
+      image_no: RESUME at 88 
       ifile: 
       edate: 
       vdate: 
@@ -205,7 +205,7 @@ parish:
   
     - name: 
       residence:
-      image-no: 
+      image_no: 
       ifile: 
       edate: 
       vdate: 
@@ -215,7 +215,7 @@ parish:
   
     - name: 
       residence:
-      image-no: 
+      image_no: 
       ifile: 
       edate: 
       vdate: 
@@ -225,7 +225,7 @@ parish:
   
     - name: 
       residence:
-      image-no: 
+      image_no: 
       ifile: 
       edate: 
       vdate: 
@@ -235,7 +235,7 @@ parish:
   
     - name: 
       residence:
-      image-no: 
+      image_no: 
       ifile: 
       edate: 
       vdate: 
@@ -245,7 +245,7 @@ parish:
   
     - name: Wilandt's little daughter
       residence: Petzen
-      image-no: 96
+      image_no: 96
       ifile: petzen-band1b-img96-weiland-burial.png
       edate: 8 December 1676
       vdate: 28 August 2026 
@@ -255,7 +255,7 @@ parish:
   
     - name: not given
       residence:
-      image-no: 98
+      image_no: 98
       ifile:
       edate: 24 February 1678
       vdate: 28 August 2026
@@ -265,7 +265,7 @@ parish:
   
     - name: Son of Wolter Weilandt
       residence: Peeten
-      image-no: 99
+      image_no: 99
       ifile: petzen-band1b-img99-weiland.png
       edate: 18 June 1679
       vdate: 28 August 2026
@@ -275,7 +275,7 @@ parish:
   
     - name: "Elderly Weiland woman/wife"
       residence: Petzen
-      image-no: 104
+      image_no: 104
       ifile: petzen-band1b-img104-weiland.png
       edate: 25 March 1683
       vdate: 28 August 2026
@@ -285,7 +285,7 @@ parish:
   
     - name: "Wolter Weilandt’s little daughter"
       residence:
-      image-no: 113
+      image_no: 113
       ifile: petzen-band1b-img113-weiland.png
       edate: 17 February 1693
       vdate: 28 August 2026
@@ -295,7 +295,7 @@ parish:
   
     - name: Wolter Weilandt
       residence: Petzen
-      image-no: 117
+      image_no: 117
       ifile: petzen-band1b-img117-weiland.png
       edate: 5 July 1694
       vdate: 28 August 2026
@@ -305,7 +305,7 @@ parish:
   
     - name: 
       residence:
-      image-no: resume at 118
+      image_no: resume at 118
       ifile:
       edate:
       vdate:
@@ -319,7 +319,7 @@ parish:
     event: Confirmation
     records:
     - name: Hans Heinrich Weyland
-      image-no: 297
+      image_no: 297
       age: 13
       residence:
       vdate: 25 August 2026
@@ -327,7 +327,7 @@ parish:
       literal: Hans Heinrich Weland____13
     
     - name: Anna Elisabeth Weÿland
-      image-no: 298
+      image_no: 298
       age: 12
       residence: Evesen
       vdate: 25 August 2026
@@ -335,7 +335,7 @@ parish:
       literal: Anna Elisabeth Weÿlandts aus Evesen____12
     
     - name: Anna Elisabeth Vahlsing
-      image-no: 299
+      image_no: 299
       age: 12
       residence:
       vdate: 25 August 2026
@@ -343,7 +343,7 @@ parish:
       literal: Anna Elisabeth Vahlsings aus Evesen____12
     
     - name: Jobst Henrich Weÿland
-      image-no: 299
+      image_no: 299
       age: 14
       residence: Berenbusch
       vdate: 26 August 2026
@@ -351,7 +351,7 @@ parish:
       literal: Jobst Henrich Weÿland aus Berenbusch____14
     
     - name: Anna Maria Vahlsing
-      image-no: 299
+      image_no: 299
       age: 13
       residence: Evesen
       vdate: 26 August 2026
@@ -359,7 +359,7 @@ parish:
       literal: Anna Maria Vahlsing aus Evesen____13
     
     - name: Weiland TODO Grouping
-      image-no: 301
+      image_no: 301
       age: 
       residence: 
       vdate: 26 August 2026
@@ -367,7 +367,7 @@ parish:
       literal:
     
     - name: Weiland TODO Grouping
-      image-no: 301
+      image_no: 301
       age:
       residence: N = Nordholz?
       vdate: 26 August 2026
@@ -375,7 +375,7 @@ parish:
       literal: Weiland  N
     
     - name: Weiland Ev[esen]
-      image-no: 302
+      image_no: 302
       age: 
       residence: "Ev:"
       vdate: 26 August 2026
@@ -383,7 +383,7 @@ parish:
       literal: "Weiland Ev:"
     
     - name: Weiland 
-      image-no: 303
+      image_no: 303
       age: 
       residence: N.
       vdate: 26 August 2026
@@ -391,7 +391,7 @@ parish:
       literal: Weiland N.
     
     - name: Weiland
-      image-no: 303
+      image_no: 303
       age:
       residence: Behrebusch
       vdate: 26 August 2026
@@ -399,7 +399,7 @@ parish:
       literal: Weiland Behrebusch
     
     - name: Johann Heinrich Fahlsing
-      image-no: 303
+      image_no: 303
       age:
       residence: Evesen
       vdate: 26 August 2026
@@ -407,7 +407,7 @@ parish:
       literal: Johann Heinrich Fahlsing aus Evesem 
     
     - name: Anna Christina Weiland
-      image-no: 304
+      image_no: 304
       age: 
       residence: Evesen
       vdate: 26 August 2026
@@ -415,7 +415,7 @@ parish:
       literal: Anna Christina Weilands aus Evesen.
     
     - name: Hans Henrich Weiland 
-      image-no: 303
+      image_no: 303
       age:
       residence: Berenbusch
       vdate: 26 August 2026
@@ -423,7 +423,7 @@ parish:
       literal: Hans Henrich Weiland aus Berenbusch
     
     - name: Jobst Henrich Weiland
-      image-no: 305
+      image_no: 305
       age:
       residence: Evesen
       vdate: 26 August 2026
@@ -431,7 +431,7 @@ parish:
       literal: Jobst Henrich Weiland aus Evesen
     
     - name: Anna Ilse Margaretha Fahlsings
-      image-no: 307
+      image_no: 307
       age:
       residence:
       vdate: 26 August 2026
@@ -439,7 +439,7 @@ parish:
       literal: 12) Anna Ilse Margaretha Fahlsings 
     
     - name: Jobst Henrich Weiland
-      image-no: 307
+      image_no: 307
       age: 
       residence: Evesen
       vdate:  26 August 2026
@@ -447,7 +447,7 @@ parish:
       literal: Jobst Henrich Weiland aus Evesen 
     
     - name: Friederich Wilhelm Weiland
-      image-no: 308
+      image_no: 308
       age: 
       residence: Nordholz
       vdate: 26 August 2026
@@ -455,7 +455,7 @@ parish:
       literal: Friederich Wilhelm Weiland aus Nordholz
     
     - name: Hans Henrich Weiland
-      image-no: 309
+      image_no: 309
       age: 
       residence: Evesen
       vdate: 26 August 2026
@@ -463,7 +463,7 @@ parish:
       literal: Hans Henrich Weiland aus Evesen
     
     - name: Sophia Elisabeth Weilands 
-      image-no: 309
+      image_no: 309
       age: 
       residence: Nordholtz
       vdate: 26 August 2026
@@ -471,7 +471,7 @@ parish:
       literal:  Sophia Elisabeth Weilands aus Nordholtz  
     
     - name: Friederich Wilhelm Weiland (Hofmeiers) Evesen 
-      image-no: 309
+      image_no: 309
       age: 
       residence: Evesem
       vdate: 26 August 2026
@@ -479,7 +479,7 @@ parish:
       literal: Friederich Wilhelm Weiland (Hofmeiers) Evesen  
     
     - name: Anna Margaretha Weiland 
-      image-no: 310 
+      image_no: 310 
       age: 
       residence: Nordholtz
       vdate: 26 August 2026
@@ -487,7 +487,7 @@ parish:
       literal: Anna Margaretha Weilands aus Nordholtz
     
     - name: Carl Fried. Fahlsing
-      image-no: 
+      image_no: 
       age: 
       residence: Evesen 
       vdate: 26 August 2026
@@ -495,7 +495,7 @@ parish:
       literal: Carl Fried. Fahlsing aus Evesen 
     
     - name: Anna Philippina Fahlsings
-      image-no: 312
+      image_no: 312
       age: 
       residence: Evesen 
       vdate: 26 August 2026
@@ -503,7 +503,7 @@ parish:
       literal: Anna Philippina Fahlsings aus Evesen 
     
     - name: Anna Maria Weilandt
-      image-no: 312
+      image_no: 312
       age: 
       residence: Nordholtz
       vdate: 26 August 2026
@@ -511,7 +511,7 @@ parish:
       literal:  Anna Maria Weilandt aus Nordholtz 
     
     - name: Johann Heinrich Weiland
-      image-no: 313 
+      image_no: 313 
       age: 
       residence: Evesen
       vdate: 26 August 2026
@@ -519,7 +519,7 @@ parish:
       literal: Johann Heinrich Weiland aus Evesen 
     
     - name: Philippina Weiland
-      image-no: 313
+      image_no: 313
       age: 
       residence: Evesen
       vdate: 26 August 2026
@@ -527,7 +527,7 @@ parish:
       literal: Philippina Weilands aus Evesen
     
     - name: Sophia Elisabeth Weilands
-      image-no: 314 
+      image_no: 314 
       age:  
       residence: Evesen No. 21 
       vdate: 26 August 2026
@@ -535,7 +535,7 @@ parish:
       literal: Sophia Elisabeth Weilands aus Evesen No. 21 
     
     - name: Friederich Wilhelm Weiland
-      image-no: 315 
+      image_no: 315 
       age:  
       residence: Röcke 
       vdate: 26 August 2026
@@ -543,7 +543,7 @@ parish:
       literal: Friederich Wilhelm Weiland aus Röcke Einlieger 
     
     - name: Ilse Margaretha Weilands 
-      image-no: 315
+      image_no: 315
       age:  
       residence: Berenbusch
       vdate: 26 August
@@ -551,7 +551,7 @@ parish:
       literal: Friederich Wilhelm Weiland aus Berenbusch 
     
     - name: Heinrich Wilhelm Weiland
-      image-no: 316
+      image_no: 316
       age:  
       residence: Nordholz
       vdate: 26 August 2026
@@ -559,7 +559,7 @@ parish:
       literal: Heinrich Wilhelm Weiland Nordholz
     
     - name: Heinrich Ludewig Weiland
-      image-no: 316
+      image_no: 316
       age:  
       residence: Röcke
       vdate: 26 August 2026
@@ -567,7 +567,7 @@ parish:
       literal: Heinrich Ludewig Weiland Röcke 
     
     - name: Jobst Heinrich Weiland 
-      image-no: 317 
+      image_no: 317 
       age:  
       residence: Röcke
       vdate: 26 August 2026 
@@ -575,7 +575,7 @@ parish:
       literal: Jobst Heinrich Weiland aus Röcke 
     
     - name: Jost Heinrich Weiland 
-      image-no: 317
+      image_no: 317
       age:  
       residence: Berenbusch
       vdate: 26 August 2026 
@@ -583,7 +583,7 @@ parish:
       literal: Jobst Heinrich Weiland____Berembusch
     
     - name: Christina Weiland
-      image-no: 317 
+      image_no: 317 
       age:  
       residence: Evesen
       vdate: 26 August 2026
@@ -591,7 +591,7 @@ parish:
       literal: Christina Weilands____Evesen
     
     - name: Hans Heinrich Weiland  
-      image-no: 318
+      image_no: 318
       age:  
       residence: Berenbusch
       vdate: 26 August 2026
@@ -599,7 +599,7 @@ parish:
       literal: Hans Heinrich Weiland aus Berenbusch
     
     - name: Heinrich Ludowig Weiland 
-      image-no: 319
+      image_no: 319
       age:  
       residence: Peezen
       vdate: 26 August 2026
@@ -607,7 +607,7 @@ parish:
       literal: Heinrich Ludowig Weiland Peezen 
     
     - name: Anna Ilsabei Vahlsing
-      image-no: 320
+      image_no: 320
       age:  
       residence: Evesen
       vdate: 27 August 2026
@@ -615,7 +615,7 @@ parish:
       literal: Anna Ilsabei Vahlsing aus Evesen 
     
     - name: Johann Heinrich Weiland 
-      image-no: 321 
+      image_no: 321 
       age:  
       residence: Nordholtz Berenbusch 
       vdate: 27 August 2026
@@ -623,7 +623,7 @@ parish:
       literal: Johann Heinrich Weiland aus Nordholtz Berenbusch 
     
     - name: Anna Philippina Weiland 
-      image-no: 322
+      image_no: 322
       age:  
       residence: Evesen
       vdate: 27 August 2026
@@ -636,7 +636,7 @@ parish:
     record-symbol: B
     records:
     - name: Daughter of Hans Weiland
-      image-no: 10
+      image_no: 10
       edate: 13 August 1648 
       residence:
       ifile: petzen-band1a-img10-weiland.png 
@@ -652,7 +652,7 @@ parish:
         Godparents: Metta Sophia Crufelers; Anna N., a maidservant on the Bückeburg estate; Anna Maria, wife of Pastor Jacobi in Meinsen; N. Köpper from Achum.
   
     - name: Hans Weiland's Daughter
-      image-no: 12 
+      image_no: 12 
       edate: 11 April 1651
       residence:
       ifile: petzen-band1a-img12-weiland.png
@@ -662,7 +662,7 @@ parish:
       trans: "Hans Weiland's daughter Ilschen. Godparent: Ilsche, wife of Sanders, in Berenbusch. On 11 April."
    
     - name: Anna Catharine Eleonora Weiland 
-      image-no: 55 
+      image_no: 55 
       edate: 27 August 1676
       residence: Petzen
       ifile: petzen-band1a-img55-weiland.png  
@@ -677,7 +677,7 @@ parish:
         Halvekop’s sister and a girl from der [Reisen?] named Anna.  
     
     - name: Anna Catharine Eleonora Weiland 
-      image-no: 55 
+      image_no: 55 
       edate: 27 August 1676
       residence: Petzen
       ifile: petzen-band1a-img55-weiland.png  
@@ -692,7 +692,7 @@ parish:
         Halvekop’s sister and a girl from der [Reisen?] named Anna.  
   
     - name: Anna Margaretha Weiland
-      image-no: 56
+      image_no: 56
       edate: 20 January 1678
       residence: Petzen
       ifile: 
@@ -708,7 +708,7 @@ parish:
         Daniel Vogt’s wife, and the wife of Rödemeister in Nordholtz.
      
     - name: Cort Hinrig Weilandt 
-      image-no: 58
+      image_no: 58
       edate: 13 February 1679
       residence: Petzen
       ifile: petzen-band1a-img58-weiland.png
@@ -723,7 +723,7 @@ parish:
         [?] Aldag’s eldest son, and the charcoal master at/on the [Hökersau?].
 
     - name: Ilse Margaretha Weÿlandt
-      image-no: 141
+      image_no: 141
       edate: 8 Maz 1729
       residence: Nammen
       ifile: petzen-band1a-img141-weiland.png 

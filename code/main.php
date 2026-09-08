@@ -27,7 +27,7 @@ function make_array(CeremonySection $ceremony_section, KirchenbuecherResults $kb
     
     $result[] = $volumes[$section_settings['volume']]['name'];
     
-    $result[] = $volumes[$section_settings['volume']]['total-images'];
+    $result[] = $volumes[$section_settings['volume']]['total_images'];
 
     return $result;
 };
@@ -36,7 +36,7 @@ $markdown_string = file_get_contents($config['markdown_template']);
 
 foreach ($kbr as $ceremony => $ceremony_section) {
 
-     $citation_string = str_replace(array('%volume-name%', '%total-images%'),
+     $citation_string = str_replace(array('%volume_name%', '%total_images%'),
                     make_array($ceremony_section, $kbr),
                     $citation_string);
 

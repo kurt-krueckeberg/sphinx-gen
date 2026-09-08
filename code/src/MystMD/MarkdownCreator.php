@@ -19,7 +19,7 @@ class MarkdownCreator {
     
        for($i = 0; 1; ++$i) {
     
-           $filename =  $filestem . chr(ord('a') + $i)  . ".md";
+           $filename =  $this->folder . "/" . $filestem . chr(ord('a') + $i)  . ".md";
     
            if (file_exists($this->folder . "/" . $filename)) {
                
@@ -30,8 +30,10 @@ class MarkdownCreator {
         }	       
    }
 
-   private function subst_variables(string $template, array $key_value_pairs)
+   private function subst_variables(string $template, array $key_value_pairs) : string
    {
+      print_r($key_value_pairs);
+      
       return preg_replace_callback(
            '/%(\w+)%/',
            function ($matches) use ($key_value_pairs, $template) {
@@ -42,6 +44,9 @@ class MarkdownCreator {
                    
                    throw new \InvalidArgumentException("Unknown placeholder: {$key} in this string:\n $template\n");
                }
+               
+               echo "preg_replace_callback() replaement for '$key' = ". $key_value_pairs[$key] . "\n";
+               
                return $key_value_pairs[$key];
            },
            $template
@@ -50,20 +55,29 @@ class MarkdownCreator {
 
    public function __invoke(array $record)
    {
-       $year = substr(strrchr($record['edate'], ' '), 1);
+       $year = (string) substr(strrchr($record['edate'], ' '), 1);
        
        $this->filename = $this->create_filename($this->prefix, $this->symbol, $year);
        
        try {
            $record['year'] = $year;
            
+           $record['image_no'] = (string) $record['image_no'];
+           
            $record['event'] = $this->event;
            
-           $record['file-name'] = substr($this->filename, 0, strpos($this->filename, "."));
+           // Since $this->filename has the fully qualified filename, we remove the pathinfo and extension.
+           $fname = strrchr($this->filename, "/");  
+                      
+           $record['file_name'] = substr($fname, 1, strpos($fname, ".") - 1);
            
-           $record['volume-name'] = $this->volume_name;
+           $record['volume_name'] = $this->volume_name;
+           
+           echo "\$this->md_tempate is {$this->md_template}\n==============\n";
            
            $markdown = $this->subst_variables($this->md_template, $record);
+           
+           echo "\$markdown after subst_variables = \n$markdown\n";
            
        } catch (\InvalidArgumentException $e) {
            
