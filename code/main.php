@@ -46,6 +46,8 @@ foreach ($kbr as $ceremony => $ceremony_section) {
          
           $markdown = $markdown_template;
           
-	  $markdown_writer($record, array_slice($ceremony_section->section, 0, 3));
+	  $filename = $markdown_writer($record, array_slice($ceremony_section->section, 0, 3));
+
+	  log_file($filename, "./file-log");:
      }
 }    

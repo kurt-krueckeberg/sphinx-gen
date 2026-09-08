@@ -53,7 +53,7 @@ class MarkdownCreator {
        );
    }
 
-   public function __invoke(array $record)
+   public function __invoke(array $record) : string
    {
        $year = (string) substr(strrchr($record['edate'], ' '), 1);
        
@@ -86,6 +86,8 @@ class MarkdownCreator {
        $file = new \SplFileObject($this->filename, "w");
 
        $file->fwrite($markdown);               
+
+       return $this->filename;
    }
    
    public function __construct(string $markdown_template, KirchenbuecherResults $kbr, string $ceremony, CeremonySection $ceremony_section)           
