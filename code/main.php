@@ -2,11 +2,9 @@
 declare(strict_types=1);
 
 use Symfony\Component\Yaml\Yaml;
-use MystMD\{KirchenBuecherResults, Config, CeremonySection, MarkdownCreator, TemplateBuilder};       
+use MystMD\{KirchenBuecherResults, Config, CeremonySection, MarkdownCreator};       
 
 require __DIR__ . '/vendor/autoload.php';
-
-$folder = "/home/kurt/sphinx-gen/code";
 
 $config = Config::getConfig()->settings;
 
@@ -30,7 +28,7 @@ function make_array(CeremonySection $ceremony_section, KirchenbuecherResults $kb
     $result[] = $volumes[$section_settings['volume']]['total_images'];
 
     return $result;
-};
+}
         
 $markdown_string = file_get_contents($config['markdown_template']);
 
