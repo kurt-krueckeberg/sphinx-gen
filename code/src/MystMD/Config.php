@@ -31,5 +31,7 @@ class Config {
      $c['results_file'] = self::$folder . "/" . "results.yml";
      
      $this->settings = new \ArrayObject($c);
+     
+     $this->settings['output-folder'] = "/home/kurt/sphinx-gen/petzen";
   }
 }

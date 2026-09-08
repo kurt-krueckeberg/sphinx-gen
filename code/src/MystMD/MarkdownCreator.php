@@ -9,6 +9,7 @@ class MarkdownCreator {
    
    private string $prefix;
    private string $symbol;
+   private string $folder;
 
    private function create_filename(string $prefix, string $symbol, string $year) : string
    {
@@ -18,11 +19,7 @@ class MarkdownCreator {
     
            $filename =  $filestem . chr(ord('a') + $i)  . ".md";
     
-           /*
-            * TODO: Must check if file exits in ~/gens/petzen!!!
-            */
-               
-           if (file_exists($filename)) {
+           if (file_exists($this->folder . "/" . $filename)) {
                
     	           continue;
            }
@@ -73,12 +70,14 @@ class MarkdownCreator {
        $file->fwrite($markdown);               
    }
 
-   public function __construct(string $markdown_template, string $prefix, string $symbol)           
+   public function __construct(string $markdown_template, string $prefix, string $symbol, string $folder)           
    {
       $this->md_template = $markdown_template;
       
       $this->prefix = $prefix;
       
       $this->symbol = $symbol;
+      
+      $this->folder = $folder;
    }
 }
