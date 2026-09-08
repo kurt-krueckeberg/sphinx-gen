@@ -21,11 +21,11 @@ class MarkdownCreator {
     
            $filename =  $this->folder . "/" . $filestem . chr(ord('a') + $i)  . ".md";
     
-           if (file_exists($this->folder . "/" . $filename)) {
+           if (file_exists($filename)) {
                
     	           continue;
            }
-    
+         
            return $filename;
         }	       
    }
