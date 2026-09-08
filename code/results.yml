@@ -322,6 +322,7 @@ parish:
       image_no: 297
       age: 13
       residence:
+      edate: 1707  
       vdate: 25 August 2026
       url: https://www.archion.de/p/da82da13db/
       literal: Hans Heinrich Weland____13
@@ -330,6 +331,7 @@ parish:
       image_no: 298
       age: 12
       residence: Evesen
+      edate: 1711
       vdate: 25 August 2026
       url: https://www.archion.de/p/e6b0295fb0/
       literal: Anna Elisabeth Weÿlandts aus Evesen____12
@@ -338,6 +340,7 @@ parish:
       image_no: 299
       age: 12
       residence:
+      edate: 1713   
       vdate: 25 August 2026
       url: https://www.archion.de/p/b7ee044bb4/
       literal: Anna Elisabeth Vahlsings aus Evesen____12
@@ -346,6 +349,7 @@ parish:
       image_no: 299
       age: 14
       residence: Berenbusch
+      edate: 1716
       vdate: 26 August 2026
       url: https://www.archion.de/p/cff80d274e/
       literal: Jobst Henrich Weÿland aus Berenbusch____14
@@ -354,22 +358,25 @@ parish:
       image_no: 299
       age: 13
       residence: Evesen
+      edate: 1716
       vdate: 26 August 2026
       url: https://www.archion.de/p/cff80d274e/
       literal: Anna Maria Vahlsing aus Evesen____13
     
-    - name: Weiland TODO Grouping
+    - name: Weiland
       image_no: 301
       age: 
       residence: 
+      edate: 1736
       vdate: 26 August 2026
       url: https://www.archion.de/p/cc8d263b27/
       literal:
     
-    - name: Weiland TODO Grouping
+    - name: Weiland
       image_no: 301
       age:
-      residence: N = Nordholz?
+      residence: "N[ordholtz]"
+      edate: 1737
       vdate: 26 August 2026
       url: https://www.archion.de/p/cc8d263b27/
       literal: Weiland  N
