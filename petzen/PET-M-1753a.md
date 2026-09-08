@@ -1,49 +1,29 @@
-# 1753 Henrich Ludewig Weiland of Evesen Marriage
-
-## Family and Other Facts
-
-```{list-table}
-:header-rows: 1
-
-* - Marriage Date
-  - Groom's Name
-  - Groom's Residence
-  - Bride's Name
-  - Bride's Residence
-* - 29 April 1755  
-  - Henrich Ludow[ig] Weiland
-  - Evesen
-  - Anna Sophia Christina Steinman 
-  - Nammen
-```
+# 1753 Jobst Henrich Weiland Marriage
 
 ## Record
 
-The April 29, 1753, marriage of Henrich Ludowig Weiland from Evesen to Anna Sophia Christina Steinman from
-Nammen is found on {ref}`image 48 <PET-M-1753a>` of the *Verzeichnis der Getrauten und Gestorbenen, 1641-1784*.
+The 7 June 1753 baptism of Jobst Henrich Weiland from Bernbusch is on {ref}`image %image-no% <PET-M-1753a>` of the Petzen *%volume-name%*.
 
-```{figure} images/petzen-band1b-img48-1.jpg
+```{figure} images/petzen-band1b-img48-weiland2.png
 :class: image-override
 ```
 
 ## Transliteration
 
 ```{div} doc-text
-d 29 April Henrich Ludow[ig] Weiland aus Evesen mit Anna Sophia Christina Steinman aus Nammen copuliert
+d 7tJunii Jobst Henrich Weiland aus Bernbusch mit Anna Ilsa Margarathe Mönchhofs von Jägers Stette zu Evesen copulirt
 ```
 
 ## Translation
 
 ```{div} doc-text
-On 29 April Henrich Ludowig Weiland from Evesen married Anna Sophia Christina Steinman from Nammen
+On 7 June, Jobst Henrich Weiland of Bernbusch was married to Anna Ilsa Margaretha Mönchhof, from Jäger’s place in Evesen.
 ```
 
 ## Citation
 
 (PET-M-1753a)=
 
-"Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* (<https://www.archion.de/p/cc769a286b/> : 27 June
-2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
-der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 48 of 239
+"Archion Protestant Kirchenbücher Portal", database 
+with images, *Archion* (<https://www.archion.de/p/bf5657d55f/> : 27 August 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getrauten und Gestorbenen 1641-1784, image 48 of 239

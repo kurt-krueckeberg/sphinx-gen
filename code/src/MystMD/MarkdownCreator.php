@@ -32,8 +32,6 @@ class MarkdownCreator {
 
    private function subst_variables(string $template, array $key_value_pairs) : string
    {
-      print_r($key_value_pairs);
-      
       return preg_replace_callback(
            '/%(\w+)%/',
            function ($matches) use ($key_value_pairs, $template) {
@@ -44,8 +42,6 @@ class MarkdownCreator {
                    
                    throw new \InvalidArgumentException("Unknown placeholder: {$key} in this string:\n $template\n");
                }
-               
-               echo "preg_replace_callback() replaement for '$key' = ". $key_value_pairs[$key] . "\n";
                
                return $key_value_pairs[$key];
            },

@@ -1,72 +1,29 @@
-# 1728 Henrich Vahlsing Marriage
-
-## Family Relationship
-
-```{list-table} Marriage Information
-:header-rows: 1
-
-* - 
-  - Name
-  - Marriage
-    Date
-  - Locality (at time
-    of marriage)
-* - **Groom**
-  - Henrich Vahlsing
-  - Oct. 21 1728
-  - Evesen
-* - **Bride**
-  - Anna Margaretha Bruns
-  - Oct. 21 1728
-  - Evesen
-```
-
-```{list-table} Facts
-:header-rows: 1
-
-* - Name
-  - Fact
-* - Henrich Vahlsing
-  - shepherd
-```
+# 1728 Herman Henrich Weÿland Marriage
 
 ## Record
 
-The October 21, 1728, marriage of Henrich Vahlsing to Anna Margaretha Bruns
-is on {ref}`image 37 <PET-M-1728a>`, the right-hand page, of the Petzen
-"Verzeichnis der Getrauten und Gestorbenen 1641-1784".
+The 24 November 1728 baptism of Herman Henrich Weÿland from Evesen is on {ref}`image %image-no% <PET-M-1728a>` of the Petzen *%volume-name%*.
 
-## Image of Marriage Record
-
-```{figure} images/petzen-band1b-img37.jpg
+```{figure} images/petzen-band1b-img37-weiland.png
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
-
-den 21 Octobr ist der Schäfter Henrich Vahlsing aus Evesen mit Anna
-Margaretha Bruns aus Evesen copuliert
+den 24t Novemb ist Herman Henrich Weÿland auß Evesen mit Anna Catharina Steinmeÿers auß [Frille/Grille]
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
-
-the 21st October the shepard Henirch Vahlsing from Evesen married Anna
-Margaretha Bruns from Evesen.
+On November 24, Herman Henrich Weÿland of Evesen was married to Anna Catharina Steinmeÿer of [Frille/Grille]
 ```
 
 ## Citation
 
 (PET-M-1728a)=
 
-"Archion Protestant Kirchenbücher Portal", database
-with images, Archion (<https://www.archion.de/p/861407e3ed/>: 15 July 2025),
-path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
-Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 37 of 239
-
+"Archion Protestant Kirchenbücher Portal", database 
+with images, *Archion* (<https://www.archion.de/p/7281702721/> : 27 August 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getrauten und Gestorbenen 1641-1784, image 37 of 239

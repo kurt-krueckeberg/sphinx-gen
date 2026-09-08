@@ -1,48 +1,29 @@
-# 1746 Herman Henrich Weiland of Evesen Marriage
-
-## Family and Other Facts
-
-```{list-table}
-:header-rows: 1
-
-* - Marriage Date
-  - Groom's Name
-  - Groom's Residence
-  - Bride's Name
-  - Bride's Residence
-* - 3 Nov. 1746  
-  - Herman Henrich Weiland
-  - Evesen
-  - Anna Sabine Breier
-  - Warber 
-```
+# 1746 Herman Henrich Weiland Marriage
 
 ## Record
 
-The 3 November 1746 marriage record is found on {ref}`image 45 <1746a>` of the
-"Verzeichnis der Getrauten und Gestorbenen 1641-1784". 
+The 3 November 1746 baptism of Herman Henrich Weiland from Evesen is on {ref}`image %image-no% <PET-M-1746a>` of the Petzen *%volume-name%*.
+
+```{figure} images/petzen-band1b-img45-weiland.png
+:class: image-override
+```
 
 ## Transliteration
 
 ```{div} doc-text
-d 3t Novembr ist Herman Henrich Weiland aus Evesen mit Anna Sabine Breiers
-aus Warber copuliret worden.
+d 3 Novembr ist Herman Henrich Weiland aus Evesen mit Anna Sabina Breiners aus Warber copuliret worden.
 ```
 
 ## Translation
 
 ```{div} doc-text
-On November 3, 1746, Herman Henrich Weiland has been married to Sabine
-Breier from Warber.
+On November 3, Herman Henrich Weiland of Evesen was married to Anna Sabina Breiner of Warber.
 ```
 
 ## Citation
 
-(1746a)=
+(PET-M-1746a)=
 
-"Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* (<https://www.archion.de/p/11ab8e2e84/> : 27 June
-2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
-der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 45 of 239
-
+"Archion Protestant Kirchenbücher Portal", database 
+with images, *Archion* (<https://www.archion.de/p/ec0fc42b7b/> : 27 August 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getrauten und Gestorbenen 1641-1784, image 45 of 239
