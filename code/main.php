@@ -32,7 +32,7 @@ function make_array(CeremonySection $ceremony_section, KirchenbuecherResults $kb
         
 $markdown_string = file_get_contents($config['markdown_template']);
 
-$logger = new FileLogger("./log");
+$logger = new FileLogger("./logs");
 
 foreach ($kbr as $ceremony => $ceremony_section) {
 
@@ -48,7 +48,7 @@ foreach ($kbr as $ceremony => $ceremony_section) {
          
           $markdown = $markdown_template;
           
-	  $filename = $markdown_writer($record, array_slice($ceremony_section->section, 0, 3));
+	  $filename = $markdown_writer($record);
 
 	  $logger->log($filename);
      }

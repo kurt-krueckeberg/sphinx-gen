@@ -8,7 +8,7 @@ class FileLogger {
     
     public function log(string $filename)
     {
-        $this->logger->fwrite("$filename created.\n");
+       $this->logger->fwrite("$filename created.\n");
     }
     
     public function __construct(string $log_folder)
