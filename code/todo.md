@@ -1,3 +1,3 @@
 # TODO
 
-Echo and log the files written.
+The results.yml has incomplete entries--why?
