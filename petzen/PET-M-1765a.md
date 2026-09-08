@@ -1,0 +1,60 @@
+# 1765 Heinrich Ludwig Weiland Marriage
+
+## Family Facts
+
+```{list-table}
+:header-rows: 1
+
+* - Marriage Date
+  - Groom's Name
+  - Groom's Residence
+  - Bride's Name
+  - Bride's Residence
+* - 7 February 1765
+  - Heinrich Ludwig Weiland
+  - lodger in Röcke
+  - Anna Christina Nerge
+  - Pezen 
+```
+
+```{list-table}
+:header-rows: 1
+
+* - Name
+  - Fact
+* - Heinrich Ludwig Weiland
+  - pig herder
+* - Heinrich Ludwig Weiland
+  - lodger who does not hold property
+```
+
+## Record
+
+```{figure} images/petzen-band1b-img56.png
+:class: image-override
+```
+
+## Transliteration
+
+```{div} doc-text
+d 7t Febr: Heinrich Ludwig Weiland Schweinhirtens und Einliegers in Röcke
+mit Anna Christina Nergen aus der dristen [?] in Pezen copuliert
+```
+
+## Translation
+
+```{div} doc-text
+On February 7{sup}`th` Heinrich Ludwig Weiland, pig herder and Einlieger
+(lodger) in Röcke married Anna Christina Nerge from the Dristen [?] in Petzen.
+```
+
+## Citation
+
+(citation-1763a)=
+
+"Archion Protestant Kirchenbücher Portal", database
+with images, *Archion* (<https://www.archion.de/p/4cc563d634/>: : 27 June
+2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 56 of 239
+
