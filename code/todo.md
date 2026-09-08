@@ -1,3 +1,3 @@
 # TODO
 
-Have Config simply read results.yml settings.
+Echo and log the files written.
