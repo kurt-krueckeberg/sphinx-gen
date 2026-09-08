@@ -63,9 +63,9 @@ class MarkdownCreator {
            $record['event'] = $this->event;
            
            // Since $this->filename has the fully qualified filename, we remove the pathinfo and extension.
-           $fname = strrchr($this->filename, "/");  
-                      
-           $record['file_name'] = substr($fname, 1, strpos($fname, ".") - 1);
+           $basename = basename($this->filename);
+           
+           $record['file_name'] = substr($basename , 0, strpos($basename, "."));
            
            $record['volume_name'] = $this->volume_name;
            
