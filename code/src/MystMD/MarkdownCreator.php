@@ -10,7 +10,7 @@ class MarkdownCreator {
    private string $prefix;
    private string $symbol;
    private string $folder;
-
+   
    private function create_filename(string $prefix, string $symbol, string $year) : string
    {
        $filestem = $prefix . '-' . $symbol . '-' . $year;
@@ -32,7 +32,7 @@ class MarkdownCreator {
    {
        return preg_replace_callback(
            '/%(\w+)%/',
-           function ($matches) use ($key_value_pairs) {
+           function ($matches) use ($key_value_pairs, $template) {
                
                $key = $matches[1];
                
@@ -54,6 +54,8 @@ class MarkdownCreator {
        
        try {
            $record['year'] = $year;
+           
+           $record['event'] = TODO Need the vent--Marriage, Baptism. Confirmation, Burial/Death.
            
            $record['file-name'] = substr($this->filename, 0, strpos($this->filename, "."));
            
