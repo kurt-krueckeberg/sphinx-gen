@@ -20,4 +20,3 @@ The %edate% baptism of %name% from %residence% is on {ref}`image %image-no% <%fi
 %trans%
 ```
 
-

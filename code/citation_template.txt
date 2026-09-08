@@ -4,4 +4,4 @@
 
 "Archion Protestant Kirchenbücher Portal", database 
 with images, *Archion* (<%url%> : %vdate%), path: {path} > {parish-name} >
-%volume_name%, image %image_no% of %total-images%
+%volume_name%, image %image_no% of %total_images%

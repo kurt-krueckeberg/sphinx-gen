@@ -73,11 +73,9 @@ class MarkdownCreator {
            
            $record['volume_name'] = $this->volume_name;
            
-           echo "\$this->md_tempate is {$this->md_template}\n==============\n";
+           $record['total_images'] = $this->total_images;
            
-           $markdown = $this->subst_variables($this->md_template, $record);
-           
-           echo "\$markdown after subst_variables = \n$markdown\n";
+           $markdown = $this->subst_variables($this->md_template, $record);           
            
        } catch (\InvalidArgumentException $e) {
            
@@ -102,6 +100,8 @@ class MarkdownCreator {
       
       $this->folder = $kbr['parish']['output-folder'];
       
-      $this->volume_name = $kbr['parish']['volumes'][$ceremony_section['volume']]['name'] . "\n";
+      $this->volume_name = $kbr['parish']['volumes'][$ceremony_section['volume']]['name'];
+      
+      $this->total_images = (string) $kbr['parish']['volumes'][$ceremony_section['volume']]['total_images'];
    }
 }
