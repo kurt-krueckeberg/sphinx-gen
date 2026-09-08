@@ -3,7 +3,7 @@
 # =========================
 /code/nbproject/
 build_errors.txt
-code/vendor
+/code/vendor
 .venv/
 venv/
 env/
