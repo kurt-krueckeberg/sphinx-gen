@@ -5,11 +5,13 @@ namespace MystMD;
 class MarkdownCreator {
 
    private \SpilFileObject $file;	
-   private string $md_template;
    
+   private string $md_template;   
    private string $prefix;
    private string $symbol;
    private string $folder;
+   private string $event;
+   private string $volume_name;
    
    private function create_filename(string $prefix, string $symbol, string $year) : string
    {
@@ -30,7 +32,7 @@ class MarkdownCreator {
 
    private function subst_variables(string $template, array $key_value_pairs)
    {
-       return preg_replace_callback(
+      return preg_replace_callback(
            '/%(\w+)%/',
            function ($matches) use ($key_value_pairs, $template) {
                
@@ -55,9 +57,11 @@ class MarkdownCreator {
        try {
            $record['year'] = $year;
            
-           $record['event'] = TODO Need the vent--Marriage, Baptism. Confirmation, Burial/Death.
+           $record['event'] = $this->event;
            
            $record['file-name'] = substr($this->filename, 0, strpos($this->filename, "."));
+           
+           $record['volume-name'] = $this->volume_name;
            
            $markdown = $this->subst_variables($this->md_template, $record);
            
@@ -71,15 +75,19 @@ class MarkdownCreator {
 
        $file->fwrite($markdown);               
    }
-
-   public function __construct(string $markdown_template, string $prefix, string $symbol, string $folder)           
+   
+   public function __construct(string $markdown_template, KirchenbuecherResults $kbr, string $ceremony, CeremonySection $ceremony_section)           
    {
       $this->md_template = $markdown_template;
       
-      $this->prefix = $prefix;
+      $this->prefix = $kbr['parish']['prefix'];
       
-      $this->symbol = $symbol;
+      $this->symbol = $ceremony_section['record-symbol'];
       
-      $this->folder = $folder;
+      $this->event = $ceremony;
+      
+      $this->folder = $kbr['parish']['output-folder'];
+      
+      $this->volume_name = $kbr['parish']['volumes'][$ceremony_section['volume']]['name'] . "\n";
    }
 }

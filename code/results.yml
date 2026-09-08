@@ -12,7 +12,8 @@ parish:
     band1b:
       name: "Verzeichnis der Getrauten und Gestorbenen 1641-1784"
       total-images: 239
-  marriages:
+  output-folder: /home/kurt/sphinx-gen/petzen    
+  Marriage:
     volume: band1b
     record-symbol: M
     event: Marriage
@@ -177,7 +178,7 @@ parish:
       literal: "d 7t Febr: Heinrich Ludewig Weiland Schweinhirtens und Einliegers in Röcke mit Anna Christina Nergen aus der Driften in Pezen copuliret."
       trans: "On 7 February, Heinrich Ludewig Weiland, swineherd and lodger in Röcke, was married to Anna Christina Nergen from the Drift in Pezen."
     
-  burials: 
+  Burial: 
     volume: band1b
     record-symbol: D
     event: Burial
@@ -312,7 +313,7 @@ parish:
       literal:
       trans:
     
-  confirmations:
+  Confirmation:
     volume: band1a 
     record-symbol: C
     event: Confirmation
@@ -629,7 +630,7 @@ parish:
       url: https://www.archion.de/p/69538680ea/
       literal: Anna Philippina Weilands aus Evesen
     
-  baptisms:
+  Baptism:
     volume: band1a
     event: Baptism
     record-symbol: B

@@ -34,7 +34,7 @@ function make_array(CeremonySection $ceremony_section, KirchenbuecherResults $kb
         
 $markdown_string = file_get_contents($config['markdown_template']);
 
-foreach ($kbr as $ceremony_section) {
+foreach ($kbr as $ceremony => $ceremony_section) {
 
      $citation_string = str_replace(array('%volume-name%', '%total-images%'),
                     make_array($ceremony_section, $kbr),
@@ -42,7 +42,7 @@ foreach ($kbr as $ceremony_section) {
 
      $markdown_template = $markdown_string . $citation_string; 
           
-     $markdown_writer = new MarkdownCreator($markdown_template, $kbr['parish']['prefix'], $ceremony_section['record-symbol'], $config['output-folder']);
+     $markdown_writer = new MarkdownCreator($markdown_template, $kbr, $ceremony, $ceremony_section);
      
      foreach ($ceremony_section as $record) {
          
