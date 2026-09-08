@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 use Symfony\Component\Yaml\Yaml;
-use MystMD\{KirchenBuecherResults, Config, CeremonySection, MarkdownCreator};       
+use MystMD\{KirchenBuecherResults, Config, CeremonySection, MarkdownCreator, FileLogger};       
 
 require __DIR__ . '/vendor/autoload.php';
 
@@ -32,6 +32,8 @@ function make_array(CeremonySection $ceremony_section, KirchenbuecherResults $kb
         
 $markdown_string = file_get_contents($config['markdown_template']);
 
+$logger = new FileLogger("./log");
+
 foreach ($kbr as $ceremony => $ceremony_section) {
 
      $citation_string = str_replace(array('%volume_name%', '%total_images%'),
@@ -48,6 +50,6 @@ foreach ($kbr as $ceremony => $ceremony_section) {
           
 	  $filename = $markdown_writer($record, array_slice($ceremony_section->section, 0, 3));
 
-	  log_file($filename, "./file-log");:
+	  $logger->log($filename);
      }
 }    
