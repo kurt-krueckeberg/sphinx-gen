@@ -312,7 +312,56 @@ parish:
       url:
       literal:
       trans:
-    
+ 
+    - name: 
+      residence:
+      image_no: 153
+      ifile:
+      edate: 4 November 1735
+      vdate: 9 September 2026
+      url: https://www.archion.de/p/fd52dd5f8c/
+      literal: >-
+        Margareta Elisabeth Weilands Hans Harman Weilands militis tochter, begrab. æt. 6. & 39 [Wochen?]
+      trans: >-
+        November the 4th: Margareta Elisabeth, [daughter of] the late Hans Harman Weiland, soldier, buried, aged 6 [years] and 39 weeks.
+ 
+    - name: Johann Friedrich Krückeberg
+      residence: Behrenbusch
+      image_no: 159
+      ifile: petzen-band1b-img159-krueckeberg.png 
+      edate: 4 November 1741
+      vdate: 9 September 2026
+      url: https://www.archion.de/p/2b8a4a179e/
+      literal: >-
+        Dito [October 21] Johann Krückeberg von Behrenbusch sein Sohn Johann Friedrich aet. 13 [Jahr] & 15 Wochen, gleichfalls an der Ruhr gestorben
+      trans: >-
+        Ditto [October 21] Johann Krückeberg of Behrenbusch, his son Johann Friedrich, age 13 [years] and 15 weeks, likewise died of dysentery
+      important: >-
+        gleichfals (likewise) refers to the prior burial record, which fortunately is not as badly smudged and reads:
+        d 21t Friderich Engelking von Wülpke berge sein Sohn Henrich Tönnis aet. 11. 2 monat an der roth ruhr gestorben.
+        "rothe ruhr" or "rote Ruhr" translates a "bloody dysentery".   
+
+    - name: 
+      residence:
+      image_no: 159
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
+ 
+    - name: 
+      residence:
+      image_no:
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
+
+
   Confirmation:
     volume: band1a 
     record-symbol: C
@@ -763,12 +812,12 @@ parish:
       trans: >-
         On May 6, Johann Weÿland of Nammen had his little daughter Ilse Margaretha baptized. Sponsors: Mrs. Schilling and Mrs. Brandt.
       important: >-
-        These is on baptism record of a child name Ilse Margaretha Weÿlandt born 6 years and 39 weeks earlier. 
+        There is a burial record from 4 November 1735 of female child named Elisabeth Margaretha Weilands born
+        6 years and 39 weeks earlier.
         What this suggests:
-        Given that the burial record explicitly identifies the father as militis (a
-        soldier), the most plausible explanation is that this family didn't stay in
-        one parish — soldiers' households moved with postings. Margareta Elisabeth
-        may well have been born and baptized in a different parish or garrison
-        town, and the family only later moved to (or was stationed near) Petzen by
-        the time of her death in 1735. That would fully explain why no matching
-        baptism turns up in the Petzen registers for 1728–1729.   
+        The Margareta Elisabeth Weiland buried on 4 November 1737 was 6 years and 39 weeks old 
+        when she died. "Ilse" is short for Elisabeth. This would place her birth on 4 Feb. 1731, which is within one 
+        month of this baptism record. However, the father's given name in this baptism record is *Johann* whereas the father's given names in the
+        4 Nov. 1735 burial record are *Hans Harman*.
+        The burial record explicitly identifies the father as militis (a soldier), and the family therefore *might* have not have been living in
+        the Petzen parish at the time of the child's birth and baptism since soldiers' households moved with postings.

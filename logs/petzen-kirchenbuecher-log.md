@@ -36,11 +36,19 @@ Marriage images reviewed in the Petzen Kirchenbuch
 
 Deaths in [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.archion.de/de/viewer/churchRegister/329074?coords=2867%2C3103&degree=0&pageId=46233839&zoom=9&cHash=ec75f91f5aac73eb584b722079fa7e13).
 
-**TODO:**
+**TODO:** The table further below supposedly shows the burial reviewed, but
+it does not reflect this comment:
 
 Review deaths from range of image 144 thru 186.
 
-**Re-reviewed:** Completed 70-96. 
+**Re-reviewed:** Completed 70-96.
+
+There are also notations in `results.yml` that say "RESUME at (imgage 88)"
+and "resume at (image 118)".
+
+So this much is **certain as of 9 Spetember 2026**: I definitely have reviewed images
+153-159 for burials and added the Weiland burial found to `resuts.yml`.
+
 
 ```{list-table} Review started with image 87, year 1670.
 :header-rows: 1
