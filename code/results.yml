@@ -375,7 +375,7 @@ parish:
     - name: Weiland
       image_no: 301
       age:
-      residence: "N[ordholtz]"
+      residence: "Nordholtz"
       edate: 1737
       vdate: 26 August 2026
       url: https://www.archion.de/p/cc8d263b27/
@@ -384,23 +384,26 @@ parish:
     - name: Weiland Ev[esen]
       image_no: 302
       age: 
-      residence: "Ev:"
+      residence: "Evesen"
+      edate: 1740
       vdate: 26 August 2026
       url: https://www.archion.de/p/8adf84b739/
       literal: "Weiland Ev:"
     
-    - name: Weiland 
+    - name: [female] Weiland 
       image_no: 303
       age: 
-      residence: N.
+      residence: Nordholtz
+      edate: 1743
       vdate: 26 August 2026
       url: https://www.archion.de/p/330c163617/
       literal: Weiland N.
     
-    - name: Weiland
+    - name: [male] Weiland
       image_no: 303
       age:
       residence: Behrebusch
+      edate: 1745
       vdate: 26 August 2026
       url: https://www.archion.de/p/c2e455cf48/
       literal: Weiland Behrebusch
@@ -409,6 +412,7 @@ parish:
       image_no: 303
       age:
       residence: Evesen
+      edate: 1746
       vdate: 26 August 2026
       url: https://www.archion.de/p/61c7e65298/
       literal: Johann Heinrich Fahlsing aus Evesem 
@@ -418,13 +422,15 @@ parish:
       age: 
       residence: Evesen
       vdate: 26 August 2026
+      edate: 1746
       url: https://www.archion.de/p/c7513c70ad/
       literal: Anna Christina Weilands aus Evesen.
     
     - name: Hans Henrich Weiland 
-      image_no: 303
+      image_no: 304
       age:
       residence: Berenbusch
+      edate: 1748
       vdate: 26 August 2026
       url: https://www.archion.de/p/9da2dc81a0/
       literal: Hans Henrich Weiland aus Berenbusch
