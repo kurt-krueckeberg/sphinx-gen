@@ -51,7 +51,7 @@ class MarkdownCreator {
 
    public function __invoke(array $record) : string
    {
-       $year = (string) substr(strrchr($record['edate'], ' '), 1);
+       $year =  substr(trim($record['edate']), -4);
        
        $this->filename = $this->create_filename($this->prefix, $this->symbol, $year);
        
