@@ -328,7 +328,7 @@ parish:
     - name: Johann Friedrich Krückeberg
       residence: Behrenbusch
       image_no: 159
-      ifile: petzen-band1b-img159-krueckeberg.png 
+      ifile: petzen-band1b-img159-krueckeberg1.png 
       edate: 4 November 1741
       vdate: 9 September 2026
       url: https://www.archion.de/p/2b8a4a179e/
@@ -341,14 +341,18 @@ parish:
         d 21t Friderich Engelking von Wülpke berge sein Sohn Henrich Tönnis aet. 11. 2 monat an der roth ruhr gestorben.
         "rothe ruhr" or "rote Ruhr" translates a "bloody dysentery".   
 
-    - name: 
-      residence:
+    - name: Jobst Henrich Krückeberg
+      residence: Behrnbusch
       image_no: 159
-      ifile:
-      edate:
-      vdate:
-      url:
-      literal:
+      ifile: petzen-band1b-img159-krueckeberg2.png
+      edate: 29 October 1741
+      vdate: 9 September 2026
+      url: https://www.archion.de/p/5fcc29c3e9/
+      literal: >-
+        Johann Krückeberg von Behrenbusch auch ein Sohn welcher [blind]
+        [????] auch die g [Ittini/Htmi] Jahr. 6 [?] genoßsen nahmens Jobst
+        Henrich an der Schad: Seuh gestoren ate. 7 Jarh      
+               
       trans:
  
     - name: 
