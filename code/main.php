@@ -1,7 +1,6 @@
 <?php
 declare(strict_types=1);
 
-use Symfony\Component\Yaml\Yaml;
 use MystMD\{KirchenBuecherResults, Config, CeremonySection, MarkdownCreator, FileLogger};       
 
 require __DIR__ . '/vendor/autoload.php';
