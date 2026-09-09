@@ -434,35 +434,30 @@ parish:
       vdate: 26 August 2026
       url: https://www.archion.de/p/9da2dc81a0/
       literal: Hans Henrich Weiland aus Berenbusch
-    
+     
+    - name: Anna Ilse Margaretha Fahlsings
+      image_no: 305
+      age:
+      residence:
+      edate: 1749
+      vdate: 26 August 2026
+      url: https://www.archion.de/p/2418b76802/ 
+      literal: 12) Anna Ilse Margaretha Fahlsings 
+
     - name: Jobst Henrich Weiland
       image_no: 305
       age:
       residence: Evesen
+      edate: 1750
       vdate: 26 August 2026
-      url: https://www.archion.de/p/09aca539e3/
+      url: https://www.archion.de/p/016a349f41/
       literal: Jobst Henrich Weiland aus Evesen
-    
-    - name: Anna Ilse Margaretha Fahlsings
-      image_no: 307
-      age:
-      residence:
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/1300f945be/
-      literal: 12) Anna Ilse Margaretha Fahlsings 
-    
-    - name: Jobst Henrich Weiland
-      image_no: 307
-      age: 
-      residence: Evesen
-      vdate:  26 August 2026
-      url: https://www.archion.de/p/91b6620e5c/
-      literal: Jobst Henrich Weiland aus Evesen 
     
     - name: Friederich Wilhelm Weiland
       image_no: 308
       age: 
       residence: Nordholz
+      edate: 1751
       vdate: 26 August 2026
       url: https://www.archion.de/p/43f1621379/
       literal: Friederich Wilhelm Weiland aus Nordholz
@@ -471,6 +466,7 @@ parish:
       image_no: 309
       age: 
       residence: Evesen
+      edate: 1753
       vdate: 26 August 2026
       url: https://www.archion.de/p/c1c9046458/
       literal: Hans Henrich Weiland aus Evesen
@@ -479,6 +475,7 @@ parish:
       image_no: 309
       age: 
       residence: Nordholtz
+      edate: 1753
       vdate: 26 August 2026
       url: https://www.archion.de/p/3a0883155f/ 
       literal:  Sophia Elisabeth Weilands aus Nordholtz  
@@ -486,7 +483,8 @@ parish:
     - name: Friederich Wilhelm Weiland (Hofmeiers) Evesen 
       image_no: 309
       age: 
-      residence: Evesem
+      residence: Evesen
+      edate: 1754
       vdate: 26 August 2026
       url: https://www.archion.de/p/99783df0c2/
       literal: Friederich Wilhelm Weiland (Hofmeiers) Evesen  
@@ -495,14 +493,16 @@ parish:
       image_no: 310 
       age: 
       residence: Nordholtz
+      edate: 1757
       vdate: 26 August 2026
       url: https://www.archion.de/p/07617bfa91/
       literal: Anna Margaretha Weilands aus Nordholtz
     
     - name: Carl Fried. Fahlsing
-      image_no: 
+      image_no: 311
       age: 
       residence: Evesen 
+      edate: 1758 
       vdate: 26 August 2026
       url: https://www.archion.de/p/405713c11f/
       literal: Carl Fried. Fahlsing aus Evesen 
@@ -511,6 +511,7 @@ parish:
       image_no: 312
       age: 
       residence: Evesen 
+      edate: 1760
       vdate: 26 August 2026
       url: https://www.archion.de/p/42667cb769/ 
       literal: Anna Philippina Fahlsings aus Evesen 
@@ -519,6 +520,7 @@ parish:
       image_no: 312
       age: 
       residence: Nordholtz
+      edate: 1760
       vdate: 26 August 2026
       url: https://www.archion.de/p/42667cb769/
       literal:  Anna Maria Weilandt aus Nordholtz 
@@ -527,6 +529,7 @@ parish:
       image_no: 313 
       age: 
       residence: Evesen
+      edate: 1763 
       vdate: 26 August 2026
       url: https://www.archion.de/p/1fdc86eeb3/ 
       literal: Johann Heinrich Weiland aus Evesen 
@@ -535,6 +538,7 @@ parish:
       image_no: 313
       age: 
       residence: Evesen
+      edate: 1764
       vdate: 26 August 2026
       url: https://www.archion.de/p/a50f43c12e/
       literal: Philippina Weilands aus Evesen
@@ -543,6 +547,7 @@ parish:
       image_no: 314 
       age:  
       residence: Evesen No. 21 
+      edate: 1766 
       vdate: 26 August 2026
       url: https://www.archion.de/p/ce7131f5a0/
       literal: Sophia Elisabeth Weilands aus Evesen No. 21 
@@ -551,6 +556,7 @@ parish:
       image_no: 315 
       age:  
       residence: Röcke 
+      edate: 1767 
       vdate: 26 August 2026
       url: https://www.archion.de/p/44838bec83/
       literal: Friederich Wilhelm Weiland aus Röcke Einlieger 
@@ -559,6 +565,7 @@ parish:
       image_no: 315
       age:  
       residence: Berenbusch
+      edate: 1768 
       vdate: 26 August
       url: https://www.archion.de/p/88fcbde3e9/
       literal: Friederich Wilhelm Weiland aus Berenbusch 
@@ -567,6 +574,7 @@ parish:
       image_no: 316
       age:  
       residence: Nordholz
+      edate: 1769
       vdate: 26 August 2026
       url: https://www.archion.de/p/b798d91460/ 
       literal: Heinrich Wilhelm Weiland Nordholz
@@ -576,6 +584,7 @@ parish:
       age:  
       residence: Röcke
       vdate: 26 August 2026
+      edate: 1769
       url: https://www.archion.de/p/b798d91460/ 
       literal: Heinrich Ludewig Weiland Röcke 
     
@@ -591,6 +600,7 @@ parish:
       image_no: 317
       age:  
       residence: Berenbusch
+      edate: 1774
       vdate: 26 August 2026 
       url: https://www.archion.de/p/e88a5aaef1/
       literal: Jobst Heinrich Weiland____Berembusch
@@ -599,6 +609,7 @@ parish:
       image_no: 317 
       age:  
       residence: Evesen
+      edate: 1774
       vdate: 26 August 2026
       url: https://www.archion.de/p/a60d42480c/
       literal: Christina Weilands____Evesen
@@ -607,14 +618,16 @@ parish:
       image_no: 318
       age:  
       residence: Berenbusch
+      edate: 1777
       vdate: 26 August 2026
       url: https://www.archion.de/p/4e469274f3/
       literal: Hans Heinrich Weiland aus Berenbusch
     
-    - name: Heinrich Ludowig Weiland 
+    - name: Johann Heinrich Ludowig Weiland 
       image_no: 319
       age:  
       residence: Peezen
+      edate: 1779
       vdate: 26 August 2026
       url: https://www.archion.de/p/d765ab3370/
       literal: Heinrich Ludowig Weiland Peezen 
