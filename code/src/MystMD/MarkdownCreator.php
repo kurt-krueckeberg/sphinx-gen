@@ -6,7 +6,7 @@ class MarkdownCreator {
 
    private \SpilFileObject $file;	
    
-   private string $md_template;   
+   private string $markdown_template;   
    private string $prefix;
    private string $symbol;
    private string $folder;
@@ -71,7 +71,7 @@ class MarkdownCreator {
            
            $record['total_images'] = $this->total_images;
            
-           $markdown = $this->subst_variables($this->md_template, $record);           
+           $markdown = $this->subst_variables($this->markdown_template, $record);           
            
        } catch (\InvalidArgumentException $e) {
            
@@ -88,7 +88,7 @@ class MarkdownCreator {
    
    public function __construct(string $markdown_template, KirchenbuecherResults $kbr, string $ceremony, CeremonySection $ceremony_section)           
    {
-      $this->md_template = $markdown_template;
+      $this->markdown_template = $markdown_template;
       
       $this->prefix = $kbr['parish']['prefix'];
       
