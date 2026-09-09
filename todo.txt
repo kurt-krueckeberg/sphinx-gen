@@ -1,3 +1,1 @@
-1. Burials have note been reviewed
-2. Confirmations are missing "edate:" starting with image 302 and
-following. NOTE: confirmation sometime are missing the age.
+1. Burials have note been fully reviewed
