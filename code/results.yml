@@ -633,17 +633,19 @@ parish:
       literal: Heinrich Ludowig Weiland Peezen 
     
     - name: Anna Ilsabei Vahlsing
-      image_no: 320
+      image_no: 321
       age:  
       residence: Evesen
+      edate: 1782
       vdate: 27 August 2026
-      url: https://www.archion.de/p/94f6b8c73d/
+      url: https://www.archion.de/p/740a96445d/
       literal: Anna Ilsabei Vahlsing aus Evesen 
     
     - name: Johann Heinrich Weiland 
       image_no: 321 
       age:  
       residence: Nordholtz Berenbusch 
+      edate: 1783
       vdate: 27 August 2026
       url: https://www.archion.de/p/f433693d9a/
       literal: Johann Heinrich Weiland aus Nordholtz Berenbusch 
@@ -652,6 +654,7 @@ parish:
       image_no: 322
       age:  
       residence: Evesen
+      edate: 1784
       vdate: 27 August 2026
       url: https://www.archion.de/p/69538680ea/
       literal: Anna Philippina Weilands aus Evesen
