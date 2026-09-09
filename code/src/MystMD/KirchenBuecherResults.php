@@ -13,15 +13,10 @@ class KirchenBuecherResults implements \IteratorAggregate, \ArrayAccess {
 	{
             foreach ($this->section_keys as $section_key) {
       
-               yield $section_key => new CeremonySection($this->yaml['parish'][$section_key]);                 
+                yield $section_key => new CeremonySection($this->yaml['parish'][$section_key]);                 
  	    }
 	}
 
-	public function getParishValues() : array
-	{
-	   return array_slice($this->yaml['parish'], 0, 3);	
-	}
-        
         #[\Override]
 	public function getIterator() : \Traversable 
 	{
