@@ -16,7 +16,7 @@ parish:
   Marriage:
     volume: band1b
     record-symbol: M
-    event: Marriage
+    event: marriage
     records:
     - name: "[uncertain name] Weilandt"
       residence:
@@ -181,7 +181,7 @@ parish:
   Burial: 
     volume: band1b
     record-symbol: D
-    event: Burial
+    event: burial
     records:
     - name: Wölkken Weÿlandt 
       residence:
@@ -495,7 +495,7 @@ parish:
     
   Baptism:
     volume: band1a
-    event: Baptism
+    event: baptism
     record-symbol: B
     records:
     - name: Daughter of Hans Weiland
@@ -613,7 +613,7 @@ parish:
   Confirmation:
     volume: band1a 
     record-symbol: C
-    event: Confirmation
+    event: confirmation
     records:
     - name: Hans Heinrich Weyland
       image_no: 297
