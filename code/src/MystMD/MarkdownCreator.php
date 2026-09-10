@@ -72,24 +72,7 @@ class MarkdownCreator {
    public function __invoke(array $record) : string
    {
        $this->adjust_record($record);
-/* 
-       $year = substr((string) $record['edate'], -4); // get last four characters: the year.
-       
-       $record['year'] = $year;
-       
-       $record['image_no'] = (string) $record['image_no'];
-       
-       $record['event'] = $this->event;
-      
-       $record['volume_name'] = $this->volume_name;
-       
-       $record['total_images'] = $this->total_images;
 
-       if (!isset($record['text'])) {
-
-	   $record['text'] = "";    
-       }
- */
        $this->filename = $this->create_filename($this->prefix, $this->symbol, $record['year']);
        
        // Since $this->filename has the fully qualified filename, we remove the pathinfo and extension.

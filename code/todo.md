@@ -1,23 +1,26 @@
 # TODO
 
-The code now works except for confirmations. This is because the
-confirmation don't have any images and thus no MyST markdown "figure"
-block; however, the code uses the sole markdown template that contains
-
+When processing 'Confirmation' records, the `Markdown::subst_variable()` throws an `\invalidArguemntExcpetion`
+because confirmation records don't have any images and don't need the required MyST figure-directive below:
 
 ```{figure} images/%ifile%
 :class: image-override
 ```
 
-and when %file% has no value to replace it, an excpet is thrown.
+The confirmations don't have an `ifile:` key resulting in the excpetion.
 
-Perhaps I should special-case the Confirmations? Idea:
+The solution is to rewrite `~/gens/code/markdown_template.md` and entirely replace
+the figure directive block within it with
 
-1. replace current figure directive above with %image-%block%, the use this
-   code:
+%image-block%
+
+The `Markdown::adjust_recorde()` method called by `__invoke()` then will check if `$record[iifile']` is
+set. If it is, it will create the figure direction using the code below;
+otherwise, it will set it to an empty string:
+
 
 ````code
-public function __invoke(...)
+public function set_values(...)
 {
   if (isset($record['ifile'])) {
 
@@ -29,9 +32,4 @@ public function __invoke(...)
   else {
      $record['image-block'] = "";    
   }  
-
 }
-
-
-````
-2. In `MarkdownCreator::__invoke()` if 
