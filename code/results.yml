@@ -12,7 +12,7 @@ parish:
     band1b:
       name: "Verzeichnis der Getrauten und Gestorbenen 1641-1784"
       total_images: 239
-  output-folder: /home/kurt/temp/sphinx-gen/petzen    
+  output-folder: /home/kurt/sphinx-gen/petzen    
   Marriage:
     volume: band1b
     record-symbol: M
