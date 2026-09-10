@@ -370,20 +370,24 @@ parish:
       trans: >-
         On November 10, Henrich Wilhelm, the son of Weiland from Behrenbusch, age 4 was buried.
 
-#   - name: 
-#     residence:
-#     image_no: 
-#     ifile:
-#     edate:
-#     vdate:
-#     url:
-#     literal:
-#     trans:
+    - name:  Anna Dorothea Elisabeth Krückeberg
+      residence: Behrenbusch
+      image_no: 161
+      ifile: petzen-band1b-img161-krueckeberg.png
+      edate: 9 Decmber 1742
+      vdate: 10 September 2026
+      url: https://www.archion.de/p/72bd1e9022/
+      literal: :ß
+        December d 9t Johann Krückeberg von Behrenbusch ein Tochter Anna Dorothea
+        Elisabeth begraben laßen æt. 6 Jahr und 44 Woch[en].      
+      trans: >-
+        On December 9, Ann Dorothea Krückeberg, daughter of Johann Krückeberg of Behrenbusch was buried
+        age 6 and 44 weeks.
 
 
 #   - name: 
 #     residence:
-#     image_no: 
+#     image_no: RESUME at 162 
 #     ifile:
 #     edate:
 #     vdate:
