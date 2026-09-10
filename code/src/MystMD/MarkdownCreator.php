@@ -70,14 +70,14 @@ class MarkdownCreator {
        
        if (isset($array['ifile'])) {
            
-           $array['image-block'] = <<<EOS
+           $array['imageblock'] = <<<EOS
                  ```{figure} images/{$array['ifile']}
                  :class: image-override
                  ```
                  EOS;  
        } else {
            
-           $array['image-block'] = "";
+           $array['imageblock'] = "";
        }
    }
 
@@ -93,6 +93,7 @@ class MarkdownCreator {
        $record['file_name'] = substr($basename , 0, strpos($basename, "."));
            
        try {    
+
            $markdown = $this->subst_variables($this->markdown_template, $record);           
            
        } catch (\InvalidArgumentException $e) {
