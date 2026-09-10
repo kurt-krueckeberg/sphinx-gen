@@ -6,7 +6,7 @@ class Config {
     
   private static Config $c;  
   private static bool $initialized = false;
-  private static $folder = "/home/kurt/sphinx-gen/code";  //TODO: move this to resuts.yml and change the Config class entirely
+  private static $folder = "/home/kurt/temp/sphinx-gen/code";  //TODO: move this to resuts.yml and change the Config class entirely
 
   public readonly \ArrayObject $settings;
 

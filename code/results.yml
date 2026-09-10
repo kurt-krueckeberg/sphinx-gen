@@ -13,10 +13,9 @@ parish:
       name: "Verzeichnis der Getrauten und Gestorbenen 1641-1784"
       total_images: 239
   output-folder: /home/kurt/sphinx-gen/petzen    
-  Marriage:
+  marriage:
     volume: band1b
     record-symbol: M
-    event: marriage
     records:
     - name: "[uncertain name] Weilandt"
       residence:
@@ -178,10 +177,9 @@ parish:
       literal: "d 7t Febr: Heinrich Ludewig Weiland Schweinhirtens und Einliegers in Röcke mit Anna Christina Nergen aus der Driften in Pezen copuliret."
       trans: "On 7 February, Heinrich Ludewig Weiland, swineherd and lodger in Röcke, was married to Anna Christina Nergen from the Drift in Pezen."
     
-  Burial: 
+  burial: 
     volume: band1b
     record-symbol: D
-    event: burial
     records:
     - name: Wölkken Weÿlandt 
       residence:
@@ -493,9 +491,8 @@ parish:
 #     literal:
 #     trans:
     
-  Baptism:
+  baptism:
     volume: band1a
-    event: baptism
     record-symbol: B
     records:
     - name: Daughter of Hans Weiland
@@ -610,10 +607,9 @@ parish:
         The burial record explicitly identifies the father as militis (a soldier), and the family therefore *might* have not have been living in
         the Petzen parish at the time of the child's birth and baptism since soldiers' households moved with postings.
 
-  Confirmation:
+  confirmation:
     volume: band1a 
     record-symbol: C
-    event: confirmation
     records:
     - name: Hans Heinrich Weyland
       image_no: 297

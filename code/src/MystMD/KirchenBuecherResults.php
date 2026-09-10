@@ -7,7 +7,7 @@ class KirchenBuecherResults implements \IteratorAggregate, \ArrayAccess {
 
 	private readonly array $yaml;
 
-        private $section_keys = array('Marriage', 'Burial', 'Baptism', 'Confirmation');
+        private $section_keys = array('marriage', 'burial', 'baptism', 'confirmation');
  	
 	private function generator() 
 	{
