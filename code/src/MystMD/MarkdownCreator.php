@@ -53,24 +53,27 @@ class MarkdownCreator {
    {
        $year = substr(record['edate'], -4); // get last four characters: the year.
        
-       $this->filename = $this->create_filename($this->prefix, $this->symbol, $year);
+       $record['year'] = $year;
        
-       try {
-           $record['year'] = $year;
+       $record['image_no'] = (string) $record['image_no'];
+       
+       $record['event'] = $this->event;
+       
+       // Since $this->filename has the fully qualified filename, we remove the pathinfo and extension.
+       $basename = basename($this->filename);
+       
+       $record['file_name'] = substr($basename , 0, strpos($basename, "."));
+       
+       $record['volume_name'] = $this->volume_name;
+       
+       $record['total_images'] = $this->total_images;
+
+       if (!isset($record['text'])) {
+	       
+	   $record['text'] = "";    
+       }
            
-           $record['image_no'] = (string) $record['image_no'];
-           
-           $record['event'] = $this->event;
-           
-           // Since $this->filename has the fully qualified filename, we remove the pathinfo and extension.
-           $basename = basename($this->filename);
-           
-           $record['file_name'] = substr($basename , 0, strpos($basename, "."));
-           
-           $record['volume_name'] = $this->volume_name;
-           
-           $record['total_images'] = $this->total_images;
-           
+       try {    
            $markdown = $this->subst_variables($this->markdown_template, $record);           
            
        } catch (\InvalidArgumentException $e) {
@@ -78,6 +81,8 @@ class MarkdownCreator {
            echo $e->getMessage();
            throw $e;
        }
+       
+       $this->filename = $this->create_filename($this->prefix, $this->symbol, $year);
        
        $file = new \SplFileObject($this->filename, "w");
 
