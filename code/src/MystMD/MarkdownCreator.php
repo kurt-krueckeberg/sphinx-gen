@@ -69,7 +69,7 @@ class MarkdownCreator {
        $record['total_images'] = $this->total_images;
 
        if (!isset($record['text'])) {
-	       
+
 	   $record['text'] = "";    
        }
            

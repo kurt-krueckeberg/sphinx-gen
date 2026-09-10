@@ -570,7 +570,7 @@ parish:
       url: https://www.archion.de/p/8adf84b739/
       literal: "Weiland Ev:"
     
-    - name: [female] Weiland 
+    - name: "[female] Weiland" 
       image_no: 303
       age: 
       residence: Nordholtz
@@ -579,7 +579,7 @@ parish:
       url: https://www.archion.de/p/330c163617/
       literal: Weiland N.
     
-    - name: [male] Weiland
+    - name: "[male] Weiland"
       image_no: 303
       age:
       residence: Behrebusch

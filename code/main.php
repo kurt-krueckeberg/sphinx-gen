@@ -50,5 +50,7 @@ foreach ($kbr as $ceremony => $ceremony_section) {
 	  $filename = $markdown_writer($record);
 
 	  $logger->log($filename);
+
+	  echo $filename . " created.\n";
      }
 }    
