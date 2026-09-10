@@ -40,17 +40,25 @@ foreach ($kbr as $ceremony => $ceremony_section) {
                     $citation_string);
 
      $markdown_template = $markdown_string . $citation_string; 
-          
-     $markdown_writer = new MarkdownCreator($markdown_template, $kbr, $ceremony, $ceremony_section);
      
+     $markdown_writer = new MarkdownCreator($markdown_template, $kbr, $ceremony, $ceremony_section);
+
      foreach ($ceremony_section as $record) {
          
           $markdown = $markdown_template;
-          
-	  $filename = $markdown_writer($record);
 
-	  $logger->log($filename);
+          try {	  
+  	    $filename = $markdown_writer($record);
 
-	  echo $filename . " created.\n";
+	    $logger->log($filename);
+
+	    echo $filename . " created.\n";
+
+	  } catch (\Exception $e) {
+
+	     echo $e->getMessage();
+             return;	     
+	  }
+
      }
 }    
