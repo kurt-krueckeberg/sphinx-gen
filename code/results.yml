@@ -384,19 +384,23 @@ parish:
         On December 9, Ann Dorothea Krückeberg, daughter of Johann Krückeberg of Behrenbusch was buried
         age 6 and 44 weeks.
 
-#   - name: 
-#     residence:
-#     image_no: RESUME at 163 
-#     ifile:
-#     edate:
-#     vdate:
-#     url:
-#     literal:
-#     trans:
+    - name: Henrich Wilhelm Weiland 
+      residence: Behrenbusch
+      image_no: 163
+      ifile: petzen-band1b-img163-weiland.png
+      edate: 28 February 1745
+      vdate:
+      url: https://www.archion.de/p/c2e13e71bf/
+      literal: >-
+        d 28t Dito Jost Henirch Weiland in Behrenbusch ein Söhnlein [Henrich?] Wilhem
+        begraben laßen 2 Jahr 16 [Wochen/Tage?]
+      trans: >-
+        On February 28, the little son of Jost Henrich Weiland of Behrenbusch, Henrich Wilhem,
+          was buried. [age] 2 years 16 [weeks/days?]
 
 #   - name: 
 #     residence:
-#     image_no: 
+#     image_no: resume at 164 
 #     ifile:
 #     edate:
 #     vdate:
