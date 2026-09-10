@@ -49,23 +49,38 @@ class MarkdownCreator {
        );
    }
 
+   private function adjust_record(array &$array)
+   {
+       $year = substr((string) $array['edate'], -4); // get last four characters: the year.
+       
+       $array['year'] = $year;
+       
+       $array['image_no'] = (string) $array['image_no'];
+       
+       $array['event'] = $this->event;
+      
+       $array['volume_name'] = $this->volume_name;
+       
+       $array['total_images'] = $this->total_images;
+
+       if (!isset($array['text'])) {
+
+	   $array['text'] = "";    
+       }
+   }
+
    public function __invoke(array $record) : string
    {
-       $year = substr($record['edate'], -4); // get last four characters: the year.
+       $this->adjust_record($record);
+/* 
+       $year = substr((string) $record['edate'], -4); // get last four characters: the year.
        
        $record['year'] = $year;
        
        $record['image_no'] = (string) $record['image_no'];
        
        $record['event'] = $this->event;
-              
-       $this->filename = $this->create_filename($this->prefix, $this->symbol, $year);
-       
-       // Since $this->filename has the fully qualified filename, we remove the pathinfo and extension.
-       $basename = basename($this->filename);
-       
-       $record['file_name'] = substr($basename , 0, strpos($basename, "."));
-       
+      
        $record['volume_name'] = $this->volume_name;
        
        $record['total_images'] = $this->total_images;
@@ -74,6 +89,13 @@ class MarkdownCreator {
 
 	   $record['text'] = "";    
        }
+ */
+       $this->filename = $this->create_filename($this->prefix, $this->symbol, $record['year']);
+       
+       // Since $this->filename has the fully qualified filename, we remove the pathinfo and extension.
+       $basename = basename($this->filename);
+       
+       $record['file_name'] = substr($basename , 0, strpos($basename, "."));
            
        try {    
            $markdown = $this->subst_variables($this->markdown_template, $record);           
