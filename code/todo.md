@@ -1,4 +1,4 @@
 # TODO
 
-
-The coe runs to complete, but the %image-block% is not being replaced in any of the output files.
+The code worsk, but the `~/gens/code/markdown_template.txt` has the event 
+hardcoded as `baptism` regardless of the ceremony.
