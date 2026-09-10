@@ -51,7 +51,7 @@ class MarkdownCreator {
 
    public function __invoke(array $record) : string
    {
-       $year = substr(record['edate'], -4); // get last four characters: the year.
+       $year = substr($record['edate'], -4); // get last four characters: the year.
        
        $record['year'] = $year;
        
