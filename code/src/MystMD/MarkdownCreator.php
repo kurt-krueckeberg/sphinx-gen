@@ -58,6 +58,8 @@ class MarkdownCreator {
        $array['image_no'] = (string) $array['image_no'];
        
        $array['event'] = $this->event;
+
+       $array['uevent'] = ucwords($this->event);
       
        $array['volume_name'] = $this->volume_name;
        
