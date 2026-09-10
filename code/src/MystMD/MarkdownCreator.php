@@ -67,6 +67,18 @@ class MarkdownCreator {
 
 	   $array['text'] = "";    
        }
+       
+       if (isset($array['ifile'])) {
+           
+           $array['image-block'] = <<<EOS
+                 ```{figure} images/{$array['ifile']}
+                 :class: image-override
+                 ```
+                 EOS;  
+       } else {
+           
+           $array['image-block'] = "";
+       }
    }
 
    public function __invoke(array $record) : string

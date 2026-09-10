@@ -25,7 +25,7 @@ public function set_values(...)
   if (isset($record['ifile'])) {
 
      $record['image-block' = <<<EOS
-```{figure} images/{$record['file']}
+```{figure} images/{$record['ifile']}
 :class: image-override
 ```
 
