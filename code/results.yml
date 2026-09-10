@@ -337,9 +337,15 @@ parish:
       trans: >-
         Ditto [October 21] Johann Krückeberg of Behrenbusch, his son Johann Friedrich, age 13 [years] and 15 weeks, likewise died of dysentery
       text: >-
-        gleichfals (likewise) refers to the prior burial record, which fortunately is more legible and reads:
-        d 21t Friderich Engelking von Wülpke-berge sein Sohn Henrich Tönnis æt. 11. 2 monat an der roth ruhr gestorben.
-        "rothe ruhr" or "rote Ruhr" translates a "bloody dysentery".   
+        gleichfals (likewise) refers to the prior burial record, which is more legible and reads:
+
+        > d 21t Friderich Engelking von Wülpke-berge sein Sohn Henrich Tönnis æt. 11. 2 monat an der roth ruhr gestorben.
+       
+        This translates as: 
+
+        > On October 21, the son of Friderich Engelking of Wülpke mountains, Heinrich Tönnis, died age 11 years and 2 month of bloody dysentery.
+
+        **"rothe ruhr"** or **"rote Ruhr"** translates a "bloody dysentery".   
 
     - name: Jobst Henrich Krückeberg
       residence: Behrnbusch
@@ -939,10 +945,13 @@ parish:
       text: >-
         There is a burial record from 4 November 1735 of female child named Elisabeth Margaretha Weilands born
         6 years and 39 weeks earlier.
-        What this suggests:
+
+        **What this suggests:**
+
         The Margareta Elisabeth Weiland buried on 4 November 1737 was 6 years and 39 weeks old 
         when she died. "Ilse" is short for Elisabeth. This would place her birth on 4 Feb. 1731, which is within one 
         month of this baptism record. However, the father's given name in this baptism record is *Johann* whereas the father's given names in the
         4 Nov. 1735 burial record are *Hans Harman*.
+
         The burial record explicitly identifies the father as militis (a soldier), and the family therefore *might* have not have been living in
         the Petzen parish at the time of the child's birth and baptism since soldiers' households moved with postings.
