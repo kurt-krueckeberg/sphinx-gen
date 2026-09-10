@@ -58,6 +58,8 @@ class MarkdownCreator {
        $record['image_no'] = (string) $record['image_no'];
        
        $record['event'] = $this->event;
+              
+       $this->filename = $this->create_filename($this->prefix, $this->symbol, $year);
        
        // Since $this->filename has the fully qualified filename, we remove the pathinfo and extension.
        $basename = basename($this->filename);
@@ -81,8 +83,6 @@ class MarkdownCreator {
            echo $e->getMessage();
            throw $e;
        }
-       
-       $this->filename = $this->create_filename($this->prefix, $this->symbol, $year);
        
        $file = new \SplFileObject($this->filename, "w");
 
