@@ -463,7 +463,7 @@ parish:
       residence: Nammen
       image_no: 172
       ifile: petzen-band1b-img172-weiland.png
-      edate: 11 April 1757
+      edate: 11 April 1751
       vdate: 11 September 2026
       url: https://www.archion.de/p/1492084c8d/
       literal: >-
@@ -471,29 +471,33 @@ parish:
       trans: >-
         On APril 11, Anna IlsabeyWeiland of Nammen was buried age 64 years
 
-    - name: 
-      residence:
-      image_no: 
-      ifile:
-      edate:
-      vdate:
-      url:
-      literal:
-      trans:
+    - name: Wilhelm Weiland
+      residence: Berenbusch
+      image_no: 173 
+      ifile: petzen-band1b-img173-weiland1.png
+      edate: 29 Decenber 1751 
+      vdate: 11 Spetember 2026
+      url: https://www.archion.de/p/3e5aa91246/
+      literal: >-
+        d 29t Decembris Wilhelm Weiland von Sanders Stette zu Berenbusch begraben æt. 36 Jahr  
+      trans: >-
+        On December 29, Wilhelm Weiland of Sander's place at Berenbsuch was buried age 36.
 
-    - name: 
-      residence:
-      image_no: 
-      ifile:
-      edate:
-      vdate:
-      url:
-      literal:
-      trans:
+    - name: Sophia Maria Weiland
+      residence: Nordholz
+      image_no: 173
+      ifile: petzen-band1b-img173-weiland2.png
+      edate: 3 March 1752
+      vdate: 11 September 2026
+      url: https://www.archion.de/p/865d706840/
+      literal: >-
+        d 3t Martii Sophia Maria Weilands begr. P. Jo. Fried. Wilhelm Weiland zu Nordholtz 1 Jahr [8?]
+      trans: >-
+        On March 3, Sophia Maria Weiland was buried age 1 year [8 weeks?] . Father: Johann Friedrich Weiland of Nordholtz
 
 #   - name: 
 #     residence:
-#     image_no: 
+#     image_no: resume 176
 #     ifile:
 #     edate:
 #     vdate:
