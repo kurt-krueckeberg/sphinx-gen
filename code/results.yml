@@ -398,49 +398,58 @@ parish:
         On February 28, the little son of Jost Henrich Weiland of Behrenbusch, Henrich Wilhem,
           was buried. [age] 2 years 16 [weeks/days?]
 
-#   - name: 
-#     residence:
-#     image_no: resume at 164 
-#     ifile:
-#     edate:
-#     vdate:
-#     url:
-#     literal:
-#     trans:
+    - name: Anna Catharina Sophia Weiland 
+      residence: Nammen
+      image_no: 166 
+      ifile: petzen-band1b-img166-weiland.png
+      edate: 19 October 1746
+      vdate: 11 September 2026
+      url: https://www.archion.de/p/032d18c461/
+      literal: >-
+        d 19t Octobr. begraben Anna Catharina Sophia Weilands von Nammen alt 25 Jahr 9 Monat
+      trans: >-
+        On October 19, Anna Catharina Sophia Weiland of Nammen was buried age 25 and 9 months
+
+    - name: Johann Henrich Weiland 
+      residence: Evesen
+      image_no: 167 
+      ifile: petzen-band1b-img167-weiland1.png
+      edate: 7 April 1747
+      vdate: 11 September 2026
+      url: https://www.archion.de/p/8c493ba9b4/ 
+      literal: >-
+        d 7t Apr. Johann Henrich Weiland begraben.
+        alt 1 Jahr 5 Wochen. Pat. ~~Mstr.~~ Harm Henrich Weiland
+        Zimmermeister in Evesen.
+      trans: >-
+        On April 7, Johann Henrich Weiland was buried, aged 1 year and 5 weeks. Father: Harm Henrich Weiland, master carpenter in Evesen.
+
+    - name: Unnamed Stillborn Weiland daughter 
+      residence: Evesen
+      image_no: 167
+      edate: 7 April 1747 
+      vdate: 11 September 2026
+      url: https://www.archion.de/p/8c493ba9b4/
+      literal: >-
+        Eodem dessen Sohn Harm Henrich Weiland ein todtgeborene Töchterlein beedigen lassen.
+      trans:
+        On the same day [April 7], his son Harm Henrich Weiland had a stillborn little daughter buried. 
+
+    - name: Charlotta Louisa Weiland
+      residence: Evesen
+      image_no: 167
+      ifile: petzen-band1b-img167-weiland2.png
+      edate: 8 November 1747
+      vdate: 11 September 2026
+      url: https://www.archion.de/p/aa8c19ee9d/
+      literal: >-
+        d 8t Nov. Charlotta Louisa Weiland, Herman Henrich Weilands Tochter aus Evesen begraben. alt 5 Monats 2 Woch[en]
+      trans: >-
+        On November 8, Charlotta Louisa Weiland, the daughter of Herman Henrich Weiland of Evesen, was buried. Age 5 months 2 weeks.
 
 #   - name: 
 #     residence:
-#     image_no: 
-#     ifile:
-#     edate:
-#     vdate:
-#     url:
-#     literal:
-#     trans:
-
-#   - name: 
-#     residence:
-#     image_no: 
-#     ifile:
-#     edate:
-#     vdate:
-#     url:
-#     literal:
-#     trans:
-
-#   - name: 
-#     residence:
-#     image_no: 
-#     ifile:
-#     edate:
-#     vdate:
-#     url:
-#     literal:
-#     trans:
-
-#   - name: 
-#     residence:
-#     image_no: 
+#     image_no: 168
 #     ifile:
 #     edate:
 #     vdate:
