@@ -54,7 +54,7 @@ So this much is **certain as of 9 Spetember 2026**: I definitely have reviewed i
 :header-rows: 1
 
 * - Image Ranges Reviews
-* - 83 — 176
+* - 83 — 177
 ```
 
 ## Review of Confirmations 1705-1784
