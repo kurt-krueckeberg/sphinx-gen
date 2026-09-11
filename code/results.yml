@@ -447,19 +447,21 @@ parish:
       trans: >-
         On November 8, Charlotta Louisa Weiland, the daughter of Herman Henrich Weiland of Evesen, was buried. Age 5 months 2 weeks.
 
-#   - name: 
-#     residence:
-#     image_no: 168
-#     ifile:
-#     edate:
-#     vdate:
-#     url:
-#     literal:
-#     trans:
+    - name: Sophia Margaretha Weyland
+      residence: Evesen
+      image_no: 168
+      ifile: petzen-band1b-img168-weiland.png
+      edate: 12 May 1748
+      vdate: 11 September 2026 
+      url: https://www.archion.de/p/fe74831335/
+      literal: >-
+        d 12t Maii Sophia Margaretha Weylands begraben. Joh, Fried. Weilands Tochter aus Evesen. 18 Jahr   
+      trans: >-
+        On May 12, Sophia Margaretha Weyland, daugher of Joahnn Friedrich Weiland of Evesen, was buried age 18.
 
 #   - name: 
 #     residence:
-#     image_no: 
+#     image_no: Resume 169 
 #     ifile:
 #     edate:
 #     vdate:
