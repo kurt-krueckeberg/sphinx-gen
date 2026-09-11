@@ -47,7 +47,7 @@ There are also notations in `results.yml` that say "RESUME at (imgage 88)"
 and "resume at (image 118)".
 
 So this much is **certain as of 9 Spetember 2026**: I definitely have reviewed images
-153-182 for burials and added the Weiland burial found to `results.yml`.
+153-185 for burials and added the Weiland burial found to `results.yml`.
 
 
 ```{list-table} Review started with image 87, year 1670.

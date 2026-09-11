@@ -535,19 +535,33 @@ parish:
       trans: >-
         On April 17, Johan Henrich Weiland of Nammen was buried age 44 and a half.
     
-    - name: 
-      residence:
-      image_no: resume at 183
-      ifile:
-      edate:
-      vdate:
-      url:
-      literal:
+    - name: Johann Tönnis Weiland
+      residence: Nammen
+      image_no: 184
+      ifile: petzen-band1b-img184-weiland1.png
+      edate: 23 November 1760
+      vdate: 11 September 2026
+      url: https://www.archion.de/p/5f292b4cd4/
+      literal: >-
+        d 23t Nov Johann Tönnies Weiland von Nammen begraben alter 82 Jahr
       trans:
-    
+        On November 23,  Johann Tönnies Weiland of Nammen was buried age 82
+     
+    - name: 
+      residence: 
+      image_no: 184
+      ifile: petzen-band1b-img184-weiland2.png
+      edate: 1 February 1761
+      vdate: 11 September 2026
+      url: https://www.archion.de/p/34bf2de664/
+      literal: >-
+        d 1t Febr Anna Catharine Weilands von Bünte Stett in Nammen begr. 59 Jahr
+      trans: >-
+        On February 1, Anna Catharine Weilands of Bünte's place in Nammen was buried age 59
+
     - name: 
       residence:
-      image_no: 
+      image_no: resume at 186 
       ifile:
       edate:
       vdate:
