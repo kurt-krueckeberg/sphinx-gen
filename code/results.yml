@@ -495,25 +495,27 @@ parish:
       trans: >-
         On March 3, Sophia Maria Weiland was buried age 1 year [8 weeks?] . Father: Johann Friedrich Weiland of Nordholtz
 
-#   - name: 
-#     residence:
-#     image_no: resume 176
-#     ifile:
-#     edate:
-#     vdate:
-#     url:
-#     literal:
-#     trans:
+    - name: Herman Heinrich Weiland of Evesen
+      residence: Evesen
+      image_no: 177 
+      ifile: petzen-band1b-img176-weiland.png
+      edate: 28 April 1756
+      vdate: 11 September 2026
+      url: https://www.archion.de/p/8f3318acd2/
+      literal: >-
+        d 28t Apr Herman Henrich Weiland von Evesen begraben alt 12 Studen
+      trans: >-
+        On April 28, Herman Henrich Weiland of Evesen buried age 12 hours
 
-#   - name: 
-#     residence:
-#     image_no: 
-#     ifile:
-#     edate:
-#     vdate:
-#     url:
-#     literal:
-#     trans:
+    - name: 
+      residence:
+      image_no: 
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
     
   baptism:
     volume: band1a
