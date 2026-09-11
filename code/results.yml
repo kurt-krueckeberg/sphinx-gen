@@ -459,35 +459,37 @@ parish:
       trans: >-
         On May 12, Sophia Margaretha Weyland, daugher of Joahnn Friedrich Weiland of Evesen, was buried age 18.
 
-#   - name: 
-#     residence:
-#     image_no: Resume 169 
-#     ifile:
-#     edate:
-#     vdate:
-#     url:
-#     literal:
-#     trans:
+    - name: Anna Ilsabey Weiland 
+      residence: Nammen
+      image_no: 172
+      ifile: petzen-band1b-img172-weiland.png
+      edate: 11 April 1757
+      vdate: 11 September 2026
+      url: https://www.archion.de/p/1492084c8d/
+      literal: >-
+        d 11t Apr. Anna Ilsabey Weiland aus Nammen begraben alt 64 Jahr
+      trans: >-
+        On APril 11, Anna IlsabeyWeiland of Nammen was buried age 64 years
 
-#   - name: 
-#     residence:
-#     image_no: 
-#     ifile:
-#     edate:
-#     vdate:
-#     url:
-#     literal:
-#     trans:
+    - name: 
+      residence:
+      image_no: 
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
 
-#   - name: 
-#     residence:
-#     image_no: 
-#     ifile:
-#     edate:
-#     vdate:
-#     url:
-#     literal:
-#     trans:
+    - name: 
+      residence:
+      image_no: 
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
 
 #   - name: 
 #     residence:
