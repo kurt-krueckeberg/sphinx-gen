@@ -507,9 +507,117 @@ parish:
       trans: >-
         On April 28, Herman Henrich Weiland of Evesen buried age 12 hours
 
+    - name: Jobst Heinrich and Hans Henrich Weiland
+      residence: Berenbusch
+      image_no: resume at 181
+      ifile: petzen-band1b-img181-2weilands.png
+      edate: 22 October 1758
+      vdate: 11 September 2026
+      url: https://www.archion.de/p/ac59c4b1c4/
+      literal: >-
+        22. Oct. Jobst Henrich und Hans Henrich Weiland Sanders Zwillinge aus Bernbusch begr. 14 Tage 16 Tage alt
+      trans: >-
+        22 October. Jobst Henrich and Hans Henrich Weiland, Sander’s twins from Berenbusch, were buried, aged 14 days and 16 days.
+      text: >-
+        ```{note}
+        **Sanders** might be the Hausname while **Weiland** is the Familienname.
+        
+
+    - name: Johann Henrich Weiland
+      residence: Nammen
+      image_no: 181
+      ifile: petzen-band1b-img181-weiland2.png
+      edate: 17 April 1759
+      vdate: 11 September 2026
+      url: https://www.archion.de/p/98d6bb3e1f/
+      literal: >-
+        d 17t April Johan Henrich Weiland aus Nammen begraben 44 1/2 Jahr alt.
+      trans: >-
+        On April 17, Johan Henrich Weiland of Nammen was buried age 44 and a half.
+    
     - name: 
       residence:
-      image_no: resume at 181
+      image_no: resume at 183
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
+    
+    - name: 
+      residence:
+      image_no: 
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
+    
+    - name: 
+      residence:
+      image_no: 
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
+    
+    - name: 
+      residence:
+      image_no: 
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
+    
+    - name: 
+      residence:
+      image_no: 
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
+    
+    - name: 
+      residence:
+      image_no: 
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
+    
+    - name: 
+      residence:
+      image_no: 
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
+    
+    - name: 
+      residence:
+      image_no: 
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
+    
+    - name: 
+      residence:
+      image_no: 
       ifile:
       edate:
       vdate:
