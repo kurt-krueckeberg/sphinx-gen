@@ -595,29 +595,34 @@ parish:
       trans: >-
         On August 5, Maria Elisabeth Weiland, wife of Johann Friederich Weiland of Evesen No. 20, age 53 [was buried] 
         
-    - name: 
-      residence:
+    - name: Anna Maria Weiland 
+      residence: Evesen 
       image_no: 190
-      ifile:
-      edate:
-      vdate:
-      url:
-      literal:
-      trans:
+      ifile: petzen-band1b-img190-weiland.png
+      edate: 7 October 1764
+      vdate: 13 September 2026
+      url: https://www.archion.de/p/5d33f5e541/
+      literal: >-
+        d 7t Octobr. Anna Maria Weilands Hermann Heinrich Weilands aus Evesen No [missing] eheliche Tochter alt 9 Jahr
+      trans: >-
+        On October 7, Anna Maria Weiland, the legitimate daughter of Herman Heinrich Weiland of Evesen No. [missing], age 9, [was buried]
+    
+    - name: Anna Maria Weiland
+      residence: Röcke
+      image_no: 191 
+      ifile: petzen-band1b-img191-weiland.png
+      edate: 12 November 1764
+      vdate: 13 September 2026
+      url: https://www.archion.de/p/a6787fee3f/
+      literal: >-
+        d 12t Novembr Anna Maria Weilands Heinrich Ludewigs Weilands Einliegers und Schweinhirtens
+        in Röcke 2ten Ehefrau. alt 35 1/2 Jahr
+      trans: >-
+        On November 12, Anna Maria Weiland, the second wife of Heinrich Ludwig Weiland, a lodger and swineherd in Röcke, aged 35½ years.
     
     - name: 
       residence:
-      image_no: 
-      ifile:
-      edate:
-      vdate:
-      url:
-      literal:
-      trans:
-    
-    - name: 
-      residence:
-      image_no: 
+      image_no: 192
       ifile:
       edate:
       vdate:
