@@ -671,20 +671,22 @@ parish:
       trans: >-
         On June 5, Johann Heinrich Weilandt was buried here, the son of Friederich Wilhelm Weiland of Evesen No. 20 and his wife Anna Ilsabei, née Deerberg. His illness was consumption (tuberculosis), from which he died on June 2 at 9 o’clock in the morning, having reached the age of 3 years and 4 months.
      
-    - name: 
-      residence:
-      image_no:  resume at 200
-      ifile:
-      edate:
-      vdate:
-      url:
-      literal:
-      trans:
+    - name: Anna Ilsabei nee Deerbeerg Weiland 
+      residence: Evesen No. 20
+      image_no: 200
+      ifile: petzen-band1b-img200-weiland.png 
+      edate: 19 March 1769
+      vdate: 13 September 2026
+      url: https://www.archion.de/p/8ebae5ac69/
+      literal: >-
+        d 19t Mar. ist hierselbst beerdigt des Wilhelm Weilands aus Evesen No. 20 Ehefrau Anna Ilsabei geb. Deerbergen. Ihre
+        Kranckheit war eine Auszehrung daran sie d 14t abends gestorben, und ist alt worden 32 Jahr.
+      trans: >-
     
  
     - name: 
       residence:
-      image_no: 
+      image_no: resume 201 
       ifile:
       edate:
       vdate:
