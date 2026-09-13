@@ -620,12 +620,12 @@ parish:
       trans: >-
         On November 12, Anna Maria Weiland, the second wife of Heinrich Ludwig Weiland, a lodger and swineherd in Röcke, aged 35½ years.
     
-    - name: 
-      residence:
+    - name: Herman Heinrich Weiland 
+      residence: Evesen No. 21
       image_no: 192
       ifile: petzen-band1b-img194-weiland.png
-      edate:
-      vdate:
+      edate: 20 April 1767
+      vdate: 13 September 2026
       url: https://www.archion.de/p/2fb6efc2d2/
       literal: >-
         `+` d 20t Apr: ist hier begraben Hermann Heinrich Weilan. aus Evesen No. 21. Seine Krankheit war das Alter und ein
@@ -646,9 +646,34 @@ parish:
       trans: >-
         On April 29, Hans Heinrich Weiland of Evesen No. 21, the youngest son of old Weiland, was buried here. His illness was a wasting fever. He died on April 25 at 10 o’clock in the morning. He was 26 years old.
     
+    - name: Anna Philippina Sophia Weiland
+      residence: Pezerbaum
+      image_no: 196 
+      ifile: petzen-band1b-img196-weiland.png
+      edate: 2 August 1767
+      vdate: 13 September 2026
+      url: https://www.archion.de/p/245c994749/
+      literal: >-
+        d 2t Aug: Anna Philippina Sophia Weilandts des Heinrich Ludewig Weilandts Einliegers in Pezerbaum eheliche
+        Tochter hieselbst beerdiget worden. Ihre Krankheit waren die Blattern und Schürckgen und alt worden 3 3/4 Jahr Ja
+      trans: >-
+        On August 2, Anna Philippina Sophia Weiland, the legitimate daughter of Heinrich Ludwig Weiland, a lodger in Pezerbaum, was buried here. Her illnesses were smallpox and convulsions, and she was 3¾ years old.
+     
+    - name: Johann Heinrich Weiland 
+      residence: Evesen No. 20
+      image_no: 199
+      ifile: petzen-band1b-img199-weiland.png
+      edate: 5 June 1678<
+      vdate: 13 September 2026
+      url: https://www.archion.de/p/3e763100c8/
+      literal: >-
+        d 5t Jun: ist hier beerdiget worden Johann Heinrich Weilandt Friederich Wilhelm Weilands aus Evesen No. 20 mit seiner Ehefrau Anna Ilsabei geb. Deerbergen erzeugter Sohn. Seine Kranckheit war die Auszehrung, daran er d 2t früh um 9 Uhr gestorben da Er alt worden 3 Jahr 4 Monathe.
+      trans: >-
+        On June 5, Johann Heinrich Weilandt was buried here, the son of Friederich Wilhelm Weiland of Evesen No. 20 and his wife Anna Ilsabei, née Deerberg. His illness was consumption (tuberculosis), from which he died on June 2 at 9 o’clock in the morning, having reached the age of 3 years and 4 months.
+     
     - name: 
       residence:
-      image_no: resume 196 
+      image_no:  resume at 200
       ifile:
       edate:
       vdate:
@@ -656,6 +681,95 @@ parish:
       literal:
       trans:
     
+ 
+    - name: 
+      residence:
+      image_no: 
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
+    
+ 
+    - name: 
+      residence:
+      image_no: 
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
+    
+ 
+    - name: 
+      residence:
+      image_no: 
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
+    
+ 
+    - name: 
+      residence:
+      image_no: 
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
+    
+ 
+    - name: 
+      residence:
+      image_no: 
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
+    
+ 
+    - name: 
+      residence:
+      image_no: 
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
+    
+ 
+    - name: 
+      residence:
+      image_no: 
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
+    
+ 
+    - name: 
+      residence:
+      image_no: 
+      ifile:
+      edate:
+      vdate:
+      url:
+      literal:
+      trans:
+    
+
   baptism:
     volume: band1a
     record-symbol: B
