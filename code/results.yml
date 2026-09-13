@@ -684,20 +684,21 @@ parish:
       trans: >-
     
  
-    - name: 
-      residence:
-      image_no: resume 201 
-      ifile:
-      edate:
-      vdate:
-      url:
-      literal:
-      trans:
+    - name: Hermann Heinrich Weilandt 
+      residence: Evesen No. 21 
+      image_no: 201 
+      ifile: 
+      edate: 31 January 1770
+      vdate: 13 September 2026
+      url: https://www.archion.de/p/9c576fd0ff/
+      literal: >-
+        d 31 Jan: ist hieselbst begraben Hermann Heinrich Weilandt aus Evesen No. 21, ein Ehemann. Seine Kranckheit war der Stein, daran derselbe seit 11 Jahren vieles ausgestanden. Er ist gestorben d 26t ejusd. und alt worden 47 Jahr.
+      trans: >-
+        On January 31, Hermann Heinrich Weilandt of Evesen No. 21, a married man, was buried here. His illness was the stone, from which he had suffered greatly for 11 years. He died on the 26th of the same month and reached the age of 47 years.
     
- 
     - name: 
       residence:
-      image_no: 
+      image_no: resume 202
       ifile:
       edate:
       vdate:
