@@ -696,31 +696,34 @@ parish:
       trans: >-
         On January 31, Hermann Heinrich Weilandt of Evesen No. 21, a married man, was buried here. His illness was the stone, from which he had suffered greatly for 11 years. He died on the 26th of the same month and reached the age of 47 years.
     
-    - name: 
-      residence:
+    - name: Friederich Wilhelm Weiland
+      residence: Evesen No. 20
       image_no: 202
-      ifile:
-      edate:
-      vdate:
+      ifile: petzen-band1b-img201-weiland1.png
+      edate: 1 May 1770
+      vdate: 13 September 2026
       url: https://www.archion.de/p/ce6bf47a77/
-      literal:
-      trans:
-    
- 
-    - name: 
-      residence:
+      literal: >-
+        d 1 Maj: ist hieselbst beerdigt Friederich Wilhelm Weiland, des Friederich Wilhelm Weilands aus Evesen No. 20 ehelicher Sohn ersterer Ehe. Seine Kranckheit war die Auszehrung. Sein Alter beträgt 8 Jahr 9 Wochen.
+      trans: >-
+        On May 1, Friederich Wilhelm Weiland was buried here, the legitimate son by the first marriage of Friederich Wilhelm Weiland of Evesen No. 20. His illness was tuberculosis. His age was 8 years and 9 weeks.
+   
+    - name: Hans Heinrich Weiland
+      residence: Evesen No. 20
       image_no: 202 
-      ifile:
-      edate:
-      vdate:
+      ifile: petzen-band1b-img202-weiland2.png
+      edate: 24 June 1770
+      vdate: 13 September 2026
       url: https://www.archion.de/p/ce6bf47a77/
-      literal:
-      trans:
-    
+      literal: >-
+        d 24t Jun: ist hieselbst begraben Hans Heinrich Weiland Friederich Wilhelm Weilands aus Evesen No. 20 ehelicher Sohn. Die Kranckheit waren die Schürckgen.
+        Sein Alter hat er gebracht auf 24 Wochen.
+      trans: >-
+        On June 24, Hans Heinrich Weiland, the legitimate son of Friederich Wilhelm Weiland of Evesen No. 20, was buried here. His illness was convulsions. He had reached the age of 24 weeks
  
     - name: 
       residence:
-      image_no: 
+      image_no:  203
       ifile:
       edate:
       vdate:
