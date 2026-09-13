@@ -569,7 +569,7 @@ parish:
       literal: >-
         14t Octobr. Jobst Heinrich Weiland aus Berenbusch alt 59 Jahr
       trans: >-
-        On OCtober 14, Jobst Heinrich Weiland of Berenbusch age 59 [was buried].
+        On October 14, Jobst Heinrich Weiland of Berenbusch age 59 [was buried].
     
     - name: Anna Sophia Christina Weiland
       residence:
@@ -583,19 +583,21 @@ parish:
       trans:
         On October 25, Anna Sophia Christina Weiland of Evesen, the wife of Heinrich Ludewig Weiland, age 31 1/2 years [was buried]
     
-    - name: 
-      residence:
+    - name: Maria Elisabeth Weiland 
+      residence: Evesen No. 20
       image_no: resume at 188 
-      ifile:
-      edate:
-      vdate:
-      url:
-      literal:
-      trans:
-    
+      ifile: petzen-band1b-img189-weilnad.png
+      edate: 5 August 1764
+      vdate: 13 September 2026
+      url: https://www.archion.de/p/2d4218374e/
+      literal: >-
+        d 5t Augusut Maria Elisabeth Weilands Johann Friederich Weilands aus Evesen No. 20 Ehefrau alt 53 Jahr
+      trans: >-
+        On August 5, Maria Elisabeth Weiland, wife of Johann Friederich Weiland of Evesen No. 20, age 53 [was buried] 
+        
     - name: 
       residence:
-      image_no: 
+      image_no: 190
       ifile:
       edate:
       vdate:
