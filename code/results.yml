@@ -698,22 +698,22 @@ parish:
     
     - name: 
       residence:
-      image_no: resume 202
+      image_no: 202
       ifile:
       edate:
       vdate:
-      url:
+      url: https://www.archion.de/p/ce6bf47a77/
       literal:
       trans:
     
  
     - name: 
       residence:
-      image_no: 
+      image_no: 202 
       ifile:
       edate:
       vdate:
-      url:
+      url: https://www.archion.de/p/ce6bf47a77/
       literal:
       trans:
     
