@@ -721,38 +721,43 @@ parish:
       trans: >-
         On June 24, Hans Heinrich Weiland, the legitimate son of Friederich Wilhelm Weiland of Evesen No. 20, was buried here. His illness was convulsions. He had reached the age of 24 weeks
  
-    - name: 
-      residence:
+    - name: Christina Margaretha Weiland
+      residence: Evesen
       image_no:  203
-      ifile:
-      edate:
-      vdate:
-      url:
-      literal:
-      trans:
-    
+      ifile: petzen-band1b-img203-weiland.png
+      edate: 3 March 1771
+      vdate: 13 September 2026
+      url: https://www.archion.de/p/5d8dbf9cc0/
+      literal: >-
+        d 3t Mart ist beerdigt des Johann Christian Weilands Einliegers in Evesen Tochter Christina Margaretha.
+        Ihre Kranckheit war die Brustkranckheit. Ihr Alter 12 Wochen. 
+      trans: >-
+        On March 3, Christina Margaretha, daughter of Johann Christian Weiland, a lodger in Evesen, was buried. Her illness was pneumonia. She was 12 weeks old.
  
-    - name: 
-      residence:
-      image_no: 
-      ifile:
-      edate:
-      vdate:
-      url:
-      literal:
-      trans:
+    - name: Anna Christina Margaretha Weiland
+      residence: Röcke
+      image_no: 204
+      ifile: petzen-band1b-img204-weiland.png
+      edate: 
+      vdate: 13 September 2026
+      url: https://www.archion.de/p/f546e2864d/
+      literal: >-
+        d 22t Decembr ist beerdigt Anna Christina Margaretha Weilands, des Heinrich Ludewig Weilands, Einliegers in Röcke, eheliche Tochter.
+        Sie ist gestorben an der Brustkranckheit und alt worden 1 3/4 Jahr.
+      trans: >-
+        On December 22, Anna Christina Margaretha Weiland, legitimate daughter of Heinrich Ludewig Weiland, a lodger in Röcke, was buried. She died of pneumonia and was 1¾ years old.
     
- 
-    - name: 
-      residence:
-      image_no: 
-      ifile:
-      edate:
-      vdate:
-      url:
-      literal:
+    - name: Sophia Christina Weiland
+      residence: Evesen No. 20
+      image_no: 207 
+      ifile: petzen-band1b-img207-weiland.png
+      edate: 17 April 1772
+      vdate: 13 Septemb 2026
+      url: https://www.archion.de/p/f5395f06bb/
+      literal: >-
+        d 17t Apr: ist begraben Sophia Christina Weilands Friederich Wilhelm Weilands aus Evesen No. 20 Tochter. Ihre Kranckheit war die Auszufrung. Ihr Alter 5 Jahr.
       trans:
-    
+        On April 17, Sophia Christina Weiland, daughter of Friederich Wilhelm Weiland of Evesen No. 20, was buried. Her illness was tuberculosis. She was 5 years old.
  
     - name: 
       residence:
