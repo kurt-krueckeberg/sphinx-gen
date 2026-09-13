@@ -623,26 +623,32 @@ parish:
     - name: 
       residence:
       image_no: 192
-      ifile:
+      ifile: petzen-band1b-img194-weiland.png
       edate:
       vdate:
-      url:
-      literal:
-      trans:
+      url: https://www.archion.de/p/2fb6efc2d2/
+      literal: >-
+        `+` d 20t Apr: ist hier begraben Hermann Heinrich Weilan. aus Evesen No. 21. Seine Krankheit war das Alter und ein
+        Schlagfluß. Er ist gestorben d 15t ejuso: u[nd] alt worden 76 Jahr 2 Monathe und 2 Wochen.
+      trans: >-
+        On April 20, Hermann Heinrich Weiland of Evesen, No. 21, was buried here. His illness was old age and a stroke. He died on April 15 of the same month and had reached the age of 76 years, 2 months, and 2 weeks.
+
+    - name: Hans Heinrich Weiland 
+      residence: Evesen No. 21
+      image_no: 195
+      ifile: petzen-band1b-img195-weiland.png
+      edate: 29 April 1767
+      vdate: 13 September 2026
+      url: https://www.archion.de/p/1f6ff3d2ab/
+      literal: >-
+        d 29t Apr: ist hieselbst beerdiget worden Hans Heinrich Weiland aus Evesen No. 21 des alten Weilands jüngster Sohn. Seine Krankheit war ein
+        verzehrendes Fieber. Er ist gestorben d 25t Apr: früh um 10 Uhr. Sein Alter ist 26 Jahr.
+      trans: >-
+        On April 29, Hans Heinrich Weiland of Evesen No. 21, the youngest son of old Weiland, was buried here. His illness was a wasting fever. He died on April 25 at 10 o’clock in the morning. He was 26 years old.
     
     - name: 
       residence:
-      image_no: 
-      ifile:
-      edate:
-      vdate:
-      url:
-      literal:
-      trans:
-    
-    - name: 
-      residence:
-      image_no: 
+      image_no: resume 196 
       ifile:
       edate:
       vdate:
