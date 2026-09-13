@@ -759,27 +759,203 @@ parish:
       trans:
         On April 17, Sophia Christina Weiland, daughter of Friederich Wilhelm Weiland of Evesen No. 20, was buried. Her illness was tuberculosis. She was 5 years old.
  
-    - name: 
-      residence:
+    - name: Anna Catharina Weiland
+      residence: not given
       image_no: resume 208 
-      ifile:
-      edate:
-      vdate:
-      url:
-      literal:
-      trans:
+      ifile: petzen-band1b-img208-weiland.png
+      edate: 2 March 1773
+      vdate: 13 Septemb 2026
+      url: https://www.archion.de/p/e4e74055c1/
+      literal: >-
+        d 2t Mar: ist dieselbst begraben Anna Catharina Weiland, Herman Heinrich Weilands aus Evesen nachgelaßene Wittwe. Ihre Kranckheit war die Waßersucht. Ihr Alter 70 Jahr.
+      trans: >-
+        On 2 March, Anna Catharina Weiland, the surviving widow of Herman Heinrich Weiland of Evesen, was buried there. Her illness was dropsy (edema). Her age was 70 years.
     
+    - name:  Friderich Weiland
+      residence: Evesen No. 20
+      image_no:  210
+      ifile: petzen-band1b-img210-weiland1.png
+      edate: 25 May 1773
+      vdate: 13 September 2026
+      url: https://www.archion.de/p/4499092089/
+      literal: >-
+        d 25t Maj: ist begraben Friderich Weilandt ein Wittwer aus Evesen No 20. Seine Kranckheit war die Auszehrung. Sein Alter 67 Jahr.
+      trans: >-
+        On 25 May, Friderich Weilandt, a widower from Evesen No. 20, was buried. His illness was tuberculosis. His age was 67 years.
+
+  - name: Johann Tönnies Friderih Weiland
+    residence:
+    image_no: 210
+    ifile: petzen-band1b-img210-weiland2.png
+    edate: 12 November 1773
+    vdate: 13 September 2026
+    url: https://www.archion.de/p/465ffb34dc/
+    literal: >-
+      d 12t Novembr ist begraben Johann Tönnies Friderich Weiland, Friederich Wilhelm Weilands aus Evesen No. 20 ehelicher Sohn. Seine Kranckheit waren die Schürckgen.
+      Sein Alter 8 Wochen.
+    trans: >-
+      On 12 November, Johann Tönnies Friderich Weiland, the legitimate son of Friederich Wilhelm Weiland of Evesen No. 20, was buried. His illness was convulsions. His age was 8 weeks.
+  
+  - name:
+    residence:
+    image_no: reume at 211
+    ifile: 
+    edate:
+    vdate:
+    url: 
+    literal:
+    trans:
  
-    - name: 
-      residence:
-      image_no: 
-      ifile:
-      edate:
-      vdate:
-      url:
-      literal:
-      trans:
-    
+  - name:
+    residence:
+    image_no:
+    ifile: 
+    edate:
+    vdate:
+    url: 
+    literal:
+    trans:
+ 
+  - name:
+    residence:
+    image_no:
+    ifile: 
+    edate:
+    vdate:
+    url: 
+    literal:
+    trans:
+
+ 
+  - name:
+    residence:
+    image_no:
+    ifile: 
+    edate:
+    vdate:
+    url: 
+    literal:
+    trans:
+ 
+  - name:
+    residence:
+    image_no:
+    ifile: 
+    edate:
+    vdate:
+    url: 
+    literal:
+    trans:
+ 
+  - name:
+    residence:
+    image_no:
+    ifile: 
+    edate:
+    vdate:
+    url: 
+    literal:
+    trans:
+
+  - name:
+    residence:
+    image_no:
+    ifile: 
+    edate:
+    vdate:
+    url: 
+    literal:
+    trans:
+
+  - name:
+    residence:
+    image_no:
+    ifile: 
+    edate:
+    vdate:
+    url: 
+    literal:
+    trans:
+ 
+  - name:
+    residence:
+    image_no:
+    ifile: 
+    edate:
+    vdate:
+    url: 
+    literal:
+    trans:
+
+  - name:
+    residence:
+    image_no:
+    ifile: 
+    edate:
+    vdate:
+    url: 
+    literal:
+    trans:
+ 
+  - name:
+    residence:
+    image_no:
+    ifile: 
+    edate:
+    vdate:
+    url: 
+    literal:
+    trans:
+
+  - name:
+    residence:
+    image_no:
+    ifile: 
+    edate:
+    vdate:
+    url: 
+    literal:
+    trans:
+
+  - name:
+    residence:
+    image_no:
+    ifile: 
+    edate:
+    vdate:
+    url: 
+    literal:
+    trans:
+ 
+  - name:
+    residence:
+    image_no:
+    ifile: 
+    edate:
+    vdate:
+    url: 
+    literal:
+    trans:
+
+  - name:
+    residence:
+    image_no:
+    ifile: 
+    edate:
+    vdate:
+    url: 
+    literal:
+    trans:
+
+  - name:
+    residence:
+    image_no:
+    ifile: 
+    edate:
+    vdate:
+    url: 
+    literal:
+    trans:
 
   baptism:
     volume: band1a
