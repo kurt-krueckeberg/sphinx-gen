@@ -559,29 +559,33 @@ parish:
       trans: >-
         On February 1, Anna Catharine Weilands of Bünte's place in Nammen was buried age 59
 
-    - name: 
+    - name: Jobst Heinrich Weiland
+      residence: Berenbusch
+      image_no: 186 
+      ifile: petzen-band1b-img186-weiland1.png 
+      edate: 14 October 1761
+      vdate: 12 Spetember 2026
+      url: https://www.archion.de/p/c43da5eb71/
+      literal: >-
+        14t Octobr. Jobst Heinrich Weiland aus Berenbusch alt 59 Jahr
+      trans: >-
+        On OCtober 14, Jobst Heinrich Weiland of Berenbusch age 59 [was buried].
+    
+    - name: Anna Sophia Christina Weiland
       residence:
-      image_no: resume at 186 
-      ifile:
-      edate:
-      vdate:
-      url:
-      literal:
+      image_no: 186
+      ifile: petzen-band1b-img186-weiland2.png
+      edate: 25 October 1761
+      vdate: 12 September 2026
+      url: https://www.archion.de/p/c43da5eb71/
+      literal: >-
+        d 25th Octobr. Anna Sophia Christina Weiland aus Evesen Heinrich Ludewigs Weilands Ehefrau alt 31 1/2 Jahr
       trans:
+        On October 25, Anna Sophia Christina Weiland of Evesen, the wife of Heinrich Ludewig Weiland, age 31 1/2 years [was buried]
     
     - name: 
       residence:
-      image_no: 
-      ifile:
-      edate:
-      vdate:
-      url:
-      literal:
-      trans:
-    
-    - name: 
-      residence:
-      image_no: 
+      image_no: resume at 187 
       ifile:
       edate:
       vdate:
