@@ -39,8 +39,7 @@ Deaths in [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.arch
 **TODO:** The table further below supposedly shows the burial reviewed, but
 it does not reflect this comment: Review deaths from range of image 144 thru 186.
 
-So this much is **certain as of 9 Spetember 2026**: I definitely have reviewed images
-153-207 for burials and added the Weiland burial found to `results.yml`.
+I definitely have reviewed images 153-207 for burials and added the Weiland burial found to `results.yml`.
 
 **Re-reviewed:** Completed 70-96.
 
