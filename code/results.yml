@@ -884,13 +884,15 @@ parish:
  
   - name:
     residence:
-    image_no: 229 One Weiland.
-    ifile: 
-    edate:
-    vdate:
-    url: 
-    literal:
-    trans:
+    image_no: 229
+    ifile: petzen-badn1b-img229-weiland.png 
+    edate: 11 March 1782
+    vdate: 14 September 2026
+    url: https://www.archion.de/p/66bd6bad06/ 
+    literal: >-
+      9) d 11 Mart: ist begraben Anna Philippina Weilands des Johan Christian Weilands Einliegers in Peezen eheliche Tochter. Sie ist gestorben an den Schürckgen. Ihres Alters 22 Wochen.
+    trans: >-
+      9) On 11 March, Anna Philippina Weiland, legitimate daughter of Johan Christian Weiland, a lodger in Peezen, was buried. She died of convulsions. She was 22 weeks old.
 
   - name:
     residence:
