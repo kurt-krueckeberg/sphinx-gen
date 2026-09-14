@@ -820,19 +820,46 @@ parish:
     trans: >-
       On July 17, Johann Christian Weiland’s stillborn little son in Peezen was buried.
   
-  - name:
-    residence:
-    image_no: 221 Weiland on right page.
-    ifile: 
-    edate:
-    vdate:
-    url: 
-    literal:
-    trans:
+  - name: Sophia Eleonora Weiland
+    residence: Evesen No. 21
+    image_no: 221 
+    ifile: petzen-band1b-img221-weiland2.png
+    edate: 23 October 1778
+    vdate: 14 September 2026
+    url: https://www.archion.de/p/2f6401501d/ 
+    literal: >-
+      17) d 23t Octobr ist beerdigt Sophia Eleonora Weilands des Johann Heinrich Weilands aus Evesen No. 21 eheliche Tochter.
+      Sie ist gestorben an den Schürckgen und alt worden 3 Wochen und 2 Tage.
+    trans: >-
+      17) On 23 October, Sophia Eleonora Weiland, legitimate daughter of Johann Heinrich Weiland of Evesen No. 21, was buried. She died of convulsions and was 3 weeks and 2 days old.
 
+  - name: Johann Heinrich Weiland
+    residence: sand-pit area of Evesen
+    image_no: 222
+    ifile: petzen-band1b-image222-weiland.png 
+    edate: 19 January 
+    vdate: 14 Septembere 2026
+    url: https://www.archion.de/p/4bbaa28906/ 
+    literal: >-
+      3) d 19t Jan. ist beerdigt Johann Heinrich Weilandt des Johann Heinrich Weilands aus Evesen von der Sandkuhle ehelicher Sohn. Er starb an den Blattern alt 2 Jahr 10 Wochen.
+    trans: >-
+     On 19 January, Johann Heinrich Weilandt was buried, the legitimate son of Johann Heinrich Weiland, from the sand-pit area of Evesen. He died of smallpox, aged 2 years and 10 weeks. 
+  
+  - name: Johanna Sophia Weiland
+    residence: no residence given
+    image_no: 223
+    ifile: petzen-band1b-img223-weiland1.png 
+    edate: 18 February 1779
+    vdate: 14 September 2026
+    url: https://www.archion.de/p/a1da0fd1af/ 
+    literal: >-
+      2) d 18t Febr ist begraben Johanna Sophia Weilands des Ludewig Weilands nachgelaßene Tochter. Sie ist gestorben an der Auszehrung. Alt 11 Jahr.
+    trans: >-
+      2) On 18 February, Johanna Sophia Weiland, the surviving daughter of the late Ludewig Weiland, was buried. She died of tuberculosis. Age 11 years.
+ 
   - name:
     residence:
-    image_no: 222 one Weiland.
+    image_no: 223 2nd Weiland burial.
     ifile: 
     edate:
     vdate:
@@ -840,9 +867,10 @@ parish:
     literal:
     trans:
  
+
   - name:
     residence:
-    image_no: 223 Three Weiland.
+    image_no: 223 third Weiland burial
     ifile: 
     edate:
     vdate:
