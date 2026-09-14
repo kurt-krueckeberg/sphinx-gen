@@ -44,7 +44,10 @@ Mönchhofs Sohn und Hermen Henrich Steding [unclear] zu Evesen.
 ## Translation
 
 ```{div} doc-text
-5 July: Friedrich Wilhelm Weiland was baptized, born at Steinmann’s holding in Nammen. Parent: Heinrich Ludwig Weiland of Evesen. Sponsors: Pichtmeier, Mönchhof’s son, and Hermann Heinrich Steding [unclear] of Evesen.
+15 July: Friedrich Wilhelm Weiland was baptized, born at Steinmann’s
+holding in Nammen. Parent: Heinrich Ludwig Weiland of Evesen. Sponsors:
+Pichtmeier, Mönchhof’s son, and Hermann Heinrich Steding [unclear] of
+Evesen.
 ```
 
 ## Citation
