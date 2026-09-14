@@ -36,7 +36,7 @@ Petzen Parish, 1641-1784"
 ## Transliteration 
 
 ```{div} doc-text
-d 15t Julii Friderich Wilhelm Weiland getaufft, auf Steinmans Stelle zu
+d 15t Julii Friderich Wilhelm Weiland getaufft, auf Steinmans Stette zu
 Nammen geboren. Parens Henrich Ludowig Weiland zu Evesen. Gev. Pichtmeier
 Mönchhofs Sohn und Hermen Henrich Steding [unclear] zu Evesen.
 ```
