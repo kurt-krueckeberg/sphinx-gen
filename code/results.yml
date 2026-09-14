@@ -311,18 +311,6 @@ parish:
 #     literal:
 #     trans:
  
-    - name: 
-      residence:
-      image_no: 153
-      ifile:
-      edate: 4 November 1735
-      vdate: 9 September 2026
-      url: https://www.archion.de/p/fd52dd5f8c/
-      literal: >-
-        Margareta Elisabeth Weilands Hans Harman Weilands militis tochter, begrab. æt. 6. & 39 [Wochen?]
-      trans: >-
-        November the 4th: Margareta Elisabeth, [daughter of] the late Hans Harman Weiland, soldier, buried, aged 6 [years] and 39 weeks.
- 
     - name: Johann Friedrich Krückeberg
       residence: Behrenbusch
       image_no: 159
@@ -547,8 +535,8 @@ parish:
       trans:
         On November 23,  Johann Tönnies Weiland of Nammen was buried age 82
      
-    - name: 
-      residence: 
+    - name: Anna Catharine Weilands 
+      residence: Nammen 
       image_no: 184
       ifile: petzen-band1b-img184-weiland2.png
       edate: 1 February 1761
@@ -821,8 +809,8 @@ parish:
       2) On January 16, Anna Sophia Philippina Eleonora Weiland was buried, the legitimate daughter of Johann Heinrich Wilhelm Weiland of Nordholz. She died of convulsions in her 11th week of life. 
  
   - name:
-    residence:
-    image_no: resume at 217
+    residence: 
+    image_no: resume at 221. There are two Weilands, one on left page, one on right.
     ifile: 
     edate:
     vdate:
@@ -833,7 +821,7 @@ parish:
  
   - name:
     residence:
-    image_no:
+    image_no: 222 one Weiland.
     ifile: 
     edate:
     vdate:
@@ -843,7 +831,7 @@ parish:
  
   - name:
     residence:
-    image_no:
+    image_no: 223 Three Weiland.
     ifile: 
     edate:
     vdate:
@@ -853,7 +841,7 @@ parish:
  
   - name:
     residence:
-    image_no:
+    image_no: 229 One Weiland.
     ifile: 
     edate:
     vdate:
@@ -863,7 +851,7 @@ parish:
 
   - name:
     residence:
-    image_no:
+    image_no: 234 One Weiland.
     ifile: 
     edate:
     vdate:
@@ -873,87 +861,7 @@ parish:
 
   - name:
     residence:
-    image_no:
-    ifile: 
-    edate:
-    vdate:
-    url: 
-    literal:
-    trans:
- 
-  - name:
-    residence:
-    image_no:
-    ifile: 
-    edate:
-    vdate:
-    url: 
-    literal:
-    trans:
-
-  - name:
-    residence:
-    image_no:
-    ifile: 
-    edate:
-    vdate:
-    url: 
-    literal:
-    trans:
- 
-  - name:
-    residence:
-    image_no:
-    ifile: 
-    edate:
-    vdate:
-    url: 
-    literal:
-    trans:
-
-  - name:
-    residence:
-    image_no:
-    ifile: 
-    edate:
-    vdate:
-    url: 
-    literal:
-    trans:
-
-  - name:
-    residence:
-    image_no:
-    ifile: 
-    edate:
-    vdate:
-    url: 
-    literal:
-    trans:
- 
-  - name:
-    residence:
-    image_no:
-    ifile: 
-    edate:
-    vdate:
-    url: 
-    literal:
-    trans:
-
-  - name:
-    residence:
-    image_no:
-    ifile: 
-    edate:
-    vdate:
-    url: 
-    literal:
-    trans:
-
-  - name:
-    residence:
-    image_no:
+    image_no: 236 two Weilands. No more after 236.
     ifile: 
     edate:
     vdate:
