@@ -870,15 +870,17 @@ parish:
     trans: >-
       7) On 21 April, Sophia Elisabeth Weiland, wife of Johann Heinrich Weiland of Evesen, was buried. She died of tuberculosis. Age 27 years, 27 weeks.
 
-  - name:
-    residence:
-    image_no: 223 third Weiland burial
-    ifile: 
-    edate:
-    vdate:
-    url: 
-    literal:
-    trans:
+  - name: Anna Philippina Weiland
+    residence: Peezen
+    image_no: 223 
+    ifile: petzen-band1b-img223-weiland3.png
+    edate: 19 September 1779
+    vdate: 14 September 2026
+    url: https://www.archion.de/p/bf8bf4c392/ 
+    literal: >-
+      23) d 19t Septbr ist begraben Anna Philippina Weiland des Johann Christian Weilands Einliegers in Peezen eheliche Tochter. Sie ist an den Schürckgen gestorben. Ihres Alters 4 3/4 Jahr.
+    trans: >-
+     23) On 19 September, Anna Philippina Weiland, legitimate daughter of Johann Christian Weiland, a lodger in Peezen, was buried. She died of convulsions. She was 4¾ years old. 
  
   - name:
     residence:
