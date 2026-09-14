@@ -808,9 +808,21 @@ parish:
     trans: >-
       2) On January 16, Anna Sophia Philippina Eleonora Weiland was buried, the legitimate daughter of Johann Heinrich Wilhelm Weiland of Nordholz. She died of convulsions in her 11th week of life. 
  
-  - name:
-    residence: 
+  - name: Stillborn Weiland son
+    residence: Peezen
     image_no: resume at 221. There are two Weilands, one on left page, one on right.
+    ifile: petzen-band1b-img221-weiland1.png
+    edate: 17 July 1776
+    vdate: 14 September 2026
+    url: https://www.archion.de/p/d22ff46e3e/ 
+    literal: >-
+      13) d. 17t Jul. ist des Johann Christian Weilands in Peezen todtgebohrenes Söhnlein begraben.
+    trans: >-
+      On July 17, Johann Christian Weiland’s stillborn little son in Peezen was buried.
+  
+  - name:
+    residence:
+    image_no: 221 Weiland on right page.
     ifile: 
     edate:
     vdate:
@@ -818,7 +830,6 @@ parish:
     literal:
     trans:
 
- 
   - name:
     residence:
     image_no: 222 one Weiland.
