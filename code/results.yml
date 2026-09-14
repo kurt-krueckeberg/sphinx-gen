@@ -857,16 +857,18 @@ parish:
     trans: >-
       2) On 18 February, Johanna Sophia Weiland, the surviving daughter of the late Ludewig Weiland, was buried. She died of tuberculosis. Age 11 years.
  
-  - name:
-    residence:
-    image_no: 223 2nd Weiland burial.
-    ifile: 
-    edate:
-    vdate:
-    url: 
-    literal:
-    trans:
- 
+  - name: Sophia Elisabeth Weiland
+    residence: Evesen
+    image_no: 223
+    ifile: petzen-band1b-img223-weiland2.png
+    edate: 21 April 1779
+    vdate: 14 September 2026
+    url: https://www.archion.de/p/a999b29a5d/ 
+    literal: >-
+      7) d 21t Apr: ist begraben Sophia Elisabeth Weiland des Johann Heinrich Weilands aus Evesen Ehefrau. Sie ist gestorben an der
+      Auszehrung. Alt 27 Jahr 27 Wochen.
+    trans: >-
+      7) On 21 April, Sophia Elisabeth Weiland, wife of Johann Heinrich Weiland of Evesen, was buried. She died of tuberculosis. Age 27 years, 27 weeks.
 
   - name:
     residence:
