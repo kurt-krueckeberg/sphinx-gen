@@ -30,6 +30,7 @@ page, first entry <PET-B-1753b>` from the "Register of Baptism and Confirmed of 
 Petzen Parish, 1641-1784"
 
 ```{figure} images/petzen-band1a-img188-left2.jpg
+:class: image-override
 ```
 
 ## Transliteration 
