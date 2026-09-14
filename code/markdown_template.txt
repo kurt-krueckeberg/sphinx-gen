@@ -1,4 +1,4 @@
-# %year% %name% %uevent%
+# %year% %name% of %residence% %uevent%
 
 ## Record
 
