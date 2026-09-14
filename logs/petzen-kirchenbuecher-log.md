@@ -36,8 +36,7 @@ Marriage images reviewed in the Petzen Kirchenbuch
 
 Deaths in [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.archion.de/de/viewer/churchRegister/329074?coords=2867%2C3103&degree=0&pageId=46233839&zoom=9&cHash=ec75f91f5aac73eb584b722079fa7e13).
 
-**TODO:** The table further below supposedly shows the burial reviewed, but
-it does not reflect this comment: Review deaths from range of image 144 thru 186.
+**TODO:** re-review images 118 through 152.
 
 I definitely have reviewed images 153-239 for burials and added the Weiland burials found to `results.yml`.
 
