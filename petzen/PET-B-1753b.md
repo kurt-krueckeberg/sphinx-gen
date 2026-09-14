@@ -36,19 +36,15 @@ Petzen Parish, 1641-1784"
 ## Transliteration 
 
 ```{div} doc-text
-d 15t Julii Friderich Wilhelm Weiland
-getauft auf Steinmans Stette zu Nammen geborn.
-Parens Henrich Ludowig Weiland zu Evesen.
-Gev. Pichtmeier Mönchhofs Sohn und Hermen Henrich
-Steding fil[.?] zu Evesen
+d 15t Julii Friderich Wilhelm Weiland getaufft, auf Steinmans Stelle zu
+Nammen geboren. Parens Henrich Ludowig Weiland zu Evesen. Gev. Pichtmeier
+Mönchhofs Sohn und Hermen Henrich Steding [unclear] zu Evesen.
 ```
 
 ## Translation
 
 ```{div} doc-text
-On 15 July, Friderich Wilhelm Weiland was baptized. He was born
-at Steinman’s place in Nammen. The father was Henrich Ludowig Weiland of Evesen.\
-The godparents were Pichtmeier, Mönchhof's son and Herman Henrich Steding’s son [?] of Evesen.
+5 July: Friedrich Wilhelm Weiland was baptized, born at Steinmann’s holding in Nammen. Parent: Heinrich Ludwig Weiland of Evesen. Sponsors: Pichtmeier, Mönchhof’s son, and Hermann Heinrich Steding [unclear] of Evesen.
 ```
 
 ## Citation
