@@ -707,7 +707,7 @@ parish:
         d 24t Jun: ist hieselbst begraben Hans Heinrich Weiland Friederich Wilhelm Weilands aus Evesen No. 20 ehelicher Sohn. Die Kranckheit waren die Schürckgen.
         Sein Alter hat er gebracht auf 24 Wochen.
       trans: >-
-        On June 24, Hans Heinrich Weiland, the legitimate son of Friederich Wilhelm Weiland of Evesen No. 20, was buried here. His illness was convulsions. He had reached the age of 24 weeks
+        On June 24, Hans Heinrich Weiland, the legitimate son of Friederich Wilhelm Weiland of Evesen No. 20, was buried here. His illness was febrile illness. He had reached the age of 24 weeks
  
     - name: Christina Margaretha Weiland
       residence: Evesen
@@ -782,7 +782,7 @@ parish:
         d 12t Novembr ist begraben Johann Tönnies Friderich Weiland, Friederich Wilhelm Weilands aus Evesen No. 20 ehelicher Sohn. Seine Kranckheit waren die Schürckgen.
         Sein Alter 8 Wochen.
       trans: >-
-        On 12 November, Johann Tönnies Friderich Weiland, the legitimate son of Friederich Wilhelm Weiland of Evesen No. 20, was buried. His illness was convulsions. His age was 8 weeks.
+        On 12 November, Johann Tönnies Friderich Weiland, the legitimate son of Friederich Wilhelm Weiland of Evesen No. 20, was buried. His illness was a febrile illness. His age was 8 weeks.
     
     - name: Ludewig Weiland
       residence: Evesen
@@ -806,7 +806,7 @@ parish:
       literal: >-
         2) Den 16. Januar ist beerdigt Anna Sophia Philippina Eleonora Weilands, des Johann Heinrich Wilhelm Weilands aus Nordholtz eheliche Tochter. Sie ist an den Schürckgen in der 11. Woche gestorben.
       trans: >-
-        2) On January 16, Anna Sophia Philippina Eleonora Weiland was buried, the legitimate daughter of Johann Heinrich Wilhelm Weiland of Nordholz. She died of convulsions in her 11th week of life. 
+        2) On January 16, Anna Sophia Philippina Eleonora Weiland was buried, the legitimate daughter of Johann Heinrich Wilhelm Weiland of Nordholz. She died of a febrile illness in her 11th week of life. 
   
     - name: Stillborn Weiland son
       residence: Peezen
@@ -831,7 +831,7 @@ parish:
         17) d 23t Octobr ist beerdigt Sophia Eleonora Weilands des Johann Heinrich Weilands aus Evesen No. 21 eheliche Tochter.
         Sie ist gestorben an den Schürckgen und alt worden 3 Wochen und 2 Tage.
       trans: >-
-        17) On 23 October, Sophia Eleonora Weiland, legitimate daughter of Johann Heinrich Weiland of Evesen No. 21, was buried. She died of convulsions and was 3 weeks and 2 days old.
+        17) On 23 October, Sophia Eleonora Weiland, legitimate daughter of Johann Heinrich Weiland of Evesen No. 21, was buried. She died of a febrile illness. and was 3 weeks and 2 days old.
  
     - name: Johann Heinrich Weiland
       residence: sand-pit area of Evesen
@@ -880,7 +880,7 @@ parish:
       literal: >-
         23) d 19t Septbr ist begraben Anna Philippina Weiland des Johann Christian Weilands Einliegers in Peezen eheliche Tochter. Sie ist an den Schürckgen gestorben. Ihres Alters 4 3/4 Jahr.
       trans: >-
-       23) On 19 September, Anna Philippina Weiland, legitimate daughter of Johann Christian Weiland, a lodger in Peezen, was buried. She died of convulsions. She was 4¾ years old. 
+       23) On 19 September, Anna Philippina Weiland, legitimate daughter of Johann Christian Weiland, a lodger in Peezen, was buried. She died of a febrile illness. She was 4¾ years old. 
   
     - name: Anna Philippina Weiland
       residence: Peezen
@@ -892,27 +892,49 @@ parish:
       literal: >-
         9) d 11 Mart: ist begraben Anna Philippina Weilands des Johan Christian Weilands Einliegers in Peezen eheliche Tochter. Sie ist gestorben an den Schürckgen. Ihres Alters 22 Wochen.
       trans: >-
-        9) On 11 March, Anna Philippina Weiland, legitimate daughter of Johan Christian Weiland, a lodger in Peezen, was buried. She died of convulsions. She was 22 weeks old.
+        9) On 11 March, Anna Philippina Weiland, legitimate daughter of Johan Christian Weiland, a lodger in Peezen, was buried. She died of a febrile illness. She was 22 weeks old.
 
-# - name:
-#   residence:
-#   image_no: 234 One Weiland.
-#   ifile: 
-#   edate:
-#   vdate:
-#   url: 
-#   literal:
-#   trans:
+  - name: Johann Heinrich Weilandt
+    residence: Notdholtz
+    image_no: 234 
+    ifile: petzen-band1b-img234-weiland.png
+    edate: 7 March 1784
+    vdate: 14 September 2026
+    url: https://www.archion.de/p/a3107efa50/ 
+    literal: |
+      5) d 7t Mart. ist Johann Heinrich Weilandt ein Ehemann aus Nordholtz begraben. Er ist gestorben an der Brustkranckheit. Sein Alters 28 1/2 Jahr.
 
-# - name:
-#   residence:
-#   image_no: 236 two Weilands.
-#   ifile: 
-#   edate:
-#   vdate:
-#   url: 
-#   literal:
-#   trans:
+      get. 7.9.55
+      cop. 24.4.74 
+    trans: |
+      On 7 March, Johann Heinrich Weilandt, a married man from Nordholz, was buried. He died of pneumonia. His age was 28½ years.
+
+      Baptized 7 September 1755
+      Married 24 April 1774
+
+  - name: Philippine Eleonore Weiland
+    residence: not specified
+    image_no: 236
+    ifile:  
+    edate: 4 May 1784
+    vdate: 13 September 2026
+    url: https://www.archion.de/p/39c9749e3f/ 
+    literal: >-
+      26) Eodem ist Philippine Eleonore Weilands ein Hurkind beerdigt. Sie ist gestorben an den Schürckgen. Ihres Alters 4 Wochen.
+    trans: >-
+      26) On the same day, Philippine Eleonore Weiland, an illegitimate child, was buried. She died of a febrile childhood illness. She was 4 weeks old.
+
+  - name:
+    residence:
+    image_no: 236
+    ifile: petzen-band1b-img236-weiland2.png
+    edate: 26 May 1784
+    vdate: 13 September 2026
+    url: https://www.archion.de/p/b40210d311/
+    literal: >-
+      35) d 26t [May] ist Sophia Christina Weilandts des Johann Christian Weilandts Einliegers in Peezen Tochter begraben. Sie ist gestorben an den Blattern.
+      Ihres Alters 1 Jahr 14 Wochen.
+    trans: >-
 
   baptism:
     volume: band1a
