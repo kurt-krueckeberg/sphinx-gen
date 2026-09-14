@@ -796,25 +796,29 @@ parish:
     trans: >-
       On 12 November, Johann Tönnies Friderich Weiland, the legitimate son of Friederich Wilhelm Weiland of Evesen No. 20, was buried. His illness was convulsions. His age was 8 weeks.
   
-  - name:
-    residence:
-    image_no: reume at 211
-    ifile: 
-    edate:
-    vdate:
-    url: 
-    literal:
-    trans:
+  - name: Ludewig Weiland
+    residence: Evesen
+    image_no: 214
+    ifile: petzen-band1b-img214-weiland.png
+    edate: 24 February 1775
+    vdate: 13 September 2026
+    url: https://www.archion.de/p/191f212d91/ 
+    literal: >-
+      13) d. 24t Febr. ist beerdigt Ludewig Weilandts, ein Ehemann und Einlieger in Evesen. Er ist gestorben an der Engbrüstigkeit und alt worden 48 Jahr.
+    trans: >-
+      13) On February 24, Ludewig Weilandts, a married man and lodger in Evesen, was buried. He died of emphysema and was 48 years old.
  
-  - name:
-    residence:
-    image_no:
-    ifile: 
-    edate:
-    vdate:
-    url: 
-    literal:
-    trans:
+  - name: Anna Sophia Eleonore Weiland
+    residence: Nordholtz
+    image_no: 216
+    ifile: petzen-band1b-img216-weiland.png
+    edate: 2 January 1775
+    vdate: 13 September 2026
+    url: https://www.archion.de/p/b3dd3d68dc/ 
+    literal: >-
+      2) d 16t Jan TO BE COMPLETED
+    trans: >-
+      TO BE COMPLETED
  
   - name:
     residence:
