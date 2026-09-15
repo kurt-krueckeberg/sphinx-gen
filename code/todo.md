@@ -1,6 +1,6 @@
 # TODO
 
-Re-review burials from image 118 to 152.  
+Re-review burials from image the begnning of the volume up through 158.
 
 I already have on the website burials for these images:
 
@@ -27,7 +27,7 @@ Currently Reviewed:
 * - 119-124
   - nothing found
   - nothing found
-* - 125-141 added to results.yml
+* - 125-158 added to results.yml
   - various
   - various
 ``` 

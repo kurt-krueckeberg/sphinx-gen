@@ -198,18 +198,20 @@ parish:
       edate: 8 December 1676
       vdate: 28 August 2026 
       url: https://www.archion.de/p/c49ee4a701/
-      literal: "[unclear] Wilandts kleines Mätigen zu Petzen den 8 Decemb. begraben"
-      trans: "[unclear] Wilandts little daughter at Petzen den 8 Decemb buried."
+      literal: "[unclear] Wilandts Mätigen zu Petzen den 8 Decemb. begraben"
+      trans: "[unclear] Wilandts daughter at Petzen den 8 Decemb buried."
   
-    - name: not given
-      residence:
+    - name: A small Weiland daughter
+      residence: not specified
       image_no: 98
-      ifile:
+      ifile: petzen-band1b-img98-weiland.png
       edate: 24 February 1678
       vdate: 28 August 2026
       url: https://www.archion.de/p/56be28256d/
-      literal: 
-      trans:
+      literal: >-
+        "[?ert] Weilandt [ein kleines?] Mätigen [alt?] 6 Woche den 24 Feb begraben"
+      trans: >-
+        "[?ert] Weilandt [a small?] daughter [age?] 6 weeks. 24 Febraru buried"
   
     - name: Son of Wolter Weilandt
       residence: Peeten
