@@ -182,7 +182,7 @@ parish:
     record-symbol: D
     records:
     - name: Wölkken Weÿlandt 
-      residence:
+      residence: not specified
       image_no: 73
       ifile: petzen-band1b-img73-weiland.jpg
       edate: 24 January 1650
