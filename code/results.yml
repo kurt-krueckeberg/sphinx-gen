@@ -191,56 +191,6 @@ parish:
       literal: "Wölkken Weÿlandt Altermann. 24 Jan:"
       trans: "Wölkken Weÿlandt, elder. 24 January"
   
-#   - name: 
-#     residence:
-#     image_no: RESUME at 88 
-#     ifile: 
-#     edate: 
-#     vdate: 
-#     url: 
-#     literal: 
-#     trans: 
-# 
-#   - name: 
-#     residence:
-#     image_no: 
-#     ifile: 
-#     edate: 
-#     vdate: 
-#     url: 
-#     literal: 
-#     trans: 
-# 
-#   - name: 
-#     residence:
-#     image_no: 
-#     ifile: 
-#     edate: 
-#     vdate: 
-#     url: 
-#     literal: 
-#     trans: 
-# 
-#   - name: 
-#     residence:
-#     image_no: 
-#     ifile: 
-#     edate: 
-#     vdate: 
-#     url: 
-#     literal: 
-#     trans: 
-# 
-#   - name: 
-#     residence:
-#     image_no: 
-#     ifile: 
-#     edate: 
-#     vdate: 
-#     url: 
-#     literal: 
-#     trans: 
-  
     - name: Wilandt's little daughter
       residence: Petzen
       image_no: 96
