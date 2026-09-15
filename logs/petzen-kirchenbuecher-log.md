@@ -38,7 +38,7 @@ Deaths in [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.arch
 
 **TODO:** re-review images 118 through 152.
 
-I definitely have reviewed images 71-95 and 153-239 for burials and added the Weiland burials found to `results.yml`.
+I definitely have reviewed images 71-153 and 153-239 for burials and added the Weiland burials found to `results.yml`.
 
 **Re-reviewed:** Completed 70-96.
 
