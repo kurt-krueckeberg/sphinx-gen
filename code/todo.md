@@ -13,9 +13,9 @@ I already have on the website burials for these images:
 - 144 
 - 153 
 
-Review:
+Currently Reviewed:
 
-```{list-table}
+```{list-table} Reviews to date starting at image number 118
 :header_rows: 1
 
 * - Image No
@@ -27,9 +27,9 @@ Review:
 * - 119-124
   - nothing found
   - nothing found
-* - 125
-  -
-  - Weiland daughter
+* - 125-136 added to results.yml
+  - various
+  - various
 ``` 
 
 ## Other TODOES
