@@ -262,7 +262,99 @@ parish:
         Hans Weilandt zu Evesen, Söhnlein, den 10 Nov: begraben.
       trans: >-
         The little son of Hans Weilandt of Evesen, buried November 10
- 
+  
+    - name: Daughter of Hans Weyland
+      residence:  Eveßen
+      image_no: 125
+      ifile: petzen-band1b-img125-weiland.png
+      edate: 8 August
+      vdate: 15 September 2026
+      url: https://www.archion.de/p/dd5b00dfdd/
+      literal: >-
+        den 8 August. Hans Weyland von Eversen eine Tochter von 3 iahren 6 Wochen begraben laßen Nahmens Anna Maria
+      trans: >-
+        On 8 August, Hans Weyland of Eversen had a daughter, aged 3 years and 6 weeks, buried. Her name was Anna Maria.
+
+    - name:
+      residence:  
+      image_no:  Resume at 129
+      ifile: 
+      edate: 
+      vdate: 
+      url: 
+      literal: 
+      trans: 
+
+    - name:
+      residence:  
+      image_no: 
+      ifile: 
+      edate: 
+      vdate: 
+      url: 
+      literal: 
+      trans: 
+
+    - name:
+      residence:  
+      image_no: 
+      ifile: 
+      edate: 
+      vdate: 
+      url: 
+      literal: 
+      trans: 
+
+    - name:
+      residence:  
+      image_no: 
+      ifile: 
+      edate: 
+      vdate: 
+      url: 
+      literal: 
+      trans: 
+
+    - name:
+      residence:  
+      image_no: 
+      ifile: 
+      edate: 
+      vdate: 
+      url: 
+      literal: 
+      trans: 
+
+    - name:
+      residence:  
+      image_no: 
+      ifile: 
+      edate: 
+      vdate: 
+      url: 
+      literal: 
+      trans: 
+
+    - name:
+      residence:  
+      image_no: 
+      ifile: 
+      edate: 
+      vdate: 
+      url: 
+      literal: 
+      trans: 
+
+    - name:
+      residence:  
+      image_no: 
+      ifile: 
+      edate: 
+      vdate: 
+      url: 
+      literal: 
+      trans: 
+
     - name: Johann Friedrich Krückeberg
       residence: Behrenbusch
       image_no: 159
