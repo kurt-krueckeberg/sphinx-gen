@@ -25,7 +25,7 @@ der Sandkuhlen begraben.
 ## Translation
 
 ```{div} doc-text
-17. On 16 November, Hans Heinrich Weiland from the sand pit [or ahllow] was buried.
+17. On 16 November, Hans Heinrich Weiland, near the sand pit [or ahllow], was buried.
 ```
 
 ## Citation

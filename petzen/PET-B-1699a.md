@@ -31,7 +31,7 @@ des Kindes Mutter Schwester Lisabeth.
 ## Translation
 
 ```{div} doc-text
-Hans Weilandt’s little daughter at the Sandkuhle, Anna Elisabeth, was
+Hans Weilandt’s little daughter of the sand pit area, Anna Elisabeth, was
 baptized on 9 May. The godmother was the child’s mother’s sister, Lisabeth.
 ```
 

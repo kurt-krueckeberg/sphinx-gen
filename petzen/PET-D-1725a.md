@@ -1,4 +1,4 @@
-# 1725 Little son of Hans Weÿland of Burial
+# 1725 Little son of Hans Weÿland from near the sand pit Burial
 
 ## Record
 
@@ -13,14 +13,13 @@ Getrauten und Gestorbenen 1641-1784".
 ## Transliteration
 
 ```{div} doc-text
-den 25. April ist Hanß Henrich Weÿlandts von [S/N?]
-Söhnlein begraben.
+den 25. April ist Hanß Henrich Weÿlandts von Sandkuhle Söhnlein begraben.
 ```
 
 ## Translation
 
 ```{div} doc-text
-On 25th April was the little son of Hanß Heinrich from  [??] buried
+On 25 April, the little son of Hans Heinrich Weiland, from near the sand pit, was buried
 ```
 
 ## Citation

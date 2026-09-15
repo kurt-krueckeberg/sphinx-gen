@@ -34,7 +34,7 @@ tauffen und [nennen?] laßen durch Gerd Henrich Bormann in Peetzen
 ## Translation
 
 ```{div} doc-text
-On the 27th of the same month, Weiland in Evesen by the Sandkuhle had a
+On the 27th of the same month, Weiland in Evesen by the sand pit had a
 little son baptized and [named?] Hans Heinrich by Gerd Heinrich Bormann in
 Petzen.
 ```
