@@ -275,29 +275,33 @@ parish:
       trans: >-
         On 8 August, Hans Weyland of Eversen had a daughter, aged 3 years and 6 weeks, buried. Her name was Anna Maria.
 
-    - name:
-      residence:  
-      image_no:  Resume at 129
-      ifile: 
-      edate: 
-      vdate: 
-      url: 
-      literal: 
-      trans: 
+    - name: Johan Henrich Weÿlandt
+      residence: Peetzen
+      image_no: 131
+      ifile: petzen-band1b-img131-weiland1.png
+      edate: 8 May 1711
+      vdate: 15 September 2026
+      url: https://www.archion.de/p/95a0ed0a62/
+      literal: >-
+        den 8 Maÿ ist Johan Weÿlandts aus Peetzen Sohn Johan Henrich begraben worden. alt 13 Jahr 14 Wochen.
+      trans: >-
+       On 8 May, Johan Weÿlandt’s son Johan Henrich from Peetzen was buried, aged 13 years and 14 weeks 
+
+    - name: Anna Catharina Weÿlandt
+      residence:  Evesen
+      image_no: 132 
+      ifile: petzen-band1b-img131-weiland2.png 
+      edate: 29 April 1712
+      vdate: 15 September 2026 
+      url: https://www.archion.de/p/25679545ef/ 
+      literal: >-
+        9) den 29 April: ist Hans Weÿlandts auß Evesen Ehefrau Anna Catharina Bormans begraben worden. Ihres Alters 56 Jahr.
+      trans: >-
+        On 29 April, Hans Weÿlandt’s wife from Evesen, Anna Catharina Bormans, was buried. She was 56 years old.
 
     - name:
       residence:  
-      image_no: 
-      ifile: 
-      edate: 
-      vdate: 
-      url: 
-      literal: 
-      trans: 
-
-    - name:
-      residence:  
-      image_no: 
+      image_no: resume at 132 
       ifile: 
       edate: 
       vdate: 
