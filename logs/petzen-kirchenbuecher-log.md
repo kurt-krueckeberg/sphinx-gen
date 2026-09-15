@@ -40,18 +40,6 @@ Deaths in [Verzeichnis der Getrauten und Gestorbenen 1641-1784](https://www.arch
 
 I definitely have reviewed images 71-239 for burials and added the Weiland burials found to `results.yml`.
 
-**Re-reviewed:** Completed 70-96.
-
-There are also notations in `results.yml` that say "RESUME at (imgage 88)"
-and "resume at (image 118)".
-
-```{list-table} Review started with image 87, year 1670.
-:header-rows: 1
-
-* - Image Ranges Reviews
-* - 83 — 177
-```
-
 ## Review of Confirmations 1705-1784
 
 **Done but markdown pages not yet created**. There is a gap where there are no confirmation records. 
