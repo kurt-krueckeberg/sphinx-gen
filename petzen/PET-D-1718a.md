@@ -1,4 +1,4 @@
-# 1718 Hans Weÿland of Berenbsuch Died
+# 1718 Hans Henrig Weÿland of Berenbsuch Died
 
 ## Record
 
