@@ -251,15 +251,17 @@ parish:
       literal: "Wolter Weilandt zu Petzen den 5 Julij begraben"
       trans: 
   
-#   - name: 
-#     residence:
-#     image_no: resume at 118
-#     ifile:
-#     edate:
-#     vdate:
-#     url:
-#     literal:
-#     trans:
+    - name: Little son of Hans Weilandt 
+      residence: Evesen
+      image_no: 118
+      ifile: petzen-band1b-img118-weiland.png
+      edate: 10 November 1697
+      vdate: 15 September 2026
+      url: https://www.archion.de/p/2dbcc92fb2/
+      literal: >-
+        Hans Weilandt zu Evesen, Söhnlein, den 10 Nov: begraben.
+      trans: >-
+        The little son of Hans Weilandt of Evesen, buried November 10
  
     - name: Johann Friedrich Krückeberg
       residence: Behrenbusch
