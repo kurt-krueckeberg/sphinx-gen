@@ -1,5 +1,7 @@
 # TODO
 
+Make sure all the weiland files in `results.yml` are on the website.
+
 The five new Vahlsing/Fahlsing and three new Krückeberg files are listed
 in:
 
