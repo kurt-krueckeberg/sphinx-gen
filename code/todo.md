@@ -1,36 +1,7 @@
 # TODO
 
-Re-review burials from image the begnning of the volume up through 158.
-
-I already have on the website burials for these images:
-
-- 93  
-- 99 
-- 108 
-- 136 
-- 141 
-- 143 
-- 144 
-- 153 
-
-Currently Reviewed:
-
-```{list-table} Reviews to date starting at image number 118
-:header_rows: 1
-
-* - Image No
-  - Year
-  - Name
-* - 118
-  - 1697
-  - Hans Weiland, top r. page
-* - 119-124
-  - nothing found
-  - nothing found
-* - 125-158 added to results.yml
-  - various
-  - various
-``` 
+Some of the 'edate:' keys are missing years.
+Some don't have "ifile:" values.
 
 ## Other TODOES
 
