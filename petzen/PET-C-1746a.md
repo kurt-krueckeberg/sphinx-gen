@@ -4,15 +4,11 @@
 
 The 1746 confirmation of Johann Heinrich Fahlsing from Evesen is on {ref}`image 303 <PET-C-1746a>` of the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
-
-
 ## Transliteration
 
 ```{div} doc-text
 Johann Heinrich Fahlsing aus Evesem
 ```
-
-
 
 ## Translation
 
