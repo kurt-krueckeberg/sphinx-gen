@@ -211,17 +211,7 @@ parish:
         "[?ert] Weilandt [ein kleines?] Mätigen [alt?] 6 Woche den 24 Feb begraben"
       trans: >-
         "[?ert] Weilandt [a small?] daughter [age?] 6 weeks. 24 Febraru buried"
-  
-    - name: Son of Wolter Weilandt
-      residence: Peeten
-      image_no: 99
-      ifile: petzen-band1b-img99-weiland.png
-      edate: 18 June 1679
-      vdate: 28 August 2026
-      url: https://www.archion.de/p/8b89636f40/
-      literal: "Wolter Weilandt zu Peeten, Sohn, 16 Wochen alt den 18 Junij begraben."
-      trans: "The son of Wolter Weilandt of Peeten, 16 weeks old, buried on June 18."
-  
+   
     - name: "Elderly Weiland woman/wife"
       residence: Petzen
       image_no: 104
