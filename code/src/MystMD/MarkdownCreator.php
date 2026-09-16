@@ -111,18 +111,18 @@ class MarkdownCreator {
        return $this->filename;
    }
    
-   public function __construct(string $markdown_template, KirchenbuecherResults $kbr, string $ceremony, CeremonySection $ceremony_section)           
+   public function __construct(string $markdown_template, KirchenbuecherResults $kbr, string $ceremony, CeremonySection $ceremony_section, string $output_folder)
    {
       $this->markdown_template = $markdown_template;
-      
+
       $this->prefix = $kbr['parish']['prefix'];
-      
+
       $this->symbol = $ceremony_section['record-symbol'];
-      
+
       $this->event = $ceremony;
-      
-      $this->folder = $kbr['parish']['output-folder'];
-      
+
+      $this->folder = $output_folder;
+
       $this->volume_name = $kbr['parish']['volumes'][$ceremony_section['volume']]['name'];
       
       $this->total_images = (string) $kbr['parish']['volumes'][$ceremony_section['volume']]['total_images'];

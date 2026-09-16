@@ -41,7 +41,7 @@ foreach ($kbr as $ceremony => $ceremony_section) {
 
      $markdown_template = $markdown_string . $citation_string; 
      
-     $markdown_writer = new MarkdownCreator($markdown_template, $kbr, $ceremony, $ceremony_section);
+     $markdown_writer = new MarkdownCreator($markdown_template, $kbr, $ceremony, $ceremony_section, $config['output-folder']);
 
      foreach ($ceremony_section as $record) {
          
