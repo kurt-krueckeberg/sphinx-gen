@@ -12,7 +12,7 @@ parish:
     band1b:
       name: "Verzeichnis der Getrauten und Gestorbenen 1641-1784"
       total_images: 239
-  output-folder: /home/kurt/sphinx-gen/petzen    
+  output-folder: /home/kurt/temp/sphinx-gen/petzen    
   marriage:
     volume: band1b
     record-symbol: M
@@ -100,7 +100,7 @@ parish:
     - name: Jobst Henirch Weÿland
       residence: Berenbush
       image_no: 38 
-      ifile: petzen-band1b-img38-weiland2.png
+      ifile: petzen-band1b-img38-weiland2.jpg
       edate: 13 September 1731
       vdate: 26 August 2026
       url: https://www.archion.de/p/55ef75b9fc/
@@ -120,7 +120,7 @@ parish:
     - name: Johann Friderich Wilhelm Weiland
       residence: Nammen
       image_no: 41
-      ifile: petzen-band1b-img41-weiland
+      ifile: petzen-band1b-img41-weiland.png
       edate: 24 November 1737
       vdate: 27 August 2026 
       url: https://www.archion.de/p/afd3b9e513/
@@ -516,7 +516,7 @@ parish:
     - name: Maria Elisabeth Weiland 
       residence: Evesen No. 20
       image_no: resume at 188 
-      ifile: petzen-band1b-img189-weilnad.png
+      ifile: petzen-band1b-img189-weiland.png
       edate: 5 August 1764
       vdate: 13 September 2026
       url: https://www.archion.de/p/2d4218374e/
@@ -778,7 +778,7 @@ parish:
     - name: Johann Heinrich Weiland
       residence: sand-pit area of Evesen
       image_no: 222
-      ifile: petzen-band1b-image222-weiland.png 
+      ifile: petzen-band1b-img222-weiland.png 
       edate: 19 January 1779
       vdate: 14 Septembere 2026
       url: https://www.archion.de/p/4bbaa28906/ 
@@ -827,7 +827,7 @@ parish:
     - name: Anna Philippina Weiland
       residence: Peezen
       image_no: 229
-      ifile: petzen-badn1b-img229-weiland.png 
+      ifile: petzen-band1b-img229-weiland.png 
       edate: 11 March 1782
       vdate: 14 September 2026
       url: https://www.archion.de/p/66bd6bad06/ 
@@ -1052,7 +1052,7 @@ parish:
     - name: Weiland
       image_no: 301
       age: 
-      residence: 
+      residence: no residenece given
       edate: 1736
       vdate: 26 August 2026
       url: https://www.archion.de/p/cc8d263b27/
