@@ -12,7 +12,7 @@ parish:
     band1b:
       name: "Verzeichnis der Getrauten und Gestorbenen 1641-1784"
       total_images: 239
-  output-folder: /home/kurt/temp/sphinx-gen/petzen    
+  output-folder: /home/kurt/sphinx-gen/petzen    
   marriage:
     volume: band1b
     record-symbol: M
@@ -617,7 +617,7 @@ parish:
     - name: Hermann Heinrich Weilandt 
       residence: Evesen No. 21 
       image_no: 201 
-      ifile: petzen-band1a-img201-weiland.png 
+      ifile: petzen-band1b-img201-weiland.png 
       edate: 31 January 1770
       vdate: 13 September 2026
       url: https://www.archion.de/p/9c576fd0ff/
