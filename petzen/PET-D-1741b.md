@@ -14,12 +14,10 @@ The 29 October 1741 burial of Jobst Henrich Krückeberg from Behrnbusch is on {r
 Johann Krückeberg von Behrenbusch auch ein Sohn welcher [blind] [??] [gewesen?] auch die gnade Htm:jahrl[ich] 6 [?] genoßsen nahmens Jobst Henrich an der schäd[liche] Seuhe gestorben æt. 7 Jahr u: 9 Woch[en]      
 ```
 
-
-
 ## Translation
 
 ```{div} doc-text
-
+Johann Krückeberg of Behrenbusch also [had] a son, named Jobst Henrich, who had been [blind?] [unclear], and who also received the gracious allowance of [Htm.:] 6 [unknown unit] annually. He died of the harmful epidemic disease, aged 7 years and 9 weeks.
 ```
 
 ## Citation
