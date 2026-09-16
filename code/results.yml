@@ -1039,16 +1039,6 @@ parish:
       literal: Jobst Henrich Weÿland aus Berenbusch____14
       trans: "Jobst Henrich Weÿland of Berenbusch____14"
     
-    - name: Anna Maria Vahlsing
-      image_no: 299
-      age: 13
-      residence: Evesen
-      edate: 1716
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/cff80d274e/
-      literal: Anna Maria Vahlsing aus Evesen____13
-      trans: "Anna Maria Vahlsing of Evesen____13"
-    
     - name: Weiland
       image_no: 301
       age: 
