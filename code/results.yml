@@ -716,7 +716,7 @@ parish:
       residence: Röcke
       image_no: 204
       ifile: petzen-band1b-img204-weiland.png
-      edate: 
+      edate: 22 December 1771 
       vdate: 13 September 2026
       url: https://www.archion.de/p/f546e2864d/
       literal: >-
@@ -800,9 +800,9 @@ parish:
   
     - name: Stillborn Weiland son
       residence: Peezen
-      image_no: resume at 221. There are two Weilands, one on left page, one on right.
+      image_no: 221
       ifile: petzen-band1b-img221-weiland1.png
-      edate: 17 July 1776
+      edate: 27 July 1778
       vdate: 14 September 2026
       url: https://www.archion.de/p/d22ff46e3e/ 
       literal: >-
