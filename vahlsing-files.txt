@@ -1,5 +1,3 @@
-PET-C-1713b.md
-PET-C-1716c.md
 PET-C-1746a.md
 PET-C-1749a.md
 PET-C-1758a.md
