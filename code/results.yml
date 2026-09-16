@@ -923,22 +923,7 @@ parish:
       trans: >-
         Wolter Weiland’s daughter, Anna Catharina Eleonora, was baptized on 27 August. Sponsors were Johan
         Halvekop’s sister and a girl from der [Reisen?] named Anna.  
-    
-    - name: Anna Catharine Eleonora Weiland 
-      image_no: 55 
-      edate: 27 August 1676
-      residence: Petzen
-      ifile: petzen-band1a-img55-weiland.png  
-      vdate: 30 August 2026 
-      url: https://www.archion.de/p/6d83b6a5c9/
-      literal: >- 
-        Wolter Weilands zu Petzen Tochter Anna Catharina Eleonora
-        getaufft den 27  Aügusti gefattern Johan Halvekopfs Schwester
-        und ein Mätigen [von ?? Reisen] Nahmens Anna
-      trans: >-
-        Wolter Weiland’s daughter, Anna Catharina Eleonora, was baptized on 27 August. Sponsors were Johan
-        Halvekop’s sister and a girl from der [Reisen?] named Anna.  
-  
+     
     - name: Anna Margaretha Weiland
       image_no: 56
       edate: 20 January 1678
