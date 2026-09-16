@@ -2,8 +2,7 @@
 
 ## Record
 
-The %edate% %event% of %name% from %residence% is on {ref}`image %image_no% <%file_name%>` of the Petzen *%volume
-name%*.
+The %edate% %event% of %name% from %residence% is on {ref}`image %image_no% <%file_name%>` of the Petzen *%volume_name%*.
 
 %imageblock%
 
