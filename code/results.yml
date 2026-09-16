@@ -352,7 +352,7 @@ parish:
       residence: Behrenbusch
       image_no: 161
       ifile: petzen-band1b-img161-krueckeberg.png
-      edate: 9 Decmber 1742
+      edate: 9 December 1742
       vdate: 10 September 2026
       url: https://www.archion.de/p/72bd1e9022/
       literal: :ß
@@ -453,7 +453,7 @@ parish:
       residence: Berenbusch
       image_no: 173 
       ifile: petzen-band1b-img173-weiland1.png
-      edate: 29 Decenber 1751 
+      edate: 29 December 1751 
       vdate: 11 Spetember 2026
       url: https://www.archion.de/p/3e5aa91246/
       literal: >-
@@ -641,7 +641,7 @@ parish:
       residence: Evesen No. 20
       image_no: 199
       ifile: petzen-band1b-img199-weiland.png
-      edate: 5 June 1678<
+      edate: 5 June 1678
       vdate: 13 September 2026
       url: https://www.archion.de/p/3e763100c8/
       literal: >-
@@ -665,7 +665,7 @@ parish:
     - name: Hermann Heinrich Weilandt 
       residence: Evesen No. 21 
       image_no: 201 
-      ifile: 
+      ifile: petzen-band1a-img2-1-weiland.png 
       edate: 31 January 1770
       vdate: 13 September 2026
       url: https://www.archion.de/p/9c576fd0ff/
@@ -905,7 +905,7 @@ parish:
     - name: Philippine Eleonore Weiland
       residence: not specified
       image_no: 236
-      ifile:  
+      ifile: petzen-band1b-img236-weiland1.png 
       edate: 4 May 1784
       vdate: 13 September 2026
       url: https://www.archion.de/p/39c9749e3f/ 
@@ -991,7 +991,7 @@ parish:
       image_no: 56
       edate: 20 January 1678
       residence: Petzen
-      ifile: 
+      ifile: petzen-band1b-img56-weiland.png 
       vdate: 30 August 2026 
       url: https://www.archion.de/p/b655e6998b/
       literal: >- 
