@@ -301,41 +301,6 @@ parish:
       trans: >-
         On 29 April, Hans Weÿlandt’s wife from Evesen, Anna Catharina Bormans, was buried. She was 56 years old.
 
-    - name: Johann Friedrich Krückeberg
-      residence: Behrenbusch
-      image_no: 159
-      ifile: petzen-band1b-img159-krueckeberg1.png 
-      edate: 21 October 1741
-      vdate: 9 September 2026
-      url: https://www.archion.de/p/2b8a4a179e/
-      literal: >-
-        Dito [October 21] Johann Krückeberg von Behrenbusch sein Sohn Johann Friedrich aet. 13 [Jahr] & 15 Wochen, gleichfalls an der Ruhr gestorben
-      trans: >-
-        Ditto [October 21] Johann Krückeberg of Behrenbusch, his son Johann Friedrich, age 13 [years] and 15 weeks, likewise died of dysentery
-      text: >-
-        gleichfals (likewise) refers to the prior burial record, which is more legible and reads:
-
-        > d 21t Friderich Engelking von Wülpkeberge sein Sohn Henrich Tönnis æt. 11. 2 monat an der roth ruhr gestorben.
-       
-        This translates as: 
-
-        > On October 21, the son of Friderich Engelking of Wülpke mountains, Heinrich Tönnis, died age 11 years and 2 month of bloody dysentery.
-
-        **"rothe ruhr"** or **"rote Ruhr"** translates a "bloody dysentery".   
-
-    - name: Jobst Henrich Krückeberg
-      residence: Behrnbusch
-      image_no: 159
-      ifile: petzen-band1b-img159-krueckeberg2.png
-      edate: 29 October 1741
-      vdate: 9 September 2026
-      url: https://www.archion.de/p/5fcc29c3e9/
-      literal: >-
-        Johann Krückeberg von Behrenbusch auch ein Sohn welcher [blind]
-        [??] [gewesen?] auch die gnade Htm:jahrl[ich] 6 [?] genoßsen nahmens Jobst
-        Henrich an der schäd[liche] Seuhe gestorben æt. 7 Jahr u: 9 Woch[en]      
-      trans:
- 
     - name: Henrich Wilhelm Weiland
       residence: Behrenbusch
       image_no: 160
@@ -347,20 +312,6 @@ parish:
         Dito d 10t Weiland von Behrnbuschein Sohn Henrich Wilehlm æt. 4 beerdig laßen 
       trans: >-
         On November 10, Henrich Wilhelm, the son of Weiland from Behrenbusch, age 4 was buried.
-
-    - name:  Anna Dorothea Elisabeth Krückeberg
-      residence: Behrenbusch
-      image_no: 161
-      ifile: petzen-band1b-img161-krueckeberg.png
-      edate: 9 December 1742
-      vdate: 10 September 2026
-      url: https://www.archion.de/p/72bd1e9022/
-      literal: >-
-        December d 9t Johann Krückeberg von Behrenbusch ein Tochter Anna Dorothea
-        Elisabeth begraben laßen æt. 6 Jahr und 44 Woch[en].      
-      trans: >-
-        On December 9, Ann Dorothea Krückeberg, daughter of Johann Krückeberg of Behrenbusch was buried
-        age 6 and 44 weeks.
 
     - name: Henrich Wilhelm Weiland 
       residence: Behrenbusch
