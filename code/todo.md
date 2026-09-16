@@ -5,11 +5,9 @@ Some don't have "ifile:" values.
 
 ## Other TODOES
 
-- Convert PNGs that are legible to jpgs, and change the `.png` extension to
-  `.jpg` in `results.yml`.
-- Run code in `~/temp/sphinx-gen` and then change `_toc.yml` and build the
-  site.
-- If all the new pages display properly, replace the `.png`s in `code/images` with
-  `.jpg`'s, then run the new code, and copy the
-  `~/temp/sphinx-gen/_toc.yml` to `~/gens/code`.
-
+- Run `pfp main.php` in `~/temp/sphinx-gen`, and then change `_toc.yml` to incorporate the new `.md` files.
+- Copy the `code/images` image files to `petzen/images`.
+- build site: `jb clean . && jb build .`
+- If all the new site looks correct, then 
+  - Run `~/gens/code/main.php`, and copy `~/temp/sphinx-gen` to `~/gens`.
+  - Build the site and confirm it works.
