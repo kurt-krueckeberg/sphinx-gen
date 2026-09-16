@@ -226,7 +226,9 @@ chapters:
         - file: petzen/PET-B-1709a
         - file: petzen/PET-B-1712b
         - file: petzen/PET-C-1713a
+        - file: petzen/PET-C-1713b
         - file: petzen/PET-C-1716a
+        - file: petzen/PET-C-1716c
         - file: petzen/PET-B-1716b
         - file: petzen/PET-B-1720a
         - file: petzen/PET-D-1725b
@@ -236,6 +238,10 @@ chapters:
         - file: petzen/PET-B-1731b
         - file: petzen/PET-B-1732a
         - file: petzen/PET-B-1747a
+        - file: petzen/PET-C-1749a
+        - file: petzen/PET-C-1758a
+        - file: petzen/PET-C-1760b
+        - file: petzen/PET-C-1782a
  
     - file: wiedensahl/vahlsing
       sections:
