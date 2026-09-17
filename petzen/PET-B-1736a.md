@@ -1,5 +1,8 @@
 # 1736 Dorothea Elisabeth Krückeberg Baptized
 
+Anna Dorothea Elisabeth Krückeberg of Behrenbusch was {doc}`buried on 9 December 1742 <PET-D-1742a>`, which is six years,
+44 weeks and six days from the 29 January 1736 baptism date for Anna Dorothea Elisabeth Krückeberg.
+
 ## Family Relationship and Other Facts
 
 ```{list-table} Dorothea Elisabeth Krückeberg
@@ -23,7 +26,7 @@
 
 ## Baptism Record
 
-The baptism of a Dorothea Elisabeth Krückeberg occurred January 29th 1736.
+The baptism of a Dorothea Elisabeth Krückeberg occurred January 29, 1736.
 
 The baptism entry is found on {ref}`image 152 <PET-B-1736a>`. It is the third entry from the top
 of the right-hand page (the pages being unnumbered). The year 1736 appears on the bottom

@@ -1,5 +1,8 @@
 # 1742 Anna Dorothea Elisabeth Krückeberg of Behrenbusch Burial
 
+Dorothea Elisabeth Krückeberg was {doc}`baptized on 29 Janaury 1736 <PET-B-1736a>`, which is six years,
+44 weeks and six days from the 9 December 1742 burial date for Anna Dorothea Elisabeth Krückeberg.
+
 ## Record
 
 The 9 December 1742 burial of Anna Dorothea Elisabeth Krückeberg from Behrenbusch is on {ref}`image 161 <PET-D-1742a>` of the Petzen *Verzeichnis der Getrauten und Gestorbenen 1641-1784*.
