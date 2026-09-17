@@ -268,7 +268,6 @@ chapters:
         - file: petzen/PET-D-1676a
         - file: petzen/PET-B-1676a
         - file: petzen/PET-D-1678a
-        - file: petzen/PET-D-1678b
         - file: petzen/PET-B-1678a
         - file: petzen/PET-D-1679a
         - file: petzen/PET-B-1679b
@@ -411,6 +410,7 @@ chapters:
         - file: petzen/PET-C-1767a
         - file: petzen/PET-B-1768a
         - file: petzen/PET-C-1768a
+        - file: petzen/PET-D-1768a
         - file: petzen/PET-M-1769a
         - file: petzen/PET-D-1769a
         - file: petzen/PET-C-1769a
