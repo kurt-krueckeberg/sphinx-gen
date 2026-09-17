@@ -50,7 +50,7 @@ On 7 February, Heinrich Ludewig Weiland, swineherd and lodger in Röcke, was mar
 
 ## Citation
 
-(citation-1765a)=
+(PET-M-1765a)=
 
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/4cc563d634/>: : 27 June
