@@ -19,7 +19,7 @@ The 24 February 1678 burial of A small Weiland daughter from not specified is on
 ## Translation
 
 ```{div} doc-text
-[?ert] Weilandt [a small?] daughter [age?] 6 weeks. 24 Febraru buried
+[?ert] Weilandt [a small?] daughter [age?] 6 weeks. 24 February buried
 ```
 
 ## Citation
