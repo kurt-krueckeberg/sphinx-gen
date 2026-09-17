@@ -11,14 +11,18 @@ On 11 February 1739 Johann Wilhelm Kruckeberg was {doc}`baptized <PET-B-1739a>`.
 * - 
   - Name
   - Burial Date
+  - Age
 * - **Father**
   - Johann Heinrich Krückeberg
+  - 
   - 
 * - **Son**
   - Johann Wilhelm Krückeberg
   - Nov. 5, 1747
+  - 8¾ years
 * - **Residence**
   - Berenbusch
+  - 
   - 
 ```
 
