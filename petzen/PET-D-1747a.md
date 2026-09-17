@@ -1,7 +1,7 @@
 # 1747 Johann Wilhelm Krückeberg Burial
 
 On 11 February 1739 Johann Wilhelm Kruckeberg was {doc}`baptized <PET-B-1739a>`. The letters
-**B. B.** are seen inteh church record following Kruckeberg, possibly meaning Berenbusch.
+**B. B.** are seen in the baptism record following **Kruckeberg**, possibly meaning **Berenbusch**.
 
 ## Family Group and Other Facts
 
@@ -10,7 +10,7 @@ On 11 February 1739 Johann Wilhelm Kruckeberg was {doc}`baptized <PET-B-1739a>`.
 
 * - 
   - Name
-  - Burial
+  - Burial Date
 * - **Father**
   - Johann Heinrich Krückeberg
   - 
@@ -24,9 +24,9 @@ On 11 February 1739 Johann Wilhelm Kruckeberg was {doc}`baptized <PET-B-1739a>`.
 
 ## Burial Record
 
-The November 5, 1747, interment of the Johann Wilhelm Krückeberg son of Johann Heinrich Krückeberg of Berenbusch
-appears on {ref}`image 167 <PET-D-1747a>`, on the right-hand page of the Petzen "Verzeichnis der
-Getrauten und Gestorbenen, 1641-1784".
+The November 5, 1747, interment of the Johann Wilhelm Krückeberg son of
+Johann Heinrich Krückeberg of Berenbusch appears on {ref}`image 167 <PET-D-1747a>`,
+on the right-hand page of the Petzen "Verzeichnis der Getrauten und Gestorbenen, 1641-1784".
 
 
 ```{figure} images/petzen-band1b-img167.png
@@ -36,16 +36,15 @@ Getrauten und Gestorbenen, 1641-1784".
 ## Transliteration
 
 ```{div} doc-text
-d 5t Novemb. Johann Wilhelm Krückeberg
-     Patris Johann Heinrich Krückeberg aus Berenbusch
+d 5t Novemb. Johann Wilhelm Krückeberg\
+     Patris Johann Heinrich Krückeberg aus Berenbusch\
      Söhnlein begraben, alt 8¾ Jahr
 ```
 
 ##  Translation
 
 ```{div} doc-text
-On the 5th of November, Johann Wilhelm Krückeberg,
-son of Johann Heinrich Krückeberg from Berenbusch,
+On November 5th, Johann Wilhelm Krückeberg, son of Johann Heinrich Krückeberg from Berenbusch,
 was buried, aged 8¾ years
 ```
 
