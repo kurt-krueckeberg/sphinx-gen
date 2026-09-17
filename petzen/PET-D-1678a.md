@@ -11,7 +11,7 @@ The 24 February 1678 burial of A small Weiland daughter from not specified is on
 ## Transliteration
 
 ```{div} doc-text
-"[?ert] Weilandt [ein kleines?] Mätigen [alt?] 6 Woche den 24 Feb begraben"
+[?ert] Weilandt [ein kleines?] Mätigen [alt?] 6 Woche den 24 Feb begraben
 ```
 
 
@@ -19,7 +19,7 @@ The 24 February 1678 burial of A small Weiland daughter from not specified is on
 ## Translation
 
 ```{div} doc-text
-"[?ert] Weilandt [a small?] daughter [age?] 6 weeks. 24 Febraru buried"
+[?ert] Weilandt [a small?] daughter [age?] 6 weeks. 24 Febraru buried
 ```
 
 ## Citation
