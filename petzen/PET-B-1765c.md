@@ -39,7 +39,7 @@ The March 24, 1765 baptism of Jobst Heinrich Krückeberg is on
 "Verzeichnis der Getauften und Konfirmierten 1641-1784" (Register of
 Baptism and Confirmed of the Petzen Parish, 1641-1784).
 
-```{figure} images/petzen-band1a-img211.jpg
+```{figure} images/petzen-band1a-img211.png
 :class: image-override
 ```
 
