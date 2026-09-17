@@ -1,9 +1,6 @@
 Files not in the _toc.yml:
 
-- petzen/PET-B-1754b.md — 1754 Anna Ilse Margaret Weiland Baptism
-- petzen/PET-B-1762a.md — 1760 Friderich Wilhelm Weiland Baptism
 - petzen/PET-B-1775b.md — 1775 Anna Christina Maria Krückeberg Baptism
-- petzen/PET-B-1789d.md — 1789 Christine Eleonore Weiland Baptism
 - petzen/PET-B-1790b.md — 1790 Eleonore Louisa Weiland Baptism
 - petzen/PET-C-211a.md — Image 211 Confirmation (note: irregular name, missing the "17" century digits — possibly a typo for a proper PET-C-17xxa filename)
 - petzen/PET-M-1765a.md — 1765 Heinrich Ludwig Weiland Marriage
