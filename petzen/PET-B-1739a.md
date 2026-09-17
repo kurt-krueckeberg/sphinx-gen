@@ -39,16 +39,16 @@ lassen Johann Wilhelm [benamst?] [uncertain]
 
 :::{admonition} Explanations
 
-**Berenbusch** is not mentioned explicitly. Likely
-berenbusch abbreviation in the image is an abbreviation for it.
+**Berenbusch** is not mentioned explicitly. Perhaps
+the two large **B**'s in imaage mean Berenbusch?
+
+:::
 
 ```{note}
 **hÿ:** abbreviation of Latin **hujus (mensis)**, “of this month” (i.e., “11th of this same month”).
 ```
 
-:::
-
-Translation
+## Translation
 
 ```{div} doc-text
 
