@@ -14,7 +14,9 @@ The 24 January 1650 burial of Wölkken Weÿlandt from not specified is on {ref}`
 Wölkken Weÿlandt Altermann. 24 Jan:
 ```
 
-
+```{note}
+**Wölkken** is not an attested given name. Its meaning is unclear.
+``` 
 
 ## Translation
 
