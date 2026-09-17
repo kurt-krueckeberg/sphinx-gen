@@ -35,7 +35,7 @@ Getrauten und Gestorbenen, 1641-1784".
 ```{div} doc-text
 d 5t Novemb. Johann Wilhelm Krückeberg
      Patris Johann Heinrich Krückeberg aus Berenbusch
-     Söhnlein begraben, alt 8 3/4 Jahr
+     Söhnlein begraben, alt 8¾ Jahr
 ```
 
 ##  Translation
