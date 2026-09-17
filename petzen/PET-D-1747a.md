@@ -1,5 +1,8 @@
 # 1747 Johann Wilhelm Krückeberg Burial
 
+On 11 February 1739 Johann Wilhelm Kruckeberg was {doc}`baptized <PET-B-1739a>`. The letters
+**B. B.** are seen inteh church record following Kruckeberg, possibly meaning Berenbusch.
+
 ## Family Group and Other Facts
 
 ```{list-table} Family Relationship Information

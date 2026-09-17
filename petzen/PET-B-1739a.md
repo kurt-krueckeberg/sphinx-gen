@@ -1,5 +1,8 @@
 # 1739 Johann Wilhelm Kruckeberg Baptized
 
+On 11 February 1739 Johann Wilhelm Krückeberg of Berenbsuch was {doc}`buried <PET-D-1747a>` at age
+8¾ years. 
+
 ## Family Relationship and Other Facts
 
 ```{list-table} Johann Wilhelm Kruckeberg
@@ -15,7 +18,7 @@
 
 ## Baptism Record
 
-The baptism of a Johann Wilhelm Krückeberg occurred February 11th 1739.
+The baptism of a Johann Wilhelm Krückeberg occurred on 11 February 1739.
 
 The baptism entry is found on {doc}`image 157 <PET-B-1739a>`. It is the last
 entry at the bottom of the right-hand page (the pages are unnumbered). The
@@ -36,10 +39,8 @@ lassen Johann Wilhelm [benamst?] [uncertain]
 
 :::{admonition} Explanations
 
-```{important}
-- **Berenbusch** is not mentioned explicitly. Likely
+**Berenbusch** is not mentioned explicitly. Likely
 berenbusch abbreviation in the image is an abbreviation for it.
-```
 
 ```{note}
 **hÿ:** abbreviation of Latin **hujus (mensis)**, “of this month” (i.e., “11th of this same month”).
