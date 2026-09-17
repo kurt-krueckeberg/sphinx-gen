@@ -25,10 +25,10 @@
 ## Record
 
 The January 27, 1762 baptism record of Friderich Wilhelm Weiland is on
-{ref}`image 202 <PET-M-1762a>` of the Petzen *Verzeichnis
+{ref}`image 204 <PET-M-1762a>` of the Petzen *Verzeichnis
 der Getauften und Konfirmierten 1641-1784*.
 
-```{figure} images/
+```{figure} images/petzen-band1a-img204-weiland.png
 :class: image-override
 ```
 
