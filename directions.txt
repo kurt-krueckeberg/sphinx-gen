@@ -1,0 +1,34 @@
+Please check that for each section of the code/results.yml file, for each
+element of the "records:" subkey, there is a corresponding markdown file in
+the petzen folder. You can identify the file by its name in the following way:
+
+1. For the "baptism:" section, the file name will be begin "PET-B-" followed by the year, which is always the last four digits of the "edate:" value,
+then followed by a lowercase letter.
+2. For the "marriage:" section, the file name will be begin "PET-M-" followed by the year, which is always the last four digits of the "edate:" value,
+and then followed by a lowercase letter.
+3. For the "burial:" section, the file name will be begin "PET-D-" followed by the year, which is always the last four digits of the "edate:" value
+and then followed by a lowercase letter.
+4. For the "confirmation:" section, the file name will be begin "PET-C-" followed by the year, which is always the last four digits of the "edate:"
+value and then followed by a lowercase letter.
+
+In addition, for those "record:" elements that have the "ifile:" key. This is the file name of the image
+file that will be reference in the MyST markdown file's figure directive. For example, in this
+marriage: section's record: element:
+
+    - name: "[uncertain name] Weilandt"
+      residence: Petzen
+      image_no: 15
+      ifile: petzen-band1b-img15-weiland.png 
+      edate: 12 November 1675
+      vdate: 27 August 2026
+      url: https://www.archion.de/p/810b859f6a/
+      literal: "[unclear] Weilandt und Elisabeth Rödemeisters zu Petzen den 12 [either Nov. or Dec.] copuliret"
+      trans: "[unclear] Weilandt and Elisabeth Rödemeister of Petzen were married on the 12th of [November or December]."
+
+the file name will be of the form PET-M-1675a.md, or  PET-M-1675b.md or PET-M-1675c.md, etc. And it will contain
+a figure direction that begins like this:
+
+```{figure} images/petzen-band1b-img15-weiland.png 
+    
+
+
