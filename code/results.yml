@@ -2,7 +2,7 @@ parish:
   parish-name: Petzen
   prefix: PET
   volumes:
-    path: >- 
+    path: >-
       Niedersachsen > Niedersächsisches Landesarchiv >
       Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe
     band1a:
@@ -12,1304 +12,1305 @@ parish:
     band1b:
       name: "Verzeichnis der Getrauten und Gestorbenen 1641-1784"
       total_images: 239
-  marriage:
-    volume: band1b
-    record-symbol: M
-    records:
-    - name: "[uncertain name] Weilandt"
-      residence: Petzen
-      image_no: 15
-      ifile: petzen-band1b-img15-weiland.png 
-      edate: 12 November 1675
-      vdate: 27 August 2026
-      url: https://www.archion.de/p/810b859f6a/
-      literal: "[unclear] Weilandt und Elisabeth Rödemeisters zu Petzen den 12 [either Nov. or Dec.] copuliret"
-      trans: "[unclear] Weilandt and Elisabeth Rödemeister of Petzen were married on the 12th of [November or December]."
-    
-    - name: Hans Hinrich Weilandt
-      residence: Petzen
-      image_no: 26
-      ifile: petzen-band1b-img26-weiland.png
-      edate: 2 March 1702
-      vdate: 27 August 2026
-      url: https://www.archion.de/p/6e4a60e49b/ 
-      literal: "Hans Hinrich Weilandt von Petzen und Anna Margaretha Sanders auf den Berenbusch den 2 Martij copuliret"
-      trans: "Hans Hinrich Weilandt of Petzen and Anna Margaretha Sanders at Berenbusch were married on March 2." 
-    
-    - name: Johan Tonnis Weyland
-      residence: Peezen
-      image_no: 29
-      ifile: petzen-band1b-img29-weiland.png 
-      edate: 28 October 1708 
-      vdate: 27 August 2026
-      url: https://www.archion.de/p/63241c08c4/ 
-      literal: "den 28. 8br [sint] copuliret Johan Tonnis Weyland aus Peezen mitt Annen Jlsabey Brandts aus Nammen, mitt Welcher er schon vorhin ein Fuhr Kind gezeugt"
-      trans: "On October 28, Johan Tonnis Weyland of Peezen was married to Anna Ilsabey Brandt of Nammen, with whom he had already previously fathered an illegitimate child."
-    
-    - name: Hans Weÿlandt
-      residence: Evesen
-      image_no: 30
-      ifile: petzen-band1b-img30-weiland.png 
-      edate: 19 October 1712
-      vdate: 27 August 2026
-      url: https://www.archion.de/p/d50e7390f3/
-      literal: "Den 19 8br ist Hans Weÿlandt auß Evesen mit Hille Poocks copuliret."
-      trans: "On October 19, Hans Weÿlandt of Evesen was married to Hille Poock."
-    
-    - name: Hans Weÿland
-      residence: Evesen
-      image_no: 32
-      ifile: petzen-band1b-img32-weiland.png
-      edate: 28 August 1718
-      vdate: 27 August 2026
-      url: https://www.archion.de/p/e7498ba239/
-      literal: "den 28t August: ist Hans Weÿland auß Evesen mit Sophia Marlena Engelkings auß Cammer copuliret." 
-      trans: "On August 28, Hans Weÿland of Evesen was married to Sophia Marlena Engelking of Cammer."
-    
-    - name: Herman Henrich Weÿland
-      residence: Evesen
-      image_no: 33
-      ifile: petzen-band1b-img33-weiland.png
-      edate: 5 September 1720 
-      vdate: 27 August 2026
-      url: https://www.archion.de/p/86a2e44c1c/
-      literal: "den 5 Septembr ist Herman Henrich Weÿland von Evesen mit Anna Catharina Piels auß Berenbusch copuliret"
-      trans: "On September 5, Herman Henrich Weÿland of Evesen was married to Anna Catharina Piel of Berenbusch."
-    
-    - name: Hanß Henrich Weÿland
-      residence: Evesen
-      image_no: 35
-      ifile: petzen-band1b-img35-weiland.png
-      edate: 14 November 1723
-      vdate: 27 August 2026
-      url: https://www.archion.de/p/61953005ab/
-      literal: "den 14. Novembr ist Hanß Henrich Weÿland auß Evesen, mit Ilsabe [Perte?] getrauet."
-      trans: "On November 14, Hans Henrich Weiland of Evesen was married to Ilsabe [Perte?]."  
-    
-    - name: Herman Henrich Weÿland
-      residence: Evesen
-      image_no: 37 
-      ifile: petzen-band1b-img37-weiland.png
-      edate: 24 November 1728
-      vdate: 27 August 2026
-      url: https://www.archion.de/p/7281702721/
-      literal: "den 24t Novemb ist Herman Henrich Weÿland auß Evesen mit Anna Catharina Steinmeÿers auß [Frille/Grille]" 
-      trans: "On November 24, Herman Henrich Weÿland of Evesen was married to Anna Catharina Steinmeÿer of [Frille/Grille]" 
-    
-    - name: Jobst Henirch Weÿland
-      residence: Berenbush
-      image_no: 38 
-      ifile: petzen-band1b-img38-weiland2.jpg
-      edate: 13 September 1731
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/55ef75b9fc/
-      literal: "den 13t Septemb ist Jobst Henirch Weÿland auß Berenbusch mit Rudolphina Mönckhofs auß Evesen copuliret worden"
-      trans: "On September 13, Jobst Henirch Weÿland of Berenbusch was married to Rudolphina Mönckhof of Evesen"
-    
-    - name: Johann Friderich Weiland
-      residence: Berenbush
-      image_no: 40
-      ifile: petzen-band1b-img40-weiland2.png
-      edate: 7 October 1734
-      vdate: 27 August 2026
-      url: https://www.archion.de/p/29cf0c5d43/
-      literal: "Octobr d 7t Johann Friderich Weiland v. Berenbusch mit Anna Maria Elisabeth Cohmiers v. Eves[en]"
-      trans: "On October 7: Johann Friderich Weiland of Berenbusch, with Anna Maria Elisabeth Cohmiers of Evesen"
-    
-    - name: Johann Friderich Wilhelm Weiland
-      residence: Nammen
-      image_no: 41
-      ifile: petzen-band1b-img41-weiland.png
-      edate: 24 November 1737
-      vdate: 27 August 2026 
-      url: https://www.archion.de/p/afd3b9e513/
-      literal: "d 24t Johann Friderich Wilhelm Weiland von Nammen mit Anna Sophia Maria Ostermeiers von Northolt copuliret."
-      trans: "On November 24, Johann Friderich Wilhelm Weiland of Nammen married Anna Sophia Maria Ostermeiers of Nordholz." 
-    
-    - name: Henrich Weiland
-      residence: Behrenbusch
-      image_no: 43
-      ifile: petzen-band1b-img43-weiland.png
-      edate: 14 February 1745
-      vdate: 27 August 2026
-      url: https://www.archion.de/p/42b90e6dee/
-      literal: "Ao 1745 Februarÿ d. 14 Henrich Weiland von Behrenbusch mit Sophia Elisabeth [Rösner?] verwitwet Bünten copuliret."
-      trans: "in the year 1745, on February 14, Henrich Weiland of Behrenbusch married Sophia Elisabeth [Rösner?] widow of Bünte."
-    
-    - name: Herman Henrich Weiland
-      residence: Evesen
-      image_no: 45
-      ifile: petzen-band1b-img45-weiland.png
-      edate: 3 November 1746
-      vdate: 27 August 2026
-      url: https://www.archion.de/p/ec0fc42b7b/
-      literal: "d 3 Novembr ist Herman Henrich Weiland aus Evesen mit Anna Sabina Breiners aus Warber copuliret worden."
-      trans: "On November 3, Herman Henrich Weiland of Evesen was married to Anna Sabina Breiner of Warber."
-    
-    - name: Johann Henrich Weiland
-      residence: Nammen
-      image_no: 46
-      ifile: petzen-band1b-img46-weiland1.png
-      edate: 17 October 1748
-      vdate: 27 August 2026
-      url: https://www.archion.de/p/e4313feebe/
-      literal:  "d 17t octobr. Johann Henrich Weiland von Nammen mit Catharina Mysings sel. Joh. Bünten Witwe copuliret"
-      trans: "On 17 October, Johann Henrich Weiland of Nammen was married to Catharina Mysing, widow of the late Johann Bünte."
-    
-    - name: Jobst Henrich Weiland
-      residence: Bernbusch
-      image_no: 48 
-      ifile: petzen-band1b-img48-weiland2.png
-      edate: 7 June 1753
-      vdate: 27 August 2026
-      url: https://www.archion.de/p/bf5657d55f/
-      literal: "d 7tJunii Jobst Henrich Weiland aus Bernbusch mit Anna Ilsa Margarathe Mönchhofs von Jägers Stette zu Evesen copulirt"
-      trans: "On 7 June, Jobst Henrich Weiland of Bernbusch was married to Anna Ilsa Margaretha Mönchhof, from Jäger’s place in Evesen."
-    
-    - name: Heinrich Ludewig Weiland
-      residence: Röcke
-      image_no: 56
-      ifile: petzen-band1b-img56-weiland.png
-      edate: 7 February 1765
-      vdate: 27 August 2026
-      url: https://www.archion.de/p/4eff94fb92/
-      literal: "d 7t Febr: Heinrich Ludewig Weiland Schweinhirtens und Einliegers in Röcke mit Anna Christina Nergen aus der Driften in Pezen copuliret."
-      trans: "On 7 February, Heinrich Ludewig Weiland, swineherd and lodger in Röcke, was married to Anna Christina Nergen from the Drift in Pezen."
-    
-  burial: 
-    volume: band1b
-    record-symbol: D
-    records:
-    - name: Wölkken Weÿlandt 
-      residence: not specified
-      image_no: 73
-      ifile: petzen-band1b-img73-weiland.jpg
-      edate: 24 January 1650
-      vdate: 1 September 2026
-      url: https://www.archion.de/p/dd754d963e/
-      literal: "Wölkken Weÿlandt Altermann. 24 Jan:"
-      trans: "Wölkken Weÿlandt, elder. 24 January"
-  
-    - name: Wilandt's little daughter
-      residence: Petzen
-      image_no: 96
-      ifile: petzen-band1b-img96-weiland-burial.png
-      edate: 8 December 1676
-      vdate: 28 August 2026 
-      url: https://www.archion.de/p/c49ee4a701/
-      literal: "[unclear] Wilandts Mätigen zu Petzen den 8 Decemb. begraben"
-      trans: "[unclear] Wilandts daughter at Petzen den 8 Decemb buried."
-  
-    - name: A small Weiland daughter
-      residence: not specified
-      image_no: 98
-      ifile: petzen-band1b-img98-weiland.png
-      edate: 24 February 1678
-      vdate: 28 August 2026
-      url: https://www.archion.de/p/56be28256d/
-      literal: >-
-        "[?ert] Weilandt [ein kleines?] Mätigen [alt?] 6 Woche den 24 Feb begraben"
-      trans: >-
-        "[?ert] Weilandt [a small?] daughter [age?] 6 weeks. 24 Febraru buried"
-   
-    - name: "Elderly Weiland woman/wife"
-      residence: Petzen
-      image_no: 104
-      ifile: petzen-band1b-img104-weiland.png
-      edate: 25 March 1683
-      vdate: 28 August 2026
-      url: https://www.archion.de/p/07c4c14084/
-      literal: "Die alte Weiland:sche zu Peten den 25 Martij begraben."
-      trans: "“The elderly Weiland woman of Petzen was buried on 25 March."
-  
-    - name: "Wolter Weilandt’s little daughter"
-      residence:
-      image_no: 113
-      ifile: petzen-band1b-img113-weiland.png
-      edate: 17 February 1693
-      vdate: 28 August 2026
-      url: https://www.archion.de/p/04d28f5cdc/
-      literal: "Wolter Weilandt, Töchterlein, den 17 Februar begraben."
-      trans: "Wolter Weilandt’s little daughter, buried 17 February."
-  
-    - name: Wolter Weilandt
-      residence: Petzen
-      image_no: 117
-      ifile: petzen-band1b-img117-weiland.png
-      edate: 5 July 1694
-      vdate: 28 August 2026
-      url: https://www.archion.de/p/0f5d7efeab/
-      literal: "Wolter Weilandt zu Petzen den 5 Julij begraben"
-      trans: 
-  
-    - name: Little son of Hans Weilandt 
-      residence: Evesen
-      image_no: 118
-      ifile: petzen-band1b-img118-weiland.png
-      edate: 10 November 1697
-      vdate: 15 September 2026
-      url: https://www.archion.de/p/2dbcc92fb2/
-      literal: >-
-        Hans Weilandt zu Evesen, Söhnlein, den 10 Nov: begraben.
-      trans: >-
-        The little son of Hans Weilandt of Evesen, buried November 10
-  
-    - name: Daughter of Hans Weyland
-      residence:  Eveßen
-      image_no: 125
-      ifile: petzen-band1b-img125-weiland.png
-      edate: 8 August 1706
-      vdate: 15 September 2026
-      url: https://www.archion.de/p/dd5b00dfdd/
-      literal: >-
-        den 8 August. Hans Weyland von Eversen eine Tochter von 3 iahren 6 Wochen begraben laßen Nahmens Anna Maria
-      trans: >-
-        On 8 August, Hans Weyland of Eversen had a daughter, aged 3 years and 6 weeks, buried. Her name was Anna Maria.
-
-    - name: Johan Henrich Weÿlandt
-      residence: Peetzen
-      image_no: 131
-      ifile: petzen-band1b-img131-weiland1.png
-      edate: 8 May 1711
-      vdate: 15 September 2026
-      url: https://www.archion.de/p/95a0ed0a62/
-      literal: >-
-        den 8 Maÿ ist Johan Weÿlandts aus Peetzen Sohn Johan Henrich begraben worden. alt 13 Jahr 14 Wochen.
-      trans: >-
-       On 8 May, Johan Weÿlandt’s son Johan Henrich from Peetzen was buried, aged 13 years and 14 weeks 
-
-    - name: Anna Catharina Weÿlandt
-      residence:  Evesen
-      image_no: 132 
-      ifile: petzen-band1b-img131-weiland2.png 
-      edate: 29 April 1712
-      vdate: 15 September 2026 
-      url: https://www.archion.de/p/25679545ef/ 
-      literal: >-
-        9) den 29 April: ist Hans Weÿlandts auß Evesen Ehefrau Anna Catharina Bormans begraben worden. Ihres Alters 56 Jahr.
-      trans: >-
-        On 29 April, Hans Weÿlandt’s wife from Evesen, Anna Catharina Bormans, was buried. She was 56 years old.
-
-    - name: Henrich Wilhelm Weiland
-      residence: Behrenbusch
-      image_no: 160
-      ifile: petzen-band1b-img160-weiland.png 
-      edate: 10 November 1741
-      vdate: 9 September 2026
-      url: https://www.archion.de/p/fe8086123e/
-      literal: >-
-        Dito d 10t Weiland von Behrnbuschein Sohn Henrich Wilehlm æt. 4 beerdig laßen 
-      trans: >-
-        On November 10, Henrich Wilhelm, the son of Weiland from Behrenbusch, age 4 was buried.
-
-    - name: Henrich Wilhelm Weiland 
-      residence: Behrenbusch
-      image_no: 163
-      ifile: petzen-band1b-img163-weiland.png
-      edate: 28 February 1745
-      vdate:
-      url: https://www.archion.de/p/c2e13e71bf/
-      literal: >-
-        d 28t Dito Jost Henirch Weiland in Behrenbusch ein Söhnlein [Henrich?] Wilhem
-        begraben laßen 2 Jahr 16 [Wochen/Tage?]
-      trans: >-
-        On February 28, the little son of Jost Henrich Weiland of Behrenbusch, Henrich Wilhem,
-          was buried. [age] 2 years 16 [weeks/days?]
-
-    - name: Anna Catharina Sophia Weiland 
-      residence: Nammen
-      image_no: 166 
-      ifile: petzen-band1b-img166-weiland.png
-      edate: 19 October 1746
-      vdate: 11 September 2026
-      url: https://www.archion.de/p/032d18c461/
-      literal: >-
-        d 19t Octobr. begraben Anna Catharina Sophia Weilands von Nammen alt 25 Jahr 9 Monat
-      trans: >-
-        On October 19, Anna Catharina Sophia Weiland of Nammen was buried age 25 and 9 months
-
-    - name: Johann Henrich Weiland 
-      residence: Evesen
-      image_no: 167 
-      ifile: petzen-band1b-img167-weiland1.png
-      edate: 7 April 1747
-      vdate: 11 September 2026
-      url: https://www.archion.de/p/8c493ba9b4/ 
-      literal: >-
-        d 7t Apr. Johann Henrich Weiland begraben.
-        alt 1 Jahr 5 Wochen. Pat. ~~Mstr.~~ Harm Henrich Weiland
-        Zimmermeister in Evesen.
-      trans: >-
-        On April 7, Johann Henrich Weiland was buried, aged 1 year and 5 weeks. Father: Harm Henrich Weiland, master carpenter in Evesen.
-
-    - name: Unnamed Stillborn Weiland daughter 
-      residence: Evesen
-      image_no: 167
-      ifile: petzen-band1b-img167-weiland1.png
-      edate: 7 April 1747 
-      vdate: 11 September 2026
-      url: https://www.archion.de/p/8c493ba9b4/
-      literal: >-
-        Eodem dessen Sohn Harm Henrich Weiland ein todtgeborene Töchterlein beedigen lassen.
-      trans:
-        On the same day [April 7], his son Harm Henrich Weiland had a stillborn little daughter buried. 
-
-    - name: Charlotta Louisa Weiland
-      residence: Evesen
-      image_no: 167
-      ifile: petzen-band1b-img167-weiland2.png
-      edate: 8 November 1747
-      vdate: 11 September 2026
-      url: https://www.archion.de/p/aa8c19ee9d/
-      literal: >-
-        d 8t Nov. Charlotta Louisa Weiland, Herman Henrich Weilands Tochter aus Evesen begraben. alt 5 Monats 2 Woch[en]
-      trans: >-
-        On November 8, Charlotta Louisa Weiland, the daughter of Herman Henrich Weiland of Evesen, was buried. Age 5 months 2 weeks.
-
-    - name: Sophia Margaretha Weyland
-      residence: Evesen
-      image_no: 168
-      ifile: petzen-band1b-img168-weiland.png
-      edate: 12 May 1748
-      vdate: 11 September 2026 
-      url: https://www.archion.de/p/fe74831335/
-      literal: >-
-        d 12t Maii Sophia Margaretha Weylands begraben. Joh, Fried. Weilands Tochter aus Evesen. 18 Jahr   
-      trans: >-
-        On May 12, Sophia Margaretha Weyland, daugher of Joahnn Friedrich Weiland of Evesen, was buried age 18.
-
-    - name: Anna Ilsabey Weiland 
-      residence: Nammen
-      image_no: 172
-      ifile: petzen-band1b-img172-weiland.png
-      edate: 11 April 1751
-      vdate: 11 September 2026
-      url: https://www.archion.de/p/1492084c8d/
-      literal: >-
-        d 11t Apr. Anna Ilsabey Weiland aus Nammen begraben alt 64 Jahr
-      trans: >-
-        On APril 11, Anna IlsabeyWeiland of Nammen was buried age 64 years
-
-    - name: Wilhelm Weiland
-      residence: Berenbusch
-      image_no: 173 
-      ifile: petzen-band1b-img173-weiland1.png
-      edate: 29 December 1751 
-      vdate: 11 Spetember 2026
-      url: https://www.archion.de/p/3e5aa91246/
-      literal: >-
-        d 29t Decembris Wilhelm Weiland von Sanders Stette zu Berenbusch begraben æt. 36 Jahr  
-      trans: >-
-        On December 29, Wilhelm Weiland of Sander's place at Berenbsuch was buried age 36.
-
-    - name: Sophia Maria Weiland
-      residence: Nordholz
-      image_no: 173
-      ifile: petzen-band1b-img173-weiland2.png
-      edate: 3 March 1752
-      vdate: 11 September 2026
-      url: https://www.archion.de/p/865d706840/
-      literal: >-
-        d 3t Martii Sophia Maria Weilands begr. P. Jo. Fried. Wilhelm Weiland zu Nordholtz 1 Jahr [8?]
-      trans: >-
-        On March 3, Sophia Maria Weiland was buried age 1 year [8 weeks?] . Father: Johann Friedrich Weiland of Nordholtz
-
-    - name: Herman Heinrich Weiland of Evesen
-      residence: Evesen
-      image_no: 177 
-      ifile: petzen-band1b-img177-weiland.png
-      edate: 28 April 1756
-      vdate: 11 September 2026
-      url: https://www.archion.de/p/8f3318acd2/
-      literal: >-
-        d 28t Apr Herman Henrich Weiland von Evesen begraben alt 12 Studen
-      trans: >-
-        On April 28, Herman Henrich Weiland of Evesen buried age 12 hours
-
-    - name: Jobst Heinrich and Hans Henrich Weiland
-      residence: Berenbusch
-      image_no: resume at 181
-      ifile: petzen-band1b-img181-2weilands.png
-      edate: 22 October 1758
-      vdate: 11 September 2026
-      url: https://www.archion.de/p/ac59c4b1c4/
-      literal: >-
-        22. Oct. Jobst Henrich und Hans Henrich Weiland Sanders Zwillinge aus Bernbusch begr. 14 Tage 16 Tage alt
-      trans: >-
-        22 October. Jobst Henrich and Hans Henrich Weiland, Sander’s twins from Berenbusch, were buried, aged 14 days and 16 days.
-      text: >-
-        ```{note}
-        **Sanders** might be the Hausname while **Weiland** is the Familienname.
+  record_sections:    
+    marriage:
+      volume: band1b
+      record-symbol: M
+      records:
+        - name: "[uncertain name] Weilandt"
+          residence: Petzen
+          image_no: 15
+          ifile: petzen-band1b-img15-weiland.png 
+          edate: 12 November 1675
+          vdate: 27 August 2026
+          url: https://www.archion.de/p/810b859f6a/
+          literal: "[unclear] Weilandt und Elisabeth Rödemeisters zu Petzen den 12 [either Nov. or Dec.] copuliret"
+          trans: "[unclear] Weilandt and Elisabeth Rödemeister of Petzen were married on the 12th of [November or December]."
         
-
-    - name: Johann Henrich Weiland
-      residence: Nammen
-      image_no: 181
-      ifile: petzen-band1b-img181-weiland2.png
-      edate: 17 April 1759
-      vdate: 11 September 2026
-      url: https://www.archion.de/p/98d6bb3e1f/
-      literal: >-
-        d 17t April Johan Henrich Weiland aus Nammen begraben 44 1/2 Jahr alt.
-      trans: >-
-        On April 17, Johan Henrich Weiland of Nammen was buried age 44 and a half.
-    
-    - name: Johann Tönnis Weiland
-      residence: Nammen
-      image_no: 184
-      ifile: petzen-band1b-img184-weiland1.png
-      edate: 23 November 1760
-      vdate: 11 September 2026
-      url: https://www.archion.de/p/5f292b4cd4/
-      literal: >-
-        d 23t Nov Johann Tönnies Weiland von Nammen begraben alter 82 Jahr
-      trans:
-        On November 23,  Johann Tönnies Weiland of Nammen was buried age 82
-     
-    - name: Anna Catharine Weilands 
-      residence: Nammen 
-      image_no: 184
-      ifile: petzen-band1b-img184-weiland2.png
-      edate: 1 February 1761
-      vdate: 11 September 2026
-      url: https://www.archion.de/p/34bf2de664/
-      literal: >-
-        d 1t Febr Anna Catharine Weilands von Bünte Stett in Nammen begr. 59 Jahr
-      trans: >-
-        On February 1, Anna Catharine Weilands of Bünte's place in Nammen was buried age 59
-
-    - name: Jobst Heinrich Weiland
-      residence: Berenbusch
-      image_no: 186 
-      ifile: petzen-band1b-img186-weiland1.png 
-      edate: 14 October 1761
-      vdate: 12 Spetember 2026
-      url: https://www.archion.de/p/c43da5eb71/
-      literal: >-
-        14t Octobr. Jobst Heinrich Weiland aus Berenbusch alt 59 Jahr
-      trans: >-
-        On October 14, Jobst Heinrich Weiland of Berenbusch age 59 [was buried].
-    
-    - name: Anna Sophia Christina Weiland
-      residence:
-      image_no: 186
-      ifile: petzen-band1b-img186-weiland2.png
-      edate: 25 October 1761
-      vdate: 12 September 2026
-      url: https://www.archion.de/p/c43da5eb71/
-      literal: >-
-        d 25th Octobr. Anna Sophia Christina Weiland aus Evesen Heinrich Ludewigs Weilands Ehefrau alt 31 1/2 Jahr
-      trans:
-        On October 25, Anna Sophia Christina Weiland of Evesen, the wife of Heinrich Ludewig Weiland, age 31 1/2 years [was buried]
-    
-    - name: Maria Elisabeth Weiland 
-      residence: Evesen No. 20
-      image_no: resume at 188 
-      ifile: petzen-band1b-img189-weiland.png
-      edate: 5 August 1764
-      vdate: 13 September 2026
-      url: https://www.archion.de/p/2d4218374e/
-      literal: >-
-        d 5t Augusut Maria Elisabeth Weilands Johann Friederich Weilands aus Evesen No. 20 Ehefrau alt 53 Jahr
-      trans: >-
-        On August 5, Maria Elisabeth Weiland, wife of Johann Friederich Weiland of Evesen No. 20, age 53 [was buried] 
+        - name: Hans Hinrich Weilandt
+          residence: Petzen
+          image_no: 26
+          ifile: petzen-band1b-img26-weiland.png
+          edate: 2 March 1702
+          vdate: 27 August 2026
+          url: https://www.archion.de/p/6e4a60e49b/ 
+          literal: "Hans Hinrich Weilandt von Petzen und Anna Margaretha Sanders auf den Berenbusch den 2 Martij copuliret"
+          trans: "Hans Hinrich Weilandt of Petzen and Anna Margaretha Sanders at Berenbusch were married on March 2." 
         
-    - name: Anna Maria Weiland 
-      residence: Evesen 
-      image_no: 190
-      ifile: petzen-band1b-img190-weiland.png
-      edate: 7 October 1764
-      vdate: 13 September 2026
-      url: https://www.archion.de/p/5d33f5e541/
-      literal: >-
-        d 7t Octobr. Anna Maria Weilands Hermann Heinrich Weilands aus Evesen No [missing] eheliche Tochter alt 9 Jahr
-      trans: >-
-        On October 7, Anna Maria Weiland, the legitimate daughter of Herman Heinrich Weiland of Evesen No. [missing], age 9, [was buried]
-    
-    - name: Anna Maria Weiland
-      residence: Röcke
-      image_no: 191 
-      ifile: petzen-band1b-img191-weiland.png
-      edate: 12 November 1764
-      vdate: 13 September 2026
-      url: https://www.archion.de/p/a6787fee3f/
-      literal: >-
-        d 12t Novembr Anna Maria Weilands Heinrich Ludewigs Weilands Einliegers und Schweinhirtens
-        in Röcke 2ten Ehefrau. alt 35 1/2 Jahr
-      trans: >-
-        On November 12, Anna Maria Weiland, the second wife of Heinrich Ludwig Weiland, a lodger and swineherd in Röcke, aged 35½ years.
-    
-    - name: Herman Heinrich Weiland 
-      residence: Evesen No. 21
-      image_no: 192
-      ifile: petzen-band1b-img194-weiland.png
-      edate: 20 April 1767
-      vdate: 13 September 2026
-      url: https://www.archion.de/p/2fb6efc2d2/
-      literal: >-
-        `+` d 20t Apr: ist hier begraben Hermann Heinrich Weilan. aus Evesen No. 21. Seine Krankheit war das Alter und ein
-        Schlagfluß. Er ist gestorben d 15t ejuso: u[nd] alt worden 76 Jahr 2 Monathe und 2 Wochen.
-      trans: >-
-        On April 20, Hermann Heinrich Weiland of Evesen, No. 21, was buried here. His illness was old age and a stroke. He died on April 15 of the same month and had reached the age of 76 years, 2 months, and 2 weeks.
-
-    - name: Hans Heinrich Weiland 
-      residence: Evesen No. 21
-      image_no: 195
-      ifile: petzen-band1b-img195-weiland.png
-      edate: 29 April 1767
-      vdate: 13 September 2026
-      url: https://www.archion.de/p/1f6ff3d2ab/
-      literal: >-
-        d 29t Apr: ist hieselbst beerdiget worden Hans Heinrich Weiland aus Evesen No. 21 des alten Weilands jüngster Sohn. Seine Krankheit war ein
-        verzehrendes Fieber. Er ist gestorben d 25t Apr: früh um 10 Uhr. Sein Alter ist 26 Jahr.
-      trans: >-
-        On April 29, Hans Heinrich Weiland of Evesen No. 21, the youngest son of old Weiland, was buried here. His illness was a wasting fever. He died on April 25 at 10 o’clock in the morning. He was 26 years old.
-    
-    - name: Anna Philippina Sophia Weiland
-      residence: Pezerbaum
-      image_no: 196 
-      ifile: petzen-band1b-img196-weiland.png
-      edate: 2 August 1767
-      vdate: 13 September 2026
-      url: https://www.archion.de/p/245c994749/
-      literal: >-
-        d 2t Aug: Anna Philippina Sophia Weilandts des Heinrich Ludewig Weilandts Einliegers in Pezerbaum eheliche
-        Tochter hieselbst beerdiget worden. Ihre Krankheit waren die Blattern und Schürckgen und alt worden 3 3/4 Jahr Ja
-      trans: >-
-        On August 2, Anna Philippina Sophia Weiland, the legitimate daughter of Heinrich Ludwig Weiland, a lodger in Pezerbaum, was buried here. Her illnesses were smallpox and convulsions, and she was 3¾ years old.
-     
-    - name: Johann Heinrich Weiland 
-      residence: Evesen No. 20
-      image_no: 199
-      ifile: petzen-band1b-img199-weiland.png
-      edate: 5 June 1768
-      vdate: 13 September 2026
-      url: https://www.archion.de/p/3e763100c8/
-      literal: >-
-        d 5t Jun: ist hier beerdiget worden Johann Heinrich Weilandt Friederich Wilhelm Weilands aus Evesen No. 20 mit seiner Ehefrau Anna Ilsabei geb. Deerbergen erzeugter Sohn. Seine Kranckheit war die Auszehrung, daran er d 2t früh um 9 Uhr gestorben da Er alt worden 3 Jahr 4 Monathe.
-      trans: >-
-        On June 5, Johann Heinrich Weilandt was buried here, the son of Friederich Wilhelm Weiland of Evesen No. 20 and his wife Anna Ilsabei, née Deerberg. His illness was consumption (tuberculosis), from which he died on June 2 at 9 o’clock in the morning, having reached the age of 3 years and 4 months.
-     
-    - name: Anna Ilsabei nee Deerbeerg Weiland 
-      residence: Evesen No. 20
-      image_no: 200
-      ifile: petzen-band1b-img200-weiland.png 
-      edate: 19 March 1769
-      vdate: 13 September 2026
-      url: https://www.archion.de/p/8ebae5ac69/
-      literal: >-
-        d 19t Mar. ist hierselbst beerdigt des Wilhelm Weilands aus Evesen No. 20 Ehefrau Anna Ilsabei geb. Deerbergen. Ihre
-        Kranckheit war eine Auszehrung daran sie d 14t abends gestorben, und ist alt worden 32 Jahr.
-      trans: >-
-        On March 19, Wilhelm Weiland’s wife from Evesen No. 20, Anna Ilsabei, née Deerberg, was buried here. Her illness was tuberculosis, from which she died on the evening of the 14th. She was 32 years old.
- 
-    - name: Hermann Heinrich Weilandt 
-      residence: Evesen No. 21 
-      image_no: 201 
-      ifile: petzen-band1b-img201-weiland.png 
-      edate: 31 January 1770
-      vdate: 13 September 2026
-      url: https://www.archion.de/p/9c576fd0ff/
-      literal: >-
-        d 31 Jan: ist hieselbst begraben Hermann Heinrich Weilandt aus Evesen No. 21, ein Ehemann. Seine Kranckheit war der Stein, daran derselbe seit 11 Jahren vieles ausgestanden. Er ist gestorben d 26t ejusd. und alt worden 47 Jahr.
-      trans: >-
-        On January 31, Hermann Heinrich Weilandt of Evesen No. 21, a married man, was buried here. His illness was the stone, from which he had suffered greatly for 11 years. He died on the 26th of the same month and reached the age of 47 years.
-    
-    - name: Friederich Wilhelm Weiland
-      residence: Evesen No. 20
-      image_no: 202
-      ifile: petzen-band1b-img201-weiland1.png
-      edate: 1 May 1770
-      vdate: 13 September 2026
-      url: https://www.archion.de/p/ce6bf47a77/
-      literal: >-
-        d 1 Maj: ist hieselbst beerdigt Friederich Wilhelm Weiland, des Friederich Wilhelm Weilands aus Evesen No. 20 ehelicher Sohn ersterer Ehe. Seine Kranckheit war die Auszehrung. Sein Alter beträgt 8 Jahr 9 Wochen.
-      trans: >-
-        On May 1, Friederich Wilhelm Weiland was buried here, the legitimate son by the first marriage of Friederich Wilhelm Weiland of Evesen No. 20. His illness was tuberculosis. His age was 8 years and 9 weeks.
-   
-    - name: Hans Heinrich Weiland
-      residence: Evesen No. 20
-      image_no: 202 
-      ifile: petzen-band1b-img202-weiland2.png
-      edate: 24 June 1770
-      vdate: 13 September 2026
-      url: https://www.archion.de/p/ce6bf47a77/
-      literal: >-
-        d 24t Jun: ist hieselbst begraben Hans Heinrich Weiland Friederich Wilhelm Weilands aus Evesen No. 20 ehelicher Sohn. Die Kranckheit waren die Schürckgen.
-        Sein Alter hat er gebracht auf 24 Wochen.
-      trans: >-
-        On June 24, Hans Heinrich Weiland, the legitimate son of Friederich Wilhelm Weiland of Evesen No. 20, was buried here. His illness was febrile illness. He had reached the age of 24 weeks
- 
-    - name: Christina Margaretha Weiland
-      residence: Evesen
-      image_no:  203
-      ifile: petzen-band1b-img203-weiland.png
-      edate: 3 March 1771
-      vdate: 13 September 2026
-      url: https://www.archion.de/p/5d8dbf9cc0/
-      literal: >-
-        d 3t Mart ist beerdigt des Johann Christian Weilands Einliegers in Evesen Tochter Christina Margaretha.
-        Ihre Kranckheit war die Brustkranckheit. Ihr Alter 12 Wochen. 
-      trans: >-
-        On March 3, Christina Margaretha, daughter of Johann Christian Weiland, a lodger in Evesen, was buried. Her illness was pneumonia. She was 12 weeks old.
- 
-    - name: Anna Christina Margaretha Weiland
-      residence: Röcke
-      image_no: 204
-      ifile: petzen-band1b-img204-weiland.png
-      edate: 22 December 1771 
-      vdate: 13 September 2026
-      url: https://www.archion.de/p/f546e2864d/
-      literal: >-
-        d 22t Decembr ist beerdigt Anna Christina Margaretha Weilands, des Heinrich Ludewig Weilands, Einliegers in Röcke, eheliche Tochter.
-        Sie ist gestorben an der Brustkranckheit und alt worden 1 3/4 Jahr.
-      trans: >-
-        On December 22, Anna Christina Margaretha Weiland, legitimate daughter of Heinrich Ludewig Weiland, a lodger in Röcke, was buried. She died of pneumonia and was 1¾ years old.
-    
-    - name: Sophia Christina Weiland
-      residence: Evesen No. 20
-      image_no: 207 
-      ifile: petzen-band1b-img207-weiland.png
-      edate: 17 April 1772
-      vdate: 13 Septemb 2026
-      url: https://www.archion.de/p/f5395f06bb/
-      literal: >-
-        d 17t Apr: ist begraben Sophia Christina Weilands Friederich Wilhelm Weilands aus Evesen No. 20 Tochter. Ihre Kranckheit war die Auszufrung. Ihr Alter 5 Jahr.
-      trans:
-        On April 17, Sophia Christina Weiland, daughter of Friederich Wilhelm Weiland of Evesen No. 20, was buried. Her illness was tuberculosis. She was 5 years old.
- 
-    - name: Anna Catharina Weiland
-      residence: not given
-      image_no: resume 208 
-      ifile: petzen-band1b-img208-weiland.png
-      edate: 2 March 1773
-      vdate: 13 Septemb 2026
-      url: https://www.archion.de/p/e4e74055c1/
-      literal: >-
-        d 2t Mar: ist dieselbst begraben Anna Catharina Weiland, Herman Heinrich Weilands aus Evesen nachgelaßene Wittwe. Ihre Kranckheit war die Waßersucht. Ihr Alter 70 Jahr.
-      trans: >-
-        On 2 March, Anna Catharina Weiland, the surviving widow of Herman Heinrich Weiland of Evesen, was buried there. Her illness was dropsy (edema). Her age was 70 years.
-    
-    - name:  Friderich Weiland
-      residence: Evesen No. 20
-      image_no:  210
-      ifile: petzen-band1b-img210-weiland1.png
-      edate: 25 May 1773
-      vdate: 13 September 2026
-      url: https://www.archion.de/p/4499092089/
-      literal: >-
-        d 25t Maj: ist begraben Friderich Weilandt ein Wittwer aus Evesen No 20. Seine Kranckheit war die Auszehrung. Sein Alter 67 Jahr.
-      trans: >-
-        On 25 May, Friderich Weilandt, a widower from Evesen No. 20, was buried. His illness was tuberculosis. His age was 67 years.
-
-    - name: Johann Tönnies Friderih Weiland
-      residence:
-      image_no: 210
-      ifile: petzen-band1b-img210-weiland2.png
-      edate: 12 November 1773
-      vdate: 13 September 2026
-      url: https://www.archion.de/p/465ffb34dc/
-      literal: >-
-        d 12t Novembr ist begraben Johann Tönnies Friderich Weiland, Friederich Wilhelm Weilands aus Evesen No. 20 ehelicher Sohn. Seine Kranckheit waren die Schürckgen.
-        Sein Alter 8 Wochen.
-      trans: >-
-        On 12 November, Johann Tönnies Friderich Weiland, the legitimate son of Friederich Wilhelm Weiland of Evesen No. 20, was buried. His illness was a febrile illness. His age was 8 weeks.
-    
-    - name: Ludewig Weiland
-      residence: Evesen
-      image_no: 214
-      ifile: petzen-band1b-img214-weiland.png
-      edate: 24 February 1775
-      vdate: 13 September 2026
-      url: https://www.archion.de/p/191f212d91/ 
-      literal: >-
-        13) d. 24t Febr. ist beerdigt Ludewig Weilandts, ein Ehemann und Einlieger in Evesen. Er ist gestorben an der Engbrüstigkeit und alt worden 48 Jahr.
-      trans: >-
-        13) On February 24, Ludewig Weilandts, a married man and lodger in Evesen, was buried. He died of emphysema and was 48 years old.
-  
-    - name: Anna Sophia Eleonore Weiland
-      residence: Nordholtz
-      image_no: 216
-      ifile: petzen-band1b-img216-weiland.png
-      edate: 2 January 1775
-      vdate: 13 September 2026
-      url: https://www.archion.de/p/b3dd3d68dc/ 
-      literal: >-
-        2) Den 16. Januar ist beerdigt Anna Sophia Philippina Eleonora Weilands, des Johann Heinrich Wilhelm Weilands aus Nordholtz eheliche Tochter. Sie ist an den Schürckgen in der 11. Woche gestorben.
-      trans: >-
-        2) On January 16, Anna Sophia Philippina Eleonora Weiland was buried, the legitimate daughter of Johann Heinrich Wilhelm Weiland of Nordholz. She died of a febrile illness in her 11th week of life. 
-  
-    - name: Stillborn Weiland son
-      residence: Peezen
-      image_no: 221
-      ifile: petzen-band1b-img221-weiland1.png
-      edate: 27 July 1778
-      vdate: 14 September 2026
-      url: https://www.archion.de/p/d22ff46e3e/ 
-      literal: >-
-        13) d. 17t Jul. ist des Johann Christian Weilands in Peezen todtgebohrenes Söhnlein begraben.
-      trans: >-
-        On July 17, Johann Christian Weiland’s stillborn little son in Peezen was buried.
-    
-    - name: Sophia Eleonora Weiland
-      residence: Evesen No. 21
-      image_no: 221 
-      ifile: petzen-band1b-img221-weiland2.png
-      edate: 23 October 1778
-      vdate: 14 September 2026
-      url: https://www.archion.de/p/2f6401501d/ 
-      literal: >-
-        17) d 23t Octobr ist beerdigt Sophia Eleonora Weilands des Johann Heinrich Weilands aus Evesen No. 21 eheliche Tochter.
-        Sie ist gestorben an den Schürckgen und alt worden 3 Wochen und 2 Tage.
-      trans: >-
-        17) On 23 October, Sophia Eleonora Weiland, legitimate daughter of Johann Heinrich Weiland of Evesen No. 21, was buried. She died of a febrile illness. and was 3 weeks and 2 days old.
- 
-    - name: Johann Heinrich Weiland
-      residence: sand-pit area of Evesen
-      image_no: 222
-      ifile: petzen-band1b-img222-weiland.png 
-      edate: 19 January 1779
-      vdate: 14 Septembere 2026
-      url: https://www.archion.de/p/4bbaa28906/ 
-      literal: >-
-        3) d 19t Jan. ist beerdigt Johann Heinrich Weilandt des Johann Heinrich Weilands aus Evesen von der Sandkuhle ehelicher Sohn. Er starb an den Blattern alt 2 Jahr 10 Wochen.
-      trans: >-
-       On 19 January, Johann Heinrich Weilandt was buried, the legitimate son of Johann Heinrich Weiland, from the sand-pit area of Evesen. He died of smallpox, aged 2 years and 10 weeks. 
-    
-    - name: Johanna Sophia Weiland
-      residence: no residence given
-      image_no: 223
-      ifile: petzen-band1b-img223-weiland1.png 
-      edate: 18 February 1779
-      vdate: 14 September 2026
-      url: https://www.archion.de/p/a1da0fd1af/ 
-      literal: >-
-        2) d 18t Febr ist begraben Johanna Sophia Weilands des Ludewig Weilands nachgelaßene Tochter. Sie ist gestorben an der Auszehrung. Alt 11 Jahr.
-      trans: >-
-        2) On 18 February, Johanna Sophia Weiland, the surviving daughter of the late Ludewig Weiland, was buried. She died of tuberculosis. Age 11 years.
-  
-    - name: Sophia Elisabeth Weiland
-      residence: Evesen
-      image_no: 223
-      ifile: petzen-band1b-img223-weiland2.png
-      edate: 21 April 1779
-      vdate: 14 September 2026
-      url: https://www.archion.de/p/a999b29a5d/ 
-      literal: >-
-        7) d 21t Apr: ist begraben Sophia Elisabeth Weiland des Johann Heinrich Weilands aus Evesen Ehefrau. Sie ist gestorben an der
-        Auszehrung. Alt 27 Jahr 27 Wochen.
-      trans: >-
-        7) On 21 April, Sophia Elisabeth Weiland, wife of Johann Heinrich Weiland of Evesen, was buried. She died of tuberculosis. Age 27 years, 27 weeks.
- 
-    - name: Anna Philippina Weiland
-      residence: Peezen
-      image_no: 223 
-      ifile: petzen-band1b-img223-weiland3.png
-      edate: 19 September 1779
-      vdate: 14 September 2026
-      url: https://www.archion.de/p/bf8bf4c392/ 
-      literal: >-
-        23) d 19t Septbr ist begraben Anna Philippina Weiland des Johann Christian Weilands Einliegers in Peezen eheliche Tochter. Sie ist an den Schürckgen gestorben. Ihres Alters 4 3/4 Jahr.
-      trans: >-
-       23) On 19 September, Anna Philippina Weiland, legitimate daughter of Johann Christian Weiland, a lodger in Peezen, was buried. She died of a febrile illness. She was 4¾ years old. 
-  
-    - name: Anna Philippina Weiland
-      residence: Peezen
-      image_no: 229
-      ifile: petzen-band1b-img229-weiland.png 
-      edate: 11 March 1782
-      vdate: 14 September 2026
-      url: https://www.archion.de/p/66bd6bad06/ 
-      literal: >-
-        9) d 11 Mart: ist begraben Anna Philippina Weilands des Johan Christian Weilands Einliegers in Peezen eheliche Tochter. Sie ist gestorben an den Schürckgen. Ihres Alters 22 Wochen.
-      trans: >-
-        9) On 11 March, Anna Philippina Weiland, legitimate daughter of Johan Christian Weiland, a lodger in Peezen, was buried. She died of a febrile illness. She was 22 weeks old.
-
-    - name: Johann Heinrich Weilandt
-      residence: Notdholtz
-      image_no: 234 
-      ifile: petzen-band1b-img234-weiland.png
-      edate: 7 March 1784
-      vdate: 14 September 2026
-      url: https://www.archion.de/p/a3107efa50/ 
-      literal: |
-        5) d 7t Mart. ist Johann Heinrich Weilandt ein Ehemann aus Nordholtz begraben. Er ist gestorben an der Brustkranckheit. Sein Alters 28 1/2 Jahr.
- 
-        get. 7.9.55
-        cop. 24.4.74 
-      trans: |
-        On 7 March, Johann Heinrich Weilandt, a married man from Nordholz, was buried. He died of pneumonia. His age was 28½ years.
- 
-        Baptized 7 September 1755
-        Married 24 April 1774
- 
-    - name: Philippine Eleonore Weiland
-      residence: not specified
-      image_no: 236
-      ifile: petzen-band1b-img236-weiland1.png 
-      edate: 4 May 1784
-      vdate: 13 September 2026
-      url: https://www.archion.de/p/39c9749e3f/ 
-      literal: >-
-        26) Eodem ist Philippine Eleonore Weilands ein Hurkind beerdigt. Sie ist gestorben an den Schürckgen. Ihres Alters 4 Wochen.
-      trans: >-
-        26) On the same day, Philippine Eleonore Weiland, an illegitimate child, was buried. She died of a febrile childhood illness. She was 4 weeks old.
- 
-    - name: Sophia Christina Weilandt
-      residence: Peezen
-      image_no: 236
-      ifile: petzen-band1b-img236-weiland2.png
-      edate: 26 May 1784
-      vdate: 13 September 2026
-      url: https://www.archion.de/p/b40210d311/
-      literal: >-
-        35) d 26t [May] ist Sophia Christina Weilandts des Johann Christian Weilandts Einliegers in Peezen Tochter begraben. Sie ist gestorben an den Blattern.
-        Ihres Alters 1 Jahr 14 Wochen.
-      trans: >-
-        35) On 26 May, Sophia Christina Weiland, daughter of Johann Christian Weiland, a lodger in Peezen, was buried. She died of smallpox. She was 1 year and 14 weeks old.
-
-  baptism:
-    volume: band1a
-    record-symbol: B
-    records:
-    - name: Daughter of Hans Weiland
-      image_no: 10
-      edate: 13 August 1648 
-      residence:
-      ifile: petzen-band1a-img10-weiland.png 
-      vdate: 28 August 2026
-      url: https://www.archion.de/p/e3a8b2db39/ 
-      literal: >-
-        Hans Weilands tochter Anna Sophia eodem die getaufft
-        gefattere: Metta Sophia Crufelers, Anna N., ancilla in praedio
-        Bückeburgensi. Anna Maria, Jacobi pastörsche in Meinsen, N. Köpper
-        von Achumb.
-      trans: >-
-        Hans Weiland's daughter Anna Sophia, baptized on the same day [as the previous entry, i.e., 13 August 1648].
-        Godparents: Metta Sophia Crufelers; Anna N., a maidservant on the Bückeburg estate; Anna Maria, wife of Pastor Jacobi in Meinsen; N. Köpper from Achum.
-  
-    - name: Hans Weiland's Daughter
-      image_no: 12 
-      edate: 11 April 1651
-      residence:
-      ifile: petzen-band1a-img12-weiland.png
-      vdate: 30 August 2026 
-      url: https://www.archion.de/p/621a0af765/ 
-      literal: "Hans Weilands tochter Ilschen, gf. Ilsche Sandersche im Berenbusche, den 11 Aprilis." 
-      trans: "Hans Weiland's daughter Ilschen. Godparent: Ilsche, wife of Sanders, in Berenbusch. On 11 April."
-   
-    - name: Anna Catharine Eleonora Weiland 
-      image_no: 55 
-      edate: 27 August 1676
-      residence: Petzen
-      ifile: petzen-band1a-img55-weiland.png  
-      vdate: 30 August 2026 
-      url: https://www.archion.de/p/6d83b6a5c9/
-      literal: >- 
-        Wolter Weilands zu Petzen Tochter Anna Catharina Eleonora
-        getaufft den 27  Aügusti gefattern Johan Halvekopfs Schwester
-        und ein Mätigen [von ?? Reisen] Nahmens Anna
-      trans: >-
-        Wolter Weiland’s daughter, Anna Catharina Eleonora, was baptized on 27 August. Sponsors were Johan
-        Halvekop’s sister and a girl from der [Reisen?] named Anna.  
-     
-    - name: Anna Margaretha Weiland
-      image_no: 56
-      edate: 20 January 1678
-      residence: Petzen
-      ifile: petzen-band1b-img56-weiland.png 
-      vdate: 30 August 2026 
-      url: https://www.archion.de/p/b655e6998b/
-      literal: >- 
-        Wolter Weilandt zu Petzen, Tochter, Anna Margaretha, getaufft
-        den 20 Januarij gefattere die Miersche zu Röcke, Daniel Vogts
-        Frau, u[nd]: des [Rödemiesters?] Frau in Nordholtz
-      trans: >-
-        Wolter Weilandt of Petzen’s daughter, Anna Margaretha, was
-        baptized on 20 January. The godmothers were Mrs. Mier of Röcke,
-        Daniel Vogt’s wife, and the wife of Rödemeister in Nordholtz.
-     
-    - name: Cort Hinrig Weilandt 
-      image_no: 58
-      edate: 13 February 1679
-      residence: Petzen
-      ifile: petzen-band1a-img58-weiland.png
-      vdate: 30 August 2026
-      url: https://www.archion.de/p/f3c5c0d057/
-      literal: >-
-        Wolter Weilandt zu Petzen Sohn, Cort Hinrig getaufft
-        den 13 Februarij, gefattern der Krüger zu Petzen,
-        [?] Aldags ältester Sohn, und der [Kohlmeister?] auf der [Hökersau?]
-      trans: >-
-        Wolter Weilandt of Petzen’s son, Cort Hinrig, was baptized on 13 February. The sponsors were the innkeeper of Petzen,
-        [?] Aldag’s eldest son, and the charcoal master at/on the [Hökersau?].
-
-    - name: Ilse Margaretha Weÿlandt
-      image_no: 141
-      edate: 8 May 1729
-      residence: Nammen
-      ifile: petzen-band1a-img141-weiland.png 
-      vdate: 3 Spetember 2026
-      url: https://www.archion.de/p/dac7b22d65/ 
-      literal: >-
-        14) den 6t Maÿ ist Johann Weÿlandts auß Nammen Töchterlein Ilse Margaretha getauft. Gev. die Schillingsche und die Brandtsche.
-      trans: >-
-        On May 6, Johann Weÿland of Nammen had his little daughter Ilse Margaretha baptized. Sponsors: Mrs. Schilling and Mrs. Brandt.
-      text: >-
-        There is a burial record from 4 November 1735 of female child named Elisabeth Margaretha Weilands born
-        6 years and 39 weeks earlier.
-
-        **What this suggests:**
-
-        The Margareta Elisabeth Weiland buried on 4 November 1737 was 6 years and 39 weeks old 
-        when she died. "Ilse" is short for Elisabeth. This would place her birth on 4 Feb. 1731, which is within one 
-        month of this baptism record. However, the father's given name in this baptism record is *Johann* whereas the father's given names in the
-        4 Nov. 1735 burial record are *Hans Harman*.
-
-        The burial record explicitly identifies the father as militis (a soldier), and the family therefore *might* have not have been living in
-        the Petzen parish at the time of the child's birth and baptism since soldiers' households moved with postings.
-
-  confirmation:
-    volume: band1a 
-    record-symbol: C
-    records:
-    - name: Hans Heinrich Weyland
-      image_no: 297
-      age: 13
-      residence:
-      edate: 1707  
-      vdate: 25 August 2026
-      url: https://www.archion.de/p/da82da13db/
-      literal: Hans Heinrich Weland____13
-      trans: "Hans Heinrich Weiland____13"
-    
-    - name: Anna Elisabeth Weÿland
-      image_no: 298
-      age: 12
-      residence: Evesen
-      edate: 1711
-      vdate: 25 August 2026
-      url: https://www.archion.de/p/e6b0295fb0/
-      literal: Anna Elisabeth Weÿlandts aus Evesen____12
-      trans: "Anna Elisabeth Weÿland of Evesen____12"
-    
-#   - name: Anna Elisabeth Vahlsing
-#     image_no: 299
-#     age: 12
-#     residence:
-#     edate: 1713   
-#     vdate: 25 August 2026
-#     url: https://www.archion.de/p/b7ee044bb4/
-#     literal: Anna Elisabeth Vahlsings aus Evesen____12
-#     trans: "Anna Elisabeth Vahlsing of Evesen____12"
-    
-    - name: Jobst Henrich Weÿland
-      image_no: 299
-      age: 14
-      residence: Berenbusch
-      edate: 1716
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/cff80d274e/
-      literal: Jobst Henrich Weÿland aus Berenbusch____14
-      trans: "Jobst Henrich Weÿland of Berenbusch____14"
-    
-#   - name: Anna Maria Vahlsing
-#     image_no: 299
-#     age: 13
-#     residence: Evesen
-#     edate: 1716
-#     vdate: 26 August 2026
-#     url: https://www.archion.de/p/cff80d274e/
-#     literal: Anna Maria Vahlsing aus Evesen____13
-#     trans: "Anna Maria Vahlsing of Evesen____13"
-    
-    - name: Weiland
-      image_no: 301
-      age: 
-      residence: no residenece given
-      edate: 1736
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/cc8d263b27/
-      literal: Weiland
-      trans: Weiland
-    
-    - name: Weiland
-      image_no: 301
-      age:
-      residence: "Nordholtz"
-      edate: 1737
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/cc8d263b27/
-      literal: Weiland  N
-      trans: "Weiland, Norholz"
-    
-    - name: Weiland
-      image_no: 302
-      age: 
-      residence: "Evesen"
-      edate: 1740
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/8adf84b739/
-      literal: "Weiland Ev:"
-      trans: "Weiland, Evesen"
-    
-    - name: "[female] Weiland"
-      image_no: 303
-      age: 
-      residence: Nordholtz
-      edate: 1743
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/330c163617/
-      literal: Weiland N.
-      trans: "Weiland, Norholz"
-    
-    - name: "[male] Weiland"
-      image_no: 303
-      age:
-      residence: Behrebusch
-      edate: 1745
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/c2e455cf48/
-      literal: Weiland Behrebusch
-      trans: "Weiland, Behrebusch"
-    
-    - name: Johann Heinrich Fahlsing
-      image_no: 303
-      age:
-      residence: Evesen
-      edate: 1746
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/61c7e65298/
-      literal: Johann Heinrich Fahlsing aus Evesem 
-      trans: "Johann Heinrich Fahlsing of Evesem"
-    
-    - name: Anna Christina Weiland
-      image_no: 304
-      age: 
-      residence: Evesen
-      vdate: 26 August 2026
-      edate: 1746
-      url: https://www.archion.de/p/c7513c70ad/
-      literal: Anna Christina Weilands aus Evesen.
-      trans: "Anna Christina Weiland of Evesen."
-    
-    - name: Hans Henrich Weiland 
-      image_no: 304
-      age:
-      residence: Berenbusch
-      edate: 1748
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/9da2dc81a0/
-      literal: Hans Henrich Weiland aus Berenbusch
-      trans: "Hans Henrich Weiland of Berenbusch"
-    
-    - name: Jobst Henrich Weiland
-      image_no: 305
-      age:
-      residence: Evesen
-      edate: 1750
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/016a349f41/
-      literal: Jobst Henrich Weiland aus Evesen
-      trans: "Jobst Henrich Weiland of Evesen"
-    
-    - name: Friederich Wilhelm Weiland
-      image_no: 308
-      age: 
-      residence: Nordholz
-      edate: 1751
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/43f1621379/
-      literal: Friederich Wilhelm Weiland aus Nordholz
-      trans: "Friederich Wilhelm Weiland of Nordholz"
-    
-    - name: Hans Henrich Weiland
-      image_no: 309
-      age: 
-      residence: Evesen
-      edate: 1753
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/c1c9046458/
-      literal: Hans Henrich Weiland aus Evesen
-      trans: "Hans Henrich Weiland of Evesen"
-    
-    - name: Sophia Elisabeth Weilands 
-      image_no: 309
-      age: 
-      residence: Nordholtz
-      edate: 1753
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/3a0883155f/ 
-      literal:  Sophia Elisabeth Weilands aus Nordholtz  
-      trans: "Sophia Elisabeth Weiland of Nordholtz"
-    
-    - name: Friederich Wilhelm Weiland
-      image_no: 309
-      age: 
-      residence: Evesen
-      edate: 1754
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/99783df0c2/
-      literal: Friederich Wilhelm Weiland (Hofmeiers) Evesen  
-      trans: "Friederich Wilhelm Weiland (Hofmeier's) Evesen"
-    
-    - name: Anna Margaretha Weiland 
-      image_no: 310 
-      age: 
-      residence: Nordholtz
-      edate: 1757
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/07617bfa91/
-      literal: Anna Margaretha Weilands aus Nordholtz
-      trans: "Anna Margaretha Weiland of Nordholtz"
+        - name: Johan Tonnis Weyland
+          residence: Peezen
+          image_no: 29
+          ifile: petzen-band1b-img29-weiland.png 
+          edate: 28 October 1708 
+          vdate: 27 August 2026
+          url: https://www.archion.de/p/63241c08c4/ 
+          literal: "den 28. 8br [sint] copuliret Johan Tonnis Weyland aus Peezen mitt Annen Jlsabey Brandts aus Nammen, mitt Welcher er schon vorhin ein Fuhr Kind gezeugt"
+          trans: "On October 28, Johan Tonnis Weyland of Peezen was married to Anna Ilsabey Brandt of Nammen, with whom he had already previously fathered an illegitimate child."
+        
+        - name: Hans Weÿlandt
+          residence: Evesen
+          image_no: 30
+          ifile: petzen-band1b-img30-weiland.png 
+          edate: 19 October 1712
+          vdate: 27 August 2026
+          url: https://www.archion.de/p/d50e7390f3/
+          literal: "Den 19 8br ist Hans Weÿlandt auß Evesen mit Hille Poocks copuliret."
+          trans: "On October 19, Hans Weÿlandt of Evesen was married to Hille Poock."
+        
+        - name: Hans Weÿland
+          residence: Evesen
+          image_no: 32
+          ifile: petzen-band1b-img32-weiland.png
+          edate: 28 August 1718
+          vdate: 27 August 2026
+          url: https://www.archion.de/p/e7498ba239/
+          literal: "den 28t August: ist Hans Weÿland auß Evesen mit Sophia Marlena Engelkings auß Cammer copuliret." 
+          trans: "On August 28, Hans Weÿland of Evesen was married to Sophia Marlena Engelking of Cammer."
+        
+        - name: Herman Henrich Weÿland
+          residence: Evesen
+          image_no: 33
+          ifile: petzen-band1b-img33-weiland.png
+          edate: 5 September 1720 
+          vdate: 27 August 2026
+          url: https://www.archion.de/p/86a2e44c1c/
+          literal: "den 5 Septembr ist Herman Henrich Weÿland von Evesen mit Anna Catharina Piels auß Berenbusch copuliret"
+          trans: "On September 5, Herman Henrich Weÿland of Evesen was married to Anna Catharina Piel of Berenbusch."
+        
+        - name: Hanß Henrich Weÿland
+          residence: Evesen
+          image_no: 35
+          ifile: petzen-band1b-img35-weiland.png
+          edate: 14 November 1723
+          vdate: 27 August 2026
+          url: https://www.archion.de/p/61953005ab/
+          literal: "den 14. Novembr ist Hanß Henrich Weÿland auß Evesen, mit Ilsabe [Perte?] getrauet."
+          trans: "On November 14, Hans Henrich Weiland of Evesen was married to Ilsabe [Perte?]."  
+        
+        - name: Herman Henrich Weÿland
+          residence: Evesen
+          image_no: 37 
+          ifile: petzen-band1b-img37-weiland.png
+          edate: 24 November 1728
+          vdate: 27 August 2026
+          url: https://www.archion.de/p/7281702721/
+          literal: "den 24t Novemb ist Herman Henrich Weÿland auß Evesen mit Anna Catharina Steinmeÿers auß [Frille/Grille]" 
+          trans: "On November 24, Herman Henrich Weÿland of Evesen was married to Anna Catharina Steinmeÿer of [Frille/Grille]" 
+        
+        - name: Jobst Henirch Weÿland
+          residence: Berenbush
+          image_no: 38 
+          ifile: petzen-band1b-img38-weiland2.jpg
+          edate: 13 September 1731
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/55ef75b9fc/
+          literal: "den 13t Septemb ist Jobst Henirch Weÿland auß Berenbusch mit Rudolphina Mönckhofs auß Evesen copuliret worden"
+          trans: "On September 13, Jobst Henirch Weÿland of Berenbusch was married to Rudolphina Mönckhof of Evesen"
+        
+        - name: Johann Friderich Weiland
+          residence: Berenbush
+          image_no: 40
+          ifile: petzen-band1b-img40-weiland2.png
+          edate: 7 October 1734
+          vdate: 27 August 2026
+          url: https://www.archion.de/p/29cf0c5d43/
+          literal: "Octobr d 7t Johann Friderich Weiland v. Berenbusch mit Anna Maria Elisabeth Cohmiers v. Eves[en]"
+          trans: "On October 7: Johann Friderich Weiland of Berenbusch, with Anna Maria Elisabeth Cohmiers of Evesen"
+        
+        - name: Johann Friderich Wilhelm Weiland
+          residence: Nammen
+          image_no: 41
+          ifile: petzen-band1b-img41-weiland.png
+          edate: 24 November 1737
+          vdate: 27 August 2026 
+          url: https://www.archion.de/p/afd3b9e513/
+          literal: "d 24t Johann Friderich Wilhelm Weiland von Nammen mit Anna Sophia Maria Ostermeiers von Northolt copuliret."
+          trans: "On November 24, Johann Friderich Wilhelm Weiland of Nammen married Anna Sophia Maria Ostermeiers of Nordholz." 
+        
+        - name: Henrich Weiland
+          residence: Behrenbusch
+          image_no: 43
+          ifile: petzen-band1b-img43-weiland.png
+          edate: 14 February 1745
+          vdate: 27 August 2026
+          url: https://www.archion.de/p/42b90e6dee/
+          literal: "Ao 1745 Februarÿ d. 14 Henrich Weiland von Behrenbusch mit Sophia Elisabeth [Rösner?] verwitwet Bünten copuliret."
+          trans: "in the year 1745, on February 14, Henrich Weiland of Behrenbusch married Sophia Elisabeth [Rösner?] widow of Bünte."
+        
+        - name: Herman Henrich Weiland
+          residence: Evesen
+          image_no: 45
+          ifile: petzen-band1b-img45-weiland.png
+          edate: 3 November 1746
+          vdate: 27 August 2026
+          url: https://www.archion.de/p/ec0fc42b7b/
+          literal: "d 3 Novembr ist Herman Henrich Weiland aus Evesen mit Anna Sabina Breiners aus Warber copuliret worden."
+          trans: "On November 3, Herman Henrich Weiland of Evesen was married to Anna Sabina Breiner of Warber."
+        
+        - name: Johann Henrich Weiland
+          residence: Nammen
+          image_no: 46
+          ifile: petzen-band1b-img46-weiland1.png
+          edate: 17 October 1748
+          vdate: 27 August 2026
+          url: https://www.archion.de/p/e4313feebe/
+          literal:  "d 17t octobr. Johann Henrich Weiland von Nammen mit Catharina Mysings sel. Joh. Bünten Witwe copuliret"
+          trans: "On 17 October, Johann Henrich Weiland of Nammen was married to Catharina Mysing, widow of the late Johann Bünte."
+        
+        - name: Jobst Henrich Weiland
+          residence: Bernbusch
+          image_no: 48 
+          ifile: petzen-band1b-img48-weiland2.png
+          edate: 7 June 1753
+          vdate: 27 August 2026
+          url: https://www.archion.de/p/bf5657d55f/
+          literal: "d 7tJunii Jobst Henrich Weiland aus Bernbusch mit Anna Ilsa Margarathe Mönchhofs von Jägers Stette zu Evesen copulirt"
+          trans: "On 7 June, Jobst Henrich Weiland of Bernbusch was married to Anna Ilsa Margaretha Mönchhof, from Jäger’s place in Evesen."
+        
+        - name: Heinrich Ludewig Weiland
+          residence: Röcke
+          image_no: 56
+          ifile: petzen-band1b-img56-weiland.png
+          edate: 7 February 1765
+          vdate: 27 August 2026
+          url: https://www.archion.de/p/4eff94fb92/
+          literal: "d 7t Febr: Heinrich Ludewig Weiland Schweinhirtens und Einliegers in Röcke mit Anna Christina Nergen aus der Driften in Pezen copuliret."
+          trans: "On 7 February, Heinrich Ludewig Weiland, swineherd and lodger in Röcke, was married to Anna Christina Nergen from the Drift in Pezen."
+      
+    burial: 
+      volume: band1b
+      record-symbol: D
+      records:
+        - name: Wölkken Weÿlandt 
+          residence: not specified
+          image_no: 73
+          ifile: petzen-band1b-img73-weiland.jpg
+          edate: 24 January 1650
+          vdate: 1 September 2026
+          url: https://www.archion.de/p/dd754d963e/
+          literal: "Wölkken Weÿlandt Altermann. 24 Jan:"
+          trans: "Wölkken Weÿlandt, elder. 24 January"
+      
+        - name: Wilandt's little daughter
+          residence: Petzen
+          image_no: 96
+          ifile: petzen-band1b-img96-weiland-burial.png
+          edate: 8 December 1676
+          vdate: 28 August 2026 
+          url: https://www.archion.de/p/c49ee4a701/
+          literal: "[unclear] Wilandts Mätigen zu Petzen den 8 Decemb. begraben"
+          trans: "[unclear] Wilandts daughter at Petzen den 8 Decemb buried."
+      
+        - name: A small Weiland daughter
+          residence: not specified
+          image_no: 98
+          ifile: petzen-band1b-img98-weiland.png
+          edate: 24 February 1678
+          vdate: 28 August 2026
+          url: https://www.archion.de/p/56be28256d/
+          literal: >-
+            "[?ert] Weilandt [ein kleines?] Mätigen [alt?] 6 Woche den 24 Feb begraben"
+          trans: >-
+            "[?ert] Weilandt [a small?] daughter [age?] 6 weeks. 24 Febraru buried"
        
-    - name: Anna Maria Weilandt
-      image_no: 312
-      age: 
-      residence: Nordholtz
-      edate: 1760
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/42667cb769/
-      literal:  Anna Maria Weilandt aus Nordholtz 
-      trans: "Anna Maria Weilandt of Nordholtz"
+        - name: "Elderly Weiland woman/wife"
+          residence: Petzen
+          image_no: 104
+          ifile: petzen-band1b-img104-weiland.png
+          edate: 25 March 1683
+          vdate: 28 August 2026
+          url: https://www.archion.de/p/07c4c14084/
+          literal: "Die alte Weiland:sche zu Peten den 25 Martij begraben."
+          trans: "“The elderly Weiland woman of Petzen was buried on 25 March."
+      
+        - name: "Wolter Weilandt’s little daughter"
+          residence:
+          image_no: 113
+          ifile: petzen-band1b-img113-weiland.png
+          edate: 17 February 1693
+          vdate: 28 August 2026
+          url: https://www.archion.de/p/04d28f5cdc/
+          literal: "Wolter Weilandt, Töchterlein, den 17 Februar begraben."
+          trans: "Wolter Weilandt’s little daughter, buried 17 February."
+      
+        - name: Wolter Weilandt
+          residence: Petzen
+          image_no: 117
+          ifile: petzen-band1b-img117-weiland.png
+          edate: 5 July 1694
+          vdate: 28 August 2026
+          url: https://www.archion.de/p/0f5d7efeab/
+          literal: "Wolter Weilandt zu Petzen den 5 Julij begraben"
+          trans: 
+      
+        - name: Little son of Hans Weilandt 
+          residence: Evesen
+          image_no: 118
+          ifile: petzen-band1b-img118-weiland.png
+          edate: 10 November 1697
+          vdate: 15 September 2026
+          url: https://www.archion.de/p/2dbcc92fb2/
+          literal: >-
+            Hans Weilandt zu Evesen, Söhnlein, den 10 Nov: begraben.
+          trans: >-
+            The little son of Hans Weilandt of Evesen, buried November 10
+      
+        - name: Daughter of Hans Weyland
+          residence:  Eveßen
+          image_no: 125
+          ifile: petzen-band1b-img125-weiland.png
+          edate: 8 August 1706
+          vdate: 15 September 2026
+          url: https://www.archion.de/p/dd5b00dfdd/
+          literal: >-
+            den 8 August. Hans Weyland von Eversen eine Tochter von 3 iahren 6 Wochen begraben laßen Nahmens Anna Maria
+          trans: >-
+            On 8 August, Hans Weyland of Eversen had a daughter, aged 3 years and 6 weeks, buried. Her name was Anna Maria.
+  
+        - name: Johan Henrich Weÿlandt
+          residence: Peetzen
+          image_no: 131
+          ifile: petzen-band1b-img131-weiland1.png
+          edate: 8 May 1711
+          vdate: 15 September 2026
+          url: https://www.archion.de/p/95a0ed0a62/
+          literal: >-
+            den 8 Maÿ ist Johan Weÿlandts aus Peetzen Sohn Johan Henrich begraben worden. alt 13 Jahr 14 Wochen.
+          trans: >-
+           On 8 May, Johan Weÿlandt’s son Johan Henrich from Peetzen was buried, aged 13 years and 14 weeks 
+  
+        - name: Anna Catharina Weÿlandt
+          residence:  Evesen
+          image_no: 132 
+          ifile: petzen-band1b-img131-weiland2.png 
+          edate: 29 April 1712
+          vdate: 15 September 2026 
+          url: https://www.archion.de/p/25679545ef/ 
+          literal: >-
+            9) den 29 April: ist Hans Weÿlandts auß Evesen Ehefrau Anna Catharina Bormans begraben worden. Ihres Alters 56 Jahr.
+          trans: >-
+            On 29 April, Hans Weÿlandt’s wife from Evesen, Anna Catharina Bormans, was buried. She was 56 years old.
+  
+        - name: Henrich Wilhelm Weiland
+          residence: Behrenbusch
+          image_no: 160
+          ifile: petzen-band1b-img160-weiland.png 
+          edate: 10 November 1741
+          vdate: 9 September 2026
+          url: https://www.archion.de/p/fe8086123e/
+          literal: >-
+            Dito d 10t Weiland von Behrnbuschein Sohn Henrich Wilehlm æt. 4 beerdig laßen 
+          trans: >-
+            On November 10, Henrich Wilhelm, the son of Weiland from Behrenbusch, age 4 was buried.
+  
+        - name: Henrich Wilhelm Weiland 
+          residence: Behrenbusch
+          image_no: 163
+          ifile: petzen-band1b-img163-weiland.png
+          edate: 28 February 1745
+          vdate:
+          url: https://www.archion.de/p/c2e13e71bf/
+          literal: >-
+            d 28t Dito Jost Henirch Weiland in Behrenbusch ein Söhnlein [Henrich?] Wilhem
+            begraben laßen 2 Jahr 16 [Wochen/Tage?]
+          trans: >-
+            On February 28, the little son of Jost Henrich Weiland of Behrenbusch, Henrich Wilhem,
+              was buried. [age] 2 years 16 [weeks/days?]
+  
+        - name: Anna Catharina Sophia Weiland 
+          residence: Nammen
+          image_no: 166 
+          ifile: petzen-band1b-img166-weiland.png
+          edate: 19 October 1746
+          vdate: 11 September 2026
+          url: https://www.archion.de/p/032d18c461/
+          literal: >-
+            d 19t Octobr. begraben Anna Catharina Sophia Weilands von Nammen alt 25 Jahr 9 Monat
+          trans: >-
+            On October 19, Anna Catharina Sophia Weiland of Nammen was buried age 25 and 9 months
+  
+        - name: Johann Henrich Weiland 
+          residence: Evesen
+          image_no: 167 
+          ifile: petzen-band1b-img167-weiland1.png
+          edate: 7 April 1747
+          vdate: 11 September 2026
+          url: https://www.archion.de/p/8c493ba9b4/ 
+          literal: >-
+            d 7t Apr. Johann Henrich Weiland begraben.
+            alt 1 Jahr 5 Wochen. Pat. ~~Mstr.~~ Harm Henrich Weiland
+            Zimmermeister in Evesen.
+          trans: >-
+            On April 7, Johann Henrich Weiland was buried, aged 1 year and 5 weeks. Father: Harm Henrich Weiland, master carpenter in Evesen.
+  
+        - name: Unnamed Stillborn Weiland daughter 
+          residence: Evesen
+          image_no: 167
+          ifile: petzen-band1b-img167-weiland1.png
+          edate: 7 April 1747 
+          vdate: 11 September 2026
+          url: https://www.archion.de/p/8c493ba9b4/
+          literal: >-
+            Eodem dessen Sohn Harm Henrich Weiland ein todtgeborene Töchterlein beedigen lassen.
+          trans:
+            On the same day [April 7], his son Harm Henrich Weiland had a stillborn little daughter buried. 
+  
+        - name: Charlotta Louisa Weiland
+          residence: Evesen
+          image_no: 167
+          ifile: petzen-band1b-img167-weiland2.png
+          edate: 8 November 1747
+          vdate: 11 September 2026
+          url: https://www.archion.de/p/aa8c19ee9d/
+          literal: >-
+            d 8t Nov. Charlotta Louisa Weiland, Herman Henrich Weilands Tochter aus Evesen begraben. alt 5 Monats 2 Woch[en]
+          trans: >-
+            On November 8, Charlotta Louisa Weiland, the daughter of Herman Henrich Weiland of Evesen, was buried. Age 5 months 2 weeks.
+  
+        - name: Sophia Margaretha Weyland
+          residence: Evesen
+          image_no: 168
+          ifile: petzen-band1b-img168-weiland.png
+          edate: 12 May 1748
+          vdate: 11 September 2026 
+          url: https://www.archion.de/p/fe74831335/
+          literal: >-
+            d 12t Maii Sophia Margaretha Weylands begraben. Joh, Fried. Weilands Tochter aus Evesen. 18 Jahr   
+          trans: >-
+            On May 12, Sophia Margaretha Weyland, daugher of Joahnn Friedrich Weiland of Evesen, was buried age 18.
+  
+        - name: Anna Ilsabey Weiland 
+          residence: Nammen
+          image_no: 172
+          ifile: petzen-band1b-img172-weiland.png
+          edate: 11 April 1751
+          vdate: 11 September 2026
+          url: https://www.archion.de/p/1492084c8d/
+          literal: >-
+            d 11t Apr. Anna Ilsabey Weiland aus Nammen begraben alt 64 Jahr
+          trans: >-
+            On APril 11, Anna IlsabeyWeiland of Nammen was buried age 64 years
+  
+        - name: Wilhelm Weiland
+          residence: Berenbusch
+          image_no: 173 
+          ifile: petzen-band1b-img173-weiland1.png
+          edate: 29 December 1751 
+          vdate: 11 Spetember 2026
+          url: https://www.archion.de/p/3e5aa91246/
+          literal: >-
+            d 29t Decembris Wilhelm Weiland von Sanders Stette zu Berenbusch begraben æt. 36 Jahr  
+          trans: >-
+            On December 29, Wilhelm Weiland of Sander's place at Berenbsuch was buried age 36.
+  
+        - name: Sophia Maria Weiland
+          residence: Nordholz
+          image_no: 173
+          ifile: petzen-band1b-img173-weiland2.png
+          edate: 3 March 1752
+          vdate: 11 September 2026
+          url: https://www.archion.de/p/865d706840/
+          literal: >-
+            d 3t Martii Sophia Maria Weilands begr. P. Jo. Fried. Wilhelm Weiland zu Nordholtz 1 Jahr [8?]
+          trans: >-
+            On March 3, Sophia Maria Weiland was buried age 1 year [8 weeks?] . Father: Johann Friedrich Weiland of Nordholtz
+  
+        - name: Herman Heinrich Weiland of Evesen
+          residence: Evesen
+          image_no: 177 
+          ifile: petzen-band1b-img177-weiland.png
+          edate: 28 April 1756
+          vdate: 11 September 2026
+          url: https://www.archion.de/p/8f3318acd2/
+          literal: >-
+            d 28t Apr Herman Henrich Weiland von Evesen begraben alt 12 Studen
+          trans: >-
+            On April 28, Herman Henrich Weiland of Evesen buried age 12 hours
+  
+        - name: Jobst Heinrich and Hans Henrich Weiland
+          residence: Berenbusch
+          image_no: resume at 181
+          ifile: petzen-band1b-img181-2weilands.png
+          edate: 22 October 1758
+          vdate: 11 September 2026
+          url: https://www.archion.de/p/ac59c4b1c4/
+          literal: >-
+            22. Oct. Jobst Henrich und Hans Henrich Weiland Sanders Zwillinge aus Bernbusch begr. 14 Tage 16 Tage alt
+          trans: >-
+            22 October. Jobst Henrich and Hans Henrich Weiland, Sander’s twins from Berenbusch, were buried, aged 14 days and 16 days.
+          text: >-
+            ```{note}
+            **Sanders** might be the Hausname while **Weiland** is the Familienname.
+            
+  
+        - name: Johann Henrich Weiland
+          residence: Nammen
+          image_no: 181
+          ifile: petzen-band1b-img181-weiland2.png
+          edate: 17 April 1759
+          vdate: 11 September 2026
+          url: https://www.archion.de/p/98d6bb3e1f/
+          literal: >-
+            d 17t April Johan Henrich Weiland aus Nammen begraben 44 1/2 Jahr alt.
+          trans: >-
+            On April 17, Johan Henrich Weiland of Nammen was buried age 44 and a half.
+        
+        - name: Johann Tönnis Weiland
+          residence: Nammen
+          image_no: 184
+          ifile: petzen-band1b-img184-weiland1.png
+          edate: 23 November 1760
+          vdate: 11 September 2026
+          url: https://www.archion.de/p/5f292b4cd4/
+          literal: >-
+            d 23t Nov Johann Tönnies Weiland von Nammen begraben alter 82 Jahr
+          trans:
+            On November 23,  Johann Tönnies Weiland of Nammen was buried age 82
+         
+        - name: Anna Catharine Weilands 
+          residence: Nammen 
+          image_no: 184
+          ifile: petzen-band1b-img184-weiland2.png
+          edate: 1 February 1761
+          vdate: 11 September 2026
+          url: https://www.archion.de/p/34bf2de664/
+          literal: >-
+            d 1t Febr Anna Catharine Weilands von Bünte Stett in Nammen begr. 59 Jahr
+          trans: >-
+            On February 1, Anna Catharine Weilands of Bünte's place in Nammen was buried age 59
+  
+        - name: Jobst Heinrich Weiland
+          residence: Berenbusch
+          image_no: 186 
+          ifile: petzen-band1b-img186-weiland1.png 
+          edate: 14 October 1761
+          vdate: 12 Spetember 2026
+          url: https://www.archion.de/p/c43da5eb71/
+          literal: >-
+            14t Octobr. Jobst Heinrich Weiland aus Berenbusch alt 59 Jahr
+          trans: >-
+            On October 14, Jobst Heinrich Weiland of Berenbusch age 59 [was buried].
+        
+        - name: Anna Sophia Christina Weiland
+          residence:
+          image_no: 186
+          ifile: petzen-band1b-img186-weiland2.png
+          edate: 25 October 1761
+          vdate: 12 September 2026
+          url: https://www.archion.de/p/c43da5eb71/
+          literal: >-
+            d 25th Octobr. Anna Sophia Christina Weiland aus Evesen Heinrich Ludewigs Weilands Ehefrau alt 31 1/2 Jahr
+          trans:
+            On October 25, Anna Sophia Christina Weiland of Evesen, the wife of Heinrich Ludewig Weiland, age 31 1/2 years [was buried]
+        
+        - name: Maria Elisabeth Weiland 
+          residence: Evesen No. 20
+          image_no: resume at 188 
+          ifile: petzen-band1b-img189-weiland.png
+          edate: 5 August 1764
+          vdate: 13 September 2026
+          url: https://www.archion.de/p/2d4218374e/
+          literal: >-
+            d 5t Augusut Maria Elisabeth Weilands Johann Friederich Weilands aus Evesen No. 20 Ehefrau alt 53 Jahr
+          trans: >-
+            On August 5, Maria Elisabeth Weiland, wife of Johann Friederich Weiland of Evesen No. 20, age 53 [was buried] 
+            
+        - name: Anna Maria Weiland 
+          residence: Evesen 
+          image_no: 190
+          ifile: petzen-band1b-img190-weiland.png
+          edate: 7 October 1764
+          vdate: 13 September 2026
+          url: https://www.archion.de/p/5d33f5e541/
+          literal: >-
+            d 7t Octobr. Anna Maria Weilands Hermann Heinrich Weilands aus Evesen No [missing] eheliche Tochter alt 9 Jahr
+          trans: >-
+            On October 7, Anna Maria Weiland, the legitimate daughter of Herman Heinrich Weiland of Evesen No. [missing], age 9, [was buried]
+        
+        - name: Anna Maria Weiland
+          residence: Röcke
+          image_no: 191 
+          ifile: petzen-band1b-img191-weiland.png
+          edate: 12 November 1764
+          vdate: 13 September 2026
+          url: https://www.archion.de/p/a6787fee3f/
+          literal: >-
+            d 12t Novembr Anna Maria Weilands Heinrich Ludewigs Weilands Einliegers und Schweinhirtens
+            in Röcke 2ten Ehefrau. alt 35 1/2 Jahr
+          trans: >-
+            On November 12, Anna Maria Weiland, the second wife of Heinrich Ludwig Weiland, a lodger and swineherd in Röcke, aged 35½ years.
+        
+        - name: Herman Heinrich Weiland 
+          residence: Evesen No. 21
+          image_no: 192
+          ifile: petzen-band1b-img194-weiland.png
+          edate: 20 April 1767
+          vdate: 13 September 2026
+          url: https://www.archion.de/p/2fb6efc2d2/
+          literal: >-
+            `+` d 20t Apr: ist hier begraben Hermann Heinrich Weilan. aus Evesen No. 21. Seine Krankheit war das Alter und ein
+            Schlagfluß. Er ist gestorben d 15t ejuso: u[nd] alt worden 76 Jahr 2 Monathe und 2 Wochen.
+          trans: >-
+            On April 20, Hermann Heinrich Weiland of Evesen, No. 21, was buried here. His illness was old age and a stroke. He died on April 15 of the same month and had reached the age of 76 years, 2 months, and 2 weeks.
+  
+        - name: Hans Heinrich Weiland 
+          residence: Evesen No. 21
+          image_no: 195
+          ifile: petzen-band1b-img195-weiland.png
+          edate: 29 April 1767
+          vdate: 13 September 2026
+          url: https://www.archion.de/p/1f6ff3d2ab/
+          literal: >-
+            d 29t Apr: ist hieselbst beerdiget worden Hans Heinrich Weiland aus Evesen No. 21 des alten Weilands jüngster Sohn. Seine Krankheit war ein
+            verzehrendes Fieber. Er ist gestorben d 25t Apr: früh um 10 Uhr. Sein Alter ist 26 Jahr.
+          trans: >-
+            On April 29, Hans Heinrich Weiland of Evesen No. 21, the youngest son of old Weiland, was buried here. His illness was a wasting fever. He died on April 25 at 10 o’clock in the morning. He was 26 years old.
+        
+        - name: Anna Philippina Sophia Weiland
+          residence: Pezerbaum
+          image_no: 196 
+          ifile: petzen-band1b-img196-weiland.png
+          edate: 2 August 1767
+          vdate: 13 September 2026
+          url: https://www.archion.de/p/245c994749/
+          literal: >-
+            d 2t Aug: Anna Philippina Sophia Weilandts des Heinrich Ludewig Weilandts Einliegers in Pezerbaum eheliche
+            Tochter hieselbst beerdiget worden. Ihre Krankheit waren die Blattern und Schürckgen und alt worden 3 3/4 Jahr Ja
+          trans: >-
+            On August 2, Anna Philippina Sophia Weiland, the legitimate daughter of Heinrich Ludwig Weiland, a lodger in Pezerbaum, was buried here. Her illnesses were smallpox and convulsions, and she was 3¾ years old.
+         
+        - name: Johann Heinrich Weiland 
+          residence: Evesen No. 20
+          image_no: 199
+          ifile: petzen-band1b-img199-weiland.png
+          edate: 5 June 1768
+          vdate: 13 September 2026
+          url: https://www.archion.de/p/3e763100c8/
+          literal: >-
+            d 5t Jun: ist hier beerdiget worden Johann Heinrich Weilandt Friederich Wilhelm Weilands aus Evesen No. 20 mit seiner Ehefrau Anna Ilsabei geb. Deerbergen erzeugter Sohn. Seine Kranckheit war die Auszehrung, daran er d 2t früh um 9 Uhr gestorben da Er alt worden 3 Jahr 4 Monathe.
+          trans: >-
+            On June 5, Johann Heinrich Weilandt was buried here, the son of Friederich Wilhelm Weiland of Evesen No. 20 and his wife Anna Ilsabei, née Deerberg. His illness was consumption (tuberculosis), from which he died on June 2 at 9 o’clock in the morning, having reached the age of 3 years and 4 months.
+         
+        - name: Anna Ilsabei nee Deerbeerg Weiland 
+          residence: Evesen No. 20
+          image_no: 200
+          ifile: petzen-band1b-img200-weiland.png 
+          edate: 19 March 1769
+          vdate: 13 September 2026
+          url: https://www.archion.de/p/8ebae5ac69/
+          literal: >-
+            d 19t Mar. ist hierselbst beerdigt des Wilhelm Weilands aus Evesen No. 20 Ehefrau Anna Ilsabei geb. Deerbergen. Ihre
+            Kranckheit war eine Auszehrung daran sie d 14t abends gestorben, und ist alt worden 32 Jahr.
+          trans: >-
+            On March 19, Wilhelm Weiland’s wife from Evesen No. 20, Anna Ilsabei, née Deerberg, was buried here. Her illness was tuberculosis, from which she died on the evening of the 14th. She was 32 years old.
     
-    - name: Johann Heinrich Weiland
-      image_no: 313 
-      age: 
-      residence: Evesen
-      edate: 1763 
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/1fdc86eeb3/ 
-      literal: Johann Heinrich Weiland aus Evesen 
-      trans: "Johann Heinrich Weiland of Evesen"
-    
-    - name: Philippina Weiland
-      image_no: 313
-      age: 
-      residence: Evesen
-      edate: 1764
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/a50f43c12e/
-      literal: Philippina Weilands aus Evesen
-      trans: "Philippina Weiland of Evesen"
-    
-    - name: Sophia Elisabeth Weilands
-      image_no: 314 
-      age:  
-      residence: Evesen No. 21 
-      edate: 1766 
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/ce7131f5a0/
-      literal: Sophia Elisabeth Weilands aus Evesen No. 21 
-      trans: "Sophia Elisabeth Weiland of Evesen No. 21"
-    
-    - name: Friederich Wilhelm Weiland
-      image_no: 315 
-      age:  
-      residence: Röcke 
-      edate: 1767 
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/44838bec83/
-      literal: Friederich Wilhelm Weiland aus Röcke Einlieger 
-      trans: "Friederich Wilhelm Weiland of Röcke, lodger"
-    
-    - name: Ilse Margaretha Weilands 
-      image_no: 315
-      age:  
-      residence: Berenbusch
-      edate: 1768 
-      vdate: 26 August
-      url: https://www.archion.de/p/88fcbde3e9/
-      literal: Friederich Wilhelm Weiland aus Berenbusch 
-      trans: "Friederich Wilhelm Weiland of Berenbusch"
-    
-    - name: Heinrich Wilhelm Weiland
-      image_no: 316
-      age:  
-      residence: Nordholz
-      edate: 1769
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/b798d91460/ 
-      literal: Heinrich Wilhelm Weiland Nordholz
-      trans: "Heinrich Wilhelm Weiland, Nordholz"
-    
-    - name: Heinrich Ludewig Weiland
-      image_no: 316
-      age:  
-      residence: Röcke
-      vdate: 26 August 2026
-      edate: 1769
-      url: https://www.archion.de/p/b798d91460/ 
-      literal: Heinrich Ludewig Weiland Röcke 
-      trans: "Heinrich Ludewig Weiland, Röcke"
-    
-    - name: Jobst Heinrich Weiland 
-      image_no: 317 
-      age:  
-      residence: Röcke
-      edate: 1772
-      vdate: 26 August 2026 
-      url: https://www.archion.de/p/7b50caa5f3/
-      literal: Jobst Heinrich Weiland aus Röcke 
-      trans: "Jobst Heinrich Weiland of Röcke"
-    
-    - name: Jost Heinrich Weiland 
-      image_no: 317
-      age:  
-      residence: Berenbusch
-      edate: 1774
-      vdate: 26 August 2026 
-      url: https://www.archion.de/p/e88a5aaef1/
-      literal: Jobst Heinrich Weiland____Berembusch
-      trans: "Jobst Heinrich Weiland____Berembusch"
-    
-    - name: Christina Weiland
-      image_no: 317 
-      age:  
-      residence: Evesen
-      edate: 1774
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/a60d42480c/
-      literal: Christina Weilands____Evesen
-      trans: "Christina Weiland____Evesen"
-    
-    - name: Hans Heinrich Weiland  
-      image_no: 318
-      age:  
-      residence: Berenbusch
-      edate: 1777
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/4e469274f3/
-      literal: Hans Heinrich Weiland aus Berenbusch
-      trans: "Hans Heinrich Weiland of Berenbusch"
-    
-    - name: Johann Heinrich Ludowig Weiland 
-      image_no: 319
-      age:  
-      residence: Peezen
-      edate: 1779
-      vdate: 26 August 2026
-      url: https://www.archion.de/p/d765ab3370/
-      literal: Heinrich Ludowig Weiland Peezen 
-      trans: "Heinrich Ludowig Weiland, Peezen"
+        - name: Hermann Heinrich Weilandt 
+          residence: Evesen No. 21 
+          image_no: 201 
+          ifile: petzen-band1b-img201-weiland.png 
+          edate: 31 January 1770
+          vdate: 13 September 2026
+          url: https://www.archion.de/p/9c576fd0ff/
+          literal: >-
+            d 31 Jan: ist hieselbst begraben Hermann Heinrich Weilandt aus Evesen No. 21, ein Ehemann. Seine Kranckheit war der Stein, daran derselbe seit 11 Jahren vieles ausgestanden. Er ist gestorben d 26t ejusd. und alt worden 47 Jahr.
+          trans: >-
+            On January 31, Hermann Heinrich Weilandt of Evesen No. 21, a married man, was buried here. His illness was the stone, from which he had suffered greatly for 11 years. He died on the 26th of the same month and reached the age of 47 years.
+        
+        - name: Friederich Wilhelm Weiland
+          residence: Evesen No. 20
+          image_no: 202
+          ifile: petzen-band1b-img201-weiland1.png
+          edate: 1 May 1770
+          vdate: 13 September 2026
+          url: https://www.archion.de/p/ce6bf47a77/
+          literal: >-
+            d 1 Maj: ist hieselbst beerdigt Friederich Wilhelm Weiland, des Friederich Wilhelm Weilands aus Evesen No. 20 ehelicher Sohn ersterer Ehe. Seine Kranckheit war die Auszehrung. Sein Alter beträgt 8 Jahr 9 Wochen.
+          trans: >-
+            On May 1, Friederich Wilhelm Weiland was buried here, the legitimate son by the first marriage of Friederich Wilhelm Weiland of Evesen No. 20. His illness was tuberculosis. His age was 8 years and 9 weeks.
        
-    - name: Johann Heinrich Weiland 
-      image_no: 321 
-      age:  
-      residence: Nordholtz Berenbusch 
-      edate: 1783
-      vdate: 27 August 2026
-      url: https://www.archion.de/p/f433693d9a/
-      literal: Johann Heinrich Weiland aus Nordholtz Berenbusch 
-      trans: "Johann Heinrich Weiland of Nordholtz Berenbusch"
+        - name: Hans Heinrich Weiland
+          residence: Evesen No. 20
+          image_no: 202 
+          ifile: petzen-band1b-img202-weiland2.png
+          edate: 24 June 1770
+          vdate: 13 September 2026
+          url: https://www.archion.de/p/ce6bf47a77/
+          literal: >-
+            d 24t Jun: ist hieselbst begraben Hans Heinrich Weiland Friederich Wilhelm Weilands aus Evesen No. 20 ehelicher Sohn. Die Kranckheit waren die Schürckgen.
+            Sein Alter hat er gebracht auf 24 Wochen.
+          trans: >-
+            On June 24, Hans Heinrich Weiland, the legitimate son of Friederich Wilhelm Weiland of Evesen No. 20, was buried here. His illness was febrile illness. He had reached the age of 24 weeks
     
-    - name: Anna Philippina Weiland 
-      image_no: 322
-      age:  
-      residence: Evesen
-      edate: 1784
-      vdate: 27 August 2026
-      url: https://www.archion.de/p/69538680ea/
-      literal: Anna Philippina Weilands aus Evesen
-      trans: "Anna Philippina Weiland of Evesen"
+        - name: Christina Margaretha Weiland
+          residence: Evesen
+          image_no:  203
+          ifile: petzen-band1b-img203-weiland.png
+          edate: 3 March 1771
+          vdate: 13 September 2026
+          url: https://www.archion.de/p/5d8dbf9cc0/
+          literal: >-
+            d 3t Mart ist beerdigt des Johann Christian Weilands Einliegers in Evesen Tochter Christina Margaretha.
+            Ihre Kranckheit war die Brustkranckheit. Ihr Alter 12 Wochen. 
+          trans: >-
+            On March 3, Christina Margaretha, daughter of Johann Christian Weiland, a lodger in Evesen, was buried. Her illness was pneumonia. She was 12 weeks old.
+    
+        - name: Anna Christina Margaretha Weiland
+          residence: Röcke
+          image_no: 204
+          ifile: petzen-band1b-img204-weiland.png
+          edate: 22 December 1771 
+          vdate: 13 September 2026
+          url: https://www.archion.de/p/f546e2864d/
+          literal: >-
+            d 22t Decembr ist beerdigt Anna Christina Margaretha Weilands, des Heinrich Ludewig Weilands, Einliegers in Röcke, eheliche Tochter.
+            Sie ist gestorben an der Brustkranckheit und alt worden 1 3/4 Jahr.
+          trans: >-
+            On December 22, Anna Christina Margaretha Weiland, legitimate daughter of Heinrich Ludewig Weiland, a lodger in Röcke, was buried. She died of pneumonia and was 1¾ years old.
+        
+        - name: Sophia Christina Weiland
+          residence: Evesen No. 20
+          image_no: 207 
+          ifile: petzen-band1b-img207-weiland.png
+          edate: 17 April 1772
+          vdate: 13 Septemb 2026
+          url: https://www.archion.de/p/f5395f06bb/
+          literal: >-
+            d 17t Apr: ist begraben Sophia Christina Weilands Friederich Wilhelm Weilands aus Evesen No. 20 Tochter. Ihre Kranckheit war die Auszufrung. Ihr Alter 5 Jahr.
+          trans:
+            On April 17, Sophia Christina Weiland, daughter of Friederich Wilhelm Weiland of Evesen No. 20, was buried. Her illness was tuberculosis. She was 5 years old.
+    
+        - name: Anna Catharina Weiland
+          residence: not given
+          image_no: resume 208 
+          ifile: petzen-band1b-img208-weiland.png
+          edate: 2 March 1773
+          vdate: 13 Septemb 2026
+          url: https://www.archion.de/p/e4e74055c1/
+          literal: >-
+            d 2t Mar: ist dieselbst begraben Anna Catharina Weiland, Herman Heinrich Weilands aus Evesen nachgelaßene Wittwe. Ihre Kranckheit war die Waßersucht. Ihr Alter 70 Jahr.
+          trans: >-
+            On 2 March, Anna Catharina Weiland, the surviving widow of Herman Heinrich Weiland of Evesen, was buried there. Her illness was dropsy (edema). Her age was 70 years.
+        
+        - name:  Friderich Weiland
+          residence: Evesen No. 20
+          image_no:  210
+          ifile: petzen-band1b-img210-weiland1.png
+          edate: 25 May 1773
+          vdate: 13 September 2026
+          url: https://www.archion.de/p/4499092089/
+          literal: >-
+            d 25t Maj: ist begraben Friderich Weilandt ein Wittwer aus Evesen No 20. Seine Kranckheit war die Auszehrung. Sein Alter 67 Jahr.
+          trans: >-
+            On 25 May, Friderich Weilandt, a widower from Evesen No. 20, was buried. His illness was tuberculosis. His age was 67 years.
+  
+        - name: Johann Tönnies Friderih Weiland
+          residence:
+          image_no: 210
+          ifile: petzen-band1b-img210-weiland2.png
+          edate: 12 November 1773
+          vdate: 13 September 2026
+          url: https://www.archion.de/p/465ffb34dc/
+          literal: >-
+            d 12t Novembr ist begraben Johann Tönnies Friderich Weiland, Friederich Wilhelm Weilands aus Evesen No. 20 ehelicher Sohn. Seine Kranckheit waren die Schürckgen.
+            Sein Alter 8 Wochen.
+          trans: >-
+            On 12 November, Johann Tönnies Friderich Weiland, the legitimate son of Friederich Wilhelm Weiland of Evesen No. 20, was buried. His illness was a febrile illness. His age was 8 weeks.
+        
+        - name: Ludewig Weiland
+          residence: Evesen
+          image_no: 214
+          ifile: petzen-band1b-img214-weiland.png
+          edate: 24 February 1775
+          vdate: 13 September 2026
+          url: https://www.archion.de/p/191f212d91/ 
+          literal: >-
+            13) d. 24t Febr. ist beerdigt Ludewig Weilandts, ein Ehemann und Einlieger in Evesen. Er ist gestorben an der Engbrüstigkeit und alt worden 48 Jahr.
+          trans: >-
+            13) On February 24, Ludewig Weilandts, a married man and lodger in Evesen, was buried. He died of emphysema and was 48 years old.
+      
+        - name: Anna Sophia Eleonore Weiland
+          residence: Nordholtz
+          image_no: 216
+          ifile: petzen-band1b-img216-weiland.png
+          edate: 2 January 1775
+          vdate: 13 September 2026
+          url: https://www.archion.de/p/b3dd3d68dc/ 
+          literal: >-
+            2) Den 16. Januar ist beerdigt Anna Sophia Philippina Eleonora Weilands, des Johann Heinrich Wilhelm Weilands aus Nordholtz eheliche Tochter. Sie ist an den Schürckgen in der 11. Woche gestorben.
+          trans: >-
+            2) On January 16, Anna Sophia Philippina Eleonora Weiland was buried, the legitimate daughter of Johann Heinrich Wilhelm Weiland of Nordholz. She died of a febrile illness in her 11th week of life. 
+      
+        - name: Stillborn Weiland son
+          residence: Peezen
+          image_no: 221
+          ifile: petzen-band1b-img221-weiland1.png
+          edate: 27 July 1778
+          vdate: 14 September 2026
+          url: https://www.archion.de/p/d22ff46e3e/ 
+          literal: >-
+            13) d. 17t Jul. ist des Johann Christian Weilands in Peezen todtgebohrenes Söhnlein begraben.
+          trans: >-
+            On July 17, Johann Christian Weiland’s stillborn little son in Peezen was buried.
+        
+        - name: Sophia Eleonora Weiland
+          residence: Evesen No. 21
+          image_no: 221 
+          ifile: petzen-band1b-img221-weiland2.png
+          edate: 23 October 1778
+          vdate: 14 September 2026
+          url: https://www.archion.de/p/2f6401501d/ 
+          literal: >-
+            17) d 23t Octobr ist beerdigt Sophia Eleonora Weilands des Johann Heinrich Weilands aus Evesen No. 21 eheliche Tochter.
+            Sie ist gestorben an den Schürckgen und alt worden 3 Wochen und 2 Tage.
+          trans: >-
+            17) On 23 October, Sophia Eleonora Weiland, legitimate daughter of Johann Heinrich Weiland of Evesen No. 21, was buried. She died of a febrile illness. and was 3 weeks and 2 days old.
+    
+        - name: Johann Heinrich Weiland
+          residence: sand-pit area of Evesen
+          image_no: 222
+          ifile: petzen-band1b-img222-weiland.png 
+          edate: 19 January 1779
+          vdate: 14 Septembere 2026
+          url: https://www.archion.de/p/4bbaa28906/ 
+          literal: >-
+            3) d 19t Jan. ist beerdigt Johann Heinrich Weilandt des Johann Heinrich Weilands aus Evesen von der Sandkuhle ehelicher Sohn. Er starb an den Blattern alt 2 Jahr 10 Wochen.
+          trans: >-
+           On 19 January, Johann Heinrich Weilandt was buried, the legitimate son of Johann Heinrich Weiland, from the sand-pit area of Evesen. He died of smallpox, aged 2 years and 10 weeks. 
+        
+        - name: Johanna Sophia Weiland
+          residence: no residence given
+          image_no: 223
+          ifile: petzen-band1b-img223-weiland1.png 
+          edate: 18 February 1779
+          vdate: 14 September 2026
+          url: https://www.archion.de/p/a1da0fd1af/ 
+          literal: >-
+            2) d 18t Febr ist begraben Johanna Sophia Weilands des Ludewig Weilands nachgelaßene Tochter. Sie ist gestorben an der Auszehrung. Alt 11 Jahr.
+          trans: >-
+            2) On 18 February, Johanna Sophia Weiland, the surviving daughter of the late Ludewig Weiland, was buried. She died of tuberculosis. Age 11 years.
+      
+        - name: Sophia Elisabeth Weiland
+          residence: Evesen
+          image_no: 223
+          ifile: petzen-band1b-img223-weiland2.png
+          edate: 21 April 1779
+          vdate: 14 September 2026
+          url: https://www.archion.de/p/a999b29a5d/ 
+          literal: >-
+            7) d 21t Apr: ist begraben Sophia Elisabeth Weiland des Johann Heinrich Weilands aus Evesen Ehefrau. Sie ist gestorben an der
+            Auszehrung. Alt 27 Jahr 27 Wochen.
+          trans: >-
+            7) On 21 April, Sophia Elisabeth Weiland, wife of Johann Heinrich Weiland of Evesen, was buried. She died of tuberculosis. Age 27 years, 27 weeks.
+    
+        - name: Anna Philippina Weiland
+          residence: Peezen
+          image_no: 223 
+          ifile: petzen-band1b-img223-weiland3.png
+          edate: 19 September 1779
+          vdate: 14 September 2026
+          url: https://www.archion.de/p/bf8bf4c392/ 
+          literal: >-
+            23) d 19t Septbr ist begraben Anna Philippina Weiland des Johann Christian Weilands Einliegers in Peezen eheliche Tochter. Sie ist an den Schürckgen gestorben. Ihres Alters 4 3/4 Jahr.
+          trans: >-
+           23) On 19 September, Anna Philippina Weiland, legitimate daughter of Johann Christian Weiland, a lodger in Peezen, was buried. She died of a febrile illness. She was 4¾ years old. 
+      
+        - name: Anna Philippina Weiland
+          residence: Peezen
+          image_no: 229
+          ifile: petzen-band1b-img229-weiland.png 
+          edate: 11 March 1782
+          vdate: 14 September 2026
+          url: https://www.archion.de/p/66bd6bad06/ 
+          literal: >-
+            9) d 11 Mart: ist begraben Anna Philippina Weilands des Johan Christian Weilands Einliegers in Peezen eheliche Tochter. Sie ist gestorben an den Schürckgen. Ihres Alters 22 Wochen.
+          trans: >-
+            9) On 11 March, Anna Philippina Weiland, legitimate daughter of Johan Christian Weiland, a lodger in Peezen, was buried. She died of a febrile illness. She was 22 weeks old.
+  
+        - name: Johann Heinrich Weilandt
+          residence: Notdholtz
+          image_no: 234 
+          ifile: petzen-band1b-img234-weiland.png
+          edate: 7 March 1784
+          vdate: 14 September 2026
+          url: https://www.archion.de/p/a3107efa50/ 
+          literal: |
+            5) d 7t Mart. ist Johann Heinrich Weilandt ein Ehemann aus Nordholtz begraben. Er ist gestorben an der Brustkranckheit. Sein Alters 28 1/2 Jahr.
+    
+            get. 7.9.55
+            cop. 24.4.74 
+          trans: |
+            On 7 March, Johann Heinrich Weilandt, a married man from Nordholz, was buried. He died of pneumonia. His age was 28½ years.
+    
+            Baptized 7 September 1755
+            Married 24 April 1774
+    
+        - name: Philippine Eleonore Weiland
+          residence: not specified
+          image_no: 236
+          ifile: petzen-band1b-img236-weiland1.png 
+          edate: 4 May 1784
+          vdate: 13 September 2026
+          url: https://www.archion.de/p/39c9749e3f/ 
+          literal: >-
+            26) Eodem ist Philippine Eleonore Weilands ein Hurkind beerdigt. Sie ist gestorben an den Schürckgen. Ihres Alters 4 Wochen.
+          trans: >-
+            26) On the same day, Philippine Eleonore Weiland, an illegitimate child, was buried. She died of a febrile childhood illness. She was 4 weeks old.
+    
+        - name: Sophia Christina Weilandt
+          residence: Peezen
+          image_no: 236
+          ifile: petzen-band1b-img236-weiland2.png
+          edate: 26 May 1784
+          vdate: 13 September 2026
+          url: https://www.archion.de/p/b40210d311/
+          literal: >-
+            35) d 26t [May] ist Sophia Christina Weilandts des Johann Christian Weilandts Einliegers in Peezen Tochter begraben. Sie ist gestorben an den Blattern.
+            Ihres Alters 1 Jahr 14 Wochen.
+          trans: >-
+            35) On 26 May, Sophia Christina Weiland, daughter of Johann Christian Weiland, a lodger in Peezen, was buried. She died of smallpox. She was 1 year and 14 weeks old.
+ 
+    baptism:
+      volume: band1a
+      record-symbol: B
+      records:
+        - name: Daughter of Hans Weiland
+          image_no: 10
+          edate: 13 August 1648 
+          residence:
+          ifile: petzen-band1a-img10-weiland.png 
+          vdate: 28 August 2026
+          url: https://www.archion.de/p/e3a8b2db39/ 
+          literal: >-
+            Hans Weilands tochter Anna Sophia eodem die getaufft
+            gefattere: Metta Sophia Crufelers, Anna N., ancilla in praedio
+            Bückeburgensi. Anna Maria, Jacobi pastörsche in Meinsen, N. Köpper
+            von Achumb.
+          trans: >-
+            Hans Weiland's daughter Anna Sophia, baptized on the same day [as the previous entry, i.e., 13 August 1648].
+            Godparents: Metta Sophia Crufelers; Anna N., a maidservant on the Bückeburg estate; Anna Maria, wife of Pastor Jacobi in Meinsen; N. Köpper from Achum.
+      
+        - name: Hans Weiland's Daughter
+          image_no: 12 
+          edate: 11 April 1651
+          residence:
+          ifile: petzen-band1a-img12-weiland.png
+          vdate: 30 August 2026 
+          url: https://www.archion.de/p/621a0af765/ 
+          literal: "Hans Weilands tochter Ilschen, gf. Ilsche Sandersche im Berenbusche, den 11 Aprilis." 
+          trans: "Hans Weiland's daughter Ilschen. Godparent: Ilsche, wife of Sanders, in Berenbusch. On 11 April."
+       
+        - name: Anna Catharine Eleonora Weiland 
+          image_no: 55 
+          edate: 27 August 1676
+          residence: Petzen
+          ifile: petzen-band1a-img55-weiland.png  
+          vdate: 30 August 2026 
+          url: https://www.archion.de/p/6d83b6a5c9/
+          literal: >- 
+            Wolter Weilands zu Petzen Tochter Anna Catharina Eleonora
+            getaufft den 27  Aügusti gefattern Johan Halvekopfs Schwester
+            und ein Mätigen [von ?? Reisen] Nahmens Anna
+          trans: >-
+            Wolter Weiland’s daughter, Anna Catharina Eleonora, was baptized on 27 August. Sponsors were Johan
+            Halvekop’s sister and a girl from der [Reisen?] named Anna.  
+         
+        - name: Anna Margaretha Weiland
+          image_no: 56
+          edate: 20 January 1678
+          residence: Petzen
+          ifile: petzen-band1b-img56-weiland.png 
+          vdate: 30 August 2026 
+          url: https://www.archion.de/p/b655e6998b/
+          literal: >- 
+            Wolter Weilandt zu Petzen, Tochter, Anna Margaretha, getaufft
+            den 20 Januarij gefattere die Miersche zu Röcke, Daniel Vogts
+            Frau, u[nd]: des [Rödemiesters?] Frau in Nordholtz
+          trans: >-
+            Wolter Weilandt of Petzen’s daughter, Anna Margaretha, was
+            baptized on 20 January. The godmothers were Mrs. Mier of Röcke,
+            Daniel Vogt’s wife, and the wife of Rödemeister in Nordholtz.
+         
+        - name: Cort Hinrig Weilandt 
+          image_no: 58
+          edate: 13 February 1679
+          residence: Petzen
+          ifile: petzen-band1a-img58-weiland.png
+          vdate: 30 August 2026
+          url: https://www.archion.de/p/f3c5c0d057/
+          literal: >-
+            Wolter Weilandt zu Petzen Sohn, Cort Hinrig getaufft
+            den 13 Februarij, gefattern der Krüger zu Petzen,
+            [?] Aldags ältester Sohn, und der [Kohlmeister?] auf der [Hökersau?]
+          trans: >-
+            Wolter Weilandt of Petzen’s son, Cort Hinrig, was baptized on 13 February. The sponsors were the innkeeper of Petzen,
+            [?] Aldag’s eldest son, and the charcoal master at/on the [Hökersau?].
+  
+        - name: Ilse Margaretha Weÿlandt
+          image_no: 141
+          edate: 8 May 1729
+          residence: Nammen
+          ifile: petzen-band1a-img141-weiland.png 
+          vdate: 3 Spetember 2026
+          url: https://www.archion.de/p/dac7b22d65/ 
+          literal: >-
+            14) den 6t Maÿ ist Johann Weÿlandts auß Nammen Töchterlein Ilse Margaretha getauft. Gev. die Schillingsche und die Brandtsche.
+          trans: >-
+            On May 6, Johann Weÿland of Nammen had his little daughter Ilse Margaretha baptized. Sponsors: Mrs. Schilling and Mrs. Brandt.
+          text: >-
+            There is a burial record from 4 November 1735 of female child named Elisabeth Margaretha Weilands born
+            6 years and 39 weeks earlier.
+  
+            **What this suggests:**
+  
+            The Margareta Elisabeth Weiland buried on 4 November 1737 was 6 years and 39 weeks old 
+            when she died. "Ilse" is short for Elisabeth. This would place her birth on 4 Feb. 1731, which is within one 
+            month of this baptism record. However, the father's given name in this baptism record is *Johann* whereas the father's given names in the
+            4 Nov. 1735 burial record are *Hans Harman*.
+  
+            The burial record explicitly identifies the father as militis (a soldier), and the family therefore *might* have not have been living in
+            the Petzen parish at the time of the child's birth and baptism since soldiers' households moved with postings.
+ 
+    confirmation:
+      volume: band1a 
+      record-symbol: C
+      records:
+        - name: Hans Heinrich Weyland
+          image_no: 297
+          age: 13
+          residence:
+          edate: 1707  
+          vdate: 25 August 2026
+          url: https://www.archion.de/p/da82da13db/
+          literal: Hans Heinrich Weland____13
+          trans: "Hans Heinrich Weiland____13"
+        
+        - name: Anna Elisabeth Weÿland
+          image_no: 298
+          age: 12
+          residence: Evesen
+          edate: 1711
+          vdate: 25 August 2026
+          url: https://www.archion.de/p/e6b0295fb0/
+          literal: Anna Elisabeth Weÿlandts aus Evesen____12
+          trans: "Anna Elisabeth Weÿland of Evesen____12"
+      
+##    - name: Anna Elisabeth Vahlsing
+##      image_no: 299
+##      age: 12
+##      residence:
+##      edate: 1713   
+##      vdate: 25 August 2026
+##      url: https://www.archion.de/p/b7ee044bb4/
+##      literal: Anna Elisabeth Vahlsings aus Evesen____12
+##      trans: "Anna Elisabeth Vahlsing of Evesen____12"
+      
+        - name: Jobst Henrich Weÿland
+          image_no: 299
+          age: 14
+          residence: Berenbusch
+          edate: 1716
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/cff80d274e/
+          literal: Jobst Henrich Weÿland aus Berenbusch____14
+          trans: "Jobst Henrich Weÿland of Berenbusch____14"
+        
+##    - name: Anna Maria Vahlsing
+##      image_no: 299
+##      age: 13
+##      residence: Evesen
+##      edate: 1716
+##      vdate: 26 August 2026
+##      url: https://www.archion.de/p/cff80d274e/
+##      literal: Anna Maria Vahlsing aus Evesen____13
+##      trans: "Anna Maria Vahlsing of Evesen____13"
+      
+        - name: Weiland
+          image_no: 301
+          age: 
+          residence: no residenece given
+          edate: 1736
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/cc8d263b27/
+          literal: Weiland
+          trans: Weiland
+        
+        - name: Weiland
+          image_no: 301
+          age:
+          residence: "Nordholtz"
+          edate: 1737
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/cc8d263b27/
+          literal: Weiland  N
+          trans: "Weiland, Norholz"
+        
+        - name: Weiland
+          image_no: 302
+          age: 
+          residence: "Evesen"
+          edate: 1740
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/8adf84b739/
+          literal: "Weiland Ev:"
+          trans: "Weiland, Evesen"
+        
+        - name: "[female] Weiland"
+          image_no: 303
+          age: 
+          residence: Nordholtz
+          edate: 1743
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/330c163617/
+          literal: Weiland N.
+          trans: "Weiland, Norholz"
+        
+        - name: "[male] Weiland"
+          image_no: 303
+          age:
+          residence: Behrebusch
+          edate: 1745
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/c2e455cf48/
+          literal: Weiland Behrebusch
+          trans: "Weiland, Behrebusch"
+        
+        - name: Johann Heinrich Fahlsing
+          image_no: 303
+          age:
+          residence: Evesen
+          edate: 1746
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/61c7e65298/
+          literal: Johann Heinrich Fahlsing aus Evesem 
+          trans: "Johann Heinrich Fahlsing of Evesem"
+        
+        - name: Anna Christina Weiland
+          image_no: 304
+          age: 
+          residence: Evesen
+          vdate: 26 August 2026
+          edate: 1746
+          url: https://www.archion.de/p/c7513c70ad/
+          literal: Anna Christina Weilands aus Evesen.
+          trans: "Anna Christina Weiland of Evesen."
+        
+        - name: Hans Henrich Weiland 
+          image_no: 304
+          age:
+          residence: Berenbusch
+          edate: 1748
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/9da2dc81a0/
+          literal: Hans Henrich Weiland aus Berenbusch
+          trans: "Hans Henrich Weiland of Berenbusch"
+        
+        - name: Jobst Henrich Weiland
+          image_no: 305
+          age:
+          residence: Evesen
+          edate: 1750
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/016a349f41/
+          literal: Jobst Henrich Weiland aus Evesen
+          trans: "Jobst Henrich Weiland of Evesen"
+        
+        - name: Friederich Wilhelm Weiland
+          image_no: 308
+          age: 
+          residence: Nordholz
+          edate: 1751
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/43f1621379/
+          literal: Friederich Wilhelm Weiland aus Nordholz
+          trans: "Friederich Wilhelm Weiland of Nordholz"
+        
+        - name: Hans Henrich Weiland
+          image_no: 309
+          age: 
+          residence: Evesen
+          edate: 1753
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/c1c9046458/
+          literal: Hans Henrich Weiland aus Evesen
+          trans: "Hans Henrich Weiland of Evesen"
+        
+        - name: Sophia Elisabeth Weilands 
+          image_no: 309
+          age: 
+          residence: Nordholtz
+          edate: 1753
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/3a0883155f/ 
+          literal:  Sophia Elisabeth Weilands aus Nordholtz  
+          trans: "Sophia Elisabeth Weiland of Nordholtz"
+        
+        - name: Friederich Wilhelm Weiland
+          image_no: 309
+          age: 
+          residence: Evesen
+          edate: 1754
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/99783df0c2/
+          literal: Friederich Wilhelm Weiland (Hofmeiers) Evesen  
+          trans: "Friederich Wilhelm Weiland (Hofmeier's) Evesen"
+        
+        - name: Anna Margaretha Weiland 
+          image_no: 310 
+          age: 
+          residence: Nordholtz
+          edate: 1757
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/07617bfa91/
+          literal: Anna Margaretha Weilands aus Nordholtz
+          trans: "Anna Margaretha Weiland of Nordholtz"
+           
+        - name: Anna Maria Weilandt
+          image_no: 312
+          age: 
+          residence: Nordholtz
+          edate: 1760
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/42667cb769/
+          literal:  Anna Maria Weilandt aus Nordholtz 
+          trans: "Anna Maria Weilandt of Nordholtz"
+        
+        - name: Johann Heinrich Weiland
+          image_no: 313 
+          age: 
+          residence: Evesen
+          edate: 1763 
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/1fdc86eeb3/ 
+          literal: Johann Heinrich Weiland aus Evesen 
+          trans: "Johann Heinrich Weiland of Evesen"
+        
+        - name: Philippina Weiland
+          image_no: 313
+          age: 
+          residence: Evesen
+          edate: 1764
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/a50f43c12e/
+          literal: Philippina Weilands aus Evesen
+          trans: "Philippina Weiland of Evesen"
+        
+        - name: Sophia Elisabeth Weilands
+          image_no: 314 
+          age:  
+          residence: Evesen No. 21 
+          edate: 1766 
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/ce7131f5a0/
+          literal: Sophia Elisabeth Weilands aus Evesen No. 21 
+          trans: "Sophia Elisabeth Weiland of Evesen No. 21"
+        
+        - name: Friederich Wilhelm Weiland
+          image_no: 315 
+          age:  
+          residence: Röcke 
+          edate: 1767 
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/44838bec83/
+          literal: Friederich Wilhelm Weiland aus Röcke Einlieger 
+          trans: "Friederich Wilhelm Weiland of Röcke, lodger"
+        
+        - name: Ilse Margaretha Weilands 
+          image_no: 315
+          age:  
+          residence: Berenbusch
+          edate: 1768 
+          vdate: 26 August
+          url: https://www.archion.de/p/88fcbde3e9/
+          literal: Friederich Wilhelm Weiland aus Berenbusch 
+          trans: "Friederich Wilhelm Weiland of Berenbusch"
+        
+        - name: Heinrich Wilhelm Weiland
+          image_no: 316
+          age:  
+          residence: Nordholz
+          edate: 1769
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/b798d91460/ 
+          literal: Heinrich Wilhelm Weiland Nordholz
+          trans: "Heinrich Wilhelm Weiland, Nordholz"
+        
+        - name: Heinrich Ludewig Weiland
+          image_no: 316
+          age:  
+          residence: Röcke
+          vdate: 26 August 2026
+          edate: 1769
+          url: https://www.archion.de/p/b798d91460/ 
+          literal: Heinrich Ludewig Weiland Röcke 
+          trans: "Heinrich Ludewig Weiland, Röcke"
+        
+        - name: Jobst Heinrich Weiland 
+          image_no: 317 
+          age:  
+          residence: Röcke
+          edate: 1772
+          vdate: 26 August 2026 
+          url: https://www.archion.de/p/7b50caa5f3/
+          literal: Jobst Heinrich Weiland aus Röcke 
+          trans: "Jobst Heinrich Weiland of Röcke"
+        
+        - name: Jost Heinrich Weiland 
+          image_no: 317
+          age:  
+          residence: Berenbusch
+          edate: 1774
+          vdate: 26 August 2026 
+          url: https://www.archion.de/p/e88a5aaef1/
+          literal: Jobst Heinrich Weiland____Berembusch
+          trans: "Jobst Heinrich Weiland____Berembusch"
+        
+        - name: Christina Weiland
+          image_no: 317 
+          age:  
+          residence: Evesen
+          edate: 1774
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/a60d42480c/
+          literal: Christina Weilands____Evesen
+          trans: "Christina Weiland____Evesen"
+        
+        - name: Hans Heinrich Weiland  
+          image_no: 318
+          age:  
+          residence: Berenbusch
+          edate: 1777
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/4e469274f3/
+          literal: Hans Heinrich Weiland aus Berenbusch
+          trans: "Hans Heinrich Weiland of Berenbusch"
+        
+        - name: Johann Heinrich Ludowig Weiland 
+          image_no: 319
+          age:  
+          residence: Peezen
+          edate: 1779
+          vdate: 26 August 2026
+          url: https://www.archion.de/p/d765ab3370/
+          literal: Heinrich Ludowig Weiland Peezen 
+          trans: "Heinrich Ludowig Weiland, Peezen"
+           
+        - name: Johann Heinrich Weiland 
+          image_no: 321 
+          age:  
+          residence: Nordholtz Berenbusch 
+          edate: 1783
+          vdate: 27 August 2026
+          url: https://www.archion.de/p/f433693d9a/
+          literal: Johann Heinrich Weiland aus Nordholtz Berenbusch 
+          trans: "Johann Heinrich Weiland of Nordholtz Berenbusch"
+        
+        - name: Anna Philippina Weiland 
+          image_no: 322
+          age:  
+          residence: Evesen
+          edate: 1784
+          vdate: 27 August 2026
+          url: https://www.archion.de/p/69538680ea/
+          literal: Anna Philippina Weilands aus Evesen
+          trans: "Anna Philippina Weiland of Evesen"
 

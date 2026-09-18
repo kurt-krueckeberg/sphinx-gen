@@ -7,12 +7,9 @@ require __DIR__ . '/vendor/autoload.php';
 
 $config = Config::getConfig()->settings;
 
-$kbr = new KirchenbuecherResults($config['results_file']);
+$kbr = new KirchenbuecherResults($config['results_file'], $config);
 
-$citation_string = str_replace(array("{path}", "{parish-name}"),
-	array($kbr['parish']['volumes']['path'],
-              $kbr['parish']['parish-name']),
-	file_get_contents($config['citation_template']));
+$citation_string = $kbr->citation_string;
 
 function make_array(CeremonySection $ceremony_section, KirchenbuecherResults $kbr) : array
 {
@@ -48,6 +45,7 @@ foreach ($kbr as $ceremony => $ceremony_section) {
           $markdown = $markdown_template;
 
           try {	  
+              
   	    $filename = $markdown_writer($record);
 
 	    $logger->log($filename);

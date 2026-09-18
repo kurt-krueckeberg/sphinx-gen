@@ -6,15 +6,28 @@ use Symfony\Component\Yaml\Yaml;
 class KirchenBuecherResults implements \IteratorAggregate, \ArrayAccess {
 
 	private readonly array $yaml;
+	private readonly string $citation_string;
 
-        private $section_keys = array('marriage', 'burial', 'baptism', 'confirmation');
- 	
-	private function generator() 
+	private $section_keys = array();
+        
+        public function __construct(string $ymlfileName, Config $config)
+	{
+           $this->yaml = Yaml::parseFile($ymlfileName);
+
+	   $this->section_keys = array_keys($this->yaml['parish']['record_sections']);
+
+	   $this->citation_string = str_replace(array("{path}", "{parish-name}"),
+	                              array($this->yaml['parish']['volumes']['path'],
+                                      $this->yaml['parish']['parish-name']),
+     	                              file_get_contents($config['citation_template'])); 
+	}
+        
+        private function generator() 
 	{
             foreach ($this->section_keys as $section_key) {
       
-                yield $section_key => new CeremonySection($this->yaml['parish'][$section_key]);                 
- 	    }
+               yield $section_key => new CeremonySection($this->yaml['parish']['record_sections'][$section_key]);                 
+            }
 	}
 
         #[\Override]
@@ -22,12 +35,7 @@ class KirchenBuecherResults implements \IteratorAggregate, \ArrayAccess {
 	{
 	   return $this->generator();	
         }
-
-	public function __construct(string $file)
-	{
-           $this->yaml = Yaml::parseFile($file);
-	}
-        
+	
 	#[\Override]
 	public function offsetSet($offset, $value): void
        	{

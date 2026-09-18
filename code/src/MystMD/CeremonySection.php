@@ -24,7 +24,7 @@ class CeremonySection implements \IteratorAggregate, \ArrayAccess {
 
 	public function __construct(array $section)
 	{
-           $this->section = $section; 
+           $this->section = $section;
 	}
          
 	#[\Override]
