@@ -1,6 +1,6 @@
 # Family Church Records
 
-Records for birth/baptism, confirmation, marriage, and death/burail for the following parishes and families 
+Records for birth/baptism, confirmation, marriage, and death/burial for the following parishes and families 
 are included:
 
 ```{list-table} Parishes and Surnames
