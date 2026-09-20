@@ -12,7 +12,12 @@ begin in 1705. They also contain a **gap from 1717-1733**.
 ```{list-table} Confirmation records
 :header-rows: 1
 
-* - Range of Years with Confirmation Records
+* - Range of Years
+  - Has Records?
 * - 1705  — 1716
+  - Yes, has confirmation records
+* - 1717-1733
+  - No, contains no confirmation records
 * - 1734  — 1784
+  - Yes, has confirmation records
 ```
