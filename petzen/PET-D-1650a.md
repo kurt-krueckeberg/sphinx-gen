@@ -1,4 +1,4 @@
-# 1650 Wölkken Weÿlandt of not specified Burial
+# 1650 Wölcken Weÿlandt of not specified Burial
 
 ## Record
 
