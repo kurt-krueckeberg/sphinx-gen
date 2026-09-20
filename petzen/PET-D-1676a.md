@@ -19,7 +19,7 @@ The 8 December 1676 burial of Wilandt's little daughter from Petzen is on {ref}`
 ## Translation
 
 ```{div} doc-text
-[unclear] Wilandts daughter at Petzen den 8 Decemb buried.
+[unclear] Wilandts daughter at Petzen buried on 8 December.
 ```
 
 ## Citation
