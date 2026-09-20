@@ -15,6 +15,15 @@
   - Mother's sister Lisebeth 
 ```
 
+```{note}
+We know from other records that the sand-pit of sand hallow area was in
+Evesen. See these records:
+
+- {doc}`PET-B-1740b`
+- {doc}`PET-B-1762a`
+- {doc}`PET-B-1776a`
+```
+
 ## Record
 
 The May 9, 1699, baptism of entry is found on {doc}`image 94 <PET-B-1699a>`
