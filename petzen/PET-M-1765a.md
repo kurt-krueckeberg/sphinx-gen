@@ -32,7 +32,7 @@
 
 The 7 February 1765 marriage of Heinrich Ludewig Weiland from Röcke is on {ref}`image 56 <PET-M-1765a>` of the Petzen *Verzeichnis der Getrauten und Gestorbenen 1641-1784*.
 
-```{figure} images/petzen-band1b-img56-weiland.png
+```{figure} images/petzen-band1b-img56-weiland.jpg
 :class: image-override
 ```
 
