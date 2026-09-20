@@ -5,7 +5,7 @@
 The 20 January 1678 baptism of Anna Margaretha Weiland from Petzen is on {ref}`image 56 <PET-B-1678a>` of the
 Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
-```{figure} images/petzen-band1b-img56-weiland.png
+```{figure} images/petzen-band1a-img56-weiland.png
 :class: image-override
 ```
 
