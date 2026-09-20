@@ -4,7 +4,7 @@
 
 The baptism of Anna Elisabeth Becker is on {ref}`image 56 <PET-B-1677a>` of the " Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
-```{figure} images/petzen-band1a-img56.png
+```{figure} images/petzen-band1a-img56-becker.png
 :class: image-override
 ```
 
@@ -19,7 +19,7 @@ of February 19 through February 28.
 
 ```{div} doc-text
 Wilhelm Beckers Tochter zu [???], Anna Elisabeth getauft den
-2 Decemb: Gevater des [?] Mutter [aus ??]
+2 Decemb: Gevater des Kindes Mutter sche Wefteb
 ```
 
 ## Translation
