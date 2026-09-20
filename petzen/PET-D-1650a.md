@@ -11,17 +11,17 @@ The 24 January 1650 burial of Wölkken Weÿlandt from not specified is on {ref}`
 ## Transliteration
 
 ```{div} doc-text
-Wölkken Weÿlandt Altermann. 24 Jan:
+Wölcken Weÿlandt Altermann. 24 Jan:
 ```
 
 ```{note}
-**Wölkken** is not an attested given name. Its meaning is unclear.
+**Wölcken** is possibily a low German form of Wilhem 
 ``` 
 
 ## Translation
 
 ```{div} doc-text
-Wölkken Weÿlandt, elder. 24 January
+Wölcken Weÿlandt, elder. 24 January
 ```
 
 ## Citation
