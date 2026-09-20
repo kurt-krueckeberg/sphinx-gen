@@ -18,14 +18,14 @@ of February 19 through February 28.
 ```
 
 ```{div} doc-text
-Wilhelm Beckers Tochter zu [uncertain?], Anna Elisabeth getauftt den
+[?aust] Wilhelm Beckers Tochter zu [uncertain?], Anna Elisabeth getauftt den
 2 Decemb: Gevatter des Kindes Mutters Schwester
 ```
 
 ## Translation
 
 ```{div} doc-text
-Wilhelm Becker's daughter at  [village name unreadable?], Anna Elisabeth baptized on December
+[?aust] Wilhelm Becker's daughter at  [village name unreadable?], Anna Elisabeth baptized on December
 2nd. Baptism sponsor: the mother's sister. 
 ```
 
