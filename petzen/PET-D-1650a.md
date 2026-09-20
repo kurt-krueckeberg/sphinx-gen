@@ -14,10 +14,6 @@ The 24 January 1650 burial of Wölkken Weÿlandt from not specified is on {ref}`
 Wölcken Weÿlandt Altermann. 24 Jan:
 ```
 
-```{note}
-**Wölcken** is possibily a low German form of Wilhem 
-``` 
-
 ## Translation
 
 ```{div} doc-text
