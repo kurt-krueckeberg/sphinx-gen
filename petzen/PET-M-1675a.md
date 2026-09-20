@@ -2,9 +2,11 @@
 
 ## Record
 
-The 12 November 1675 marriage of [uncertain name] Weilandt from Petzen is on {ref}`image 15 <PET-M-1675a>` of the Petzen *Verzeichnis der Getrauten und Gestorbenen 1641-1784*.
+The 12 November 1675 marriage of [uncertain name] Weilandt from Petzen is
+on {ref}`image 15 <PET-M-1675a>` of the Petzen *Verzeichnis der Getrauten
+und Gestorbenen 1641-1784*.
 
-```{figure} images/petzen-band1b-img15-weiland.png
+```{figure} images/petzen-band1a-img15-weiland.png
 :class: image-override
 ```
 
@@ -13,8 +15,6 @@ The 12 November 1675 marriage of [uncertain name] Weilandt from Petzen is on {re
 ```{div} doc-text
 [unclear] Weilandt und Elisabeth Rödemeisters zu Petzen den 12 [either Nov. or Dec.] copuliret
 ```
-
-
 
 ## Translation
 
