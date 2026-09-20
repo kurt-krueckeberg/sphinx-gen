@@ -16,8 +16,7 @@
 ```
 
 ```{note}
-We know from other records that the sand-pit of sand hallow area was in
-Evesen. See these records:
+We know from other records that the sand-pit of sand hallow area was in Evesen: 
 
 - {doc}`PET-B-1740b`
 - {doc}`PET-B-1762a`
