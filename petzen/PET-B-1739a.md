@@ -13,7 +13,7 @@ On 11 February 1739 Johann Wilhelm Krückeberg of Berenbsuch was {doc}`buried <P
   - Godfather
 * - Feb. 11 1739
   - Berenbusch
-  - Valsing
+  - Vahlsing
 ```
 
 ## Baptism Record
