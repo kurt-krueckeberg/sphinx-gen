@@ -2,7 +2,9 @@
 
 ## Record
 
-The 19 October 1712 marriage of Hans Weÿlandt from Evesen is on {ref}`image 30 <PET-M-1712a>` of the Petzen *Verzeichnis der Getrauten und Gestorbenen 1641-1784*.
+The October 19, 1712. marriage of Hans Weÿlandt from Evesen is on {ref}`image
+30 <PET-M-1712a>` of the Petzen *Verzeichnis der Getrauten und Gestorbenen
+1641-1784*.
 
 ```{figure} images/petzen-band1b-img30-weiland.png
 :class: image-override

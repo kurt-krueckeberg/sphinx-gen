@@ -20,14 +20,14 @@ dysentery ("der weisen Ruhr")
 ## Transliteration
 
 ```{div} doc-text
-den 12. Novembr ist Hanß Weÿlands aus Evesen Ehefrau Hille Po[w?]cks, so an
+den 12. Novembr ist Hanß Weÿlands aus Evesen Ehefrau Hille Pooccks, so an
 der weisen Ruhr gestorben, zur Erden bestattet Ihres Alters 55 Jahr.
 ```
 
 ## Translation
 
 ```{div} doc-text
-On 12 November, Hanß Weyland’s wife from Evesen, Hille Po[w?]ks, who had
+On 12 November, Hanß Weyland’s wife from Evesen, Hille Poocks, who had
 died of dysentery, was buried. She was 55 years old.
 ```
 
