@@ -17,9 +17,8 @@
 :header_rows: 1
 
 * - Name 
-  - Residence
 * - Johan Halvekopf's sister
-  - Anna from [Kiesen?]
+  - Anna from the [uncertain named holding place]
 ```
 ## Record
 
