@@ -70,7 +70,7 @@ be the adjective form used for a male survior: ein hinterlassener Sohn (a surviv
   - He was the successor to a farmstead or property.
   - He had a certain social and financial standing in the village.
   - His status could affect marriage prospects, taxes, and legal responsibilities.
-- **Benner** — Thode’s defines this as: cooper.
+- **Benner** — cooper (Thode's).
 - **Leibzüchtner**(male)/**Leibzüchtnerin**(female) — Thode’s definition
   is: "person on life estate". He defines Leibzucht as: "life annuity;
   pension; life estate".
