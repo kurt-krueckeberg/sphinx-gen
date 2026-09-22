@@ -38,6 +38,9 @@ The birth is recorded on {ref}`image 70 on Archion <PET-B-1798a>`, entry 12,
 of the Petzen *Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen 1785-1827*. The entries span both pages 134 and 135.
 
+On page 135, **Januar** (January) is written beneath the column headers **geb.**
+(born) and **get.** (baptized). It spans both columns.
+
 ```{figure} images/petzen-band2-img70-134.jpg
 :class: image-override
 
@@ -47,7 +50,7 @@ page 134 entry 12
 ```{figure} images/petzen-band2-img70-135.jpg
 :class: image-override
 
-page 135
+page 135 entry 12
 ```
 
 ```{note}
@@ -60,7 +63,7 @@ page 135
 * - Anzahl
   - Namen des Kindes
   - Namen des Vaters
-  - Haus Nro
+  - Haus No.
   - Orstschaft
   - Namen der Mutter
   - geb.
