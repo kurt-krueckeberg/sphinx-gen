@@ -38,10 +38,6 @@ The birth is recorded on {ref}`image 70 on Archion <PET-B-1798a>`, entry 12,
 of the Petzen *Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen 1785-1827*. The entries span both pages 134 and 135.
 
-### Pages 134-135
-
-pages 134 and 135, entry 12
-
 ```{figure} images/petzen-band2-img70-134.jpg
 :class: image-override
 
