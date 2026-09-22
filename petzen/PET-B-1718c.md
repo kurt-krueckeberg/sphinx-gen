@@ -11,22 +11,23 @@
   - Hans Henrig/Henirch Weiland
 ```
 
-The baptism record for Hanß Henirch Weÿlandt of Berenbusch tells us his father was already deceased. We know
-that on February 13, 1718, that a Hanß Henrich Weÿland of Bernebusch was {doc}`buried at age 37 years and six weeks <PET-D-1718a>`. 
+The May 1, 1718, baptism record for Hanß Henirch Weÿlandt of Berenbusch tells us his father was already deceased.
+We know that on February 13, 1718, that a Hanß Henrich Weÿland of Bernebusch was
+{doc}`buried <PET-D-1718a>` at age 37 years and six weeks. 
 
 Prior to March 1, 1700, Schaumburg-Lippe and the Protestant Imperial Estates of the Holy Roman Empire
 used the Julian calendar. They switched to the Gregorian calendar in 1700.
 
-To calculate when the Hanß Henrich Weÿland of Bernebusch, who died February 13, 1718, at age **37 years and 6 weeks**,
-was born/baptized, we convert his burial date to a Julian date and then subtract his age at death:
+To calculate when the Hanß Henrich Weÿland of Bernebusch, who died February 13, 1718, at age **37 years and 6
+weeks**, was born/baptized, we convert his burial date to a Julian date and then subtract his age at death:
 
 In 1718: **13 February Gregorian = 2 February Julian.**
 
 **2 February 1718 − 37 years − 6 weeks (42 days) = 22 December 1680 Julian.**
 
 We know also that a Hanß Henrig Weiland was {doc}`baptized <PET-B-1680a>` on December 21, 1680, the son of
-Wolter Weilandt of Peezen (Petzen). Thus Hanß Henrig Weiland who was baptized on December 22, 1680, is almost
-certainly the Hanß Henrich who was buried February 2, 1718.
+Wolter Weilandt of Peezen (Petzen). Thus the Hanß Henrig Weiland who was baptized on December 22, 1680, is
+almost certainly the Hanß Henrich who was buried February 2, 1718.
 
 ## Record
 
