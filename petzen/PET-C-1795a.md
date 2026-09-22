@@ -29,54 +29,33 @@ The top two thirds of the page contains the complete list of all the boys
 Page 407, Knaben and Start of Mädchen
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```text
-                                          409
-                Confirmati
-         Dominica Quasimodogeniti
-                  1795
+    Confirmati Dominica Quasimodogeniti 1795
+
 I. Knaben
-  1, Schaumburger
-    1, Friedrich Christian Heisterberg ...
-    2, ....
-    ...
-    6,
-   2. [ [Preußen: another geographical area or local]
-[remainder of Knaben entries snipped]
+   [entried omitted]
 II. Mägdchen (archaic form of Mädchen = girls)
     1, Schaumburger
       1, Sophie Caroline Wagner aus[from] Röcke
       2, Johanne Söphie Carlotte Krückeberg aus[from] Bärenbusch
       ...
-
-      7, ....
-     2, [unclear: Preußen/Prenßen/Preeße?]
+     2, Preußische (from Prussian area of Petzen parish)
 ```
 
-Translation
+## Translation
 
 ```text
-                                          409
-                Confirmed
-         Second Sunday after Easter
-                  1795
+   Confirmed Second Sunday after Easter 1795
 I. Boys
-  1, From Schaumburg
-    1, Friedrich Christian Heisterberg ...
-    2, ....
-    ...
-    6,
-   2. [ [Preußen: another geographical area or local]
-[remainder of Knaben entries snipped]
+  [entries omitted]
 II. Girls
     1, From Schaumburg
       1, Sophie Caroline Wagner aus[from] Röcke
       2, Johanne Söphie Carlotte Krückeberg aus[from] Bärenbusch
       ...
-
-      7, ....
-     2, [unclear: Prussia?]
+    2, From Prussian area (of Petzen parish) 
 ```
 
 ## Citation
