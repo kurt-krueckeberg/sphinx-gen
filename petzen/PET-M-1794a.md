@@ -51,9 +51,9 @@ Page 49 portion
 something; to leave hind. As an adjective is can mean "bereaved" or "survivor (of someone deceased)". **hinterlassener** would
 be the adjective form used for a male survior: ein hinterlassener Sohn (a surviving son).
 - **Anerbe** — comes from **Anerbenrecht**, which is:
-  "inheritance law keeping farms intact (in northern Germany and old Bavaria)." — from Thode’s German-English Genealogical Dictionary
-  In 1826, in Schaumburg-Lippe, "Anerbe" had a specific legal and social meaning
-  rooted in German inheritance practices:
+  "inheritance law keeping farms intact (in northern Germany and old
+  Bavaria)." — from Thode’s German-English Genealogical Dictionary. In Schaumburg-Lippe, "Anerbe" had a
+  specific legal and social meaning rooted in German inheritance practices:
   - Anerbe refers to the designated heir (often the eldest son, but not always) who
     inherits the entire farm or family estate.
   - This was part of the tradition of Anerbenrecht (hereditary right of
@@ -66,8 +66,7 @@ be the adjective form used for a male survior: ein hinterlassener Sohn (a surviv
   - The Anerbe took on responsibility for supporting aging parents and sometimes
     helping siblings until they could establish themselves elsewhere.
   
-  In a Kirchenbuch entry, if someone is called an "Anerbe," it likely signals
-  that:
+  In a Kirchenbuch entry, if someone is called an "Anerbe," it likely signals that:
   - He was the successor to a farmstead or property.
   - He had a certain social and financial standing in the village.
   - His status could affect marriage prospects, taxes, and legal responsibilities.
