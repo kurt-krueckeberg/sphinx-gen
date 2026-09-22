@@ -50,33 +50,27 @@ Page 49 portion
 - **hinterlassen** — is a verb meaning: to leave something to somebody, to bequesth something, to leave somebody a legacy of
 something; to leave hind. As an adjective is can mean "bereaved" or "survivor (of someone deceased)". **hinterlassener** would
 be the adjective form used for a male survior: ein hinterlassener Sohn (a surviving son).
-- **Anerbe** — is defined in [dict.cc](https://www.dict.cc/?s=Anerbe) as:
-  - principal heir[to a landed estate]
-  - single heir.
-    **Anerbe** comes from **Anerbenrecht**, which is:
-    "inheritance law keeping farms intact (in northern Germany and old Bavaria)." — from Thode’s German-English Genealogical Dictionary
-    Chatgpt explained how **Anerbenrecht** operated in Schaumburg-Lippe:
-    > In 1826, in Schaumburg-Lippe, "Anerbe" had a specific legal and social meaning
-    > rooted in German inheritance practices. Here’s what it meant in your context:
-    >
-    > - Anerbe refers to the designated heir (often the eldest son, but not always) who
-    > inherits the entire farm or family estate.
-    > - This was part of the tradition of Anerbenrecht (hereditary right of
-    > succession), which was common in rural parts of Germany, especially in northern
-    > and central regions like Schaumburg-Lippe.
-    > - Instead of dividing property among all children (which would fragment farms
-    > into uselessly small plots), one heir (the "Anerbe") would inherit the main
-    > estate to keep it intact. Other siblings were typically given monetary
-    > settlements or other smaller arrangements ("Abfindung").
-    > - The Anerbe took on responsibility for supporting aging parents and sometimes
-    > helping siblings until they could establish themselves elsewhere.
-    >
-    > In a Kirchenbuch entry, if someone is called an "Anerbe," it likely signals
-    > that:
-    >
-    > - He was the successor to a farmstead or property.
-    > - He had a certain social and financial standing in the village.
-    > - His status could affect marriage prospects, taxes, and legal responsibilities.
+- **Anerbe** — comes from **Anerbenrecht**, which is:
+  "inheritance law keeping farms intact (in northern Germany and old Bavaria)." — from Thode’s German-English Genealogical Dictionary
+  In 1826, in Schaumburg-Lippe, "Anerbe" had a specific legal and social meaning
+  rooted in German inheritance practices:
+  - Anerbe refers to the designated heir (often the eldest son, but not always) who
+    inherits the entire farm or family estate.
+  - This was part of the tradition of Anerbenrecht (hereditary right of
+    succession), which was common in rural parts of Germany, especially in northern
+    and central regions like Schaumburg-Lippe.
+  - Instead of dividing property among all children (which would fragment farms
+    into uselessly small plots), one heir (the "Anerbe") would inherit the main
+    estate to keep it intact. Other siblings were typically given monetary
+    settlements or other smaller arrangements ("Abfindung").
+  - The Anerbe took on responsibility for supporting aging parents and sometimes
+    helping siblings until they could establish themselves elsewhere.
+  
+  In a Kirchenbuch entry, if someone is called an "Anerbe," it likely signals
+  that:
+  - He was the successor to a farmstead or property.
+  - He had a certain social and financial standing in the village.
+  - His status could affect marriage prospects, taxes, and legal responsibilities.
 - **Benner** — Thode’s defines this as: cooper.
 - **Leibzüchtner**(male)/**Leibzüchtnerin**(female) — Thode’s definition
   is: "person on life estate". He defines Leibzucht as: "life annuity;
