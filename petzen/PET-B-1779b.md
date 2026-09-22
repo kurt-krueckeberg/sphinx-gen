@@ -38,9 +38,9 @@ Carl Friedrich Gottlieb Kruckeberg was baptized on April 18, 1779, in Petzen.
 ## Baptism Record
 
 Carl Friderich Gottlieb Kruckeberg’s (this is how the surname was spelled in
-his baptism entry) baptism is on {ref}`image 264, right page, entry no.
-15 <PET-B-1779b>` from the  "database with images (Register of Baptism and Confirmed of the
-Petzen Parish, 1641-1784)".
+his baptism entry) baptism is on {ref}`image 264, right page, entry no.  15 <PET-B-1779b>`
+from the  "database with images (Register of Baptism and Confirmed of the Petzen Parish,
+1641-1784)".
 
 
 ```{figure} images/petzen-band1a-img264.jpg
@@ -54,7 +54,7 @@ A *Hofmeister* is defined in Thode’s German-English Genealogical Dictionary as
 "adminstrator of a manorial estate; child's tutor"
 
 In the entry, Otto Rösener is the *Hofmeister auf der Hockersaue*. "Hocker
-Aue" also appears in image 274 in the baptism record of
+Aue" also appears in image 274 in the baptism record of 
 [Johanna Sophie Charlotte Kruckebergen](PET-B-1782a.md). Her
 godmother **Johanna Sophie Margedalenna Wilkeningen** is described as: "von
 der Hockerers Aue".
