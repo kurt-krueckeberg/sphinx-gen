@@ -18,7 +18,7 @@
 
 * - Name 
 * - Johan Halvekopf's sister
-* - Anna from the [uncertain named holding place]
+* - Anna from the [uncertain named holding/place]
 ```
 ## Record
 
