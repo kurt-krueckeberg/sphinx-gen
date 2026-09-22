@@ -40,15 +40,15 @@ infant name immediatly follows *tauffen laßen*.
 ```{div} doc-text
 d 27t Maÿ Weiland [von Evesen?] [???] [???] Tochter hat tauffen laßen ein
 Töchter[lein] Sophia Margareta Gevatter [Streckmensch] aus Evesen v. Ahldag
-Fr. von [N.H] Amts [Dieners?] Fr.
+Fr. von [N.H] Amtsdieners Fr.
 ```
 
 ## Translation
 
 ```{div} doc-text
 May 27 — Weiland [of Evesen?] [several words illegible] [daughter?] [has?]
-had [a daughter?] baptized, Sophia Margareta. Sponsor(s): [illegible] [of
-Evesen?], Mrs. Ahldag [illegible], [wife?] of the [illegible official?].
+had [a daughter?] baptized, Sophia Margareta. Sponsor(s): [Streckmensche] of
+Evesen, Mrs. Ahldag of [N.H (Nordholtz)], adminitrative officer's wife.
 ```
 
 ## Citation
