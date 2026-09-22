@@ -11,6 +11,8 @@
   - Hans Henrig/Henirch Weiland
 ```
 
+### Determing the Father
+
 The May 1, 1718, baptism record for Hanß Henirch Weÿlandt of Berenbusch tells us his father was already deceased.
 We know that on February 13, 1718, that a Hanß Henrich Weÿland of Bernebusch was
 {doc}`buried <PET-D-1718a>` at age 37 years and six weeks. 
