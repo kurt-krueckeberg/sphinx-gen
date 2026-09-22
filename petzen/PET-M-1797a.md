@@ -66,14 +66,12 @@ is found on {ref}`image 10 <PET-M-1797a>` of the
   - Ortschaft
   - Nro.
 * - 16
-  - Am 27ten
-    Hans Heinrich Wilharm
-    Witwer
+  - Am 27ten\
+    Hans Heinrich Wilharm Witwer
   - Evesen
   - 11
-  - August
-    Sophie Ernestine Blecke
-    Jfr.
+  - August\
+    Sophie Ernestine Blecke Jfr.
   - Evesen
   - 11
 ```
@@ -89,14 +87,12 @@ is found on {ref}`image 10 <PET-M-1797a>` of the
   - Locality
   - no.
 * - 16
-  - On the 27th
-    Hans Heinrich Wilharm
-    widower
+  - On the 27th\
+    Hans Heinrich Wilharm  widower
   - Evesen
   - 11
-  - August
-    Sophie Ernestine Blecke
-    Maiden.
+  - August\
+    Sophie Ernestine Blecke Maiden.
   - Evesen
   - 11
 ```
