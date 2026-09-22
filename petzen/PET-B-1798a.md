@@ -34,37 +34,24 @@
 
 ## Anne Chritine Eleonore Krückeberg
 
-The birth is recorded on {ref}`image 70 on Archion <PET-B-1798a>`, entry #12,
-of the Petzen "Verzeichnis der Getauften, Konfirmierten, Getrauten und
-Gestorbenen 1785-1827". The entries span both pages 134 and 135.
+The birth is recorded on {ref}`image 70 on Archion <PET-B-1798a>`, entry 12,
+of the Petzen *Verzeichnis der Getauften, Konfirmierten, Getrauten und
+Gestorbenen 1785-1827*. The entries span both pages 134 and 135.
 
 ### Pages 134-135
 
-Header:
-
-```{figure} images/petzen-band2-img70-header-134.jpg
-:class: image-override
-```
-
-```{figure} images/petzen-band2-img70-header-135.jpg
-:class: image-override
-```
-
-Transliteration of header for pages 134-135
-
-```{div} doc-text
-
-134                           Gebohrne(births)                       im Jahr (in the year) 1789                 135
-```
-
-### Image of pages 134 and 135, entry 12
+pages 134 and 135, entry 12
 
 ```{figure} images/petzen-band2-img70-134.jpg
 :class: image-override
+
+page 134 entry 12
 ```
 
 ```{figure} images/petzen-band2-img70-135.jpg
 :class: image-override
+
+page 135
 ```
 
 ```{note}
@@ -102,8 +89,7 @@ written incorrectly.
   - Jobst Heinrich Krückeberg
   - 10
   - Bärenbusch
-  - Anna Christine Phil[ippine]: Eleon[ore]: Tegt.-
-    meÿer
+  - Anna Christine Phil[ippine]: Eleon[ore]: Tegtmeÿer
   - 14
   - 18
   - 1, Ilse Marg: Weiland No 1 Bärenbusch
@@ -114,8 +100,7 @@ written incorrectly.
   - Jobst Heinrich Krückeberg
   - 10
   - Bärenbusch
-  - Anna Christine Phil. Eleon. Tegt-
-    meier
+  - Anna Christine Phil. Eleon. Tegtmeier
   - 14
   - 18
   - 1. Ilse Marg[arethe]: Weiland No 1 Bärenbusch
@@ -127,5 +112,9 @@ written incorrectly.
 
 (PET-B-1798a)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/bb92e92f82/) : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 70 of 357
-
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion*
+(<http://www.archion.de/p/bb92e92f82/> : 10 October 2023), path:
+Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
+Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827 > Image 70 of 357
