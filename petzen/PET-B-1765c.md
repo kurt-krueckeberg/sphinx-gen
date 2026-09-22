@@ -26,10 +26,9 @@
 ```
 
 ```{important}
-While the mother’s name is not given on the baptism record, we know that on
-on 29 Sep. 1758, [Ilse Margarethe Rösener from
-Evesen married Johann Heinrich Krückeberg from Berenbusch](PET-M-1758a.md). The baptismal
-sponsor is also a **Rösener**.
+While the mother’s name is not given on the baptism record, we know that on on 29 Sep. 1758, Ilse Margarethe
+Rösener from Evesen {doc}`married <PET-M-1758a>` Johann Heinrich Krückeberg from Berenbusch. 
+The baptismal sponsor is also a **Rösener**.
 ```
 
 ## Record
