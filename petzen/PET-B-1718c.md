@@ -11,7 +11,7 @@
   - Hans Henrig/Henirch Weiland
 ```
 
-### Determing the Father
+### Determing the Likely Father
 
 The May 1, 1718, baptism record for Hanß Henirch Weÿlandt of Berenbusch tells us his father was already deceased.
 We know that on February 13, 1718, that a Hanß Henrich Weÿland of Bernebusch was
