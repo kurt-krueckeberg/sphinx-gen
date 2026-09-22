@@ -1,9 +1,14 @@
 # 1718 Henrich Weÿlandt of Berenbusch Baptism 
 
+## Family Relationships and Other Facts
+
+```{list-table}
+* - Likely Father
+
 ## Record
 
-The baptism of Weÿlandt is on {ref}`image 125 <PET-B-1718c>`, of the Petzen "Verzeichnis der
-Getauften und Konfirmierten 1641-1784".
+The May 1, 1718, baptism of Hanß Henrich Weÿlandt of Berenbusch is on {ref}`image 125 <PET-B-1718c>`, of
+the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ```{figure} images/petzen-band1a-img125-right.jpg
 :class: image-override
@@ -20,7 +25,9 @@ Peetzen Henrich genandt wurde.
 ## Translation
 
 ```{div} doc-text
-11. On 1 May, the son of Hans Henrich Weylandt of Berenbusch, born after his father’s death, was baptized and was named Henrich by Henrich Borman of Petzen.
+11. On the 1st of May, the posthumous son of Hans Henrich Weylandt of
+Berenbusch was baptized, and was named Henrich by Henrich Borman of
+Petzen.
 ```
 
 ## Citation
