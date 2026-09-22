@@ -41,7 +41,7 @@ aus Nammen [mitlere?] Tochter und Seel Hans Harmans aus Nammen nachgelassenen ä
 ## Translation
 
 ```{div} doc-text
-1. On the 30th January was the little daughter of Johann Weÿlandt from Nammen, Catharina Maria, baptized. Sponsors: 
+1. On the 30th January the little daughter of Johann Weÿlandt from Nammen, Catharina Maria, was baptized. Sponsors: 
 the [middle?] daughter of Johann Brandts from Nammen, and the surviving eldest daughter of the late Hans Harman of Nammen. 
 ```
 
