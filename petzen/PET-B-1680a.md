@@ -9,7 +9,7 @@
   - Residence
   - Son
   - Sponsor
-* - [Wolter?] Weilandt 
+* - Wolter Weilandt 
   - Peezen (Petzen)
   - Hans Hinrig Weilandt
   - - Hans [Bradschader?], the furrier
@@ -29,12 +29,14 @@ of the Petzen church register *Verzeichnis der Getaufen und Konfirmierten
 ## Transliteration
 
 ```{important}
-The dates are Julian dates. They are therefore 10 days earlier than our
-current calendar. Schaumburg-Lippe adopted the Gregorian calendar in 1700,
-when February 18, 1700, was followed my March 1, 1700, skipping the dates
-of February 19 through February 28.
-```
+Thee dates in this record are Julian calendar dates. Schaumburg-Lippe
+adopted the Gregorian calendar in 1700, along with the Protestant Imperial
+Estates of the Holy Roman Empire, when February 18, 1700, was followed my March 1,
+1700—the intervening dates were omitted.
 
+The dates in this record are therefore 10 days earlier than dates in Petzen
+records beginning March 1, 1700.
+```
 
 ```{div} doc-text
 Wolter Weilandt zu Petzen, Söhnlein, Hans Hinrig getauft
@@ -44,7 +46,7 @@ den 21 Decemb:, gefattern, Hans [Bradschader?], der Krüs:er, und Johann Däher 
 ## Translation
 
 ```{div} doc-text
-Wolter Weilandt of Petzen, [his] little son Hans Hinrig, baptized on 21
+Wolter Weilandt of Petzen, [his] little son Hans Hinrig, was baptized on 21
 December. Sponsors: Hans [Bradschäder?], the furrier, and Johann Däher of
 Petzen.
 ```

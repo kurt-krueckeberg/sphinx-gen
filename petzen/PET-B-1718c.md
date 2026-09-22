@@ -1,9 +1,29 @@
-# 1718 Henrich Weÿlandt of Berenbusch Baptism 
+# 1718 Hanß Henrich Weÿlandt of Berenbusch Baptism 
 
 ## Family Relationships and Other Facts
 
 ```{list-table}
 * - Likely Father
+* - Hans Henrig Weiland, {doc}`baptized on December 21, 1680 <PET-B-1680a>` in Petzen.\
+    Residing in Berenbusch when he died. He was {doc}`buried <PET-D-1718a>` on February 13, 1718,
+    age 37 years and 6 weeks.
+```
+
+The baptism record for Hanß Henirch Weÿlandt of Berenbusch tells us his father was already deceased. We know
+that on February 13, 1718, that a Hanß Henrich Weÿland of Bernebusch was {doc}`buried at age 37 years and six weeks <PET-D-1718a>`. 
+
+Prior to March 1, 1700, Schaumburg-Lippe and the Protestant Imperial Estates of the Holy Roman Empire
+used the Julian calendar. They switched to the Gregorian calendar in 1700.
+
+To calculate when the Hanß Henrich Weÿland of Bernebusch, who died February 13, 1718, at age **37 years and 6 weeks**,
+was born/baptized, we convert his burial date to a Julian date and then subtract his age at death:
+
+In 1718: **13 February Gregorian = 2 February Julian.**
+
+**2 February 1718 − 37 years − 6 weeks (42 days) = 22 December 1680 Julian.**
+
+We know that a Hanß Henrig Weiland was {doc}`baptized <PET-B-1680a>` on December 21, 1680, the son of
+Wolter Weilandt of Peezen (Petzen).
 
 ## Record
 
@@ -15,7 +35,6 @@ the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 ```
 
 ## Transliteration
-
 
 ```{div} doc-text
 11 den 1t Maÿ ist Hanß Henrich Weÿlandt aus Berenbusch filig posthumus getauft und von Henrich Borman aus
