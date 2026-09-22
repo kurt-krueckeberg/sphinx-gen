@@ -1,4 +1,4 @@
-# 1718 Hans Henrig Weÿland of Berenbsuch Died
+# 1718 Hans Henrich Weÿland of Berenbsuch Burial
 
 ## Record
 
@@ -18,9 +18,18 @@ seines alters 37 Jahr 6 Wochen.
 ```
 
 ```{important}
-Since he died at age 37 years and six weeks under the Gregorian calendar,
-but he was born under the Julian calendar, he would have been born on
-December 23, 1680. 
+Because Petzen used the **Gregorian calendar by 1718**, but the birth
+occurred under the **Julian calendar**, to calculate the date of birth
+(to within the week), we first convert the death date to Julian time:
+
+**13 February 1718 Gregorian = 2 February 1718 Julian.**
+
+Then we subtract the stated age:
+
+**2 February 1718 − 37 years − 6 weeks (42 days) = 22 December 1680
+Julian.**
+
+So the calculated birth date is **22 December 1680 (Julian)**.
 
 In fact, a **Hans Henrig Weiland** was born in December of 1680. The
 precise day cannot be deciphered. See Hans Henrig Weiland's [1680 baptism record](PET-B-1680a.md).
@@ -42,4 +51,3 @@ with images, *Archion* (<https://www.archion.de/p/a05749d61c/> : 6 August 2026),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getrauten und Gestorbenen 1641-1784, image 136 of 239
-
