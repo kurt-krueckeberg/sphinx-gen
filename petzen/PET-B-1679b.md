@@ -2,7 +2,9 @@
 
 ## Record
 
-The 13 February 1679 baptism of Cort Hinrig Weilandt from Petzen is on {ref}`image 58 <PET-B-1679b>` of the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
+The 13 February 1679 baptism of Cort Hinrig Weilandt from Petzen is on
+{ref}`image 58 <PET-B-1679b>` of the Petzen *Verzeichnis der Getauften und
+Konfirmierten 1641-1784*.
 
 ```{figure} images/petzen-band1a-img58-weiland.png
 :class: image-override
@@ -13,8 +15,6 @@ The 13 February 1679 baptism of Cort Hinrig Weilandt from Petzen is on {ref}`ima
 ```{div} doc-text
 Wolter Weilandt zu Petzen Sohn, Cort Hinrig getaufft den 13 Februarij, gefattern der Krüger zu Petzen, [?] Aldags ältester Sohn, und der [Kohlmeister?] auf der [Hökersau?]
 ```
-
-
 
 ## Translation
 

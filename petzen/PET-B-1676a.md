@@ -3,7 +3,7 @@
 ## Family Relationship and Other Facts
 
 ```{list-table}
-:header_rows: 1
+:header-rows: 1
 
 * - Infant
   - Father 
@@ -14,11 +14,11 @@
 ```
 
 ```{list-table} Sponsors
-:header_rows: 1
+:header-rows: 1
 
 * - Name 
 * - Johan Halvekopf's sister
-  - Anna from the [uncertain named holding place]
+* - Anna from the [uncertain named holding place]
 ```
 ## Record
 

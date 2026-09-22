@@ -43,6 +43,4 @@ at Nammen.
 with images, *Archion* (<https://www.archion.de/p/8cb2aa7364/> : 2 May
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784, image 58 of 322,
-right hand page
-
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 58 of 322
