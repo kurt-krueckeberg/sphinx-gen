@@ -34,22 +34,20 @@ There is no separate birth record for the birth of Marie Philippine Krückeberg,
 accompanies her marriage record, which is on {ref}`image 27, on pages 48 and 49 <PET-B-1794a>` of the Petzen "Verzeichnis der Getauften, Konfirmierten,
 Getrauten und Gestorbenen 1785-1827".
 
-## Pages 48 and 49
-
-Page 48 portion:
-
 ```{figure} images/petzen-band2-img27-left-2.jpg
 :class: image-override
-```
 
-Page 49 portion:
+Page 48 portion
+```
 
 ```{figure} images/petzen-band2-img27-right-2.jpg
 :class: image-override
+
+Page 49 portion
 ```
 
 ```{note}
-- **hinterlassen** — is a verb meaning: to leave something to somebody, to bequesth something, to leave somebody a legacy of
+- **hinterlassen** — is a verb meaning: to leave something to somebody, to bequesth something, to leave somebody a legacy of
 something; to leave hind. As an adjective is can mean "bereaved" or "survivor (of someone deceased)". **hinterlassener** would
 be the adjective form used for a male survior: ein hinterlassener Sohn (a surviving son).
 - **Anerbe** — is defined in [dict.cc](https://www.dict.cc/?s=Anerbe) as:
@@ -80,11 +78,12 @@ be the adjective form used for a male survior: ein hinterlassener Sohn (a surviv
     > - He had a certain social and financial standing in the village.
     > - His status could affect marriage prospects, taxes, and legal responsibilities.
 - **Benner** — Thode’s defines this as: cooper.
-- **Leibzüchtner**(male)/**Leibzüchtnerin**(female) — Thode’s definition is: "person on life estate". He defines Leibzucht as: "life annuity; pension; life estate".
+- **Leibzüchtner**(male)/**Leibzüchtnerin**(female) — Thode’s definition
+  is: "person on life estate". He defines Leibzucht as: "life annuity;
+  pension; life estate".
 
 See this more detailed explantion:
-[What is a
-Lieftucht/Leibzucht?](https://christofspannhoff.wordpress.com/2015/04/17/was-ist-eine-lieftuchtleibzucht/).
+[What is a Lieftucht/Leibzucht?](https://christofspannhoff.wordpress.com/2015/04/17/was-ist-eine-lieftuchtleibzucht/).
 ```
 
 ```{list-table} Marriage entry No. 3.
@@ -107,14 +106,12 @@ Lieftucht/Leibzucht?](https://christofspannhoff.wordpress.com/2015/04/17/was-ist
     Zeugen
   - Bemerkungen
 * - 3.
-  - Junggeselle Friedrich Wil-
-    helm Raulfing, [Sohn] des verstorbenen Albert Raulfing n. 13
+  - Junggeselle Friedrich Wilhelm Raulfing, [Sohn] des verstorbenen Albert Raulfing n. 13
     in Bärenbusch hinlerlaßener
     Sohn und Anerbe Luth. Conf.
     und jetzt 23 Jahre alt
     geb. 13.7.88 gestr. 5.12.59
-  - Jungfrau Marie Philippine Krückebergs Tochter des Johann Hein-
-    rich Krückeberg Leib
+  - Jungfrau Marie Philippine Krückebergs Tochter des Johann Heinrich Krückeberg Leib
     züchters aus n.10 in Bären
     busch. Luth. Conf. u. jetzt
     18 Jahr alt. **geb. 1794 in Steinbergen**
@@ -137,42 +134,26 @@ Lieftucht/Leibzucht?](https://christofspannhoff.wordpress.com/2015/04/17/was-ist
 :header-rows: 1
 
 * - No.
-  - Name, Occupation, Religion,
-    Parents des Bräutigums
-  - Name, Religion
-    Birthplace and Residence
+  - Name, Occupation, Religion of Groom's Parents
+  - Name, Religion Birthplace and Residence
     of the Bride
-  - Time and Place
-    of the Proclamation
-  - Time and Place
-    of the Marriage
-  - The offi-
-    ciating Minister
+  - Time and Place of the Proclamation
+  - Time and Place of the Marriage
+  - The officiating Minister
   - Marriage Witnesses
   - Remarks
 * - 3.
   - Bachelor Friedrich Wilhelm Raulfing, surviving son and Anerbe of the late
-    Albert Raulfing n. 13
-    in Bärenbusch. Luth. Conf.
-    and now 23 years old
+    Albert Raulfing n. 13 in Bärenbusch. Luth. Conf.  and now 23 years old
     born 7/13/88 died 12/5/59
-  - Maiden Marie Phi- 
-    lippine Krückeberg daughter of Johann Heinrich Krückeberg on life estate
-    from.10 in Bären
-    busch. Luth. Conf. and now
-    18 years old. **born. 1794 in Steinbergen**
+  - Maiden Marie Philippine Krückeberg daughter of Johann Heinrich Krückeberg on life estate
+    from.10 in Bärenbusch. Luth. Conf. and now 18 years old. **born. 1794 in Steinbergen**
     died 14.2.66
-  - Were announced in the church at
-    Petzen proclamiert
-    d. 8th, 15thn 28th March
-  - and married the 10th
-    May
-  - by the current
-    pastor Stille
-  - in presence
-    of the Confessing
-    and of the parish clerk/sacristan
-    Crömer
+  - Were announced in the church at Petzen proclamiert d. 8th, 15thn 28th March
+  - and married the 10th May
+  - by the current pastor Stille
+  - in presence of the Confessing
+    and of the parish clerk/sacristan Crömer
   - [empty of text]
 ```
 
