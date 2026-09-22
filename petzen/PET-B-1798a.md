@@ -68,7 +68,7 @@ page 135
   - get.
     Januar
   - Namen der Gevattern
-* - On No.
+* - No.
   - Child’s Name
   - Father’s Name
   - Birth No.

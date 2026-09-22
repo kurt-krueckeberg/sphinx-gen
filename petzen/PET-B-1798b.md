@@ -39,21 +39,20 @@
 
 ## Record
 
-The birth and baptism are recorded on {doc}`image 71 <PET-B-1798b>` of pages 136 and page 137, entry #24, of the "Verzeichnis der
-Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827". The birth entries span both pages 136 and 137.
+The birth and baptism are recorded on {doc}`image 71 <PET-B-1798b>` of
+pages 136 and page 137, entry 24, of the *Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827*.
 
-## Confirming Birth Month of April
-
-The birth month **April** appears on image 70, page 135, near the bottom of the page. It spans the column for "geb" (birth
-date) and "get" (baptism date).
+The birth month **April** appears on image 70, page 135, near the bottom of
+the page. It spans the column for "geb" (birth date) and "get" (baptism date).
 
 ```{figure} images/petzen-band2-img70-135-bottom.jpg
 :class: image-override
+
+Page 135 entry 24
 ```
 
-## Birth Entry 24 on Page 136
-
-Image 71  continues the births for April of 1798. The birth and baptism entry for Christine Louise Krückeberg
+Image 71 continues the births for April of 1798. The birth and baptism entry for Christine Louise Krückeberg
 is the third entry from the top.
 
 ```{figure} images/petzen-band2-img71-136.jpg
@@ -140,7 +139,10 @@ Translation of Nachtrag dates written below her name
 
 (PET-B-1798b)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/ba3bed0468/), [http:.md](http://www.archion.de/p/dbf697fc6e/) :
-10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 71 of 357 > Page 136
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion*
+(<http://www.archion.de/p/ba3bed0468/> : 10 October 2023), path:
+Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
+Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827 > Image 71 of 357 > Page 136
 
