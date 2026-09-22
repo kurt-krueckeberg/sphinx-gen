@@ -1,4 +1,4 @@
-# 1794 Marie Philippine Krückeberg Birth
+# 1794 Marie Philippine Krückeberg Marriage
 
 ## Family Relationship and Other Facts
 
@@ -108,14 +108,12 @@ Lieftucht/Leibzucht?](https://christofspannhoff.wordpress.com/2015/04/17/was-ist
   - Bemerkungen
 * - 3.
   - Junggeselle Friedrich Wil-
-    helm Raulfing, [Sohn] des verstor-
-    benen Albert Raulfing n. 13
+    helm Raulfing, [Sohn] des verstorbenen Albert Raulfing n. 13
     in Bärenbusch hinlerlaßener
     Sohn und Anerbe Luth. Conf.
     und jetzt 23 Jahre alt
     geb. 13.7.88 gestr. 5.12.59
-  - Jungfrau Marie Phi-
-    lippine Krückebergs Tochter des Johann Hein-
+  - Jungfrau Marie Philippine Krückebergs Tochter des Johann Hein-
     rich Krückeberg Leib
     züchters aus n.10 in Bären
     busch. Luth. Conf. u. jetzt
@@ -153,15 +151,13 @@ Lieftucht/Leibzucht?](https://christofspannhoff.wordpress.com/2015/04/17/was-ist
   - Marriage Witnesses
   - Remarks
 * - 3.
-  - Bachelor Friedrich Wil-
-    helm Raulfing, surviving son and Anerbe of the late
+  - Bachelor Friedrich Wilhelm Raulfing, surviving son and Anerbe of the late
     Albert Raulfing n. 13
     in Bärenbusch. Luth. Conf.
     and now 23 years old
     born 7/13/88 died 12/5/59
   - Maiden Marie Phi- 
-    lippine Krückeberg daughter of Johann Hein-
-    rich Krückeberg on life estate
+    lippine Krückeberg daughter of Johann Heinrich Krückeberg on life estate
     from.10 in Bären
     busch. Luth. Conf. and now
     18 years old. **born. 1794 in Steinbergen**
@@ -184,6 +180,10 @@ Lieftucht/Leibzucht?](https://christofspannhoff.wordpress.com/2015/04/17/was-ist
 
 (PET-B-1794a)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/e8f8a097b9/) : 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
-Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 27 of 357
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion*
+(<http://www.archion.de/p/e8f8a097b9/> : 4 October 2023), path:
+Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
+Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827 > Image 27 of 357
 
