@@ -51,8 +51,7 @@ page 135
 ```
 
 ```{note}
-Aldag may be Ahldag. Ahldag appears very often. Aldag may only appear here and thus have been
-written incorrectly.
+**Aldag** is no doubt the same as **Ahldag**, a very common family name in the Petzen parish.
 ```
 
 ```{list-table} birth of Anne Christine Eleonore Krückeberg in 1798
