@@ -3,10 +3,12 @@
 ## Family Relationships and Other Facts
 
 ```{list-table}
-* - Likely Father
-* - Hans Henrig Weiland, {doc}`baptized on December 21, 1680 <PET-B-1680a>` in Petzen.\
-    Residing in Berenbusch when he died. He was {doc}`buried <PET-D-1718a>` on February 13, 1718,
-    age 37 years and 6 weeks.
+* - Infant
+  - Residence
+  - Likely Father
+* - Hanß Henrich Weÿlandt 
+  - Berenbusch 
+  - Hans Henrig/Henirch Weiland
 ```
 
 The baptism record for Hanß Henirch Weÿlandt of Berenbusch tells us his father was already deceased. We know
@@ -22,8 +24,9 @@ In 1718: **13 February Gregorian = 2 February Julian.**
 
 **2 February 1718 − 37 years − 6 weeks (42 days) = 22 December 1680 Julian.**
 
-We know that a Hanß Henrig Weiland was {doc}`baptized <PET-B-1680a>` on December 21, 1680, the son of
-Wolter Weilandt of Peezen (Petzen).
+We know also that a Hanß Henrig Weiland was {doc}`baptized <PET-B-1680a>` on December 21, 1680, the son of
+Wolter Weilandt of Peezen (Petzen). Thus Hanß Henrig Weiland who was baptized on December 22, 1680, is almost
+certainly the Hanß Henrich who was buried February 2, 1718.
 
 ## Record
 
