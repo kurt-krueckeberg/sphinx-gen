@@ -91,7 +91,7 @@ is found on {ref}`image 10 <PET-M-1797a>` of the
     Hans Heinrich Wilharm  widower
   - Evesen
   - 11
-  - [of] *August*\
+  - *[of] August*\
     Sophie Ernestine Blecke Maiden.
   - Evesen
   - 11
