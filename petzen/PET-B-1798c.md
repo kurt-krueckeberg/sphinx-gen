@@ -70,10 +70,8 @@ Gestorbenen 1785-1827.
   - 11
   - Evesen
   - Sophie Ernestine Blecke
-  - July
-    21
-  - July
-    22
+  - July 21
+  - July 22
   - 1, Anne Marie Elisabeth Hartmann, Evesen
     2, Ilse Marie Elisabeth Blecke, Evesen
 ```

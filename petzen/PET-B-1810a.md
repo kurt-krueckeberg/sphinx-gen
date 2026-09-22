@@ -31,9 +31,8 @@ Gestorbenen 1785-1827.
   - Wohnort der Eltern
   - Taufzeugen
 * - 37.
-  - Carl Friedrich Wilhelm
-    Wilharm
-    cop. 19.5.33
+  - Carl Friedrich Wilhelm Wilharm\
+    cop. 19.5.33\
     gest. 5.6.74
   - das 6te Kind
     u. 3te Sohn
@@ -75,9 +74,8 @@ Gestorbenen 1785-1827.
   - Residence of Parents
   - Baptism Sponsors
 * - 37.
-  - Carl Friedrich Wilhelm
-    Wilharm
-    married: 19.5.33
+  - Carl Friedrich Wilhelm Wilharm\
+    married: 19.5.33\
     died: 5.6.74
   - the 6th Child
     and 3rd Son
