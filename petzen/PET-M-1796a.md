@@ -60,12 +60,12 @@ the 4th marriage of 1796:
   - Ortschaft
   - Nro.
 * - 4,
-  - Am 8ten
+  - *Am 8ten*\
     Hans Heinrich Wilharm
     Jgs[Junggeselle].
   - Berenbusch
   - 9
-  - Mai
+  - *Mai*\
     Anne Marie Philip: Blecke
     Jfr[Jungfrau].
   - Evesen
@@ -83,12 +83,12 @@ the 4th marriage of 1796:
   - Locality
   - no.
 * - 4.
-  - On the 8th
+  - *On the 8th*\
     Hans Heinrich Wilharm
     Bachelor
   - Berenbusch
   - 9
-  - May
+  - *[of] May*\
     Anne Marie Philip: Blecke
     virgin
   - Evesen
