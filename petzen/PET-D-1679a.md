@@ -1,5 +1,16 @@
 # 1679 son of Wolter Weilandt of Peeten Buried
 
+## Family Relationships
+
+```{list-table}
+:header-rows: 1
+
+* - Father
+  - Age of son
+* - Wolter Weiland
+  - 16 weeks
+```
+
 ## Record
 
 The 18 June 1679 burial of Son of Wolter Weilandt from Peeten is on {ref}`image 99 <PET-D-1679a>`

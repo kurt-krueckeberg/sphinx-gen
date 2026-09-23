@@ -1,4 +1,25 @@
-# 1648 Daughter of Hans Weiland of  Baptism
+# 1648 Daughter of Hans Weiland of unspecified Baptism
+
+## Family Relationships and Other Facts
+
+```{list-table} August 13, 1648, baptism
+:header-rows: 1
+
+* - Infant
+  - Father
+* - Anna Sophia
+  - Hans Weiland
+```
+
+```{list-table} Baptism sponsors
+:header-rows: 1
+
+* - Name
+* - Metta Sophia Crufeler
+* - Anna N., maidservant on the Bückeburg estate
+* - Anna Maria Jacobi, wife of the pastor in Meinsen
+* - N. Köpper of Achum.
+```
 
 ## Record
 
@@ -11,15 +32,18 @@ The 13 August 1648 baptism of Daughter of Hans Weiland from  is on {ref}`image 1
 ## Transliteration
 
 ```{div} doc-text
-Hans Weilands tochter Anna Sophia eodem die getaufft gefattere: Metta Sophia Crufelers, Anna N., ancilla in praedio Bückeburgensi. Anna Maria, Jacobi pastörsche in Meinsen, N. Köpper von Achumb.
+Hans Weilands tochter Anna Sophia eodem die getaufft ge-
+fattere. Metta Sophia Crufelers. Anna N. ancilla in praedio
+Bückeburgensi. Anna Maria Jacobi pastörsche in Meinsen. N. Köpper
+von Achumb.
 ```
-
-
 
 ## Translation
 
 ```{div} doc-text
-Hans Weiland's daughter Anna Sophia, baptized on the same day [as the previous entry, i.e., 13 August 1648]. Godparents: Metta Sophia Crufelers; Anna N., a maidservant on the Bückeburg estate; Anna Maria, wife of Pastor Jacobi in Meinsen; N. Köpper from Achum.
+ans Weiland's daughter Anna Sophia, baptized the same day. Godparents:
+Metta Sophia Crufeler; Anna N., maidservant on the Bückeburg estate; Anna
+Maria Jacobi, wife of the pastor in Meinsen; N. Köpper of Achum.
 ```
 
 ## Citation
