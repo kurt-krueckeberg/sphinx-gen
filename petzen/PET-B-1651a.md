@@ -11,15 +11,13 @@ The 11 April 1651 baptism of Hans Weiland's Daughter from  is on {ref}`image 12 
 ## Transliteration
 
 ```{div} doc-text
-Hans Weilands tochter Ilschen, gf. Ilsche Sandersche im Berenbusche, den 11 Aprilis.
+Hans Weilands tochter Ilschen gf. Ilsche Sandersche im berenbusche den 11 Aprilis
 ```
-
-
 
 ## Translation
 
 ```{div} doc-text
-Hans Weiland's daughter Ilschen. Godparent: Ilsche, wife of Sanders, in Berenbusch. On 11 April.
+Hans Weiland's daughter Ilschen [Ilse]. Godparent: Ilse Sander [Sander's wife] of Berenbusch. 11 April.
 ```
 
 ## Citation
