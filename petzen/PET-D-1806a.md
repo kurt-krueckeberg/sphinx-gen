@@ -53,7 +53,7 @@ Getrauten und Gestorbenen 1785-1827*.
   - Survivors
 * - 6
   - Friedrich Wilhelm Weiland. Luth. Conf. lodger und swineherd at No.
-    5 in Bärenbusch, Son of Friedrich Ludwig Weiland of no. 21 in Evesen
+    5 in Bärenbusch, son of Friedrich Ludwig Weiland of no. 21 in Evesen
   - died 13th March midnight in Bärenbusch, was buried 15th March
     in Petzen
   - emphysema

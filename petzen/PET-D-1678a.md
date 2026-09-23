@@ -1,5 +1,16 @@
 # 1678 A small Weiland daughter of not specified Burial
 
+## Family Relationship
+
+```{list-table} Burial of Weiland daughter, age 6 weeks
+:header-rows: 1
+
+* - Father
+  - Age of Daughter
+* - [?ert] Weilandt
+  - 6 weeks
+```
+
 ## Record
 
 The 24 February 1678 burial of A small Weiland daughter from not specified is on {ref}`image 98 <PET-D-1678a>` of the Petzen *Verzeichnis der Getrauten und Gestorbenen 1641-1784*.
@@ -14,12 +25,10 @@ The 24 February 1678 burial of A small Weiland daughter from not specified is on
 [?ert] Weilandt [ein kleines?] Mätigen [alt?] 6 Woche den 24 Feb begraben
 ```
 
-
-
 ## Translation
 
 ```{div} doc-text
-[?ert] Weilandt [a small?] daughter [age?] 6 weeks. 24 February buried
+[?ert] Weilandt a small daughter [age?] 6 weeks. 24 February buried
 ```
 
 ## Citation
