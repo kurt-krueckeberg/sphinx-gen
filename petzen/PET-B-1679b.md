@@ -13,13 +13,17 @@ Konfirmierten 1641-1784*.
 ## Transliteration
 
 ```{div} doc-text
-Wolter Weilandt zu Petzen Sohn, Cort Hinrig getaufft den 13 Februarij, gefattern der Krüger zu Petzen, [?] Aldags ältester Sohn, und der [Kohlmeister?] auf der [Hökersau?]
+Wolter Weilandt zu Petzen Sohn, Cort Hinrig getaufft den 13 Februarij,
+gefattern der Krüger zu Petzen, [?] Aldags ältester Sohn, und der
+[Komeister?] auf der [Hökersau?]
 ```
 
 ## Translation
 
 ```{div} doc-text
-Wolter Weilandt of Petzen’s son, Cort Hinrig, was baptized on 13 February. The sponsors were the innkeeper of Petzen, [?] Aldag’s eldest son, and the charcoal master at/on the [Hökersau?].
+Wolter Weilandt of Petzen’s son, Cort Hinrig, was baptized on 13 February.
+The sponsors were the innkeeper of Petzen, [?] Aldag’s eldest son, and the
+[Komiester?]at/on the [Hökersau?].
 ```
 
 ## Citation
