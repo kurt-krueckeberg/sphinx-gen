@@ -18,8 +18,8 @@
 
 * - Name 
 * - Mrs. Mier of Röcke
-  - Daniel Vogt’s wife
-  - the wife of Rödemeister in Nordholtz.
+* - Daniel Vogt’s wife
+* - the wife of Rödemeister in Nordholtz.
 ```
 
 ## Record
