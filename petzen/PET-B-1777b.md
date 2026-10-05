@@ -33,7 +33,8 @@
 
 ## Record
 
-The October 26, 1777, baptism of Friderich Wilhelm Weiland is on {ref}`image 256 <PET-B-1777b>` of the Petzen Kirchenbuch: Verzeichnis der Getauften und Konfirmierten 1641-1784.
+The October 26, 1777, baptism of Johann Heinrich Wilhelm Weiland is on {ref}`image 256 <PET-B-1777b>` of the
+Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ```{figure} images/petzen-band1a-img256-weiland.jpg
 :class: image-override
@@ -63,5 +64,6 @@ Ahldag from Evesen No. 1, and Otto Rust from Petzen No. 6.
 
 (PET-B-1777b)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/60bb5a2558/>: 23 Aug. 2026), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784 > Image 256 of 322
-
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/60bb5a2558/>: 23 Aug. 2026), path:
+Niedersachsen > Niedersächsisches Landesarchiv Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784 > Image 256 of 322
