@@ -3,7 +3,7 @@
 ## Family Relationships and Other Facts
 
 ```{list-table}
-:header_rows: 1
+:header-rows: 1
 
 * - Infant
   - Father 
@@ -14,7 +14,7 @@
 ```
 
 ```{list-table} Sponsors
-:header_rows: 1
+:header-rows: 1
 
 * - Name 
 * - Mrs. Mier of Röcke
