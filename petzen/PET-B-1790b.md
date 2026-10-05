@@ -34,7 +34,7 @@ Translation
 
 ## Citation
 
-(PET-B-1790a)=
+(PET-B-1790b)=
 
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion*
 ([<https://www.archion.de/p/2ece47cbfb/>](https://www.archion.de/p/2ece47cbfb/) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen

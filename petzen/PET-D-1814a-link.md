@@ -18,7 +18,7 @@ October 1798](PET-D-1798a.md) at no. 11 Evesen age 59. He was a Leibzüchter. Sh
 age 73 as a Leibzüchterin at n. 11 Evesen.
 
 The death of Ilse Marie Wermeister, geb. Möller, on 26 January 1814, is
-found on {ref}`image 285 <PET-D-1814a>` of the [Archion](https://archion.de)
+found on {ref}`image 285 <PET-D-1814a-link>` of the [Archion](https://archion.de)
 images of the Petzen Kirchenbuch volume "Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
@@ -78,7 +78,7 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ## Citation
 
-(PET-D-1814a)=
+(PET-D-1814a-link)=
 
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/11dc0cac05/> : 25 October

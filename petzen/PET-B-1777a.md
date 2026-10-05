@@ -30,7 +30,7 @@
 
 ## Record
 
-The baptism of Friderich Wilhelm Weiland is on {ref}`image 253 <PET-B-1777b>` of the Petzen Kirchenbuch: Verzeichnis der Getauften und Konfirmierten 1641-1784.
+The baptism of Friderich Wilhelm Weiland is on {ref}`image 253 <PET-B-1777a>` of the Petzen Kirchenbuch: Verzeichnis der Getauften und Konfirmierten 1641-1784.
 
 The baptismal record is shown below:
 
@@ -57,7 +57,7 @@ and Hans Heinrich Möller of Heeßen.
 
 ## Citation
 
-(PET-B-1777b)=
+(PET-B-1777a)=
 
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/9269143a62/> : 22 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784 > Image 253 of 322
 
