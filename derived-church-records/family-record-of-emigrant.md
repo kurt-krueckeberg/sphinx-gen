@@ -1,0 +1,172 @@
+# Family Record of the Emigrant Carl Friedrich Krückeberg
+
+```{image} images/Familienschein-des-Auswanderers.jpg
+:class: image-override
+```
+
+## Transliteration and Translation
+
+```{code-block} text
+
+Familienschein des Auswanderers Carl Friederich Krückeberg von N. 18
+in Beerenbusch, Deutschland.
+
+Laut Angabe des hiesigen Kirchenbuchs wurde Carl Friederich
+Krückeberg (eheliches 2tes Kind und 1ster Sohn des Carl Friedrich
+Gottlieb Krueckeberg, Schneiders in Beerenbusch, und seine Ehefrau
+Philippine Leonore geb. Bleeken, von N. 11 in Evensen), d. 21sten
+Mai, 1807 Abends 8 Uhr geboren und d. 24ten im Namen des Dreieinigen
+Gottes in hiesiger Kirche getauft, wobei als Taufzeugen erschienen:
+
+1) Hans Heinrich Wilharm N. 11,
+2) Johann Heinrich Deerberg N. 6 in Evensen,
+3) Jobst Heinrich Krueckeberg von Beerenbusch.
+
+Sein evangelishes lutheranisches Glaubensbekenntnis legte derselbe
+ab am Sonntag Quasimodigeniti 1821.
+
+Derselbe verheiratete sich am 16ten Nov. 1834 mit Jungfrau Luise
+Dorothea Weiland, geb. d. 2. Jan. 1811, Nachmittags 2 Uhr getauft d.
+6ten im Namen des Dreieinigen Gottes in hiesiger Kirche;
+ehel.  3te Kind, 3te Tochter des Friedrich Wilhelm Weiland, Kol. n.
+20 in Evensen und sr. Ehefrau Anna Katharine, geb. Drinckuth. Ihre
+Gevatterinnen waren, Dorothea Deerberg, N. 6, und Katharine Leonore
+Kuhlmann, N. 3 in Even.
+
+Obigen Eheleuten ev. luth. Glaubensbekenntnisses sind nachfol-
+gende Kinder am Leben:
+
+1. Carl Heinrich Wilhelm Krueckeberg, geb. d. 4ten Feb. 1835,
+morgens 3 Uhr; getauft d. 8ten im Namen des Dreieinigen Gottes;
+konfirmiert am Sonntag Quasimodogeniti, d. 15ten April 1849.
+
+2. Caroline Philippine Krueckeberg, geb. d. 15ten Oktober,
+1837 mittags 11 Uhr; getauft im Namen des Dreieinigen Gottes d. 22.
+
+3. Caroline Philippine Sophie Krueckeberg, geb. d. 8ten Sept.
+1840; morgens 2 Uhr; getauft d. 13ten im Namen des Dreieinigen
+Gottes.
+
+4. Wilhelmine Christine Krueckeberg, geb. d. 6ten Sept. 1843
+abends 9 Uhr; getauft d. 14ten im Namen des Dreieinigen Gottes.
+
+5. Friederich Wilhelm Krueckeberg, geb. d. 23ten Juli, 1846;
+getauft den 30ten im Namen des Dreieinigen Gottes.
+
+6. Ernst Heinrich Krueckeberg, geb. d. 6ten Feb. 1850, morgens
+6 Uhr; getauft d. 13ten im Namen des Dreieinigen Gottes.
+
+Die Übereinstimmung vorstehender Angaben mit den hiesigen
+Kirchenbuechern bescheinigt den Auswanderern unter Anwuenschung
+des goettlichen Segens—sub fide pastorali
+
+Petzen d. 23sten September 1850
+Pede vacanti
+der vikarirende Prediger
+
+Fürstentum Schaumburg Lippe.
+
+L. Schwerdtmann von Bergkirchen.
+```
+
+```{code-block} text
+
+Family Record of the Emigrant Carl Friederich Krückeberg from No. 18
+in Beerenbusch, Germany.
+
+According to the information in the local church register, Carl
+Friederich Krückeberg (legitimate second child and first son of Carl
+Friedrich Gottlieb Krückeberg, tailor in Beerenbusch, and his wife
+Philippine Leonore, née Bleeken, of No. 11 in Evensen), was born on
+May 21, 1807, at 8 o’clock in the evening, and baptized on the 24th,
+in the name of the Triune God, in this church.  As baptismal
+sponsors appeared:
+
+1. Hans Heinrich Wilharm, No. 11,
+2. Johann Heinrich Deerberg, No. 6 in Evensen,
+3. Jobst Heinrich Krückeberg of Beerenbusch.
+
+He made his Evangelical Lutheran confession of faith on
+Quasimodogeniti Sunday in 1821.
+
+He married on November 16, 1834, the maiden Luise Dorothea Weiland,
+born January 2, 1811, at 2 o’clock in the afternoon, baptized on the
+6th in the name of the Triune God in this church; the legitimate
+third child, third daughter of Friedrich Wilhelm Weiland, colonist
+at No. 20 in Evensen, and his wife Anna Katharine, née Drinckuth.
+Her baptismal sponsors were Dorothea Deerberg, No. 6, and Katharine
+Leonore Kuhlmann, No. 3 in Evensen.
+
+To the above married couple of the Evangelical Lutheran confession,
+the following children are living:
+
+1. Carl Heinrich Wilhelm Krückeberg, born February 4, 1835, at 3
+   o’clock in the morning; baptized on the 8th in the name of the
+Triune God; confirmed on Quasimodogeniti Sunday, April 15, 1849.
+
+2. Caroline Philippine Krückeberg, born October 15, 1837, at 11
+   o’clock midday; baptized on the 22nd in the name of the Triune
+God.
+
+3. Caroline Philippine Sophie Krückeberg, born September 8, 1840, at
+   2 o’clock in the morning; baptized on the 13th in the name of the
+Triune God.
+
+4. Wilhelmine Christine Krückeberg, born September 6, 1843, at 9
+   o’clock in the evening; baptized on the 14th in the name of the
+Triune God.
+
+5. Friederich Wilhelm Krückeberg, born July 23, 1846; baptized on
+   the 30th in the name of the Triune God.
+
+6. Ernst Heinrich Krückeberg, born February 6, 1850, at 6 o’clock in
+   the morning; baptized on the 13th in the name of the Triune God.
+
+The conformity of the foregoing statements with the local
+church registers is hereby certified to the emigrants, with the
+expression of divine blessing — under pastoral authority.
+
+Petzen, 23 September 1850
+the parish being vacant
+the acting (substitute) pastor
+
+Principality of Schaumburg-Lippe.
+
+L. Schwerdtmann of Bergkirchen.
+```
+
+```{important}
+"Philippine Leonore, née Bleeken" is inaccurate. It should be "Philippine Leonore, née Werkmeister".
+```
+
+## Provenance
+
+This document originated from Harry Frederick Krueckeberg who believed it was among his late father’s papers; he
+believed his father had typed it.  I obtained my copy (above) from Melvin Krueckeberg several years ago.
+
+Mel explained how he came into possession of it in his volume "The Union Township Krueckebergs (Krückeberg)
+From Germany to Adams County, Indiana, 1850 to June 29, 2008", by Melvin E. W. Krueckeberg. This is a spiral
+bound publication distributed at the 2008 Krueckeberg reunion in Adams county:
+
+> When I began doing research on the Krueckebergs I had no idea where they lived in Germany.
+> In 1999 Arlene and I were passing through Colorado and we stopped to say hello to cousin
+> Harry in Fort Collins. I told him about my new hobby an[sic] that I did not know where in
+> Germany the Kruekebergs were located. Harry said: I have that information and gave me as[sic]
+> copy of the Certificate of the Emigrant…​
+>
+> --  Melvin E. W. Krueckeberg
+
+Ernest Thode’s *German-English Genealogical Dictionary*, defines **Familenschein** as **family record**.
+"Familienschein des Auswanderers" thus translates as: **Emigrant’s Family Record**.
+
+At the bottom of the document is the name of an official who is "von Bergkirchen" ("from Bergkirchen"). Bergkirchen is
+22 miles distant from Petzen.
+
+## Citations
+
+(FS-CHK)=
+
+[FS-CHK] “Familienschein des Auswanderers Carl Heinrich Krückeberg,” derivative compilation of Lutheran
+church baptism, marriage, and children’s baptism and confirmation entries; creator and date unknown; copy held in
+the private collection of M. E. W. Krueckeberg, New Haven, Indiana, received through family possession.
+

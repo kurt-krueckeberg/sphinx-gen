@@ -516,7 +516,10 @@ chapters:
   #    - file: research/general-research-plan
   #    - file: research/census-like-records-1728-1750
   #    - file: research/other-research-leads
-
+- file: derived-church-records/index
+  title: Derived Church Records
+  sections:
+    - file: derived-church-records/family-record-of-emigrant.md
 
 - file: records/index
   title: Civil, Land, Tax, and Emigration Records
