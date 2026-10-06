@@ -4,5 +4,6 @@ This site contains transcriptions, translations, and images of records used in f
 
 ## Record groups
 
-- [Church records](../church-records/index.md)
+- [Original Church records](../church-records/index.md)
+- [Derived Church records](../derived-church-records/index.md)
 - [Civil, land, tax, and emigration records](../records/index.md)
