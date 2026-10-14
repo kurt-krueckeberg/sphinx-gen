@@ -1,16 +1,89 @@
 # Research Next
 
-In the familysearc.org tree, Friderich Wilhelm Weiland, born in 1777, married in 1804, hss three wives in the family search tree, although he was only married once--i belive. 
+In the [Weiland FamilySearch.org
+tree](https://www.familysearch.org/en/tree/pedigree/portrait/GSBH-MC5),
+Friderich Wilhelm Weiland, born in 1777, married in 1804, has three wives
 
-In the family search tree, two of the wives have practically the same name and probably should be merged. The only difference appears to be in form and spelling of  their names. One has abbrevuated given names, like "Marg." instead of Margaretha.
+```{figure} images/wives-of-fw-weiland-1777.jpg
+:class: image-override
 
-I probably should go all through the Petzen register baptisms for 1785-1724 and look for all the baptisms to Friderich Wilhelm Weiland and his wife. I believe I've already done this and put all of them on gen.krueckeberg.org.
+The three "identical" individuals as wives of Friderich Wilhelm Weiland
+```
 
-Next I can compare the perspective family group for Friderich Wilhelm Weiland to the PDF that Steve put together which is listed below under Sources.
+in the family search tree, although he was only married once--I belive. 
 
-I can also use the Immanuel Lutheran bio of Heinrich Wilhelm Weiland, which should list his parents, but not his siblings.
+In the family search tree, two of the wives have practically the same name
+and probably should be merged. The only difference appears to be in form
+and spelling of  their names. One has abbrevuated given names, like "Marg."
+instead of Margaretha.
 
-I can also use  Beverly Jenkins family document, which is also listed under Sources below.
+I probably should go all through the Petzen register baptisms for 1785-1724
+and look for all the baptisms to Friderich Wilhelm Weiland and his wife. I
+believe I've already done this and put all of them on gen.krueckeberg.org.
+
+Next I can compare the perspective family group for Friderich Wilhelm
+Weiland to the PDF that Steve put together which is listed below under
+Sources.
+
+Steve put together this prospective family group for Friderich Wilhalm Weiland:
+
+```{list-table}
+:header-rows: 1
+:widths: 22 22 22 34
+
+* - Name
+  - Date / Order
+  - Location
+  - Partner / Mother
+* - Fr Wm Weiland
+  - baptism 22 Jan 1777
+  - Evesen Nr. 20
+  - Anna Maria (M or W)eiland
+* - the bachelor
+  - marriage Dec 1804
+  - St Cosmas u. Damian, Petzen
+  - the maiden Cath. Marg. Drinkuth (Klein Bremen)
+* - Philippine Caroline
+  - 1805 – 1st child
+  - Evesen Nr. 20
+  - ?
+* - Caroline Sophie[^imm]
+  - 1808 – 2nd, daughter
+  - Evesen Nr. 20
+  - Cath. Elisabeth Döpking, Wülpke Nr. 1
+* - Louise Dorothee
+  - 1811 – 3rd, daughter
+  - Evesen Nr. 20
+  - Anne Catharine Drinkuth
+* - Stillborn Male
+  - 1813 – 4th, 1st son
+  - ?
+  - ?
+* - Stillborn Female
+  - Jan 1815 – 5th, 4th d.
+  - ?
+  - Anne Catharine Drinkuth
+* - Heinrich Wilhelm[^imm]
+  - Dec 1815 – 6th, 2nd son – illegitimate?
+  - Evesen Nr. 20
+  - Anne Catharine Drinkuth
+* - Carl Friedrich Ernst
+  - 1819
+  - Evesen Nr. 20
+  - ?
+```
+
+Steve posed these questions in an email some time ago:
+
+- Which mothers can be merged?
+- Was Anne Catharine Drinkuth (above) from the Ober-Hahne farm as suggested by Reiner Eberhardt?
+- Was Heinrich Wilhelm illegitimate as suggested by the Petzen church record at Archion.de?
+
+I can also use the Immanuel Lutheran bio of Heinrich Wilhelm Weiland, which
+should list his parents, but not his siblings.
+
+I can also use  Beverly Jenkins family document, which is also listed under
+Sources below.
 
 ## Sources
 
