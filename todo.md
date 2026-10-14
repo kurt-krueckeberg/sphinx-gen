@@ -14,12 +14,12 @@ Also use Beverly Jenkins family document.
 
 ### Beverly Jenkins Booklet 
 
-Find it.
+[Berverly Jenkin's Weiland Family History](storage-4-current-research/weiland-family-history-by-beverly-jenkins.pdf).
+
 
 ### An email from Steve
 
 > Today I was given permission to share these pages from Beverly’s booklet. (Mel — this is a niece of Lynford Weiland from Monmouth High School.) My sister Deborah in Decatur helped me get Bev’s contact info about two months ago. Beverly (b. 1968) has two jobs and is quite busy.
-
 
 > Her family’s account begins with Heinrich Wilhelm Weiland (“Henry”) — the ancestor of the Decatur Weilands. Henry, his wife Sophia Piehl, and three children immigrated from Germany in 1849 on the ship “Orion” and arrived in NYC on Nov 5, 1949.
 
@@ -31,9 +31,10 @@ Find it.
 
 > Mel and I have speculated that there was one Fr Wm Weiland and that he had two wives (Hahn and Drinkuth). One more mystery — Carl Friedrich Krückeberg’s "Certificate of the Emigrant" states that his wife Louise Dorothea Weiland was the third of three daughters.
 
-### PDF from Steve
+### Friedrich Wilhelm Weiland PDFs from Steve
 
-See hardcopy I printed. 
+<storage-4-current-research/friedrich-wilhelm-weiland-evesen-no-20.pdf>
+<storage-4-current-research/friedrich-wilhelm-weiland-pedigree.pdf>
 
 ### Email Conversations re Weiland Ancesry
 
