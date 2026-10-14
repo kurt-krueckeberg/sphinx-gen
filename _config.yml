@@ -50,6 +50,9 @@ sphinx:
       ancestry:   
         - "https://anc.krueckeberg.org/"
         - null
+      imm:
+        - "https://imm.krueckeberg.org/"
+        - null
 
     myst_enable_extensions:
       - colon_fence
