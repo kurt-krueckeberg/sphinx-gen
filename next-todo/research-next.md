@@ -79,8 +79,7 @@ Steve posed these questions in an email some time ago:
 - Was Anne Catharine Drinkuth (above) from the Ober-Hahne farm as suggested by Reiner Eberhardt?
 - Was Heinrich Wilhelm illegitimate as suggested by the Petzen church record at Archion.de?
 
-I can also use the Immanuel Lutheran bio of Heinrich Wilhelm Weiland, which
-should list his parents, but not his siblings.
+See also the Lutheran is {external+imm:doc}`bio for his son, Heinrich Wilehlm Weÿland <DEC-BIO-Weiland>`.
 
 I can also use  Beverly Jenkins family document, which is also listed under
 Sources below.
