@@ -1,4 +1,4 @@
-# Search Nexxt
+# Research Nexxt
 
 In the familysearc.org tree,  Friderich Wilhelm Weiland, born in 1777, married in 1804, hss three wives in the family search tree, although he was only married once--i belive. 
 
