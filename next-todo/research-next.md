@@ -6,7 +6,7 @@ In the family search tree, two of the wives have practically the same name and p
 
 I probably should go all through the Petzen register baptisms for 1785-1724 and look for all the baptisms to Friderich Wilhelm Weiland and his wife. I believe I've already done this and put all of them on gen.krueckeberg.org.
 
-Ince that is done, I can compare the perspective family group for Friderich Wilhelm Weiland to the PDF that Steve put together which is listed below under Sources.
+Next I can compare the perspective family group for Friderich Wilhelm Weiland to the PDF that Steve put together which is listed below under Sources.
 
 I can also use the Immanuel Lutheran bio of Heinrich Wilhelm Weiland, which should list his parents, but not his siblings.
 
