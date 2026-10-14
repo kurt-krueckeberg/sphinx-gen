@@ -27,9 +27,8 @@ Also use Beverly Jenkins family document.
 
 > Mel and I have speculated that there was one Fr Wm Weiland and that he had two wives (Hahn and Drinkuth). One more mystery — Carl Friedrich Krückeberg’s "Certificate of the Emigrant" states that his wife Louise Dorothea Weiland was the third of three daughters.
 
+### Email Conversations re Weiland Ancesry
 
-### 
-Email Conversations 
 Here are links to email conversations concerning the ancestry of the Weiland family:
 
 - <https://mail.google.com/mail/mu/mp/24/#cv/search/Jenkins/1929b6f98625b31d>
