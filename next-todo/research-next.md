@@ -36,7 +36,7 @@ Steve put together this prospective family group for Friderich Wilhalm Weiland:
   - Location
   - Partner / Mother
 * - Fr Wm Weiland
-  - baptism 22 Jan 1777
+  - {external+gen:doc}`baptism 22 Jan 1777 <petzen/PET-B-1777a>`
   - Evesen Nr. 20
   - Anna Maria Weiland
 * - the bachelor

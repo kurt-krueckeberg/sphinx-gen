@@ -53,6 +53,10 @@ sphinx:
       imm:
         - "https://imm.krueckeberg.org/"
         - null
+      gen:
+        - "https://gen.krueckeberg.org/"
+        - null
+
 
     myst_enable_extensions:
       - colon_fence
