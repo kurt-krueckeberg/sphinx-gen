@@ -12,6 +12,10 @@ Also use Beverly Jenkins family document.
 
 ## Sources
 
+### Beverly Jenkins Booklet 
+
+Find it.
+
 ### An email from Steve
 
 > Today I was given permission to share these pages from Beverly’s booklet. (Mel — this is a niece of Lynford Weiland from Monmouth High School.) My sister Deborah in Decatur helped me get Bev’s contact info about two months ago. Beverly (b. 1968) has two jobs and is quite busy.
