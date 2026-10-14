@@ -1,1 +1,21 @@
-A
+
+In the familysearc.org tree,  Friderich Wilhelm Weiland, born in 1777, married in 1804, hss three wives in the family search tree, although he was only married once--i belive. 
+
+In the family search tree, two of the wives have practically the same name and probably should be merged. The only difference appears to be in form and spelling of  their names. One has abbrevuated given names, like "Marg." instead of Margaretha.
+
+I probably should go all through the Petzen in last volume from 1785 to 1724 and double check all the baptisms to  Friderich Wilhelm Weiland and hus wife.
+
+then once I get clear in my mind the exact name of his wife and the children that were born to him after his marriage in 1804 up to the close of the last p e t z e n Church register, which ends in 1824, then I can alter the familysearch.org tree.
+
+Also use the Immanuel Lutheran bio of Heinrich Wilhelm Weiland, which should list his parents, but not his siblings.
+Also use Beverly Jenkins family document. 
+
+
+Here are links to email conversations concerning the ancestry of the Weiland family:
+
+- <https://mail.google.com/mail/mu/mp/24/#cv/search/Jenkins/1929b6f98625b31d>
+- <https://mail.google.com/mail/mu/mp/24/#cv/search/Jenkins/1929b6f98625b31d>
+- <https://mail.google.com/mail/mu/mp/24/#cv/search/Jenkins/1929b6ca8e398eac>
+- <https://mail.google.com/mail/mu/mp/24/#cv/search/Jenkins/18baaf66dd3669db>
+- <https://mail.google.com/mail/mu/mp/24/#cv/search/Beverly%20Jenkins/173acc83c95ae3f6>
+
