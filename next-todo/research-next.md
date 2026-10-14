@@ -38,16 +38,16 @@ Steve put together this prospective family group for Friderich Wilhalm Weiland:
 * - Fr Wm Weiland
   - baptism 22 Jan 1777
   - Evesen Nr. 20
-  - Anna Maria (M or W)eiland
+  - Anna Maria Weiland
 * - the bachelor
   - marriage Dec 1804
-  - St Cosmas u. Damian, Petzen
-  - the maiden Cath. Marg. Drinkuth (Klein Bremen)
+  - Petzen Parish
+  - the maiden Cath. Marg. Drinkuth of Kleinbremen
 * - Philippine Caroline
   - 1805 – 1st child
   - Evesen Nr. 20
   - ?
-* - Caroline Sophie[^imm]
+* - Caroline Sophie
   - 1808 – 2nd, daughter
   - Evesen Nr. 20
   - Cath. Elisabeth Döpking, Wülpke Nr. 1
@@ -73,7 +73,7 @@ Steve put together this prospective family group for Friderich Wilhalm Weiland:
   - ?
 ```
 
-Steve posed these questions in an email some time ago:
+In connection with this table, Steve posed these questions in an email some time ago:
 
 - Which mothers can be merged?
 - Was Anne Catharine Drinkuth (above) from the Ober-Hahne farm as suggested by Reiner Eberhardt?
