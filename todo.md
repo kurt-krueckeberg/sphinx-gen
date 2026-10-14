@@ -10,7 +10,26 @@ then once I get clear in my mind the exact name of his wife and the children tha
 Also use the Immanuel Lutheran bio of Heinrich Wilhelm Weiland, which should list his parents, but not his siblings.
 Also use Beverly Jenkins family document. 
 
+## Sources
 
+### An email from Steve
+
+Today I was given permission to share these pages from Beverly’s booklet. (Mel — this is a niece of Lynford Weiland from Monmouth High School.) My sister Deborah in Decatur helped me get Bev’s contact info about two months ago. Beverly (b. 1968) has two jobs and is quite busy.
+
+
+Her family’s account begins with Heinrich Wilhelm Weiland (“Henry”) — the ancestor of the Decatur Weilands. Henry, his wife Sophia Piehl, and three children immigrated from Germany in 1849 on the ship “Orion” and arrived in NYC on Nov 5, 1949.
+
+This is the same ship that brought Johann Heinrich Krueckeberg and family to NYC. I’m sure that “Henry” Weiland also knew our ancestor Carl Friedrich Krückeberg.
+
+I’ve highlighted sections in Bev's booklet showing additional connections between the Weilands, Krueckebergs and Bleekes. Many of the connections are baptismal sponsors from the time they were together at St Cosmos St Damian in Petzen, Germany.
+
+The pedigree diagrams show “Henry’s” parents as Friedrich Wilhelm Weiland and Katharina Hahn — however these two are not mentioned in Beverly’s booklet. Beverly does mention Louise Dorthea Weiland (Carl Friedrich Krückeberg’s wife) and her parents (Fr Wm Weiland and Anna Drinckuth), but she wasn’t able to confirm how the three of them were connected to her line. Beverly also mention Caroline Sophie Weiland (married to Johann Heinrich Krückeberg).
+
+Mel and I have speculated that there was one Fr Wm Weiland and that he had two wives (Hahn and Drinkuth). One more mystery — Carl Friedrich Krückeberg’s "Certificate of the Emigrant" states that his wife Louise Dorothea Weiland was the third of three daughters.
+
+
+### 
+Email Conversations 
 Here are links to email conversations concerning the ancestry of the Weiland family:
 
 - <https://mail.google.com/mail/mu/mp/24/#cv/search/Jenkins/1929b6f98625b31d>
