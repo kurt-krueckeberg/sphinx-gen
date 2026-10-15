@@ -96,7 +96,7 @@ Sources below.
 
 ### Beverly Jenkins Booklet 
 
-[Berverly Jenkin's Weiland Family History](weiland-family-history-by-beverly-jenkins.pdf).
+[Berverly Jenkin's Weiland Family History](family-history-of-weilands-beverly-jenkins.pdf).
 
 
 ### An email from Steve
