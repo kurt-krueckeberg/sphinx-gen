@@ -34,7 +34,7 @@ Steve put together this prospective family group for Friderich Wilhalm Weiland:
 * - Name
   - Date / Order
   - Location
-  - Partner / Mother
+  - Mother
 * - Fr Wm Weiland
   - {external+gen:doc}`baptism 22 Jan 1777 <petzen/PET-B-1777a>`
   - Evesen Nr. 20
