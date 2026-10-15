@@ -115,8 +115,8 @@ Sources below.
 
 ### Friedrich Wilhelm Weiland PDFs from Steve
 
-<friedrich-wilhelm-weiland-evesen-no-20.pdf>
-<friedrich-wilhelm-weiland-pedigree.pdf>
+- [Questions concerning Friedrich Wilhelm Weiland, of Evesen Nr. 20](friedrich-wilhelm-weiland-evesen-no-20.pdf)
+- [Other questions](friedrich-wilhelm-weiland-pedigree.pdf)
 
 ### Email Conversations re Weiland Ancesry
 
