@@ -40,7 +40,7 @@ Steve put together this prospective family group for Friderich Wilhalm Weiland:
   - Evesen Nr. 20
   - Anna Maria Weiland
 * - the bachelor
-  - {external+gen:doc}`marriage <petzen/PET-M-1804b>`
+  - {external+gen:doc}`1804 marriage <petzen/PET-M-1804b>`
   - Petzen Parish
   - the maiden Cath. Marg. Drinkuth of Kleinbremen
 * - Philippine Caroline
