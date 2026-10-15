@@ -501,6 +501,38 @@ chapters:
         - file: petzen/PET-B-1815b
         - file: petzen/PET-B-1819a
  
+    - file: petzen/weiland-family-groups/index
+      title: Prospective Weiland Family Groups
+      sections:
+        - file: petzen/weiland-family-groups/1648-hans
+        - file: petzen/weiland-family-groups/1675-wolter
+        - file: petzen/weiland-family-groups/1687-hans-evesen
+        - file: petzen/weiland-family-groups/1702-hans-hinrich
+        - file: petzen/weiland-family-groups/1708-johan-toennis
+        - file: petzen/weiland-family-groups/1720-herman-henrich-sr
+        - file: petzen/weiland-family-groups/1723-hans-henrich-evesen
+        - file: petzen/weiland-family-groups/1730-hans-hermann
+        - file: petzen/weiland-family-groups/1731-jobst-henrich
+        - file: petzen/weiland-family-groups/1734-johann-friderich
+        - file: petzen/weiland-family-groups/1737-johann-friderich-wilhelm
+        - file: petzen/weiland-family-groups/1745-henrich
+        - file: petzen/weiland-family-groups/1746-herman-henrich-jr
+        - file: petzen/weiland-family-groups/1748-johann-henrich-nammen
+        - file: petzen/weiland-family-groups/1749-johann-herman
+        - file: petzen/weiland-family-groups/1753-heinrich-ludowig-sr
+        - file: petzen/weiland-family-groups/1753-jobst-henrich-jr
+        - file: petzen/weiland-family-groups/1761-friedrich-wilhelm-no20
+        - file: petzen/weiland-family-groups/1770-johann-christian
+        - file: petzen/weiland-family-groups/1774-johann-heinrich-wilhelm
+        - file: petzen/weiland-family-groups/1776-johann-heinrich-no21
+        - file: petzen/weiland-family-groups/1781-heinrich-ludowig-jr
+        - file: petzen/weiland-family-groups/1785-friedrich-wilhelm-watermann
+        - file: petzen/weiland-family-groups/1789-jobst-heinrich
+        - file: petzen/weiland-family-groups/1790-jobst-heinrich-berenbusch
+        - file: petzen/weiland-family-groups/1802-albrecht
+        - file: petzen/weiland-family-groups/1804-friedrich-wilhelm-drinkuth
+        - file: petzen/weiland-family-groups/1804-friedrich-wilhelm-lauen
+ 
     - file: petzen/wilharm
       sections:
         - file: petzen/PET-B-1760b
