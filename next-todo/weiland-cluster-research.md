@@ -33,6 +33,8 @@ church records and add a captain explaining the event; for example; "11 Nov
 
 Simply display them chronologically in timeline form.
 
+
+<!--
 ```{list-table}
 :header-rows: 1
 :widths: 22 22 22 34
@@ -77,6 +79,7 @@ Simply display them chronologically in timeline form.
   - Evesen Nr. 20
   - ?
 ```
+-->
 
 In connection with this table, Steve posed these questions in an email some time ago:
 
