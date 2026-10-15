@@ -32,7 +32,7 @@ Steve put together this prospective family group for Friderich Wilhalm Weiland:
 :widths: 22 22 22 34
 
 * - Name
-  - Date / Order
+  - Date / Birth Order
   - Location
   - Mother
 * - Fr Wm Weiland
