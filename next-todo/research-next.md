@@ -44,7 +44,7 @@ Steve put together this prospective family group for Friderich Wilhalm Weiland:
   - Petzen Parish
   - the maiden Cath. Marg. Drinkuth of Kleinbremen
 * - Philippine Caroline
-  - 1805 – 1st child
+  - {external+gen:doc}`1805 – 1st child <petzen/PET-B-1805>`
   - Evesen Nr. 20
   - ?
 * - Caroline Sophie
