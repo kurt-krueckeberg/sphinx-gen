@@ -27,24 +27,29 @@ Sources.
 
 Steve put together this prospective family group for Friderich Wilhalm Weiland:
 
+**TODO:** Rather than use this table, extract the MyST markdown table sectsion from the actaul
+church records and add a captain explaining the event; for example; "11 Nov
+1805 birth of Caroline Philippine Weiland, of first daughter, first child, of first marraige".
+
+Simply display them chronologically in timeline form.
+
 ```{list-table}
 :header-rows: 1
 :widths: 22 22 22 34
 
-* - Name
-  - Date / Birth Order
+* - Event
   - Location
-  - Mother
-* - Fr Wm Weiland
-  - {external+gen:doc}`baptism 22 Jan 1777 <petzen/PET-B-1777a>`
+* - {external+gen:doc}`Friderich Wilhelm Weiland baptism 22 Jan 1777 <petzen/PET-B-1777a>`
+
+    Parents: Friedrich Wilhelm Weiland & Annae Catharine Drinkuth, No. 1 Wülpke 
   - Evesen Nr. 20
+  - Friedrich Wilhelm Weiland
   - Anna Maria Weiland
-* - the bachelor
-  - {external+gen:doc}`1804 marriage <petzen/PET-M-1804b>`
+* - {external+gen:doc}`Fridrich Weiland 1804 marriage to Cathar: Marg: Drinkuth of Kleinbremen <petzen/PET-M-1804b>`.
   - Petzen Parish
-  - the maiden Cath. Marg. Drinkuth of Kleinbremen
-* - Philippine Caroline
-  - {external+gen:doc}`1805 – 1st child <petzen/PET-B-1805>`
+* - {external+gen:doc}`Caroline Philippine Weiland birth 1805 – 1st child <petzen/PET-B-1805a>`
+
+    Parents: Wilhelm Weiland, Lutherischer Confession, Hausherr of tNro. in Evesen
   - Evesen Nr. 20
   - ?
 * - Caroline Sophie
@@ -52,7 +57,7 @@ Steve put together this prospective family group for Friderich Wilhalm Weiland:
   - Evesen Nr. 20
   - Cath. Elisabeth Döpking, Wülpke Nr. 1
 * - Louise Dorothee
-  - 1811 – 3rd, daughter
+  - {external+gen:doc}`1811 – 3rd, daughter >petzen/PET-B-1808a>`
   - Evesen Nr. 20
   - Anne Catharine Drinkuth
 * - Stillborn Male
@@ -60,15 +65,15 @@ Steve put together this prospective family group for Friderich Wilhalm Weiland:
   - ?
   - ?
 * - Stillborn Female
-  - Jan 1815 – 5th, 4th d.
+  - {external+gen:doc}`Jan 1815 – 5th, 4th d. <petzen/PET-B-1815a>`
   - ?
   - Anne Catharine Drinkuth
-* - Heinrich Wilhelm[^imm]
-  - Dec 1815 – 6th, 2nd son – illegitimate?
+* - Heinrich Wilhelm
+  - {external+gen:doc}`Dec 1815 – 6th, 2nd son <petzen/PET-B-1815b>`
   - Evesen Nr. 20
   - Anne Catharine Drinkuth
 * - Carl Friedrich Ernst
-  - 1819
+  - `1819 <petzen/PET-B-1819a>`
   - Evesen Nr. 20
   - ?
 ```
