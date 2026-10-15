@@ -527,4 +527,8 @@ chapters:
     - file: records/emigration/jhk-aug-25-1849-emigration-notice
     - file: records/emigration/wilhelm-weiland-aug-25-1849-emigration-notice
 
-- file: next-todo/research-next
+- file: next-todo/index
+  title: Next Research Plans
+  sections:
+    - file: next-todo/weiland-cluster-research
+    - file: next-todo/weiland-family-group-sheets  
