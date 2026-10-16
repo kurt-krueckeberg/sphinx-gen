@@ -2,7 +2,7 @@
 
 ## Record
 
-The 2 December 1808 marriage of Fridrich Weyland of Evesen no. 20 to
+The 2 December 1804 marriage of Fridrich Weyland of Evesen no. 20 to
 Catharine Margaretha Drinkuth is found on {ref}`image 13, page 20,
 entry 7, <PET-M-1804b>` of the Petzen Kirchenbuch volume "Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827".
