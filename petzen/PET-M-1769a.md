@@ -13,7 +13,7 @@
 * - 16 July 1769
   - Friderich Wilhelm Weiland
   - Evesen No. 20
-  - Ilse Anna Maria Weiland
+  - Anna Maria Weiland
   - Pezen 
 ```
 
