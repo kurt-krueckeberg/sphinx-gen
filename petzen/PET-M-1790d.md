@@ -10,7 +10,7 @@
   - Bride
   - Bride Locality
 * - Johann Heinrich Weiland
-  - Evesen no. 24
+  - Evesen no. 21
   - Anna Margarthea Harren 
   - Meisen [likely Meinsen] No 1
 ```
