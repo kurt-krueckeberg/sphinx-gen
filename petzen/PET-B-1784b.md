@@ -33,7 +33,7 @@
 
 ## Record
 
-The October 28, 1784, baptism of Lowisa Charlotta Weiland is on {ref}`image 294 <PET-B-1784b>` of the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
+The October 31, 1784, baptism of Lowisa Charlotta Weiland is on {ref}`image 294 <PET-B-1784b>` of the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
 ```{figure} images/petzen-band1a-img294-weiland.jpg
 :class: image-override
