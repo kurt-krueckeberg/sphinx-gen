@@ -38,7 +38,7 @@ The birth and baptism of Wilhelmine Leonore Weiland is on {ref}`image 108, pages
     Kind u.
     1te Tochter
   - ist geboren
-    d. 19ten. Decbr.
+    d. 19ten Decbr.
     Morgens 4 Uhr
     in Röcke
   - u. wurde getauft
