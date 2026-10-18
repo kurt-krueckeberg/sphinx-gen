@@ -34,9 +34,9 @@ The birth and baptism of Wilhelmine Leonore Weiland is on {ref}`image 108, pages
 * - 34.
   - Wilhelmine Leonore Weilands
     verehe[licht] Schmöë in Bergdorf 1839
-  - des 3ten
+  - des 3te
     Kind u.
-    1ten Tochter
+    1te Tochter
   - ist geboren
     d. 19ten. Dec.
     Morgens 4 Uhr
