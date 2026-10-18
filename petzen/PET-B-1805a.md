@@ -29,7 +29,7 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827."
   - Taufzeugen des Kindes
 * - 26
   - Caroline Philippine Weiland
-  - das 1t. Kind u. 1t. Tocher erster Ehe
+  - das 1te Kind u. 1te Tocher erster Ehe
   - ist geboren d. 17. Novbr Nachts 2. Uhr
   - wurde getauft d. 20. Novbr in der Kirche
   - Wilhelm Weiland, Lutherischer Confession, Hausherr aus Nro. in Evesen
