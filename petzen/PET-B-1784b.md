@@ -51,7 +51,7 @@ Peezen, deren Stelle Dorothea Möllern aus Peezen vertreten
 ## Translation
 
 ```{div} doc-text
-28) On the same day [Oct. 12th], Lowisa Charlotta Weilandt, the daughter of Johann
+28) On the same day [Oct. 31], Lowisa Charlotta Weilandt, the daughter of Johann
 Heinrich Weiland, a lodger in Peezen, and his wife Dorothea née Steding,
 was baptized. The godmother was Mademoiselle Eleonora Lowisa Gaden of
 Peezen, in whose place Dorothea Möller of Peezen acted as proxy.
