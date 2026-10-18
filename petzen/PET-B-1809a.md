@@ -8,6 +8,7 @@ The birth and baptism of Wilhelmine Leonore Weiland is on {ref}`image 108, pages
 
 ```{figure} images/petzen-band2-img108-109.png
 :class: image-override
+
 ```
 
 ```{list-table} Wilhelmine Leonore Weiland
