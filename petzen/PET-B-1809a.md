@@ -52,7 +52,7 @@ The birth and baptism of Wilhelmine Leonore Weiland is on {ref}`image 108, pages
   - wohnen
     auf n. 31
     in Röcke
-  - Sophie LEonore
+  - Sophie Leonore
     Hohts aus n. 1 in
     Röcke
 ```
@@ -98,7 +98,7 @@ The birth and baptism of Wilhelmine Leonore Weiland is on {ref}`image 108, pages
   - live
     at n. 31
     in Röcke
-  - Sophie LEonore
+  - Sophie Leonore
     Hohts from n. 1 in
     Röcke
 ```
