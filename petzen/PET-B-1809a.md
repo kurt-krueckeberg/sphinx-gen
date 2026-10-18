@@ -33,7 +33,7 @@ The birth and baptism of Wilhelmine Leonore Weiland is on {ref}`image 108, pages
   - Taufzeugen
 * - 34.
   - Wilhelmine Leonore Weilands
-    [verehelich] Schmöë in Bergdorf 1839
+    verehe[licht] Schmöë in Bergdorf 1839
   - des 3ten
     Kind u.
     1ten Tochter
