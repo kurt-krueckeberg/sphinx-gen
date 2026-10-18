@@ -78,8 +78,8 @@ The birth and baptism of Wilhelmine Leonore Weiland is on {ref}`image 108, pages
     Parents
   - Baptism Witnesses
 * - 34.
-  - Wilhelmine Leonore Weilands
-    [uncertain?] Schmöë in Bergdorf 1839
+  - Wilhelmine Lenore Weilands
+    married Schmöë in Bergdorf 1839
   - the 3rd
     child and
     1st daughter
