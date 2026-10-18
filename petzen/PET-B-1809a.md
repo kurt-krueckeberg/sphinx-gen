@@ -6,7 +6,7 @@ The birth and baptism of Wilhelmine Leonore Weiland is on {ref}`image 108, pages
 
 ## Pages 201 and 211
 
-```{figure} images/petzen-band2-img108.jpg
+```{figure} images/petzen-band2-img108-109.png
 :class: image-override
 ```
 
@@ -32,10 +32,10 @@ The birth and baptism of Wilhelmine Leonore Weiland is on {ref}`image 108, pages
   - Taufzeugen
 * - 34.
   - Wilhelmine Leonore Weilands
-    [uncertain?] Schmöë in Bergdorf 1839
+    [verehelich] Schmöë in Bergdorf 1839
   - des 3ten
     Kind u.
-    3ten Tochter
+    1ten Tochter
   - ist geboren
     d. 19ten. Dec.
     Morgens 4 Uhr
@@ -81,7 +81,7 @@ The birth and baptism of Wilhelmine Leonore Weiland is on {ref}`image 108, pages
     [uncertain?] Schmöë in Bergdorf 1839
   - the 3rd
     child and
-    3rd daughter
+    1st daughter
   - was born
     the 19th Dec.
     4 a.m.
@@ -106,5 +106,6 @@ The birth and baptism of Wilhelmine Leonore Weiland is on {ref}`image 108, pages
 
 (PET-B-1809a)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/fa860508cd/> : 5 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 115 of 357
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/df26d6fc1b/> 5 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche 
+Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 101 of 357
 
