@@ -2,7 +2,7 @@
 
 ## Family Relationships and Other Facts
 
-```{list-table} October 12, 1784, bpatism of Lowisa Charlotta Weiland
+```{list-table} October 31, 1784, bpatism of Lowisa Charlotta Weiland
 :header-rows: 1
 
 * - Infant
@@ -61,6 +61,8 @@ Peezen, in whose place Dorothea Möller of Peezen acted as proxy.
 
 (PET-B-1784b)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, Archion (<https://www.archion.de/p/9865b3cd0b/> : 18 Oct. 2026),
-path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+"Archion Protestant Kirchenbücher Portal", database with images, Archion
+(<https://www.archion.de/p/9865b3cd0b/> : 18 Oct. 2026),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 294 of 322
