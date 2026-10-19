@@ -2,11 +2,13 @@
 
 ## Record
 
-The death and burial of Friedrich Wilhelm Weiland appears on {ref}`image 247 <PET-D-1806a>` of the [Archion.de](https://archion.de) digital images of
-the Petzen church register *Verzeichnis der Getauften, Konfirmierten,
-Getrauten und Gestorbenen 1785-1827*.
+The death and burial of Friedrich Wilhelm Weiland appears on {ref}`image 247
+<PET-D-1806a>` of the [Archion.de](https://archion.de) digital images of the Petzen
+church register *Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827*.
 
 ## Burial Image
+
 ```{figure} images/petzen-band2-img247-1.jpg
 :class: image-override
 ```
