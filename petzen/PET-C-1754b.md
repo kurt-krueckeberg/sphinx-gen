@@ -4,15 +4,15 @@
 
 The 1754 confirmation of Friederich Wilhelm Weiland from Evesen is on {ref}`image 309 <PET-C-1754b>` of the Petzen *Verzeichnis der Getauften und Konfirmierten 1641-1784*.
 
-
+```{figure} images/petzen-band1a-img309-fw-weiland.png
+:class: image-override
+```
 
 ## Transliteration
 
 ```{div} doc-text
 Friederich Wilhelm Weiland (Hofmeiers) Evesen
 ```
-
-
 
 ## Translation
 
