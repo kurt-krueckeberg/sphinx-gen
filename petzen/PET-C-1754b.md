@@ -17,7 +17,7 @@ Friederich Wilhelm Weiland (Hofmeiers) Evesen
 ## Translation
 
 ```{div} doc-text
-Friederich Wilhelm Weiland (Hofmeier's) Evesen
+Friedrich Wilhelm Weiland (son of the estate steward), Evesen.
 ```
 
 ## Citation
